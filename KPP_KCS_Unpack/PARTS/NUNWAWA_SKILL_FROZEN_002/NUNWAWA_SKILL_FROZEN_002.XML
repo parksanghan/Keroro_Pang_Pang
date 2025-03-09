@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <nunwawa_skill_frozen_002 file="nunwawa_skill_frozen_002.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_1
+    diffuse="nunwawa_skill_frozen_002.dds"
+    color="101 101 101"
+  />
+</Materials>
+<Skeleton
+  file="nunwawa_skill_frozen_002.skl"
+/>
+<BoneAnim
+  file="Anims\nunwawa_skill_frozen_002.anm"
+/>
+<collision
+  file="nunwawa_skill_frozen_002.col"
+/>
+</Scene.XML>

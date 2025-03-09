@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="grave_yard\grave_yard.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="gy_rock_001" code="147914753" yLayer="0" posX="32.8101" posY="4.67999" posZ="-12.93" angleX="0" angleY="-35" angleZ="0" scale="1"/>
+	<Object engName="gy_rock_001" code="147914753" yLayer="0" posX="11.63" posY="3.89999" posZ="24" angleX="0" angleY="140" angleZ="0" scale="1"/>
+	<Object engName="gy_rock_001" code="147914753" yLayer="0" posX="-2.85" posY="3.51" posZ="27.21" angleX="0" angleY="-20" angleZ="0" scale="1"/>
+	<Object engName="gy_rock_001" code="147914753" yLayer="0" posX="-9.95002" posY="3.73999" posZ="23.14" angleX="0" angleY="-150" angleZ="0" scale="1"/>
+	<Object engName="gy_rock_001" code="147914753" yLayer="0" posX="-21.62" posY="3.89999" posZ="19.39" angleX="0" angleY="-35" angleZ="0" scale="1"/>
+	<Object engName="gy_rock_001" code="147914753" yLayer="0" posX="-26.38" posY="3.71999" posZ="11.61" angleX="0" angleY="85.2999" angleZ="0" scale="1"/>
+	<Object engName="gy_rock_001" code="147914753" yLayer="0" posX="-31.48" posY="3.82999" posZ="3.75" angleX="0" angleY="-155" angleZ="0" scale="1"/>
+	<Object engName="gy_rock_001" code="147914753" yLayer="0" posX="-17.92" posY="4.13998" posZ="-28.62" angleX="0" angleY="174" angleZ="0" scale="1"/>
+</ARRANGEMENT>

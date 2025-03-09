@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <GRhaphi file="GRhaphi.msh" />
+</Objects>
+<Materials version="2">
+  <mRhaphi
+    diffuse="GRhaphi.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="GRhaphi.skl"
+/>
+<collision
+  file="GRhaphi.col"
+/>
+</Scene.XML>

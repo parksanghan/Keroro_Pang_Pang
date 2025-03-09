@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kp_gmoj_ms02 file="kp_gmoj_ms02.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k669
+    diffuse="gameroom_05.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="in_gameroom_out.skl"
+/>
+<BoneAnim
+  file="Anims\in_gameroom_out.anm"
+/>
+<collision
+  file="in_gameroom_out.col"
+/>
+</Scene.XML>

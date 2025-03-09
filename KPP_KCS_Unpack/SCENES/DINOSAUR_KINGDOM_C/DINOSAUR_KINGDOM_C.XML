@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_din_sky01 file="notrans_din_sky01.msh" />
+ <notrans_din_rock01_001 file="notrans_din_rock01_001.msh" />
+ <notrans_din_grass01 file="notrans_din_grass01.msh" />
+ <notrans_din_c_ground02 file="notrans_din_c_ground02.msh" />
+ <notrans_din_c_ground01 file="notrans_din_c_ground01.msh" />
+ <notrans_din_rock01_014 file="notrans_din_rock01_014.msh" />
+ <notrans_din_rock01_009 file="notrans_din_rock01_009.msh" />
+ <notrans_din_rock01_011 file="notrans_din_rock01_011.msh" />
+ <notrans_din_rock01_012 file="notrans_din_rock01_012.msh" />
+ <notrans_din_rock01_007 file="notrans_din_rock01_007.msh" />
+ <notrans_din_rock01_010 file="notrans_din_rock01_010.msh" />
+ <notrans_din_rock01_006 file="notrans_din_rock01_006.msh" />
+ <notrans_din_rock01_015 file="notrans_din_rock01_015.msh" />
+ <notrans_din_grass04 file="notrans_din_grass04.msh" />
+ <notrans_din_rock01_003 file="notrans_din_rock01_003.msh" />
+ <notrans_din_rock01_002 file="notrans_din_rock01_002.msh" />
+ <notrans_din_c_wall04 file="notrans_din_c_wall04.msh" />
+ <notrans_din_rock01_005 file="notrans_din_rock01_005.msh" />
+ <notrans_din_rock01_004 file="notrans_din_rock01_004.msh" />
+ <din_fossilrex01_001 file="din_fossilrex01_001.msh" />
+ <notrans_din_c_wall03 file="notrans_din_c_wall03.msh" />
+ <notrans_outline01 file="notrans_outline01.msh" />
+ <notrans_din_c_wall02 file="notrans_din_c_wall02.msh" />
+ <notrans_din_around01 file="notrans_din_around01.msh" />
+ <notrans_din_rock01_013 file="notrans_din_rock01_013.msh" />
+ <notrans_din_forg_001 file="notrans_din_forg_001.msh" />
+ <notrans_din_mountain_001 file="notrans_din_mountain_001.msh" />
+ <notrans_din_clouds file="notrans_din_clouds.msh" />
+ <notrans_din_c_wall01 file="notrans_din_c_wall01.msh" />
+ <notrans_outline02 file="notrans_outline02.msh" />
+ <notrans_din_grass02_007 file="notrans_din_grass02_007.msh" />
+ <notrans_din_grass02_005 file="notrans_din_grass02_005.msh" />
+ <notrans_din_grass02_004 file="notrans_din_grass02_004.msh" />
+ <notrans_din_grass02_001 file="notrans_din_grass02_001.msh" />
+ <notrans_din_grass02_002 file="notrans_din_grass02_002.msh" />
+ <notrans_din_grass02_009 file="notrans_din_grass02_009.msh" />
+ <notrans_din_grass02_003 file="notrans_din_grass02_003.msh" />
+ <notrans_din_grass02_006 file="notrans_din_grass02_006.msh" />
+ <notrans_din_grass02_008 file="notrans_din_grass02_008.msh" />
+ <notrans_din_nest02_002 file="notrans_din_nest02_002.msh" />
+ <notrans_din_nest02_003 file="notrans_din_nest02_003.msh" />
+ <notrans_din_nest02_004 file="notrans_din_nest02_004.msh" />
+ <notrans_din_nest02_006 file="notrans_din_nest02_006.msh" />
+ <notrans_din_nest02_012 file="notrans_din_nest02_012.msh" />
+ <notrans_din_nest02_013 file="notrans_din_nest02_013.msh" />
+ <notrans_din_nest02_015 file="notrans_din_nest02_015.msh" />
+ <notrans_din_nest02_016 file="notrans_din_nest02_016.msh" />
+ <notrans_din_nest02_017 file="notrans_din_nest02_017.msh" />
+ <notrans_din_nest02_018 file="notrans_din_nest02_018.msh" />
+ <notrans_din_nest02_019 file="notrans_din_nest02_019.msh" />
+ <notrans_din_nest02_020 file="notrans_din_nest02_020.msh" />
+ <notrans_din_nest02_008 file="notrans_din_nest02_008.msh" />
+ <notrans_din_nest02_010 file="notrans_din_nest02_010.msh" />
+ <notrans_din_nest02_007 file="notrans_din_nest02_007.msh" />
+ <notrans_din_rock01_008 file="notrans_din_rock01_008.msh" />
+ <notrans_din_nest02_001 file="notrans_din_nest02_001.msh" />
+ <din_fossilrex01_002 file="din_fossilrex01_002.msh" />
+ <GAME_MovingMesh file="GAME_MovingMesh.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_din_grass03 file="notrans_din_grass03.msh" />
+ <notrans_din_egg02_002 file="notrans_din_egg02_002.msh" />
+ <notrans_din_nest02_005 file="notrans_din_nest02_005.msh" />
+ <notrans_din_egg02_001 file="notrans_din_egg02_001.msh" />
+ <notrans_din_egg02_003 file="notrans_din_egg02_003.msh" />
+ <notrans_din_egg02_004 file="notrans_din_egg02_004.msh" />
+ <notrans_din_egg02_005 file="notrans_din_egg02_005.msh" />
+ <notrans_din_egg02_006 file="notrans_din_egg02_006.msh" />
+ <notrans_din_nest02_009 file="notrans_din_nest02_009.msh" />
+ <notrans_din_egg02_007 file="notrans_din_egg02_007.msh" />
+ <notrans_din_nest02_011 file="notrans_din_nest02_011.msh" />
+ <notrans_din_egg02_008 file="notrans_din_egg02_008.msh" />
+ <notrans_din_egg02_009 file="notrans_din_egg02_009.msh" />
+ <notrans_din_egg02_010 file="notrans_din_egg02_010.msh" />
+ <notrans_din_shadow_001 file="notrans_din_shadow_001.msh" />
+ <notrans_din_egg02_011 file="notrans_din_egg02_011.msh" />
+ <notrans_din_nest02_014 file="notrans_din_nest02_014.msh" />
+ <notrans_din_c_ground03_004 file="notrans_din_c_ground03_004.msh" />
+ <notrans_din_c_ground03_003 file="notrans_din_c_ground03_003.msh" />
+ <notrans_din_c_ground03_002 file="notrans_din_c_ground03_002.msh" />
+ <notrans_din_c_ground03_001 file="notrans_din_c_ground03_001.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <din_metal01_001 file="din_metal01_001.msh" />
+ <din_metal01_002 file="din_metal01_002.msh" />
+ <din_metal01_03 file="din_metal01_03.msh" />
+ <din_metal02_001 file="din_metal02_001.msh" />
+ <din_metal02_002 file="din_metal02_002.msh" />
+ <din_metal02_003 file="din_metal02_003.msh" />
+ <GAME_FlyingMesh file="GAME_FlyingMesh.msh" />
+ <GAME_MonsterMoveBound file="GAME_MonsterMoveBound.msh" />
+</Objects>
+<Materials version="2">
+  <mdin_sky01
+    diffuse="din_sky01.dds"
+    color="255 255 255"
+  />
+  <mdin_rock01
+    diffuse="din_rock01.dds"
+    color="255 255 255"
+  />
+  <mdin_grass01
+    diffuse="din_grass01.dds"
+    color="255 255 255"
+  />
+  <mdin_c_ground02
+    diffuse="din_c_ground02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_c_ground01
+    diffuse="din_c_ground01.dds"
+    color="255 255 255"
+  />
+  <mdin_grass04
+    diffuse="din_grass04.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_c_wall04
+    diffuse="din_c_wall04.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_fossilrex01
+    diffuse="din_fossilrex01.dds"
+    color="255 255 255"
+  />
+  <mdin_c_wall03
+    diffuse="din_c_wall03.dds"
+    color="255 255 255"
+  />
+  <mdin_c_wall01
+    diffuse="din_c_wall01.dds"
+    color="255 255 255"
+  />
+  <mdin_c_wall02
+    diffuse="din_c_wall02.dds"
+    color="255 255 255"
+  />
+  <mdin_around01
+    diffuse="din_around01.dds"
+    color="255 255 255"
+  />
+  <mdin_forg_001
+    diffuse="din_forg_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_mountain_001
+    diffuse="din_mountain_001.dds"
+    color="255 255 255"
+  />
+  <mdin_clouds
+    diffuse="din_clouds.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_grass02
+    diffuse="din_grass02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_nest02
+    diffuse="din_nest02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mEmptyMat
+  />
+  <mpk_sphere
+    diffuse="pk.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_grass03
+    diffuse="din_grass03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_egg02
+    diffuse="din_egg02.dds"
+    color="255 255 255"
+  />
+  <mdin_shadow
+    diffuse="din_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mStandard_1
+    diffuse="din_c_ground03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_metal01
+    diffuse="din_metal01.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="dinosaur_kingdom_c.col"
+/>
+</Scene.XML>

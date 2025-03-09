@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="mys_1_round\mys_1_round.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="mystery_school_wood_001" code="141623297" yLayer="0" posX="30.9" posY="0" posZ="-29.2" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="mystery_school_wood_001" code="141623297" yLayer="0" posX="30.9" posY="0" posZ="-5.9" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="mystery_school_metal_001" code="141623298" yLayer="0" posX="-24.6" posY="0" posZ="-8.6" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

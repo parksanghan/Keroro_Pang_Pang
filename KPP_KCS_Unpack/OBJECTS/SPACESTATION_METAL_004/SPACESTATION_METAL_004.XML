@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <spacestaion_metal_004 file="spacestaion_metal_004.msh" />
+</Objects>
+<Materials version="2">
+  <mspacestaion_metal_004
+    diffuse="spacestation_metal_004.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="spacestation_metal_004.col"
+/>
+</Scene.XML>

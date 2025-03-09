@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ssp_printshop_jm_01 file="ssp_printshop_jm_01.msh" />
+ <notrans_ssp_eye_jm file="notrans_ssp_eye_jm.msh" />
+ <ssp_mark_nyh001_02 file="ssp_mark_nyh001_02.msh" />
+ <notrans_ssp_sky_jm file="notrans_ssp_sky_jm.msh" />
+ <notrans_ssp_surface_jm file="notrans_ssp_surface_jm.msh" />
+ <notrans_ssp_skybuilding_jm file="notrans_ssp_skybuilding_jm.msh" />
+ <notrans_ssp_bgalpha_jm file="notrans_ssp_bgalpha_jm.msh" />
+ <notrans_ssp_surfaceline_jm01 file="notrans_ssp_surfaceline_jm01.msh" />
+ <notrans_ssp_surfaceline_jm02 file="notrans_ssp_surfaceline_jm02.msh" />
+ <notrans_ssp_surfaceline_jm03 file="notrans_ssp_surfaceline_jm03.msh" />
+ <notrans_ssp_cloud_jm01 file="notrans_ssp_cloud_jm01.msh" />
+ <notrans_ssp_linealpha_jm06 file="notrans_ssp_linealpha_jm06.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_ssp_ergoneye_jm file="notrans_ssp_ergoneye_jm.msh" />
+ <notrans_ssp_groundoutline_nyh05 file="notrans_ssp_groundoutline_nyh05.msh" />
+ <notrans_ssp_ground_02 file="notrans_ssp_ground_02.msh" />
+ <notrans_ssp_ground_01 file="notrans_ssp_ground_01.msh" />
+ <ssp_printshop_jm_02 file="ssp_printshop_jm_02.msh" />
+ <ssp_mark_nyh001_01 file="ssp_mark_nyh001_01.msh" />
+ <notrans_ssp_mark_nyh001_06 file="notrans_ssp_mark_nyh001_06.msh" />
+ <notrans_ssp_ground_nyh002_01 file="notrans_ssp_ground_nyh002_01.msh" />
+ <notrans_ssp_mark_nyh001_08 file="notrans_ssp_mark_nyh001_08.msh" />
+ <notrans_ssp_ground_nyh002_02 file="notrans_ssp_ground_nyh002_02.msh" />
+ <notrans_ssp_mark_nyh001_01 file="notrans_ssp_mark_nyh001_01.msh" />
+ <ssp_truck_nyh001_01 file="ssp_truck_nyh001_01.msh" />
+ <notrans_ssp_mark_nyh001_09 file="notrans_ssp_mark_nyh001_09.msh" />
+ <ssp_truck_nyh001_02 file="ssp_truck_nyh001_02.msh" />
+ <ssp_streetlight_jm03 file="ssp_streetlight_jm03.msh" />
+ <ssp_streetlight_jm04 file="ssp_streetlight_jm04.msh" />
+ <ssp_streetlight_jm01 file="ssp_streetlight_jm01.msh" />
+ <ssp_streetlight_jm02 file="ssp_streetlight_jm02.msh" />
+ <ssp_streetlight_jm05 file="ssp_streetlight_jm05.msh" />
+ <ssp_streetlight_jm06 file="ssp_streetlight_jm06.msh" />
+ <ssp_streetlight_jm07 file="ssp_streetlight_jm07.msh" />
+ <ssp_streetlight_jm08 file="ssp_streetlight_jm08.msh" />
+ <ssp_streetlight_jm09 file="ssp_streetlight_jm09.msh" />
+ <ssp_streetlight_jm10 file="ssp_streetlight_jm10.msh" />
+ <ssp_streetlight_jm11 file="ssp_streetlight_jm11.msh" />
+ <ssp_streetlight_jm12 file="ssp_streetlight_jm12.msh" />
+ <ssp_streetlight_jm13 file="ssp_streetlight_jm13.msh" />
+ <ssp_streetlight_jm14 file="ssp_streetlight_jm14.msh" />
+ <ssp_streetlight_jm15 file="ssp_streetlight_jm15.msh" />
+ <ssp_streetlight_jm16 file="ssp_streetlight_jm16.msh" />
+ <ssp_ground_box_37 file="ssp_ground_box_37.msh" />
+ <ssp_ground_box_001 file="ssp_ground_box_001.msh" />
+ <ssp_ground_box_002 file="ssp_ground_box_002.msh" />
+ <ssp_ground_box_003 file="ssp_ground_box_003.msh" />
+ <ssp_ground_box_004 file="ssp_ground_box_004.msh" />
+ <ssp_ground_box_005 file="ssp_ground_box_005.msh" />
+ <ssp_ground_box_006 file="ssp_ground_box_006.msh" />
+ <ssp_ground_box_007 file="ssp_ground_box_007.msh" />
+ <ssp_ground_box_008 file="ssp_ground_box_008.msh" />
+ <ssp_ground_box_009 file="ssp_ground_box_009.msh" />
+ <ssp_ground_box_010 file="ssp_ground_box_010.msh" />
+ <ssp_ground_box_011 file="ssp_ground_box_011.msh" />
+ <ssp_ground_box_012 file="ssp_ground_box_012.msh" />
+ <ssp_ground_box_013 file="ssp_ground_box_013.msh" />
+ <ssp_ground_box_014 file="ssp_ground_box_014.msh" />
+ <ssp_ground_box_015 file="ssp_ground_box_015.msh" />
+ <ssp_ground_box_016 file="ssp_ground_box_016.msh" />
+ <ssp_ground_box_017 file="ssp_ground_box_017.msh" />
+ <ssp_ground_box_018 file="ssp_ground_box_018.msh" />
+ <ssp_ground_box_19 file="ssp_ground_box_19.msh" />
+ <ssp_ground_box_20 file="ssp_ground_box_20.msh" />
+ <ssp_ground_box_21 file="ssp_ground_box_21.msh" />
+ <ssp_ground_box_22 file="ssp_ground_box_22.msh" />
+ <ssp_ground_box_23 file="ssp_ground_box_23.msh" />
+ <ssp_ground_box_24 file="ssp_ground_box_24.msh" />
+ <ssp_ground_box_25 file="ssp_ground_box_25.msh" />
+ <ssp_ground_box_26 file="ssp_ground_box_26.msh" />
+ <ssp_ground_box_27 file="ssp_ground_box_27.msh" />
+ <ssp_ground_box_28 file="ssp_ground_box_28.msh" />
+ <ssp_ground_box_29 file="ssp_ground_box_29.msh" />
+ <ssp_ground_box_30 file="ssp_ground_box_30.msh" />
+ <ssp_ground_box_31 file="ssp_ground_box_31.msh" />
+ <ssp_ground_box_32 file="ssp_ground_box_32.msh" />
+ <ssp_ground_box_33 file="ssp_ground_box_33.msh" />
+ <ssp_ground_box_34 file="ssp_ground_box_34.msh" />
+ <ssp_ground_box_35 file="ssp_ground_box_35.msh" />
+ <ssp_ground_box_36 file="ssp_ground_box_36.msh" />
+ <ssp_ground_box_38 file="ssp_ground_box_38.msh" />
+ <notrans_ssp_cautionline file="notrans_ssp_cautionline.msh" />
+</Objects>
+<Materials version="2">
+  <mssp_printshop_jm
+    diffuse="ssp_printshop_jm.dds"
+    color="255 255 255"
+  />
+  <mssp_eye_jm
+    diffuse="ssp_eye_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mssp_mark_nyh001
+    diffuse="spmark_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mssp_sky_jm
+    diffuse="ssp_sky_jm.dds"
+    color="255 255 255"
+  />
+  <mssp_surface_jm
+    diffuse="ssp_surface_jm.dds"
+    color="255 255 255"
+  />
+  <mssp_skybuilding_jm
+    diffuse="ssp_skybuilding_jm.dds"
+    color="255 255 255"
+  />
+  <mssp_bgalpha_jm
+    diffuse="ssp_bgalpha_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mssp_surfaceline_jm01
+    diffuse="ssp_surfaceline_jm01.dds"
+    color="255 255 255"
+  />
+  <mssp_surfaceline_jm02
+    diffuse="ssp_surfaceline_jm02.dds"
+    color="255 255 255"
+  />
+  <mssp_surfaceline_jm03
+    diffuse="ssp_surfaceline_jm03.dds"
+    color="255 255 255"
+  />
+  <mssp_cloud_jm
+    diffuse="ssp_cloud_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mssp_linealpha_jm
+    diffuse="ssp_linealpha_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mssp_ergoneye_jm
+    diffuse="ssp_ergoneye_jm.dds"
+    color="255 255 255"
+  />
+  <mssp_groundoutline_nyh001
+    diffuse="spgroundoutline_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mssp_ground_nyh001_02
+    diffuse="spground_nyh001_02.dds"
+    color="255 255 255"
+  />
+  <mssp_ground_nyh001_01
+    diffuse="spground_nyh001_01.dds"
+    color="255 255 255"
+  />
+  <mssp_ground_nyh002
+    diffuse="spground_nyh002.dds"
+    color="255 255 255"
+  />
+  <mssp_truck_nyh001
+    diffuse="sptruck_nyh001.dds"
+    color="255 255 255"
+  />
+  <mssp_streetlight_jm
+    diffuse="ssp_streetlight_jm.dds"
+    color="255 255 255"
+  />
+  <mStandard_18
+    color="149 149 149"
+  />
+  <mStandard_12
+    diffuse="spground_nyh001_01.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k24
+    diffuse="spgroundoutline_nyh001.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mStandard_7
+    diffuse="ssp_cautionline.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mEmptyMat
+  />
+</Materials>
+<collision
+  file="special_spacetime_sd.col"
+/>
+</Scene.XML>

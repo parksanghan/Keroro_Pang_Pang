@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <mrg_body_000 file="mrg_body_000.msh" />
+ <mrg_face_000 file="mrg_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mmrg_body_000
+    diffuse="mrg_body_000.dds"
+    color="150 150 150"
+  />
+  <mmrg_face_000
+    diffuse="mrg_face_000.dds"
+    color="109 109 109"
+  />
+</Materials>
+<Skeleton
+  file="mrg_000.skl"
+/>
+<collision
+  file="mrg_000.col"
+/>
+</Scene.XML>

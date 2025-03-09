@@ -1,0 +1,681 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_bbg_shadow_cl file="notrans_bbg_shadow_cl.msh" />
+ <notrans_bbg_shadow_cl01 file="notrans_bbg_shadow_cl01.msh" />
+ <notrans_bbg_shadow_clb03 file="notrans_bbg_shadow_clb03.msh" />
+ <notrans_bbg_shadow_clb04 file="notrans_bbg_shadow_clb04.msh" />
+ <notrans_bbg_shadow_clb05 file="notrans_bbg_shadow_clb05.msh" />
+ <notrans_bbg_shadow_clb06 file="notrans_bbg_shadow_clb06.msh" />
+ <notrans_bbg_shadow_clb07 file="notrans_bbg_shadow_clb07.msh" />
+ <notrans_bbg_shadow_ra01 file="notrans_bbg_shadow_ra01.msh" />
+ <notrans_bbg_shadow_ra02 file="notrans_bbg_shadow_ra02.msh" />
+ <notrans_bbg_shadow_log file="notrans_bbg_shadow_log.msh" />
+ <notrans_bbg_shadow_brid file="notrans_bbg_shadow_brid.msh" />
+ <notrans_bbg_shadow_log01 file="notrans_bbg_shadow_log01.msh" />
+ <notrans_bbg_shadow_log02 file="notrans_bbg_shadow_log02.msh" />
+ <notrans_bbg_shadow_log03 file="notrans_bbg_shadow_log03.msh" />
+ <notrans_bbg_shadow_log04 file="notrans_bbg_shadow_log04.msh" />
+ <notrans_bbg_shadow_cl04 file="notrans_bbg_shadow_cl04.msh" />
+ <notrans_bbg_shadow_cl05 file="notrans_bbg_shadow_cl05.msh" />
+ <notrans_bbg_shadow_clb08 file="notrans_bbg_shadow_clb08.msh" />
+ <notrans_bbg_shadow_clb09 file="notrans_bbg_shadow_clb09.msh" />
+ <notrans_bbg_shadow_brid01 file="notrans_bbg_shadow_brid01.msh" />
+ <notrans_bbg_shadow_brid02 file="notrans_bbg_shadow_brid02.msh" />
+ <notrans_bbg_shadow_brid03 file="notrans_bbg_shadow_brid03.msh" />
+ <notrans_bbg_shadow_brid04 file="notrans_bbg_shadow_brid04.msh" />
+ <notrans_bbg_shadow_brid05 file="notrans_bbg_shadow_brid05.msh" />
+ <notrans_bbg_shadow_sp01 file="notrans_bbg_shadow_sp01.msh" />
+ <notrans_bbg_shadow_clb10 file="notrans_bbg_shadow_clb10.msh" />
+ <notrans_bbg_shadow_ra03 file="notrans_bbg_shadow_ra03.msh" />
+ <notrans_bbg_shadow_ra04 file="notrans_bbg_shadow_ra04.msh" />
+ <notrans_bbg_shadow_ra05 file="notrans_bbg_shadow_ra05.msh" />
+ <notrans_bbg_grgrass_kn02 file="notrans_bbg_grgrass_kn02.msh" />
+ <notrans_bbg_grgrass_cv_kn01 file="notrans_bbg_grgrass_cv_kn01.msh" />
+ <notrans_bbg_grearth_kn01 file="notrans_bbg_grearth_kn01.msh" />
+ <notrans_bbg_grstone_kn01 file="notrans_bbg_grstone_kn01.msh" />
+ <notrans_bbg_ctwooden_kn01 file="notrans_bbg_ctwooden_kn01.msh" />
+ <notrans_bbg_grearth_cv_kn01 file="notrans_bbg_grearth_cv_kn01.msh" />
+ <notrans_bbg_grearth_cv_kn02 file="notrans_bbg_grearth_cv_kn02.msh" />
+ <notrans_bbg_grearth_cv_kn04 file="notrans_bbg_grearth_cv_kn04.msh" />
+ <notrans_bbg_grearth_cv_kn05 file="notrans_bbg_grearth_cv_kn05.msh" />
+ <notrans_bbg_grearth_cv_kn03 file="notrans_bbg_grearth_cv_kn03.msh" />
+ <notrans_bbg_grearth_cv_kn09 file="notrans_bbg_grearth_cv_kn09.msh" />
+ <notrans_bbg_grearth_cv_kn10 file="notrans_bbg_grearth_cv_kn10.msh" />
+ <notrans_bbg_grgrass_kn01 file="notrans_bbg_grgrass_kn01.msh" />
+ <notrans_bbg_ctwooden_kn02 file="notrans_bbg_ctwooden_kn02.msh" />
+ <notrans_bbg_water_kn02 file="notrans_bbg_water_kn02.msh" />
+ <notrans_bbg_ctwooden_kn03 file="notrans_bbg_ctwooden_kn03.msh" />
+ <notrans_bbg_outerwall_kn01 file="notrans_bbg_outerwall_kn01.msh" />
+ <notrans_bbg_grearth_cv_kn08 file="notrans_bbg_grearth_cv_kn08.msh" />
+ <notrans_bbg_grearth_cv_kn06 file="notrans_bbg_grearth_cv_kn06.msh" />
+ <notrans_bbg_flatstone_kn01 file="notrans_bbg_flatstone_kn01.msh" />
+ <notrans_bbg_flatstone_kn04 file="notrans_bbg_flatstone_kn04.msh" />
+ <notrans_bbg_water_kn01 file="notrans_bbg_water_kn01.msh" />
+ <notrans_bbg_water_cv file="notrans_bbg_water_cv.msh" />
+ <notrans_bbg_water_cv01 file="notrans_bbg_water_cv01.msh" />
+ <notrans_bbg_water_cv02 file="notrans_bbg_water_cv02.msh" />
+ <bbg_woodbridge_jm_a06 file="bbg_woodbridge_jm_a06.msh" />
+ <bbg_woodbridge_jm_a04 file="bbg_woodbridge_jm_a04.msh" />
+ <bbg_woodbridge_jm_a05 file="bbg_woodbridge_jm_a05.msh" />
+ <bbg_woodbridge_jm_a03 file="bbg_woodbridge_jm_a03.msh" />
+ <bbg_woodbridge_jm_a02 file="bbg_woodbridge_jm_a02.msh" />
+ <bbg_woodbridge_jm_a01 file="bbg_woodbridge_jm_a01.msh" />
+ <notrans_bbg_grearth_cv_kn07 file="notrans_bbg_grearth_cv_kn07.msh" />
+ <notrans_bbg_plant_kn01 file="notrans_bbg_plant_kn01.msh" />
+ <notrans_bbg_plant_kn02 file="notrans_bbg_plant_kn02.msh" />
+ <notrans_bbg_plant_kn03 file="notrans_bbg_plant_kn03.msh" />
+ <notrans_bbg_plant_kn04 file="notrans_bbg_plant_kn04.msh" />
+ <notrans_bbg_b_fogdown file="notrans_bbg_b_fogdown.msh" />
+ <notrans_bbg_fence_nyh001_01 file="notrans_bbg_fence_nyh001_01.msh" />
+ <notrans_bbg_fence_nyh001_02 file="notrans_bbg_fence_nyh001_02.msh" />
+ <notrans_bbg_fence_nyh002 file="notrans_bbg_fence_nyh002.msh" />
+ <notrans_bbg_lamp_nyh001 file="notrans_bbg_lamp_nyh001.msh" />
+ <notrans_bbg_lamp_nyh002 file="notrans_bbg_lamp_nyh002.msh" />
+ <notrans_bbg_log_nyh001 file="notrans_bbg_log_nyh001.msh" />
+ <notrans_bbg_log_nyh002 file="notrans_bbg_log_nyh002.msh" />
+ <bbg_targettree_nyh001 file="bbg_targettree_nyh001.msh" />
+ <bbg_torii_nyh001 file="bbg_torii_nyh001.msh" />
+ <bbg_tree_nyh001 file="bbg_tree_nyh001.msh" />
+ <notrans_bbg_armpit_nyh04 file="notrans_bbg_armpit_nyh04.msh" />
+ <notrans_bbg_armpit_nyh07 file="notrans_bbg_armpit_nyh07.msh" />
+ <notrans_bbg_fence_nyh001_05 file="notrans_bbg_fence_nyh001_05.msh" />
+ <notrans_bbg_fence_nyh001_06 file="notrans_bbg_fence_nyh001_06.msh" />
+ <notrans_bbg_fence_nyh001_07 file="notrans_bbg_fence_nyh001_07.msh" />
+ <notrans_bbg_fence_nyh001_08 file="notrans_bbg_fence_nyh001_08.msh" />
+ <notrans_bbg_fence_nyh001_09 file="notrans_bbg_fence_nyh001_09.msh" />
+ <notrans_bbg_fence_nyh001_10 file="notrans_bbg_fence_nyh001_10.msh" />
+ <notrans_bbg_fence_nyh001_11 file="notrans_bbg_fence_nyh001_11.msh" />
+ <notrans_bbg_fence_nyh001_12 file="notrans_bbg_fence_nyh001_12.msh" />
+ <notrans_bbg_fence_nyh001_13 file="notrans_bbg_fence_nyh001_13.msh" />
+ <bbg_lamp_jm_a01 file="bbg_lamp_jm_a01.msh" />
+ <bbg_stonelantern_jm_a01 file="bbg_stonelantern_jm_a01.msh" />
+ <notrans_bbg_log_nyh03 file="notrans_bbg_log_nyh03.msh" />
+ <notrans_bbg_log_nyh04 file="notrans_bbg_log_nyh04.msh" />
+ <notrans_bbg_log_nyh05 file="notrans_bbg_log_nyh05.msh" />
+ <notrans_bbg_log_nyh06 file="notrans_bbg_log_nyh06.msh" />
+ <bbg_rock_nyh001_01 file="bbg_rock_nyh001_01.msh" />
+ <notrans_bbg_rock_nyh001_02 file="notrans_bbg_rock_nyh001_02.msh" />
+ <bbg_rock_nyh001_03 file="bbg_rock_nyh001_03.msh" />
+ <notrans_bbg_fence_nyh10 file="notrans_bbg_fence_nyh10.msh" />
+ <notrans_bbg_fence_nyh001_14 file="notrans_bbg_fence_nyh001_14.msh" />
+ <notrans_bbg_fence_nyh001_15 file="notrans_bbg_fence_nyh001_15.msh" />
+ <notrans_bbg_fence_nyh001_16 file="notrans_bbg_fence_nyh001_16.msh" />
+ <notrans_bbg_fence_nyh11 file="notrans_bbg_fence_nyh11.msh" />
+ <notrans_bbg_fence_nyh14 file="notrans_bbg_fence_nyh14.msh" />
+ <notrans_bbg_fence_nyh15 file="notrans_bbg_fence_nyh15.msh" />
+ <notrans_bbg_fence_nyh16 file="notrans_bbg_fence_nyh16.msh" />
+ <notrans_bbg_fence_nyh17 file="notrans_bbg_fence_nyh17.msh" />
+ <notrans_bbg_fence_nyh001_24 file="notrans_bbg_fence_nyh001_24.msh" />
+ <notrans_bbg_fence_nyh001_25 file="notrans_bbg_fence_nyh001_25.msh" />
+ <bbg_targettree_nyh02 file="bbg_targettree_nyh02.msh" />
+ <notrans_bbg_ferry_nyh001 file="notrans_bbg_ferry_nyh001.msh" />
+ <notrans_bbg_river_nyh001 file="notrans_bbg_river_nyh001.msh" />
+ <notrans_bbg_rock_nyh002 file="notrans_bbg_rock_nyh002.msh" />
+ <bbg_household_jm_a01 file="bbg_household_jm_a01.msh" />
+ <bbg_household_jm_a02 file="bbg_household_jm_a02.msh" />
+ <bbg_zeolite_jm_a01 file="bbg_zeolite_jm_a01.msh" />
+ <bbg_zeolite_jm_a02 file="bbg_zeolite_jm_a02.msh" />
+ <notrans_bbg_fence_jm_a01 file="notrans_bbg_fence_jm_a01.msh" />
+ <bbg_hill_nyh001_01 file="bbg_hill_nyh001_01.msh" />
+ <notrans_bbg_hill_nyh001_02 file="notrans_bbg_hill_nyh001_02.msh" />
+ <bbg_hut_nyh001_01 file="bbg_hut_nyh001_01.msh" />
+ <notrans_bbg_hutground_nyh001 file="notrans_bbg_hutground_nyh001.msh" />
+ <notrans_bbg_hutground_nyh002 file="notrans_bbg_hutground_nyh002.msh" />
+ <notrans_bbg_hutground_nyh003 file="notrans_bbg_hutground_nyh003.msh" />
+ <bbg_well_nyh001 file="bbg_well_nyh001.msh" />
+ <bbg_water_nyh003 file="bbg_water_nyh003.msh" />
+ <bbg_water_nyh004 file="bbg_water_nyh004.msh" />
+ <notrans_bbg_household_bbangsang01 file="notrans_bbg_household_bbangsang01.msh" />
+ <notrans_bbg_oj_grass02 file="notrans_bbg_oj_grass02.msh" />
+ <notrans_bbg_oj_grass03 file="notrans_bbg_oj_grass03.msh" />
+ <notrans_bbg_oj_grass04 file="notrans_bbg_oj_grass04.msh" />
+ <notrans_bbg_oj_grass05 file="notrans_bbg_oj_grass05.msh" />
+ <notrans_bbg_fence_nyh18 file="notrans_bbg_fence_nyh18.msh" />
+ <notrans_bbg_fence_nyh19 file="notrans_bbg_fence_nyh19.msh" />
+ <notrans_bbg_oj_grass06 file="notrans_bbg_oj_grass06.msh" />
+ <notrans_bbg_oj_grass07 file="notrans_bbg_oj_grass07.msh" />
+ <bbg_rock_nyh001_05 file="bbg_rock_nyh001_05.msh" />
+ <notrans_bbg_oj_grass08 file="notrans_bbg_oj_grass08.msh" />
+ <notrans_bbg_oj_grass09 file="notrans_bbg_oj_grass09.msh" />
+ <bbg_tree_nyh04 file="bbg_tree_nyh04.msh" />
+ <notrans_bbg_oj_grass10 file="notrans_bbg_oj_grass10.msh" />
+ <notrans_bbg_oj_grass11 file="notrans_bbg_oj_grass11.msh" />
+ <notrans_bbg_oj_grass12 file="notrans_bbg_oj_grass12.msh" />
+ <bbg_torii_nyh02 file="bbg_torii_nyh02.msh" />
+ <notrans_bbg_tree_nyh05 file="notrans_bbg_tree_nyh05.msh" />
+ <notrans_bbg_oj_grass13 file="notrans_bbg_oj_grass13.msh" />
+ <notrans_bbg_oj_grass14 file="notrans_bbg_oj_grass14.msh" />
+ <bbg_treeleaf_jm_a01 file="bbg_treeleaf_jm_a01.msh" />
+ <bbg_tree_jm_a01 file="bbg_tree_jm_a01.msh" />
+ <bbg_tree_jm_a02 file="bbg_tree_jm_a02.msh" />
+ <bbg_treeleaf_jm_a02 file="bbg_treeleaf_jm_a02.msh" />
+ <bbg_rock_nyh001_08 file="bbg_rock_nyh001_08.msh" />
+ <notrans_bbg_rock_nyh001_09 file="notrans_bbg_rock_nyh001_09.msh" />
+ <notrans_bbg_flatstone_kn05 file="notrans_bbg_flatstone_kn05.msh" />
+ <notrans_bbg_flatstone_kn03 file="notrans_bbg_flatstone_kn03.msh" />
+ <notrans_bbg_flatstone_kn02 file="notrans_bbg_flatstone_kn02.msh" />
+ <notrans_bbg_flatstone_kn06 file="notrans_bbg_flatstone_kn06.msh" />
+ <notrans_bbg_oj_grass25 file="notrans_bbg_oj_grass25.msh" />
+ <notrans_bbg_oj_grass26 file="notrans_bbg_oj_grass26.msh" />
+ <notrans_bbg_oj_grass27 file="notrans_bbg_oj_grass27.msh" />
+ <notrans_bbg_oj_grass28 file="notrans_bbg_oj_grass28.msh" />
+ <bbg_tree_jm_a04 file="bbg_tree_jm_a04.msh" />
+ <bbg_treeleaf_jm_a04 file="bbg_treeleaf_jm_a04.msh" />
+ <notrans_bbg_oj_grass29 file="notrans_bbg_oj_grass29.msh" />
+ <notrans_bbg_oj_grass30 file="notrans_bbg_oj_grass30.msh" />
+ <bbg_treeleaf_jm_a05 file="bbg_treeleaf_jm_a05.msh" />
+ <bbg_tree_jm_a05 file="bbg_tree_jm_a05.msh" />
+ <bbg_tree_nyh06 file="bbg_tree_nyh06.msh" />
+ <notrans_bbg_oj_grass31 file="notrans_bbg_oj_grass31.msh" />
+ <notrans_bbg_tree_nyh07 file="notrans_bbg_tree_nyh07.msh" />
+ <notrans_bbg_oj_grass32 file="notrans_bbg_oj_grass32.msh" />
+ <bbg_rock_nyh001_10 file="bbg_rock_nyh001_10.msh" />
+ <notrans_bbg_rock_nyh001_11 file="notrans_bbg_rock_nyh001_11.msh" />
+ <notrans_bbg_oj_grass33 file="notrans_bbg_oj_grass33.msh" />
+ <notrans_bbg_oj_grass34 file="notrans_bbg_oj_grass34.msh" />
+ <notrans_bbg_zeolite_jm_a03 file="notrans_bbg_zeolite_jm_a03.msh" />
+ <notrans_bbg_oj_grass35 file="notrans_bbg_oj_grass35.msh" />
+ <notrans_bbg_oj_grass36 file="notrans_bbg_oj_grass36.msh" />
+ <notrans_bbg_oj_grass37 file="notrans_bbg_oj_grass37.msh" />
+ <notrans_bbg_oj_grass38 file="notrans_bbg_oj_grass38.msh" />
+ <notrans_bbg_fence_jm_a02 file="notrans_bbg_fence_jm_a02.msh" />
+ <notrans_bbg_river_nyh02 file="notrans_bbg_river_nyh02.msh" />
+ <notrans_bbg_river_nyh03 file="notrans_bbg_river_nyh03.msh" />
+ <notrans_bbg_oj_grass39 file="notrans_bbg_oj_grass39.msh" />
+ <notrans_bbg_oj_grass40 file="notrans_bbg_oj_grass40.msh" />
+ <notrans_bbg_fence_jm_a05 file="notrans_bbg_fence_jm_a05.msh" />
+ <notrans_bbg_oj_grass41 file="notrans_bbg_oj_grass41.msh" />
+ <notrans_bbg_oj_grass42 file="notrans_bbg_oj_grass42.msh" />
+ <notrans_bbg_oj_grass43 file="notrans_bbg_oj_grass43.msh" />
+ <notrans_bbg_oj_grass44 file="notrans_bbg_oj_grass44.msh" />
+ <notrans_bbg_well_nyh002 file="notrans_bbg_well_nyh002.msh" />
+ <bbg_tree_nyh08 file="bbg_tree_nyh08.msh" />
+ <bbg_tree_jm_a07 file="bbg_tree_jm_a07.msh" />
+ <bbg_treeleaf_jm_a07 file="bbg_treeleaf_jm_a07.msh" />
+ <bbg_zeolite_jm_a04 file="bbg_zeolite_jm_a04.msh" />
+ <notrans_bbg_oj_grass45 file="notrans_bbg_oj_grass45.msh" />
+ <notrans_bbg_oj_grass46 file="notrans_bbg_oj_grass46.msh" />
+ <notrans_bbg_oj_grass47 file="notrans_bbg_oj_grass47.msh" />
+ <notrans_bbg_oj_grass48 file="notrans_bbg_oj_grass48.msh" />
+ <notrans_bbg_oj_grass49 file="notrans_bbg_oj_grass49.msh" />
+ <notrans_bbg_oj_grass50 file="notrans_bbg_oj_grass50.msh" />
+ <notrans_bbg_oj_grass51 file="notrans_bbg_oj_grass51.msh" />
+ <notrans_bbg_oj_grass52 file="notrans_bbg_oj_grass52.msh" />
+ <notrans_bbg_oj_grass53 file="notrans_bbg_oj_grass53.msh" />
+ <notrans_bbg_oj_grass54 file="notrans_bbg_oj_grass54.msh" />
+ <notrans_bbg_oj_grass55 file="notrans_bbg_oj_grass55.msh" />
+ <notrans_bbg_oj_grass56 file="notrans_bbg_oj_grass56.msh" />
+ <notrans_bbg_oj_grass57 file="notrans_bbg_oj_grass57.msh" />
+ <notrans_bbg_oj_grass58 file="notrans_bbg_oj_grass58.msh" />
+ <notrans_bbg_oj_grass59 file="notrans_bbg_oj_grass59.msh" />
+ <notrans_bbg_oj_grass60 file="notrans_bbg_oj_grass60.msh" />
+ <notrans_bbg_oj_grass61 file="notrans_bbg_oj_grass61.msh" />
+ <bbg_tree_jm_a08 file="bbg_tree_jm_a08.msh" />
+ <bbg_treeleaf_jm_a08 file="bbg_treeleaf_jm_a08.msh" />
+ <bbg_tree_nyh09 file="bbg_tree_nyh09.msh" />
+ <bbg_treeleaf_jm_a09 file="bbg_treeleaf_jm_a09.msh" />
+ <bbg_tree_jm_a09 file="bbg_tree_jm_a09.msh" />
+ <notrans_bbg_oj_grass62 file="notrans_bbg_oj_grass62.msh" />
+ <notrans_bbg_oj_grass63 file="notrans_bbg_oj_grass63.msh" />
+ <notrans_bbg_oj_grass64 file="notrans_bbg_oj_grass64.msh" />
+ <notrans_bbg_fence_nyh20 file="notrans_bbg_fence_nyh20.msh" />
+ <notrans_bbg_fence_nyh21 file="notrans_bbg_fence_nyh21.msh" />
+ <notrans_bbg_fence_nyh22 file="notrans_bbg_fence_nyh22.msh" />
+ <notrans_bbg_fence_nyh23 file="notrans_bbg_fence_nyh23.msh" />
+ <bbg_stonelantern_jm_a02 file="bbg_stonelantern_jm_a02.msh" />
+ <bbg_stonelantern_jm_a03 file="bbg_stonelantern_jm_a03.msh" />
+ <notrans_bbg_shadow_sp02 file="notrans_bbg_shadow_sp02.msh" />
+ <notrans_bbg_shadow_sp03 file="notrans_bbg_shadow_sp03.msh" />
+ <notrans_bbg_shadow_clb11 file="notrans_bbg_shadow_clb11.msh" />
+ <notrans_bbg_shadow_ra06 file="notrans_bbg_shadow_ra06.msh" />
+ <notrans_bbg_shadow_sp04 file="notrans_bbg_shadow_sp04.msh" />
+ <notrans_bbg_shadow_sp05 file="notrans_bbg_shadow_sp05.msh" />
+ <notrans_bbg_shadow_sp06 file="notrans_bbg_shadow_sp06.msh" />
+ <notrans_bbg_shadow_rock01 file="notrans_bbg_shadow_rock01.msh" />
+ <bbg_rock_nyh001_12 file="bbg_rock_nyh001_12.msh" />
+ <notrans_bbg_shadow_rock02 file="notrans_bbg_shadow_rock02.msh" />
+ <notrans_bbg_shadow_cl07 file="notrans_bbg_shadow_cl07.msh" />
+ <notrans_bbg_shadow_cl08 file="notrans_bbg_shadow_cl08.msh" />
+ <notrans_bbg_shadow_clb13 file="notrans_bbg_shadow_clb13.msh" />
+ <notrans_bbg_shadow_clb14 file="notrans_bbg_shadow_clb14.msh" />
+ <notrans_bbg_shadow_clb15 file="notrans_bbg_shadow_clb15.msh" />
+ <notrans_bbg_shadow_clb16 file="notrans_bbg_shadow_clb16.msh" />
+ <notrans_bbg_shadow_clb17 file="notrans_bbg_shadow_clb17.msh" />
+ <notrans_bbg_shadow_sp08 file="notrans_bbg_shadow_sp08.msh" />
+ <notrans_bbg_shadow_sp09 file="notrans_bbg_shadow_sp09.msh" />
+ <notrans_bbg_shadow_sp10 file="notrans_bbg_shadow_sp10.msh" />
+ <notrans_bbg_shadow_sp11 file="notrans_bbg_shadow_sp11.msh" />
+ <notrans_bbg_shadow_sp12 file="notrans_bbg_shadow_sp12.msh" />
+ <notrans_bbg_shadow_sp13 file="notrans_bbg_shadow_sp13.msh" />
+ <notrans_bbg_shadow_sp14 file="notrans_bbg_shadow_sp14.msh" />
+ <notrans_bbg_shadow_sp15 file="notrans_bbg_shadow_sp15.msh" />
+ <notrans_bbg_water_sm02 file="notrans_bbg_water_sm02.msh" />
+ <notrans_bbg_mountain_kn01 file="notrans_bbg_mountain_kn01.msh" />
+ <bbg_bambootrunk_side28 file="bbg_bambootrunk_side28.msh" />
+ <bbg_bambootrunk_side16 file="bbg_bambootrunk_side16.msh" />
+ <bbg_bambootrunk_side15 file="bbg_bambootrunk_side15.msh" />
+ <bbg_bambootrunk_side07 file="bbg_bambootrunk_side07.msh" />
+ <bbg_bambootrunk_side63 file="bbg_bambootrunk_side63.msh" />
+ <bbg_bambootrunk_side48 file="bbg_bambootrunk_side48.msh" />
+ <bbg_bambootrunk_side46 file="bbg_bambootrunk_side46.msh" />
+ <bbg_bambootrunk_side54 file="bbg_bambootrunk_side54.msh" />
+ <bbg_bambootrunk_side35 file="bbg_bambootrunk_side35.msh" />
+ <bbg_bambootrunk_side38 file="bbg_bambootrunk_side38.msh" />
+ <bbg_bambootrunk_side40 file="bbg_bambootrunk_side40.msh" />
+ <notrans_bbg_sky file="notrans_bbg_sky.msh" />
+ <notrans_bbg_mountain_new file="notrans_bbg_mountain_new.msh" />
+ <notrans_bbg_rock_nyh003 file="notrans_bbg_rock_nyh003.msh" />
+ <notrans_bbg_happy_nyh01 file="notrans_bbg_happy_nyh01.msh" />
+ <notrans_bbg_happy_nyh02 file="notrans_bbg_happy_nyh02.msh" />
+ <notrans_bbg_happy_nyh03 file="notrans_bbg_happy_nyh03.msh" />
+ <notrans_bbg_happy_nyh04 file="notrans_bbg_happy_nyh04.msh" />
+ <notrans_bbg_happy_nyh05 file="notrans_bbg_happy_nyh05.msh" />
+ <notrans_bbg_happy_nyh06 file="notrans_bbg_happy_nyh06.msh" />
+ <notrans_bbg_happy_nyh07 file="notrans_bbg_happy_nyh07.msh" />
+ <notrans_bbg_happy_nyh08 file="notrans_bbg_happy_nyh08.msh" />
+ <bbg_well_nyh003 file="bbg_well_nyh003.msh" />
+ <bbg_well_nyh004 file="bbg_well_nyh004.msh" />
+ <bbg_hill_nyh001_03 file="bbg_hill_nyh001_03.msh" />
+ <notrans_bbg_hut_nyh001_02 file="notrans_bbg_hut_nyh001_02.msh" />
+ <bbg_tree_nyh03 file="bbg_tree_nyh03.msh" />
+ <bbg_tree_jm_a03 file="bbg_tree_jm_a03.msh" />
+ <bbg_treeleaf_jm_a03 file="bbg_treeleaf_jm_a03.msh" />
+ <bbg_rock_nyh001_06 file="bbg_rock_nyh001_06.msh" />
+ <bbg_rock_nyh001_07 file="bbg_rock_nyh001_07.msh" />
+ <notrans_bbg_oj_grass15 file="notrans_bbg_oj_grass15.msh" />
+ <notrans_bbg_oj_grass16 file="notrans_bbg_oj_grass16.msh" />
+ <notrans_bbg_oj_grass17 file="notrans_bbg_oj_grass17.msh" />
+ <notrans_bbg_oj_grass18 file="notrans_bbg_oj_grass18.msh" />
+ <notrans_bbg_oj_grass19 file="notrans_bbg_oj_grass19.msh" />
+ <notrans_bbg_oj_grass20 file="notrans_bbg_oj_grass20.msh" />
+ <notrans_bbg_oj_grass21 file="notrans_bbg_oj_grass21.msh" />
+ <notrans_bbg_oj_grass22 file="notrans_bbg_oj_grass22.msh" />
+ <bbg_oj_grass23 file="bbg_oj_grass23.msh" />
+ <notrans_bbg_oj_grass24 file="notrans_bbg_oj_grass24.msh" />
+ <bbg_fence_jm_a03 file="bbg_fence_jm_a03.msh" />
+ <bbg_fence_jm_a04 file="bbg_fence_jm_a04.msh" />
+ <bbg_treeleaf_jm_a06 file="bbg_treeleaf_jm_a06.msh" />
+ <bbg_tree_jm_a06 file="bbg_tree_jm_a06.msh" />
+ <notrans_bbg_shadow_rock file="notrans_bbg_shadow_rock.msh" />
+ <notrans_bbg_shadow_sp07 file="notrans_bbg_shadow_sp07.msh" />
+ <bbg_lamp_jm_a03_cindy file="bbg_lamp_jm_a03_cindy.msh" />
+ <bbg_ladder_kn01 file="bbg_ladder_kn01.msh" />
+ <bbg_ladder_kn02 file="bbg_ladder_kn02.msh" />
+ <bbg_lamp_jm_a03_cindy01 file="bbg_lamp_jm_a03_cindy01.msh" />
+ <notrans_bbg_shadow_ra07 file="notrans_bbg_shadow_ra07.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+</Objects>
+<Materials version="2">
+  <mbbg_shadow
+    diffuse="bbg_shadow.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_txgrass_kn01
+    diffuse="bbg_txgrass_kn01.dds"
+    color="255 255 255"
+  />
+  <mbbg_earth_ga_grass
+    diffuse="bbg_earth_ga_grass.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_txearth_kn01
+    diffuse="bbg_txearth_kn01.dds"
+    color="255 255 255"
+  />
+  <mbbg_rockface_kn01
+    diffuse="bbg_rockface_kn01.dds"
+    color="255 255 255"
+  />
+  <mbbg_ctwooden_kn01
+    diffuse="bbg_ctwooden_kn01.dds"
+    color="255 255 255"
+  />
+  <mbbg_txearth_ga02
+    diffuse="bbg_txearth_ga02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_txearth_ga03
+    diffuse="bbg_txearth_ga03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_ctwooden_kn02
+    diffuse="bbg_ctwooden_kn02.dds"
+    color="255 255 255"
+  />
+  <mbbg_water_kn02
+    diffuse="bbg_water_kn02.dds"
+    color="255 255 255"
+    uvAnimFile="bbg_water_kn02.uva"
+  />
+  <mbbg_ctwooden_kn03
+    diffuse="bbg_ctwooden_kn03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_flatstone_kn01
+    diffuse="bbg_flatstone_kn01.dds"
+    color="255 255 255"
+  />
+  <mbbg_water_kn01
+    diffuse="bbg_water_kn01.dds"
+    color="255 255 255"
+    uvAnimFile="bbg_water_kn01.uva"
+  />
+  <mbbg_water_cv
+    diffuse="bbg_water_cv01.ifl"
+    color="255 255 255"
+  />
+  <mbbg_woodbridge_jm_a01
+    diffuse="bbg_woodbridge_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mbbg_plant_kn01
+    diffuse="bbg_plant_kn01.dds"
+    color="255 255 255"
+  />
+  <mbbg_b_fogdown
+    diffuse="bbg_b_fogdown.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_fence_nyh001_01
+    diffuse="fence_nyh001_01.dds"
+    color="255 255 255"
+  />
+  <mbbg_fence_nyh001_02
+    diffuse="fence_nyh001_02.dds"
+    color="255 255 255"
+  />
+  <mbbg_fence_nyh002
+    diffuse="fence_nyh002.dds"
+    color="255 255 255"
+  />
+  <mbbg_lamp_nyh001_id01
+    diffuse="lamp_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mbbg_lamp_nyh001_id02
+    diffuse="lamp_nyh001_id02.dds"
+    color="253 253 253"
+  />
+  <mbbg_lamp_nyh002
+    diffuse="lamp_nyh002.dds"
+    color="255 255 255"
+  />
+  <mbbg_log_nyh001
+    diffuse="log_nyh001.dds"
+    color="252 252 252"
+  />
+  <mbbg_log_nyh002_id01
+    diffuse="log_nyh002_id01.dds"
+    color="255 255 255"
+  />
+  <mbbg_log_nyh002_id02
+    diffuse="log_nyh002_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_targettree_nyh001_id01
+    diffuse="targettree_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mbbg_targettree_nyh001_id02
+    diffuse="targettree_nyh001_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_torii_nyh001_id01
+    diffuse="torii_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mbbg_torii_nyh001_id02
+    diffuse="torii_nyh001_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_tree_nyh001
+    diffuse="tree_nyh001.dds"
+    color="255 255 255"
+  />
+  <mbbg_armpit_nyh001_id01
+    diffuse="armpit_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mbbg_armpit_nyh001_id02
+    diffuse="armpit_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mbbg_armpit_nyh002_id01
+    diffuse="armpit_nyh002_id01.dds"
+    color="255 255 255"
+  />
+  <mbbg_armpit_nyh002_id02
+    diffuse="armpit_nyh002_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_lamp_jm_a01
+    diffuse="bbg_lamp_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mbbg_stonelantern_jm_a01
+    diffuse="bbg_stonelantern_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mbbg_rock_nyh001_01
+    diffuse="rock_nyh001.dds"
+    color="255 255 255"
+  />
+  <mbbg_rock_nyh001_02
+    diffuse="rock_nyh001.dds"
+    color="150 150 150"
+  />
+  <mbbg_ferry_nyh001
+    diffuse="ferry_nyh001.dds"
+    color="255 255 255"
+  />
+  <mbbg_river_nyh001
+    diffuse="river_nyh001.dds"
+    color="255 255 255"
+  />
+  <mbbg_rock_nyh002
+    diffuse="rock_nyh002.dds"
+    color="255 255 255"
+  />
+  <mbbg_household_jm_a01
+    diffuse="bbg_household_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mbbg_household_jm_a02
+    diffuse="bbg_household_jm_a02.dds"
+    color="255 255 255"
+  />
+  <mdrr_zeolite_jm_a01
+    diffuse="bbg_zeolite_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mdrr_zeolite_jm_a02
+    diffuse="bbg_zeolite_jm_a02.dds"
+    color="255 255 255"
+  />
+  <mbbg_fence_jm_a01
+    diffuse="bbg_fence_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mbbg_hill_nyh001_id01
+    diffuse="hill_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mbbg_hill_nyh001_id02
+    diffuse="hill_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mbbg_hill_nyh001_id03
+    diffuse="hill_nyh001_id03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_hill_nyh001_id04
+    diffuse="hill_nyh001_id04.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_hill_nyh001_02
+    diffuse="water_nyh005.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="bbg_hill_nyh001_02.uva"
+  />
+  <mbbg_hut_nyh001_01_id01
+    diffuse="hut_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mbbg_hut_nyh001_01_id02
+    diffuse="hut_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mbbg_hutground_nyh001_id01
+    diffuse="hutground_nyh001_id01.dds"
+    color="253 253 253"
+  />
+  <mbbg_hutground_nyh001_id02
+    diffuse="hutground_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mbbg_hutground_nyh001_id03
+    diffuse="hutground_nyh001_id03.dds"
+    color="255 255 255"
+  />
+  <mbbg_hutground_nyh002_id01
+    diffuse="hutground_nyh002_id01.dds"
+    color="255 255 255"
+  />
+  <mbbg_hutground_nyh002_id02
+    diffuse="hutground_nyh002_id02.dds"
+    color="253 253 253"
+  />
+  <mbbg_hutground_nyh002_id03
+    diffuse="hutground_nyh002_id03.dds"
+    color="253 253 253"
+    opacity="1"
+  />
+  <mbbg_hutground_nyh003_id01
+    diffuse="water_nyh005.dds"
+    color="255 255 255"
+    transparency="217"
+    uvAnimFile="bbg_hutground_nyh003_id01.uva"
+  />
+  <mbbg_hutground_nyh003_id02
+    diffuse="hutground_nyh003_id02.dds"
+    color="255 255 255"
+  />
+  <mbbg_well_nyh001_id01
+    diffuse="well_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mbbg_well_nyh001_id02
+    diffuse="well_nyh001_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_well_nyh001_id03
+    diffuse="well_nyh001_id03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_water_nyh003
+    diffuse="water_nyh003.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_water_nyh004
+    diffuse="water_nyh004.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_household_bbangsang
+    diffuse="bbg_household_bbangsang.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="bbg_household_bbangsang.uva"
+  />
+  <mbbg_oj_grass01
+    diffuse="bbg_oj_grass01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_tree_jm_a01
+    diffuse="bbg_treeleaf_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mbbg_treetrunk_jm_a01
+    diffuse="bbg_tree_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mbbg_tree_jm_a02
+    diffuse="bbg_tree_jm_a02.dds"
+    color="255 255 255"
+  />
+  <mbbg_treeleaf_jm_a02
+    diffuse="bbg_treeleaf_jm_a02.dds"
+    color="255 255 255"
+  />
+  <mStandard_7
+    color="64 64 64"
+  />
+  <mbbg_water_sm02
+    diffuse="bbg_water_sm02.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="bbg_water_sm02.uva"
+  />
+  <mbbg_mountain_kn01
+    diffuse="bbg_backbamboo_pl.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_bambootrunk_side
+    diffuse="bbg_bambootrunk_side.dds"
+    color="255 255 255"
+  />
+  <mbbg_bambootleaf_side
+    diffuse="bbg_bambootleaf_side.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbbg_sky
+    diffuse="bbg_sky.dds"
+    color="255 255 255"
+    uvAnimFile="bbg_sky.uva"
+  />
+  <mbbg_mountain_new
+    diffuse="bbg_mountain_kn02.dds"
+    color="255 255 255"
+    uvAnimFile="bbg_mountain_new.uva"
+  />
+  <mbbg_rock_nyh003
+    diffuse="rock_nyh003.dds"
+    color="255 255 255"
+  />
+  <mbbg_rock_nyh004
+    diffuse="bbg_happy_nyh.dds"
+    color="255 255 255"
+  />
+  <mbbg_lamp_jm_a03
+    diffuse="bbg_lamp_jm_a02.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="bamboo_grove.skl"
+/>
+<collision
+  file="bamboo_grove.col"
+/>
+</Scene.XML>

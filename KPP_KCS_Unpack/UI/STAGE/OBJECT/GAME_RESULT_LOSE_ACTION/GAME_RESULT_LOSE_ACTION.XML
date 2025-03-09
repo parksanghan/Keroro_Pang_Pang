@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Object04 file="Object04.msh" />
+ <result_hanbyul file="result_hanbyul.msh" />
+</Objects>
+<Materials version="2">
+  <mresult_car
+    diffuse="result_car.dds"
+    color="149 149 149"
+  />
+  <mStandard_1
+    diffuse="result_hanbyul.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="game_result_lose_action.skl"
+/>
+<BoneAnim
+  file="Anims\game_result_lose_action.anm"
+/>
+<collision
+  file="game_result_lose_action.col"
+/>
+</Scene.XML>

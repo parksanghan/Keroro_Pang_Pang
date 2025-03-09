@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <lobby_paper_002 file="lobby_paper_002.msh" />
+</Objects>
+<Materials version="2">
+  <mlobby_plastic_002
+    diffuse="lobby_plastic_002.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="lobby_paper_002.col"
+/>
+</Scene.XML>

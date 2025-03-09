@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <craptrap file="install_damage_012.msh" />
+</Objects>
+<Materials version="2">
+  <m01_-_Default
+    diffuse="install_damage_012.dds"
+    color="86 86 86"
+  />
+</Materials>
+<Skeleton
+  file="install_damage_012.skl"
+/>
+<BoneAnim
+  file="Anims\install_damage_012.anm"
+/>
+<collision
+  file="install_damage_012.col"
+/>
+</Scene.XML>

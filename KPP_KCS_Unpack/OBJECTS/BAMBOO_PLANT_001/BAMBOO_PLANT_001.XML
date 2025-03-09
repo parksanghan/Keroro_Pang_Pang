@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <bamboo_plant_001 file="bamboo_plant_001.msh" />
+</Objects>
+<Materials version="2">
+  <mbbg_combucket_nyh002
+    diffuse="combucket_nyh002.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="bamboo_plant_001.col"
+/>
+</Scene.XML>

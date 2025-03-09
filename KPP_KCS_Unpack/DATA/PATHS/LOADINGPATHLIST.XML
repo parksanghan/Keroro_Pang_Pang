@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<LoadingPathList.XML>
+	<path file="start_loading_cam_01" fov="39.598" />
+	<path file="start_loading_cam_02" fov="54.432" />
+	<path file="start_loading_cam_03" fov="54.432" />
+	<path file="start_loading_cam_04" fov="39.598" />
+</LoadingPathList.XML>

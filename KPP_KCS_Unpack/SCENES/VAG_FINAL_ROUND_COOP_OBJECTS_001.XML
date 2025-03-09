@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="vag_final_round\vag_final_round.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="Vag_wall02_side_2m" code="135331841" yLayer="0" posX="23" posY="0" posZ="-15" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_side_2m" code="135331841" yLayer="0" posX="-23" posY="0" posZ="-15" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_side_2m" code="135331841" yLayer="0" posX="31" posY="0" posZ="-15" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_side_2m" code="135331841" yLayer="0" posX="-31" posY="0" posZ="-15" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_in_4m" code="135331846" yLayer="0" posX="26" posY="0" posZ="-15" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_in_4m" code="135331846" yLayer="0" posX="-26" posY="0" posZ="-15" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_in_2m" code="135331847" yLayer="0" posX="-29" posY="0" posZ="-15" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_in_2m" code="135331847" yLayer="0" posX="29" posY="0" posZ="-15" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_in_8m" code="135331853" yLayer="0" posX="0" posY="0" posZ="-33" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_side_2m" code="135331841" yLayer="0" posX="-5" posY="0" posZ="-33" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_side_2m" code="135331841" yLayer="0" posX="5" posY="0" posZ="-33" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_side_2m" code="135331841" yLayer="0" posX="-7" posY="0" posZ="-49" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_side_2m" code="135331841" yLayer="0" posX="1" posY="0" posZ="-63" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_side_2m" code="135331841" yLayer="0" posX="7" posY="0" posZ="-63" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_side_2m" code="135331841" yLayer="0" posX="-1" posY="0" posZ="-49" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_in_4m" code="135331846" yLayer="0" posX="4" posY="0" posZ="-63" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall02_in_4m" code="135331846" yLayer="0" posX="-4" posY="0" posZ="-49" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="vag_partitioncin" code="135331859" yLayer="0" posX="-18" posY="0" posZ="17.41" angleX="0" angleY="180.2" angleZ="0" scale="1"/>
+	<Object engName="viper_agit_rock_002" code="135331860" yLayer="0" posX="18.04" posY="0" posZ="18.65" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

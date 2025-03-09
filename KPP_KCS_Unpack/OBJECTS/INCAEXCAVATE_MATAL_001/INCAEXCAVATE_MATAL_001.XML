@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <incaexcavate_matal_001 file="incaexcavate_matal_001.msh" />
+</Objects>
+<Materials version="2">
+  <mincaexcavate_matal_001
+    diffuse="incaexcavate_matal_001.dds"
+    color="248 248 248"
+  />
+</Materials>
+<collision
+  file="incaexcavate_matal_001.col"
+/>
+</Scene.XML>

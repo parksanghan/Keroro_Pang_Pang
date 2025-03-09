@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="0" posX="39" posY="0.5" posZ="27" angleY="0" scale="0" radius="2" respawnTime="0" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="1" posX="39" posY="0.5" posZ="-5" angleY="0" scale="0" radius="2" respawnTime="0" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="2" posX="10" posY="0.5" posZ="27.8" angleY="0" scale="0" radius="2" respawnTime="0" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="3" posX="-39" posY="0.5" posZ="-27" angleY="0" scale="0" radius="2" respawnTime="0" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="4" posX="-39" posY="0.5" posZ="5" angleY="0" scale="0" radius="2" respawnTime="0" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="5" posX="-10" posY="2" posZ="-28.29" angleY="0" scale="0" radius="2" respawnTime="0" msgId=""/>
+</SPAWN.XML>

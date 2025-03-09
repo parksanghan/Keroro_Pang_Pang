@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pdon_001 file="pdon_001.msh" />
+</Objects>
+<Materials version="2">
+  <mpdon_001
+    diffuse="pdon_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="pdon.skl"
+/>
+<collision
+  file="pdon.col"
+/>
+</Scene.XML>

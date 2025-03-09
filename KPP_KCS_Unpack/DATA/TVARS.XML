@@ -1,0 +1,247 @@
+<?xml version="1.0" ?>
+<Kudo.XML>
+	<!-- ** 3d lobby parameters ** -->
+	<_In_3dLobby_character_create_range value="200.00000">character create range</_In_3dLobby_character_create_range>
+	<_In_3dLobby_character_delete_range value="250.00000">character delete range</_In_3dLobby_character_delete_range>
+	<_In_3dLobby_character_create_fps value="35.00000">character create fps</_In_3dLobby_character_create_fps>
+	<_In_3dLobby_character_delete_fps value="25.00000">character delete fps</_In_3dLobby_character_delete_fps>
+	<_In_3dLobby_character_default_users value="10">character default users</_In_3dLobby_character_default_users>
+	<_In_3dLobby_character_max_users value="70">character max users</_In_3dLobby_character_max_users>
+	<!-- ** UI parameters ** -->
+	<_ui_BlockSelfRun value="1">should use launcher?</_ui_BlockSelfRun>
+	<_ui_UseOriginalLogin value="0">should use original login?</_ui_UseOriginalLogin>
+	<_ui_ServerAddress value="10.77.36.228   10.77.36.228  "></_ui_ServerAddress>
+	<_ui_ServerPort value="18608 18617"></_ui_ServerPort>
+	<_ui_ConnectionTimeout value="3000">mili-seconds</_ui_ConnectionTimeout>
+	<_ui_HeartbeatInterval value="3000">mili-seconds</_ui_HeartbeatInterval>
+	<_ui_InvitableInterval value="10000">mili-seconds</_ui_InvitableInterval>
+	<_ui_MaxChatLine value="20">max number of chat list line</_ui_MaxChatLine>
+	<_ui_MaxChatHistory value="20">max number of chat history line</_ui_MaxChatHistory>
+	<_ui_ChattableInterval value="700">mili-seconds</_ui_ChattableInterval>
+	<_ui_CancelInvitationTimeout value="7000">mili-seconds</_ui_CancelInvitationTimeout>
+	<_ui_WaitServerResponseTimeout value="6000">mili-seconds</_ui_WaitServerResponseTimeout>
+	<_ui_P2pAddressResolveTimeout value="7000">mili-seconds</_ui_P2pAddressResolveTimeout>
+	<_ui_CrashReportFtpUrl value="ftp://ftp_krpang:zpvkd.123@7.36.54.185.48/"></_ui_CrashReportFtpUrl>
+	<_ui_HomepageUrl value="http://krpang.goorm.com"></_ui_HomepageUrl>
+	<_ui_HomepageTitle value="쾌감슈팅! 케로로 팡팡 - Windows Internet Explorer"></_ui_HomepageTitle>
+	<_ui_MyPageUrl value="http://www.goorm.com/mypage"></_ui_MyPageUrl>
+	<_ui_TooniPayPageUrl value="http://www.tooniland.com/pageLoad.tl?cate_cd=620"></_ui_TooniPayPageUrl>
+	<_ui_NaverPayPageUrl value="https://bill.playnetwork.co.kr/pay/charge.nhn?CHNL=PN"></_ui_NaverPayPageUrl>
+	<_ui_locale value="korean_korea"></_ui_locale>
+	<_ui_OutLogLevel value="1"></_ui_OutLogLevel>
+	<!-- ** Game parameters ** -->
+	<_app_TexLangPrefix value="">prefix for menu texture name (base.tga -> base + prefix + .tga)</_app_TexLangPrefix>
+	<_game_StartStageCode value="103874576"></_game_StartStageCode>
+	<_game_UseLevelEffects value="1">load level effects (npc/particles)</_game_UseLevelEffects>
+	<_game_SkipIntro value="1">skip char select and intro</_game_SkipIntro>
+	<_game_StartChar value="kururu">keroro OR tamama</_game_StartChar>
+	<_game_SkipPracticeCharSelect value="0"></_game_SkipPracticeCharSelect>
+	<_game_SkipTutorialCharSelect value="0"></_game_SkipTutorialCharSelect>
+	<_game_ShowDebugInfo value="0"></_game_ShowDebugInfo>
+	<_game_iControlType value="1">start control mode</_game_iControlType>
+	<_game_targetfix_whenrotate value="2"></_game_targetfix_whenrotate>
+	<_game_enable3dTargetUI value="0"></_game_enable3dTargetUI>
+	<_game_defaultFOV value="33.00000"></_game_defaultFOV>
+	<_game_snipeViewWidth value="128.00000">control width of sniping crosshair</_game_snipeViewWidth>
+	<_game_snipeFOV_ViewA value="10.00000"></_game_snipeFOV_ViewA>
+	<_game_snipeFOV_ViewB value="20.00000"></_game_snipeFOV_ViewB>
+	<_game_snipeZoom value="75.00000">character zoom for sniper rifles</_game_snipeZoom>
+	<_game_laserPoinerEnabled value="0">laser pointer</_game_laserPoinerEnabled>
+	<_game_laserPointerDistance value="300.00000">max laser pointer distance</_game_laserPointerDistance>
+	<_game_fMin_hud_camAngle2 value="-0.30000">for sniper mode</_game_fMin_hud_camAngle2>
+	<_game_fMax_hud_camAngle2 value="0.90000">for sniper mode</_game_fMax_hud_camAngle2>
+	<_game_laserPtrWidth value="0.50000">laser pointer width</_game_laserPtrWidth>
+	<_game_skipSkillMovie value="0">1 if we want to skil skill movie</_game_skipSkillMovie>
+	<_game_skillAbortCamAnim value="0"></_game_skillAbortCamAnim>
+	<_game_transparency_angle value="75.00000"></_game_transparency_angle>
+	<_game_transparency_distance value="250.00000">3 meters</_game_transparency_distance>
+	<_game_shadowAngle value="-0.4500 1.6000 0.0000">angle for shadow</_game_shadowAngle>
+	<_game_fPenetrationDamage value="0.40000">coef for penetration demage</_game_fPenetrationDamage>
+	<_game_connectSoftTimeout value="15000"></_game_connectSoftTimeout>
+	<_game_loadSoftTimeout value="50000"></_game_loadSoftTimeout>
+	<_game_spawnSoftTimeout value="5000"></_game_spawnSoftTimeout>
+	<_game_startSoftTimeout value="10000"></_game_startSoftTimeout>
+	<_game_selfDropAlphaTimeout value="5000"></_game_selfDropAlphaTimeout>
+	<_game_uiFaceFOV value="45.00000"></_game_uiFaceFOV>
+	<_game_fSplashDistanceRate value="0.60000"></_game_fSplashDistanceRate>
+	<_game_AllowFantasticKey value="0"></_game_AllowFantasticKey>
+	<_game_fAutoZoomMaxDistance value="11.00000">Unit: meter</_game_fAutoZoomMaxDistance>
+	<_game_fAutoZoomMaxCameraDistance value="30.00000">Unit: meter</_game_fAutoZoomMaxCameraDistance>
+	<_game_fAutoZoomTime value="15.00000"></_game_fAutoZoomTime>
+	<_game_fSnipingSensitivity value="0.00100"></_game_fSnipingSensitivity>
+	<_game_fKillerViewMaxDistance value="5.00000">Unit: meter</_game_fKillerViewMaxDistance>
+	<_game_fKillerViewCameraDistance value="3.00000">Unit: meter</_game_fKillerViewCameraDistance>
+	<_game_fKillerViewCameraFOV value="50.00000">Unit: degree</_game_fKillerViewCameraFOV>
+	<_game_defaultWeapon1 value="-1">Slot1</_game_defaultWeapon1>
+	<_game_defaultWeapon2 value="-1">Slot2</_game_defaultWeapon2>
+	<_game_defaultWeapon3 value="-1">Slot3</_game_defaultWeapon3>
+	<_game_defaultRespawnTime value="8.00000">secs</_game_defaultRespawnTime>
+	<_game_defaultRespawnPenaltyTime value="3.00000">secs</_game_defaultRespawnPenaltyTime>
+	<_game_TotalSpeed value="1.0"></_game_TotalSpeed>
+	<_game_OffsetPursuitLimitCosAngle value="0.25000"></_game_OffsetPursuitLimitCosAngle>
+	<_game_OffsetPursuitRateValuePerSpeed value="8.00000"></_game_OffsetPursuitRateValuePerSpeed>
+	<_game_ReflectionBulletCount value="2"></_game_ReflectionBulletCount>
+	<!-- ** resource parameters ** -->
+	<_res_ResourceBytes value="28893366"></_res_ResourceBytes>
+	<!-- ** sound parameters ** -->
+	<_snd_Enabled value="1"></_snd_Enabled>
+	<_snd_3DRolloffFactor value="7.00000">Rolloff multiplier for this source. Usually one, but can be lowered to values between zero and one for longer rolloff, or raised above one for shorter rolloff</_snd_3DRolloffFactor>
+	<_snd_3DRefDistance value="100.00000">The distance at which the source would lose half its volume (not counting the rolloff factor</_snd_3DRefDistance>
+	<_snd_DopplerFactor value="1.20000">a simple scaling of source and listener velocities to exaggerate or deemphasize the Doppler (pitch) shift resulting from the Doppler calculation</_snd_DopplerFactor>
+	<_snd_DopplerSpeed value="343.29999">allows the application to change the reference (propagation) speed used in the Doppler calculation(m/s)</_snd_DopplerSpeed>
+	<!-- ** game logic - survival sudden death params ** -->
+	<_glm_survival4 value="5 3 5">3-4 players 5Round 3Win 5 minutes</_glm_survival4>
+	<_glm_survival6 value="5 3 5">5-6 players</_glm_survival6>
+	<_glm_survival8 value="7 4 5">7-8 players</_glm_survival8>
+	<_glm_survival10 value="7 4 5">9+ players</_glm_survival10>
+	<!-- ** game logic - keroball tournament params ** -->
+	<_glm_keroball2 value="10 5">1-2 players, 6 kills, 10 minutes</_glm_keroball2>
+	<_glm_keroball4 value="10 5">3-4 players</_glm_keroball4>
+	<_glm_keroball6 value="10 5">5-6 players</_glm_keroball6>
+	<_glm_keroball8 value="10 5">7-8 players</_glm_keroball8>
+	<_glm_keroball10 value="10 5">9+ players</_glm_keroball10>
+	<_glm_keroballPercentage value="5.00000"></_glm_keroballPercentage>
+	<!-- ** game logic - platoon deathmatch params ** -->
+	<_glm_platoon2 value="10 5">1:1 players, 5 kills, 8 minutes</_glm_platoon2>
+	<_glm_platoon4 value="15 5">2:2</_glm_platoon4>
+	<_glm_platoon6 value="20 5">3:3</_glm_platoon6>
+	<_glm_platoon8 value="25 5">4:4</_glm_platoon8>
+	<_glm_platoon10 value="30 5">5:5</_glm_platoon10>
+	<_glm_teamBalanceLevel1 value="7"></_glm_teamBalanceLevel1>
+	<_glm_teamBalanceLevel2 value="11"></_glm_teamBalanceLevel2>
+	<_glm_teamBalanceLevel3 value="15"></_glm_teamBalanceLevel3>
+	<!-- ** game logic - private deathmatch params ** -->
+	<_glm_private2 value="8 5">1-2 players, 5 kills, 8 minutes</_glm_private2>
+	<_glm_private4 value="12 5">3-4</_glm_private4>
+	<_glm_private6 value="15 5">5-6</_glm_private6>
+	<_glm_private8 value="20 5">7-8</_glm_private8>
+	<_glm_private10 value="25 5">9+</_glm_private10>
+	<!-- ** Player/AI parameters ** -->
+	<_npc_MuzzleBoneName value="shotEffect">bone name for the muzzle</_npc_MuzzleBoneName>
+	<_npc_fMoveSpeed value="30.00000">player moving speed</_npc_fMoveSpeed>
+	<_npc_fSnipeMoveCoef value="0.30000"></_npc_fSnipeMoveCoef>
+	<_npc_fRocketMoveCoef value="0.80000"></_npc_fRocketMoveCoef>
+	<_npc_fMachinegunMoveCoef value="0.85000"></_npc_fMachinegunMoveCoef>
+	<_npc_fMoveBackCoef value="0.80000"></_npc_fMoveBackCoef>
+	<_npc_fJumpMoveCoef value="0.40000">default 30%</_npc_fJumpMoveCoef>
+	<_npc_fTumbleSpeed value="45.00000"></_npc_fTumbleSpeed>
+	<_npc_fFreeFallG value="400.00000">player falling acceleration</_npc_fFreeFallG>
+	<_npc_fJumpAccel value="75.00000">player jumping acceleration</_npc_fJumpAccel>
+	<_npc_fJumpTimeCoef value="1.00000">player jumping time factor</_npc_fJumpTimeCoef>
+	<_npc_fMinHeightForBend value="0.50000">that 'X' var</_npc_fMinHeightForBend>
+	<_npc_fChargeStartDelay value="0.20000">delay for starting charge</_npc_fChargeStartDelay>
+	<_npc_fRunFxDelay value="0.10000">delay between run particles</_npc_fRunFxDelay>
+	<_npc_fWalkFxDelay value="0.25000">delay between walk particles</_npc_fWalkFxDelay>
+	<_npc_fKillVoiceRate value="0.30000">probability to play kill voice(0.0~1.0)</_npc_fKillVoiceRate>
+	<_npc_fStepOffset value="0.20000"></_npc_fStepOffset>
+	<_npc_fSlopeLimit value="70.00000"></_npc_fSlopeLimit>
+	<_npc_HeadBangTime value="0.15000"></_npc_HeadBangTime>
+	<_npc_HeadBangPower value="0.60000"></_npc_HeadBangPower>
+	<_npc_PositioningTick value="0.07000"></_npc_PositioningTick>
+	<_monster_PositioningTick value="0.10000"></_monster_PositioningTick>
+	<_npc_ReplicatingTick value="0.07000"></_npc_ReplicatingTick>
+	<_npc_IdlePositioningTime value="0.50000"></_npc_IdlePositioningTime>
+	<_npc_SpStartVar value="150">start sp</_npc_SpStartVar>
+	<_npc_SpAddEnemyKill value="20">sp gain when kill the enemy</_npc_SpAddEnemyKill>
+	<_npc_SpAddCharDeath value="60">sp gain when player died</_npc_SpAddCharDeath>
+	<_npc_enemyoutline_color value="255 0 0">outline color for enemies</_npc_enemyoutline_color>
+	<_npc_enemyoutline_thickness value="3.00000">outline thickness in pixels</_npc_enemyoutline_thickness>
+	<_npc_NPCoutline_color value="0 0 255">outline color for npc</_npc_NPCoutline_color>
+	<_npc_NPCoutline_thickness value="1.00000">outline thickness in pixels</_npc_NPCoutline_thickness>
+	<_npc_ShotPosAdjustRate value="0.80000"></_npc_ShotPosAdjustRate>
+	<!-- ** Skill parameters ** -->
+	<_skill_minAngle value="-45.00000"></_skill_minAngle>
+	<_skill_maxAngle value="45.00000"></_skill_maxAngle>
+	<!-- ** trap options. ** -->
+	<_trap_fCheckDistanceRate value="60.00000">Unit: percent.</_trap_fCheckDistanceRate>
+	<_trap_fVisibleDistanceRate value="150.00000">Unit: percent.</_trap_fVisibleDistanceRate>
+	<!-- ** field items parameters ** -->
+	<_item_bDrawShadow value="1">drawing object shadow</_item_bDrawShadow>
+	<_item_fFallingSpeed value="40.00000">object falling speed</_item_fFallingSpeed>
+	<_item_fShakeDist value="0.50000">radius of shake</_item_fShakeDist>
+	<_item_fShakeDelay value="0.02000">each shake time</_item_fShakeDelay>
+	<_item_iShakeSteps value="10">number of shakes</_item_iShakeSteps>
+	<_item_fRespawnSpeed value="1.50000">object fade-in (respawn) time</_item_fRespawnSpeed>
+	<_item_fRespawnNextCheck value="45.00000">time between respawn checks</_item_fRespawnNextCheck>
+	<_item_iEngineOutline value="1">enable outline for items</_item_iEngineOutline>
+	<!-- ** Viper AI parameters ** -->
+	<_ai_showDebug value="0"></_ai_showDebug>
+	<_ai_fWalkSpeedCoef value="0.60000"></_ai_fWalkSpeedCoef>
+	<_ai_fWalkFxTimeA value="5.00000"></_ai_fWalkFxTimeA>
+	<_ai_fWalkFxTimeB value="10.00000"></_ai_fWalkFxTimeB>
+	<_ai_fVisionCone value="60.00000">vision cone will be +/- that angle</_ai_fVisionCone>
+	<_ai_fVisionDist value="100.00000">vision distance</_ai_fVisionDist>
+	<_ai_fMaxPursueTime value="2.00000">max pursue time</_ai_fMaxPursueTime>
+	<_ai_AlwaysDetectDist value="50.00000">below that distance viper will always detect you</_ai_AlwaysDetectDist>
+	<_ai_fEmotionFxDelay value="2.00000">emotions can be shown with this minimum delay</_ai_fEmotionFxDelay>
+	<!-- ** Level parameters ** -->
+	<_level_fGravity value="-98.10000">Gravity</_level_fGravity>
+	<!-- ** Network parameters ** -->
+	<!-- ** PhysX parameters ** -->
+	<_physx_minVersion value="0"></_physx_minVersion>
+	<!-- ** P2P parameters ** -->
+	<_p2p_ListeningPort value="0">port for p2p</_p2p_ListeningPort>
+	<_p2p_LogEnabled value="0">enable kat logs</_p2p_LogEnabled>
+	<_p2p_defaultRtt value="77">default Round trip time value(msec)</_p2p_defaultRtt>
+	<_p2p_connectTimeout value="5000">connection timeout value(msec)</_p2p_connectTimeout>
+	<_p2p_pingInterval value="500">ping interval value(msec)</_p2p_pingInterval>
+	<_p2p_roundTipTimeoutFactor value="2">to calculate RTT timeout(mean RTT * roundTripTimeoutFactor_</_p2p_roundTipTimeoutFactor>
+	<_p2p_roundTripTimeoutLimitFactor value="10">to calculate RTT timeout limit(RTT * roundTripTimeoutLimitFactor_</_p2p_roundTripTimeoutLimitFactor>
+	<_p2p_maxDisconnectTimeout value="20000">max disconnect timeout value(msec)</_p2p_maxDisconnectTimeout>
+	<_p2p_minDisconnectTimeout value="10000">min disconnect timeout value (msec)</_p2p_minDisconnectTimeout>
+	<_p2p_hostAliveConditionTime value="2000"></_p2p_hostAliveConditionTime>
+	<!-- ** P2P simulation parameters ** -->
+	<_p2p_sim_outboundPacketDropRate value="0.00000">outbound packet drop rate (0.0~1.0)</_p2p_sim_outboundPacketDropRate>
+	<_p2p_sim_inboundPacketDropRate value="0.00000">inbound packet drop rate (0.0~1.0)</_p2p_sim_inboundPacketDropRate>
+	<_p2p_sim_minOutboundPacketLatency value="0">The minimum delay in milliseconds for outbound packets</_p2p_sim_minOutboundPacketLatency>
+	<_p2p_sim_maxOutboundPacketLatency value="0">The maximum delay in milliseconds for outbound packets</_p2p_sim_maxOutboundPacketLatency>
+	<_p2p_sim_minInboundPacketLatency value="0">The minimum delay in milliseconds for inbound packets</_p2p_sim_minInboundPacketLatency>
+	<_p2p_sim_maxInboundPacketLatency value="0">The maximum delay in milliseconds for inbound packets</_p2p_sim_maxInboundPacketLatency>
+	<!-- ** Camera parameters ** -->
+	<_trace_camera_AutoDistancing value="0"></_trace_camera_AutoDistancing>
+	<_trace_camera_SkillCameraRotationBasisSpeed value="1.50000"></_trace_camera_SkillCameraRotationBasisSpeed>
+	<_trace_camera_NormalCameraRotationBasisSpeed value="0.00200"></_trace_camera_NormalCameraRotationBasisSpeed>
+	<_trace_camera_SnipingSensitivityBasisSpeed value="0.00100"></_trace_camera_SnipingSensitivityBasisSpeed>
+	<_trace_camera_TpsSensitivityBasisSpeed value="0.00150"></_trace_camera_TpsSensitivityBasisSpeed>
+	<_trace_camera_SmoothRotationLevel1 value="15.00000"></_trace_camera_SmoothRotationLevel1>
+	<_trace_camera_SmoothRotationLevel2 value="10.00000"></_trace_camera_SmoothRotationLevel2>
+	<_trace_camera_SmoothRotationLevel3 value="5.00000"></_trace_camera_SmoothRotationLevel3>
+	<_trace_camera_LobbyCameraDistanceRate value="0.50000"></_trace_camera_LobbyCameraDistanceRate>
+	<_trace_camera_TpsK1 value="9.5913963"></_trace_camera_TpsK1>
+	<_trace_camera_TpsK2 value="9.0395985"></_trace_camera_TpsK2>
+	<_trace_camera_TpsK3 value="37.866364"></_trace_camera_TpsK3>
+	<_trace_camera_TpsFov value="35.41795"></_trace_camera_TpsFov>
+	<_trace_camera_TpsDefaultPitch value="0"></_trace_camera_TpsDefaultPitch>
+	<!-- ** Skill parameters ** -->
+	<_taruruskill_KeyboardYawSpeed value="0.30000"></_taruruskill_KeyboardYawSpeed>
+	<_taruruskill_3rdSkillAttackTime value="0.30000"></_taruruskill_3rdSkillAttackTime>
+	<!-- ** Skill parameters ** -->
+	<_giroroSkill_KeyboardYawSpeed value="1.00000"></_giroroSkill_KeyboardYawSpeed>
+	<_giroroSkill_KeyboardPitchSpeed value="1.00000"></_giroroSkill_KeyboardPitchSpeed>
+	<!-- ** Camera Shake Params ** -->
+	<_shake_0_Dist value="1.50000">rocket/sniper fire</_shake_0_Dist>
+	<_shake_0_Delay value="0.01000"></_shake_0_Delay>
+	<_shake_0_Steps value="5"></_shake_0_Steps>
+	<_shake_1_Dist value="3.00000">rocket hit</_shake_1_Dist>
+	<_shake_1_Delay value="0.01000"></_shake_1_Delay>
+	<_shake_1_Steps value="5"></_shake_1_Steps>
+	<_shake_2_Dist value="7.00000">skill hit</_shake_2_Dist>
+	<_shake_2_Delay value="0.01000"></_shake_2_Delay>
+	<_shake_2_Steps value="5"></_shake_2_Steps>
+	<_shake_3_Dist value="0.50000">tamama impact start hit</_shake_3_Dist>
+	<_shake_3_Delay value="0.02000"></_shake_3_Delay>
+	<_shake_3_Steps value="40"></_shake_3_Steps>
+	<_shake_10_Dist value="0.50000">dmg 0.1 ~ 30.0</_shake_10_Dist>
+	<_shake_10_Delay value="0.01000"></_shake_10_Delay>
+	<_shake_10_Steps value="2"></_shake_10_Steps>
+	<_shake_11_Dist value="0.50000">dmg 30.1 ~ 60.0</_shake_11_Dist>
+	<_shake_11_Delay value="0.01000"></_shake_11_Delay>
+	<_shake_11_Steps value="3"></_shake_11_Steps>
+	<_shake_12_Dist value="1.50000">dmg 60.1 ~ 100</_shake_12_Dist>
+	<_shake_12_Delay value="0.01000"></_shake_12_Delay>
+	<_shake_12_Steps value="4"></_shake_12_Steps>
+	<_shake_13_Dist value="3.00000">dmg 100.1 ~ </_shake_13_Dist>
+	<_shake_13_Delay value="0.01000"></_shake_13_Delay>
+	<_shake_13_Steps value="5"></_shake_13_Steps>
+</Kudo.XML>
+ 

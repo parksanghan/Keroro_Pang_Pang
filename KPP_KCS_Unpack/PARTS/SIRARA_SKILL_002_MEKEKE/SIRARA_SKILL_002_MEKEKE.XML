@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <sirara_skill_002 file="sirara_skill_002.msh" />
+</Objects>
+<Materials version="2">
+  <msirara_skill_002
+    diffuse="sirara_skill_002.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="sirara_skill_002_mekeke.skl"
+/>
+<BoneAnim
+  file="Anims\sirara_skill_002_mekeke.anm"
+/>
+<collision
+  file="sirara_skill_002_mekeke.col"
+/>
+</Scene.XML>

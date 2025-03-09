@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <gale_face_000j file="gale_face_000.msh" />
+ <gale_body_000 file="gale_body_000.msh" />
+</Objects>
+<Materials version="2">
+  <mgale_face_000j
+    diffuse="gale_face_000.dds"
+    color="116 116 116"
+  />
+  <mgale_body_000
+    diffuse="gale_body_000.dds"
+    color="112 112 112"
+  />
+</Materials>
+<Skeleton
+  file="gale_T_Pose.skl"
+/>
+<collision
+  file="gale.col"
+/>
+</Scene.XML>

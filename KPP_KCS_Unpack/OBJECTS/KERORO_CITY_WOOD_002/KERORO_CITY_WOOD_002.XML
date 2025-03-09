@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keroro_city_wood_002 file="keroro_city_wood_002.msh" />
+</Objects>
+<Materials version="2">
+  <mkct_tempbuilding_b
+    diffuse="kct_tempbuilding_b.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="keroro_city_wood_002.col"
+/>
+</Scene.XML>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<EffectSoundList.XML>																																				
+	<Keroro_1 name="작전 명령" code="168820737" useSound="ef_skill_001" useVoice="vc_keroro_anim_019" applyEffectSound="ef_skill_002"/>
+	<Keroro_2 name="모아 소환" code="168820738" useSound="ef_skill_003" useVoice="vc_keroro_anim_020" applyEffectSound="ef_skill_004"/>
+	<Keroro_3 name="킹킹 케론파" code="168820739" useSound="ef_skill_005" useVoice="vc_keroro_anim_021" chageSound="ef_skill_006" throwSound="ef_skill_007" explosionSound="ef_skill_008" landingSound="ef_skill_009"/>
+	<Tamama_1 name="식량 보급" code="168820740" useSound="ef_skill_010" applyEffectSound="ef_skill_011" applyEffectVoice="vc_tamama_anim_019"/>
+	<Tamama_2 name="대기 오염" code="168820741" useSound="ef_skill_012" useVoice="vc_tamama_anim_021" applyEffectSound="ef_skill_013"/>
+	<Tamama_3 name="타마마 임팩트" code="168820742" useSound="ef_skill_014" useVoice="vc_tamama_anim_022" chageSound="ef_skill_015" throwSound="ef_skill_016" loopTS="1" explosionSound="ef_skill_017" landingSound="ef_skill_009"/>
+	<Giroro_1 name="전사의 투지" code="168820743" useSound="ef_skill_019" useVoice="vc_giroro_anim_022" applyEffectSound="ef_skill_020" loopES="1"/>
+	<Giroro_2 name="전사의 유혹" code="168820744" useSound="ef_skill_021" useVoice="vc_giroro_anim_023" applyEffectSound="ef_skill_022" applyEffectVoice="vc_giroro_anim_024"/>
+	<Giroro_3 name="최종 병기 그놈" code="168820745" useSound="ef_skill_023" useVoice="vc_giroro_anim_019" landingSound="ef_skill_024"/>
+	<Kururu_1 name="정보 수집" code="168820746" useSound="ef_skill_025" useVoice="vc_kururu_anim_019" applyEffectSound="ef_skill_026"/>
+	<Kururu_2 name="해킹" code="168820747" useSound="ef_skill_027" useVoice="vc_kururu_anim_020" applyEffectSound="ef_skill_028" loopES="1"/>
+	<Kururu_3 name="얍삽이 소환" code="168820748" useSound="ef_skill_029" useVoice="vc_kururu_anim_022" throwSound="ef_skill_030" loopTS="1" explosionSound="ef_skill_031" landingSound="ef_skill_009"/>
+	<Dororo_1 name="닌자술 은신" code="168820749" useSound="ef_skill_033" useVoice="vc_dororo_anim_019" landingSound="ef_skill_034"/>
+	<Dororo_2 name="닌자술 봉인" code="168820750" useSound="ef_skill_035" useVoice="vc_dororo_anim_020" applyEffectSound="ef_skill_036"/>
+	<Dororo_3 name="닌자술 유성 십자 수리검" code="168820751" useSound="ef_skill_037" useVoice="vc_dororo_anim_021" chageSound="ef_skill_038" throwSound="ef_skill_039" explosionSound="ef_skill_040" landingSound="ef_skill_009"/>	
+</EffectSoundList.XML>																																				

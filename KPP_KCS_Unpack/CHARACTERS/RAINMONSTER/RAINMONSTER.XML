@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <rainmonster file="rainmonster.msh" />
+</Objects>
+<Materials version="2">
+  <m01_-_Default
+    diffuse="rainmonster.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="rainmonster.skl"
+/>
+<BoneAnim
+  file="Anims\rainmonster.anm"
+/>
+<collision
+  file="rainmonster.col"
+/>
+</Scene.XML>

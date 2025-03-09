@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!-- 채널에서 로비로 입장 -->
+<state name="EnteringState">
+  <action type="0" applyName="star_idle" actionName="star_out" actionType="0"/>
+  <action type="0" applyName="character_creating_in" actionName="channel_selecting_to_in_lobby" actionType="0"/>
+  <action type="0" applyName="channel_selecting_alpha_out" actionName="channel_selecting_alpha_out" actionType="0"/>
+  
+  <action type="1" applyName="channel_selecting_to_in_lobby"/>
+  
+  <action type="2" applyName="star_idle"/>
+  <action type="2" applyName="character_creating_in"/>
+  <action type="2" applyName="channel_selecting_alpha_out"/>
+  
+  <action type="3"/>
+</state>
+
+
+<!-- 게임방에서 로비로 뒤로 이동 -->
+<state name="BackInGameRoomStage">
+  <action type="1" applyName="in_gameroom_to_in_lobby"/>
+  <action type="3"/>
+</state>
+
+
+
+
+<!--
+action type 
+  0 - animation 플레이
+    as_play, = 0
+    as_loop, = 1
+    as_pause, = 2
+    as_stop, = 3
+  1 - camera 플레이
+  2 - animation 플레이 완료 확인
+  3 - camera 플레이 완료 확인
+  4 - 오브젝트 attachObject;
+  5 - 오브젝트 detachObject;
+//  6 - 캐릭터 attach
+//  7 - 캐릭터 detach
+
+  8 - object 생성
+  9 - character 생성
+  10 - texture 생성
+
+-->

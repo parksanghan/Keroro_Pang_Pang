@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <grandmahouse_wood_004 file="grandmahouse_wood_004.msh" />
+</Objects>
+<Materials version="2">
+  <mgrandmahouse_wood_004
+    diffuse="grandmahouse_wood_003.dds"
+    color="255 255 255"
+  />
+  <mgrandmahouse_wood_004a
+    diffuse="grandmahouse_wood_003a.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="grandmahouse_wood_004.col"
+/>
+</Scene.XML>

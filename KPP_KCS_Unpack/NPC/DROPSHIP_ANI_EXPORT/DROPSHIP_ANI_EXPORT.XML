@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <dropship01 file="dropship01.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_1
+    diffuse="dropship.tga"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="dropship_ani_export.skl"
+/>
+<BoneAnim
+  file="Anims\dropship_ani_export.anm"
+/>
+<collision
+  file="dropship_ani_export.col"
+/>
+</Scene.XML>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keron_set_175 file="keron_set_175.msh" />
+</Objects>
+<Materials version="2">
+  <mkeron_set_175
+    diffuse="keron_set_175.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+</Scene.XML>

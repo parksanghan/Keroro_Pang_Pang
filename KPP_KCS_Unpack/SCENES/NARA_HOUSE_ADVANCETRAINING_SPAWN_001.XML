@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="keron" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="-20" posY="5" posZ="21" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="1" posX="-5" posY="5" posZ="6" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="2" posX="-3" posY="5" posZ="-14" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="3" posX="14" posY="5" posZ="27" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="4" posX="23" posY="5" posZ="10" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="5" posX="26" posY="7" posZ="-25" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="6" posX="37" posY="5" posZ="4" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="7" posX="53" posY="5" posZ="14" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="8" posX="43" posY="7" posZ="-17" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

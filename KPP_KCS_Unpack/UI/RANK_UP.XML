@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RankUp.XML>
+<RankUp id="1"	 militaryRank="5"	 pang="2000"	 itemCode1="238026761"	 Value1="1"	 Count1="5"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="2"	 militaryRank="9"	 pang="3000"	 itemCode1="35717128"	 Value1="150"	 Count1="1"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="3"	 militaryRank="13"	 pang="4000"	 itemCode1="70451202"	 Value1="7"	 Count1="1"	 itemCode2="238026759"	 Value2="1"	 Count2="2"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="4"	 militaryRank="17"	 pang="0"	 itemCode1="35782666"	 Value1="150"	 Count1="1"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="5"	 militaryRank="21"	 pang="7000"	 itemCode1="0"	 Value1="0"	 Count1="0"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="6"	 militaryRank="25"	 pang="0"	 itemCode1="35913731"	 Value1="150"	 Count1="1"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="7"	 militaryRank="29"	 pang="10000"	 itemCode1="0"	 Value1="0"	 Count1="0"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="8"	 militaryRank="33"	 pang="0"	 itemCode1="35848195"	 Value1="150"	 Count1="1"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="9"	 militaryRank="37"	 pang="15000"	 itemCode1="0"	 Value1="0"	 Count1="0"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="10"	 militaryRank="41"	 pang="0"	 itemCode1="36044811"	 Value1="150"	 Count1="1"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="11"	 militaryRank="45"	 pang="30000"	 itemCode1="0"	 Value1="0"	 Count1="0"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="12"	 militaryRank="49"	 pang="0"	 itemCode1="35979270"	 Value1="150"	 Count1="1"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="13"	 militaryRank="53"	 pang="50000"	 itemCode1="0"	 Value1="0"	 Count1="0"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="14"	 militaryRank="57"	 pang="75000"	 itemCode1="0"	 Value1="0"	 Count1="0"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="15"	 militaryRank="58"	 pang="100000"	 itemCode1="0"	 Value1="0"	 Count1="0"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="16"	 militaryRank="59"	 pang="125000"	 itemCode1="0"	 Value1="0"	 Count1="0"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+<RankUp id="17"	 militaryRank="60"	 pang="150000"	 itemCode1="0"	 Value1="0"	 Count1="0"	 itemCode2="0"	 Value2="0"	 Count2="0"	itemCode3="0"	Value3="0"	Count3="0"	/>
+</RankUp.XML>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="coopZone" engName="Keroro" code="18939905" teamId="0" spawnId="3" posX="21.68" posY="0.02" posZ="-37.12" angleY="180" scale="1" radius="2" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="1" posX="47" posY="0" posZ="-6" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="2" posX="57" posY="0" posZ="-10" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="3" posX="50" posY="0" posZ="-14" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="4" posX="30" posY="0" posZ="-20" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="5" posX="39" posY="0" posZ="-8" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="6" posX="30" posY="0" posZ="-7" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="7" posX="22" posY="0" posZ="-3" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="8" posX="36" posY="0" posZ="4" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="9" posX="47" posY="0" posZ="6" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="10" posX="52" posY="0" posZ="4" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="11" posX="58" posY="0" posZ="-2" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="12" posX="40" posY="0" posZ="26" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="13" posX="41" posY="0" posZ="19" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="14" posX="36" posY="0" posZ="13" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="15" posX="29" posY="0" posZ="19" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="16" posX="29" posY="0" posZ="26" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="17" posX="33" posY="0" posZ="30" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="18" posX="12" posY="0" posZ="-7" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="19" posX="1" posY="0" posZ="-12" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="20" posX="0" posY="0" posZ="-27" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="21" posX="-8" posY="0" posZ="-20" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="22" posX="-12" posY="0" posZ="-33" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="23" posX="-19" posY="0" posZ="-24" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="24" posX="-16" posY="0" posZ="-10" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="25" posX="-26" posY="0" posZ="-17" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="26" posX="-9" posY="0" posZ="-43" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="27" posX="-1" posY="0" posZ="-36" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="28" posX="-17" posY="0" posZ="-42" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="29" posX="-24" posY="0" posZ="-44" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="30" posX="-30" posY="0" posZ="-38" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="31" posX="-29" posY="0" posZ="-28" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="32" posX="-36" posY="1" posZ="-21" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="33" posX="-44" posY="4" posZ="-14" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="34" posX="-56" posY="4" posZ="-6" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="35" posX="-47" posY="4" posZ="-3" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="36" posX="-39" posY="4" posZ="-1" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="37" posX="-45" posY="4" posZ="8" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="38" posX="-55" posY="4" posZ="8" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="39" posX="-57" posY="4" posZ="2" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="40" posX="-51" posY="4" posZ="16" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="41" posX="-48" posY="4" posZ="24" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="42" posX="-37" posY="4" posZ="30" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="43" posX="-22" posY="4" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="44" posX="-13" posY="4" posZ="38" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="45" posX="-8" posY="4" posZ="30" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="46" posX="-16" posY="4" posZ="21" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="47" posX="-15" posY="4" posZ="10" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="48" posX="-1" posY="3" posZ="17" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="49" posX="-1" posY="4" posZ="18" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="50" posX="5" posY="4" posZ="37" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="51" posX="-10" posY="4" posZ="45" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="attackPoint" engName="GiroroCat" code="19922953" teamId="0" spawnId="52" posX="0" posY="4" posZ="46" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="patrol" engName="patrolPoint_001" code="201719829" teamId="0" spawnId="53" posX="-55" posY="4" posZ="-1" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="-45.5553" posY="3.50001" posZ="-13.747"/>
+		<patrol id="1" posX="-29.9863" posY="-6.10352e-006" posZ="-25.6645"/>
+		<patrol id="2" posX="-17.7559" posY="-1.2207e-005" posZ="-27.3832"/>
+		<patrol id="3" posX="3.66277" posY="-6.10352e-006" posZ="-11.0147"/>
+		<patrol id="4" posX="25.0858" posY="6.10352e-006" posZ="-0.765082"/>
+		<patrol id="5" posX="41.234" posY="-1.83105e-005" posZ="-4.40797"/>
+	</spawn>
+	<spawn type="triggerPoint" engName="triggerPoint_001" code="201719809" teamId="0" spawnId="54" posX="29" posY="0" posZ="-22" angleY="180" scale="1" radius="5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="triggerPoint" engName="triggerPoint_002" code="201719810" teamId="0" spawnId="55" posX="12" posY="0" posZ="-7" angleY="180" scale="1" radius="5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="triggerPoint" engName="triggerPoint_003" code="201719811" teamId="0" spawnId="56" posX="-15" posY="0" posZ="-25" angleY="180" scale="1" radius="18" respawnTime="1" msgId="npc0001"/>
+	<spawn type="triggerPoint" engName="triggerPoint_004" code="201719812" teamId="0" spawnId="57" posX="-31.96" posY="3.8" posZ="29.9" angleY="100" scale="1" radius="2.8" respawnTime="1" msgId="npc0001"/>
+	<spawn type="triggerPoint" engName="triggerPoint_005" code="201719813" teamId="0" spawnId="58" posX="-26.53" posY="4" posZ="29.05" angleY="180" scale="1" radius="3" respawnTime="1" msgId="npc0001"/>
+	<spawn type="triggerPoint" engName="triggerPoint_006" code="201719814" teamId="0" spawnId="59" posX="20" posY="0" posZ="-3" angleY="180" scale="1" radius="4" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="pancakefx" code="20971521" teamId="0" spawnId="60" posX="57.4599" posY="0" posZ="-4.98" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="pancakefx" code="20971521" teamId="0" spawnId="61" posX="55" posY="0" posZ="4" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="pancakefx" code="20971521" teamId="0" spawnId="62" posX="39" posY="0" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="pancakefx" code="20971521" teamId="0" spawnId="63" posX="30" posY="0" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="pancakefx" code="20971521" teamId="0" spawnId="64" posX="-30" posY="0" posZ="-40" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="pancakefx" code="20971521" teamId="0" spawnId="65" posX="-22" posY="0" posZ="-45" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="pancakefx" code="20971521" teamId="0" spawnId="66" posX="4" posY="4" posZ="35" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="pancakefx" code="20971521" teamId="0" spawnId="67" posX="-3" posY="4" posZ="47" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="pancakefx" code="20971521" teamId="0" spawnId="68" posX="-8.05003" posY="5" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="69" posX="50" posY="3.48" posZ="1.28" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="70" posX="48.25" posY="1.81" posZ="-2.52" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="71" posX="50.56" posY="1.27" posZ="-7.96" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="72" posX="51" posY="0.669999" posZ="21.32" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="73" posX="48.81" posY="0.04" posZ="15.07" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="74" posX="15.14" posY="3.06" posZ="12" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="75" posX="43" posY="3.08" posZ="-33" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="76" posX="37" posY="1" posZ="-13" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="77" posX="25" posY="0.91" posZ="9.63999" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="78" posX="-25" posY="1" posZ="-7" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="79" posX="-19.04" posY="0.04" posZ="-3.82" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="80" posX="-6" posY="3.06" posZ="-57" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="81" posX="-45.63" posY="3.05" posZ="-33.06" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="82" posX="-20.44" posY="2" posZ="-37.18" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="83" posX="-24" posY="1.22" posZ="-32.3" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="84" posX="-62" posY="6" posZ="-11" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="85" posX="-63" posY="8" posZ="-3" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="86" posX="-62" posY="5.53999" posZ="-1" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="87" posX="-61" posY="5" posZ="6" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="88" posX="-53" posY="4" posZ="-5" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="89" posX="-44" posY="4" posZ="6" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="90" posX="-55" posY="4" posZ="11" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="91" posX="-60.7701" posY="7.23" posZ="-14.68" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="triggerPoint" engName="triggerPoint_007" code="201719815" teamId="0" spawnId="92" posX="-32" posY="4" posZ="30" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="triggerPoint" engName="triggerPoint_008" code="201719816" teamId="0" spawnId="93" posX="-51.8303" posY="3.65001" posZ="18.9001" angleY="180" scale="1" radius="4" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="94" posX="-17" posY="4.39999" posZ="47" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="95" posX="-7" posY="5.44999" posZ="39" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="96" posX="-2" posY="4.89" posZ="36" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="97" posX="2" posY="7.16" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="98" posX="3" posY="5.40999" posZ="25" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="triggerPoint" engName="triggerPoint_dice" code="201719817" teamId="0" spawnId="99" posX="-9" posY="1" posZ="-27" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	
+	<spawn type="itembox" engName="restoration_9" code="154140681" teamId="0" spawnId="100" posX="-17" posY="3.76001" posZ="39.47" angleY="180" scale="1" radius="1" respawnTime="40" msgId="npc0001"/>
+	<spawn type="itembox" engName="restoration_9" code="154140681" teamId="0" spawnId="101" posX="-22" posY="3.7" posZ="20" angleY="180" scale="1" radius="1" respawnTime="40" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_8" code="155189256" teamId="0" spawnId="102" posX="-12" posY="5" posZ="17" angleY="180" scale="1" radius="1" respawnTime="70" msgId="npc0001"/>
+	<spawn type="itembox" engName="restoration_9" code="154140681" teamId="0" spawnId="103" posX="-2.41" posY="3.7" posZ="13" angleY="180" scale="1" radius="1" respawnTime="40" msgId="npc0001"/>
+	
+</SPAWN.XML>

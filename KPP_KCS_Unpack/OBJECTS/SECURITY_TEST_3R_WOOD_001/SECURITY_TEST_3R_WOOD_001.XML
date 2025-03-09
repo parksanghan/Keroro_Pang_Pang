@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <set_momowood file="set_momowood.msh" />
+</Objects>
+<Materials version="2">
+  <mgrandmahouse_wood_005
+    diffuse="grandmahouse_wood_005.dds"
+    color="255 255 255"
+  />
+  <mgrandmahouse_wood_005a
+    diffuse="grandmahouse_wood_005a.dds"
+    color="253 253 253"
+    opacity="1"
+  />
+  <mEmptyMat
+  />
+</Materials>
+<collision
+  file="security_test_3r_wood_001.col"
+/>
+</Scene.XML>

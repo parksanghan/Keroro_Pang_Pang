@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <lob_girorocat file="lob_girorocat.msh" />
+</Objects>
+<Materials version="2">
+  <mlob_girorocat
+    diffuse="lob_girorocat.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="lob_girorocat.skl"
+/>
+<collision
+  file="lob_girorocat.col"
+/>
+</Scene.XML>

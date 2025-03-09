@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tororo_body_178 file="tororo_body_178.msh" />
+</Objects>
+<Materials version="2">
+  <mtororo_set_178
+    diffuse="tororo_set_178.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

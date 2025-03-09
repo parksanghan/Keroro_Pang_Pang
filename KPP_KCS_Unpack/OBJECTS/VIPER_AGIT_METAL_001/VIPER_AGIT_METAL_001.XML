@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <viper_agit_metal_001 file="viper_agit_metal_001.msh" />
+</Objects>
+<Materials version="2">
+  <mviper_agit_metal_001
+    diffuse="viper_agit_metal_001.dds"
+    color="255 255 255"
+  />
+  <mEmptyMat
+  />
+</Materials>
+<collision
+  file="viper_agit_metal_001.col"
+/>
+</Scene.XML>

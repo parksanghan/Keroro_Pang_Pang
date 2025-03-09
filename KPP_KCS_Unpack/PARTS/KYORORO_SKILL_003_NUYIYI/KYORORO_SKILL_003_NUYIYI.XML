@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Nuyiyi_body file="Nuyiyi_body.msh" />
+ <Nuyiyi_foot_L file="Nuyiyi_foot_L.msh" />
+ <Nuyiyi_foot_R file="Nuyiyi_foot_R.msh" />
+ <Nuyiyi_head file="Nuyiyi_head.msh" />
+ <Nuyiyi_arm_L file="Nuyiyi_arm_L.msh" />
+ <Nuyiyi_arm_R file="Nuyiyi_arm_R.msh" />
+ <Nuyiyi_button_01 file="Nuyiyi_button_01.msh" />
+</Objects>
+<Materials version="2">
+  <mkyororo_skill_003_Nuyiyi
+    diffuse="kyororo_skill_003_Nuyiyi.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="kyororo_skill_003_Nuyiyi.skl"
+/>
+<BoneAnim
+  file="Anims\kyororo_skill_003_Nuyiyi.anm"
+/>
+<collision
+  file="kyororo_skill_003_Nuyiyi.col"
+/>
+</Scene.XML>

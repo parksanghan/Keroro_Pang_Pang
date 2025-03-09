@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="obj_LobbyNPC" engName="Nara" code="17956865" teamId="0" spawnId="0" posX="-38.5859" posY="5.09738" posZ="34.2289" angleY="142" scale="1.5" radius="1" respawnTime="1" msgId="npc0003"/>
+	<spawn type="obj_LobbyNPC" engName="Paul" code="18153473" teamId="0" spawnId="1" posX="-38.2823" posY="5.09738" posZ="35.4901" angleY="142" scale="1.5" radius="1" respawnTime="1" msgId="npc0005"/>
+	<spawn type="obj_LobbyNPC" engName="Savin" code="18087937" teamId="0" spawnId="2" posX="-25.9" posY="3.6" posZ="-37.25" angleY="175" scale="1.5" radius="1" respawnTime="1" msgId="npc0007"/>
+	<spawn type="obj_LobbyNPC" engName="Wooju" code="18219009" teamId="0" spawnId="3" posX="50.6699" posY="1.53753" posZ="32.5306" angleY="180" scale="1.5" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_LobbyNPC" engName="Hanbyul" code="18219010" teamId="0" spawnId="4" posX="51.76" posY="4.91915" posZ="-63.7111" angleY="315" scale="1.5" radius="1" respawnTime="1" msgId="npc0002"/>
+	<spawn type="obj_LobbyNPC" engName="Moa" code="18415617" teamId="0" spawnId="5" posX="-39.3093" posY="1.00002" posZ="-30.6818" angleY="180" scale="1.5" radius="1" respawnTime="1" msgId="npc0004"/>
+	<spawn type="obj_LobbyNPC" engName="Gale" code="19922947" teamId="0" spawnId="8" posX="4.16386" posY="1.00001" posZ="37.1043" angleY="180" scale="1.5" radius="1" respawnTime="1" msgId="npc0011"/>
+	<spawn type="obj_LobbyNPC" engName="Raby" code="18284545" teamId="0" spawnId="9" posX="-34.76" posY="3.5" posZ="-3.17003" angleY="96" scale="1.5" radius="1" respawnTime="1" msgId="npc0010"/>
+	<spawn type="obj_LobbyNPC" engName="Gogoro" code="18350081" teamId="0" spawnId="10" posX="31" posY="3.5" posZ="-17" angleY="280" scale="1.5" radius="1" respawnTime="1" msgId="npc0009"/>
+	<spawn type="obj_LobbyNPC" engName="Poyon" code="19922948" teamId="0" spawnId="11" posX="54.5677" posY="1.66486" posZ="16.9797" angleY="180" scale="1.5" radius="1" respawnTime="1" msgId="npc0008"/>
+	<spawn type="obj_LobbyNPC" engName="Ghost" code="19922950" teamId="0" spawnId="12" posX="65.6195" posY="4.91915" posZ="-53.1727" angleY="315" scale="1.5" radius="1" respawnTime="1" msgId="npc0006"/>
+	<spawn type="obj_LobbyNPC" engName="BikiniMina" code="19922951" teamId="0" spawnId="13" posX="-23" posY="1.25" posZ="-57.7" angleY="180" scale="1.5" radius="1" respawnTime="1" msgId="npc0013"/>
+	<spawn type="obj_LobbyNPC" engName="BikiniMoa" code="19922952" teamId="0" spawnId="14" posX="-21.4" posY="1.25" posZ="-58" angleY="180" scale="1.5" radius="1" respawnTime="1" msgId="npc0014"/>
+	<spawn type="obj_LobbyNPC" engName="GiroroCat" code="19922953" teamId="0" spawnId="15" posX="57" posY="5" posZ="-60.0105" angleY="315" scale="1.2" radius="1" respawnTime="1" msgId=""/>
+	<spawn type="obj_LobbyNPC" engName="Seolhwa" code="18153474" teamId="0" spawnId="16" posX="-2.05" posY="2.7" posZ="56.5" angleY="180" scale="1.5" radius="1" respawnTime="1" msgId="npc0019"/>
+	<spawn type="obj_LobbyNPC" engName="Hongmina" code="17891329" teamId="0" spawnId="17" posX="1" posY="4.7" posZ="-20" angleY="142" scale="1.5" radius="1" respawnTime="1" msgId="npc0012"/>
+	<spawn type="obj_LobbyNPC" engName="display_003" code="19922961" teamId="0" spawnId="18" posX="1" posY="1" posZ="37" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0059"/>
+	<spawn type="obj_LobbyNPC" engName="tradespeople" code="19922968" teamId="0" spawnId="19" posX="57.1901" posY="1.1" posZ="5.5" angleY="245" scale="1" radius="1" respawnTime="1" msgId="npc0065"/>
+<!-- <spawn type="obj_LobbyNPC" engName="Sumomo_loby" code="19922969" teamId="0" spawnId="22" posX="45" posY="1.96" posZ="4" angleY="270" scale="1" radius="1" respawnTime="1" msgId="npc0063"/>
+	<spawn type="obj_LobbyNPC" engName="recycle" code="19922970" teamId="0" spawnId="26" posX="-4" posY="4" posZ="-42.5" angleY="274" scale="1" radius="1" respawnTime="1" msgId="npc0066"/>
+	<spawn type="obj_LobbyNPC" engName="recycle" code="19922970" teamId="0" spawnId="27" posX="-1" posY="4" posZ="24.3" angleY="95" scale="1" radius="1" respawnTime="1" msgId="npc0066"/> -->
+	<spawn type="obj_LobbyNPC" engName="minugomi" code="19922971" teamId="0" spawnId="22" posX="-52.6297" posY="1" posZ="-10" angleY="90" scale="1" radius="1" respawnTime="1" msgId="npc0067"/>
+	<spawn type="obj_LobbyNPC" engName="goldstatue" code="19922975" teamId="0" spawnId="0" posX="51.5" posY="4.92" posZ="-50" angleY="320" scale="1" radius="1" respawnTime="1" msgId="npc0070"/>
+</SPAWN.XML>

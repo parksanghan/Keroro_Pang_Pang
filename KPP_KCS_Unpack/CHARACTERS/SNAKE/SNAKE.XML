@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <snake file="snake.msh" />
+</Objects>
+<Materials version="2">
+  <msnake
+    diffuse="snake.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="snake.skl"
+/>
+<collision
+  file="snake.col"
+/>
+</Scene.XML>

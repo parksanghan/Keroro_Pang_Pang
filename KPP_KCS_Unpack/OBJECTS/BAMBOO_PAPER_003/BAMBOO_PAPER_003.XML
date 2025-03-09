@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <bamboo_paper_003 file="bamboo_paper_003.msh" />
+</Objects>
+<Materials version="2">
+  <mbamboo_paper_003
+    diffuse="bamboo_paper_003.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="bamboo_paper_003.col"
+/>
+</Scene.XML>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <village_rock_003 file="village_rock_003.msh" />
+</Objects>
+<Materials version="2">
+  <mvillage_rock_003
+    diffuse="village_metal_003.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="village_rock_003.col"
+/>
+</Scene.XML>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="playerSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="18.09" posY="0.7" posZ="-13" angleY="90" scale="1" radius="3" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="1" posX="-18.2" posY="0.7" posZ="16" angleY="270" scale="1" radius="3" respawnTime="1" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="2" posX="18" posY="4" posZ="-2" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="3" posX="-18" posY="4" posZ="6" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001"/>
+</SPAWN.XML>

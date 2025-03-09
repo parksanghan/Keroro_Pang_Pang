@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<exchangeshop.XML>
+	<exchangeshop index="1"	engName="badge_001"	title="금화로 훈장 교환"	code="238026778"	exchange="238026767"	num="1"	/>
+	<exchangeshop index="2"	engName="badge_001"	title="은화로 훈장 교환"	code="238026778"	exchange="238026768"	num="5"	/>
+	<exchangeshop index="3"	engName="badge_001"	title="동화로 훈장 교환"	code="238026778"	exchange="238026769"	num="10"	/>
+</exchangeshop.XML>

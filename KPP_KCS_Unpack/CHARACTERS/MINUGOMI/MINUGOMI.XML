@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <minuminu file="minuminu.msh" />
+ <gomigomi file="gomigomi.msh" />
+</Objects>
+<Materials version="2">
+  <mminuminu
+    diffuse="minuminu.dds"
+    color="149 149 149"
+  />
+  <mgomigomi
+    diffuse="gomigomi.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="minugomi.skl"
+/>
+<BoneAnim
+  file="Anims\minugomi.anm"
+/>
+<collision
+  file="minugomi.col"
+/>
+</Scene.XML>

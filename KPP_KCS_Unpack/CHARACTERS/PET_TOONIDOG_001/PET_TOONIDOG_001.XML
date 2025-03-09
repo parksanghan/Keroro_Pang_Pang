@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pet_toonidog_001 file="pet_toonidog_001.msh" />
+</Objects>
+<Materials version="2">
+  <mpet_toonidog_001
+    diffuse="pet_toonidog_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="pet_toonidog_001.skl"
+/>
+<BoneAnim
+  file="Anims\pet_toonidog_001.anm"
+/>
+<collision
+  file="pet_toonidog_001.col"
+/>
+</Scene.XML>

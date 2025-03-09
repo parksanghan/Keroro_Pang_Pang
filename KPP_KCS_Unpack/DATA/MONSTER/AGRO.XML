@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<Agro.XML>
+	<agro engName="standardAgro" code="201654273" damage="5" agroHp="100" firstHit="500" firstContact="500" useSkill1="0" useSkill2="-100" useSkill3="-50000" useItem="0" useSniper="0" useBazooka="0"/>
+	<agro engName="skillAgro" code="201654274" damage="1" agroHp="0" firstHit="0" firstContact="0" useSkill1="500" useSkill2="500" useSkill3="-50000" useItem="0" useSniper="0" useBazooka="0"/>
+	<agro engName="tacticalAgro" code="201654275" damage="5" agroHp="1000" firstHit="300" firstContact="900" useSkill1="400" useSkill2="400" useSkill3="-100000" useItem="500" useSniper="800" useBazooka="1000"/>
+	<agro engName="marbleAgro" code="201654276" damage="20" agroHp="0" firstHit="1000" firstContact="300" useSkill1="0" useSkill2="0" useSkill3="-1000000" useItem="0" useSniper="0" useBazooka="0"/>
+	<agro engName="vagueAgro" code="201654277" damage="10" agroHp="0" firstHit="300" firstContact="200" useSkill1="0" useSkill2="0" useSkill3="-100000" useItem="100" useSniper="100" useBazooka="100"/>
+</Agro.XML>

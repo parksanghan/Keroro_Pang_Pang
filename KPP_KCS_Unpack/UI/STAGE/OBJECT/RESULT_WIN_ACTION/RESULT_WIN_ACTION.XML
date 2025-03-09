@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Sphere01 file="Sphere01.msh" />
+</Objects>
+<Materials version="2">
+  <mearth
+    diffuse="world_map.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="result_win_action.skl"
+/>
+<BoneAnim
+  file="Anims\result_win_action.anm"
+/>
+<collision
+  file="result_win_action.col"
+/>
+</Scene.XML>

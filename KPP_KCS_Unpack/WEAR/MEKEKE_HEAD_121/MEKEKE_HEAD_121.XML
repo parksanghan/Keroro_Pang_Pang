@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <mekeke_head_121 file="mekeke_head_121.msh" />
+</Objects>
+<Materials version="2">
+  <mmekeke_head_121
+    diffuse="mekeke_head_121.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

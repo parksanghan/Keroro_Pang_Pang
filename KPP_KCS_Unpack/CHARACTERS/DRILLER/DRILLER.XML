@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <driller file="driller.msh" />
+ <drill file="drill.msh" />
+</Objects>
+<Materials version="2">
+  <mdriller
+    diffuse="driller.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Driller.skl"
+/>
+<BoneAnim
+  file="Anims\Driller.anm"
+/>
+<collision
+  file="Driller.col"
+/>
+</Scene.XML>

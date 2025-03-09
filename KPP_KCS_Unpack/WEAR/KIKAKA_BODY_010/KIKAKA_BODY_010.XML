@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kikaka_body_010 file="kikaka_body_010.msh" />
+</Objects>
+<Materials version="2">
+  <mkikaka_body_010
+    diffuse="kikaka_body_010.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

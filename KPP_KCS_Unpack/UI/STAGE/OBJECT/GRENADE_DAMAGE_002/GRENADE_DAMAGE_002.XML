@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <grenade_damage_002 file="grenade_damage_002.msh" />
+</Objects>
+<Materials version="2">
+  <mgrenade_damage_002
+    diffuse="grenade_damage_002.tga"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="grenade_damage_002.skl"
+/>
+<collision
+  file="grenade_damage_002.col"
+/>
+</Scene.XML>

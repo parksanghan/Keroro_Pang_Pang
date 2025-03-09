@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="0" posX="0" posY="0.3" posZ="-33" angleY="180" scale="1" radius="3" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="1" posX="0" posY="0.3" posZ="33" angleY="180" scale="1" radius="3" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

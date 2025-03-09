@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <common_potal_01 file="common_potal_01.msh" />
+</Objects>
+<Materials version="2">
+  <mcommon_potal_01
+    diffuse="vil_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="common_potal_01.col"
+/>
+</Scene.XML>

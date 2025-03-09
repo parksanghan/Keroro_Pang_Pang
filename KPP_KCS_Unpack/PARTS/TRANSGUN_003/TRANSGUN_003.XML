@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <transgun_003 file="transgun_003.msh" />
+</Objects>
+<Materials version="2">
+  <m01_-_Default
+    diffuse="transgun_003.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="transgun_003.skl"
+/>
+<BoneAnim
+  file="Anims\transgun_003.anm"
+/>
+<collision
+  file="transgun_003.col"
+/>
+</Scene.XML>

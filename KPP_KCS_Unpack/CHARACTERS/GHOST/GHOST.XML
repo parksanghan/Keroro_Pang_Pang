@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ghost_body_000 file="ghost_body_000.msh" />
+ <ghost_head_000 file="ghost_head_000.msh" />
+ <ghost_face_000 file="ghost_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mghost_body_000
+    diffuse="ghost_body_000.dds"
+    color="82 82 82"
+  />
+  <mghost_head_000
+    diffuse="ghost_head_000.dds"
+    color="101 101 101"
+  />
+  <mghost_face_000
+    diffuse="ghost_face_000.dds"
+    color="107 107 107"
+  />
+</Materials>
+<Skeleton
+  file="ghost_T_Pose.skl"
+/>
+<collision
+  file="ghost_T_Pose.col"
+/>
+</Scene.XML>

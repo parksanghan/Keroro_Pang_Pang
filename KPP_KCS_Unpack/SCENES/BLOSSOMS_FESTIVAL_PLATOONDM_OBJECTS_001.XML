@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="blossoms_festival\blossoms_festival.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="BlossomsFestival_wood_005" code="131137547" yLayer="0" posX="-5" posY="0" posZ="-6.64001" angleX="0" angleY="90" angleZ="0" scale="1.8"/>
+	<Object engName="BlossomsFestival_wood_003" code="131137545" yLayer="0" posX="-5" posY="-0.04" posZ="-10" angleX="0" angleY="30" angleZ="0" scale="1.5"/>
+	<Object engName="BlossomsFestival_wood_004" code="131137546" yLayer="0" posX="-4.93999" posY="-0.1" posZ="-11.06" angleX="0" angleY="111.7" angleZ="0" scale="0.7"/>
+	<Object engName="BlossomsFestival_wood_004" code="131137546" yLayer="0" posX="-6.06" posY="-0.12" posZ="-9.23" angleX="0" angleY="40" angleZ="0" scale="0.6"/>
+	<Object engName="BlossomsFestival_wood_004" code="131137546" yLayer="0" posX="-3" posY="-0.12" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="0.6"/>
+	<Object engName="BlossomsFestival_wood_005" code="131137547" yLayer="0" posX="4.95002" posY="0" posZ="7" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="BlossomsFestival_wood_003" code="131137545" yLayer="0" posX="5.2" posY="-0.05" posZ="10.8" angleX="0" angleY="23.1" angleZ="0" scale="1.5"/>
+	<Object engName="BlossomsFestival_wood_004" code="131137546" yLayer="0" posX="4.01999" posY="-0.11" posZ="9.84" angleX="0" angleY="203.901" angleZ="0" scale="0.5"/>
+	<Object engName="BlossomsFestival_wood_004" code="131137546" yLayer="0" posX="5.29001" posY="-0.14" posZ="11.66" angleX="0" angleY="40" angleZ="0" scale="0.6"/>
+	<Object engName="BlossomsFestival_wood_006" code="131137548" yLayer="0" posX="-3" posY="0" posZ="13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_006" code="131137548" yLayer="0" posX="-15" posY="0" posZ="14" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_006" code="131137548" yLayer="0" posX="2" posY="0" posZ="-13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_006" code="131137548" yLayer="0" posX="14" posY="0" posZ="-14" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_006" code="131137548" yLayer="0" posX="23" posY="0" posZ="5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_006" code="131137548" yLayer="0" posX="23" posY="0" posZ="-5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_006" code="131137548" yLayer="0" posX="-23" posY="0" posZ="4" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_006" code="131137548" yLayer="0" posX="-23" posY="0" posZ="-5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_006" code="131137548" yLayer="0" posX="14" posY="0" posZ="14" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_006" code="131137548" yLayer="0" posX="-13" posY="0" posZ="-14" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_003" code="131137545" yLayer="0" posX="13" posY="0" posZ="7" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_003" code="131137545" yLayer="0" posX="14.9601" posY="0" posZ="-5.87002" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_003" code="131137545" yLayer="0" posX="33" posY="0" posZ="0" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_003" code="131137545" yLayer="0" posX="-15.2101" posY="0" posZ="5.76" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_003" code="131137545" yLayer="0" posX="-14" posY="0" posZ="-8" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_003" code="131137545" yLayer="0" posX="-32.64" posY="0" posZ="-0.03" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_004" code="131137546" yLayer="0" posX="18" posY="0" posZ="8" angleX="0" angleY="0" angleZ="0" scale="0.6"/>
+	<Object engName="BlossomsFestival_wood_004" code="131137546" yLayer="0" posX="7.42996" posY="0" posZ="-8.12" angleX="0" angleY="90" angleZ="0" scale="0.6"/>
+	<Object engName="BlossomsFestival_wood_004" code="131137546" yLayer="0" posX="-7.12997" posY="0" posZ="8.34999" angleX="0" angleY="90" angleZ="0" scale="0.6"/>
+	<Object engName="BlossomsFestival_wood_004" code="131137546" yLayer="0" posX="-19" posY="0" posZ="-6" angleX="0" angleY="0" angleZ="0" scale="0.6"/>
+	<Object engName="BlossomsFestival_special_004" code="131137553" yLayer="0" posX="-11.25" posY="0" posZ="8.86" angleX="0" angleY="45.3002" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_special_001" code="131137550" yLayer="0" posX="-10.71" posY="0" posZ="-4.3" angleX="0" angleY="10" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_special_002" code="131137551" yLayer="0" posX="-18" posY="0" posZ="2" angleX="0" angleY="10" angleZ="0" scale="1">
+		<Object engName="BlossomsFestival_wood_001" code="131137543" yLayer="1" posX="0" posY="0.01" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="BlossomsFestival_special_003" code="131137552" yLayer="0" posX="-11" posY="0" posZ="2" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="BlossomsFestival_wood_002" code="131137544" yLayer="1" posX="0" posY="0.01" posZ="0" angleX="0" angleY="70" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="BlossomsFestival_special_004" code="131137553" yLayer="0" posX="-17" posY="0" posZ="-2.77" angleX="0" angleY="70" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_special_004" code="131137553" yLayer="0" posX="-30" posY="0" posZ="-1" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="BlossomsFestival_wood_001" code="131137543" yLayer="1" posX="0" posY="0.01" posZ="0" angleX="0" angleY="90" angleZ="0" scale="1">
+			<Object engName="BlossomsFestival_glass_002" code="131137542" yLayer="2" posX="0" posY="0.6" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		</Object>
+	</Object>
+	<Object engName="BlossomsFestival_plastic_001" code="131137537" yLayer="0" posX="-17.61" posY="0" posZ="8.84" angleX="0" angleY="90" angleZ="0" scale="0.8"/>
+	<Object engName="BlossomsFestival_paper_001" code="131137538" yLayer="0" posX="-15" posY="0" posZ="4" angleX="0" angleY="40" angleZ="0" scale="0.8"/>
+	<Object engName="BlossomsFestival_paper_001" code="131137538" yLayer="0" posX="-15.2101" posY="0" posZ="2.66355" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="-21" posY="0" posZ="-10" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="-20" posY="0" posZ="-11" angleX="0" angleY="80" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_003" code="131137540" yLayer="0" posX="-21" posY="0" posZ="-10.8536" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="-20.61" posY="0" posZ="-10.3646" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="-20" posY="0" posZ="11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="-28" posY="0" posZ="7" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="-26.3599" posY="0" posZ="-6.36999" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="-6" posY="0" posZ="12" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="26.34" posY="0" posZ="-6.22998" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="26.2" posY="0" posZ="6.11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="20.2" posY="0" posZ="10.68" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="20.24" posY="-1.49012e-009" posZ="-10.63" angleX="0" angleY="-7.2" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="10.03" posY="0" posZ="13.26" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="6" posY="0" posZ="-12.11" angleX="0" angleY="-1.5" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="-10" posY="0" posZ="-13.27" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_002" code="131137542" yLayer="0" posX="-11.25" posY="0" posZ="10.8335" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_001" code="131137541" yLayer="0" posX="-12.87" posY="0" posZ="3.92002" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_001" code="131137541" yLayer="0" posX="-8.46999" posY="0" posZ="-3.35001" angleX="0" angleY="150" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_001" code="131137541" yLayer="0" posX="-16" posY="0" posZ="4" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_001" code="131137541" yLayer="0" posX="-18" posY="0" posZ="0.668406" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_003" code="131137540" yLayer="0" posX="-6.51001" posY="0" posZ="-1.04" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="-7" posY="0" posZ="0" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_plastic_001" code="131137537" yLayer="0" posX="-14" posY="0" posZ="-1" angleX="0" angleY="-30" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_001" code="131137538" yLayer="0" posX="-15" posY="0" posZ="-5" angleX="0" angleY="20" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_001" code="131137541" yLayer="0" posX="-15" posY="0" posZ="-3" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_plastic_001" code="131137537" yLayer="0" posX="-31" posY="0" posZ="2" angleX="0" angleY="-30" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_special_004" code="131137553" yLayer="0" posX="11" posY="0" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="BlossomsFestival_glass_002" code="131137542" yLayer="1" posX="0" posY="0.01" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="BlossomsFestival_special_001" code="131137550" yLayer="0" posX="17" posY="0.01" posZ="-2.58001" angleX="0" angleY="30" angleZ="0" scale="1">
+		<Object engName="BlossomsFestival_wood_001" code="131137543" yLayer="1" posX="0" posY="0.01" posZ="0" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="BlossomsFestival_special_002" code="131137551" yLayer="0" posX="11" posY="0" posZ="3" angleX="0" angleY="10" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_special_003" code="131137552" yLayer="0" posX="17" posY="0.01" posZ="4" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="BlossomsFestival_wood_002" code="131137544" yLayer="1" posX="0" posY="0.01" posZ="0" angleX="0" angleY="70" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="BlossomsFestival_special_004" code="131137553" yLayer="0" posX="30" posY="0" posZ="-1" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="26" posY="0" posZ="-7" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="26" posY="0" posZ="-5" angleX="0" angleY="50" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_003" code="131137540" yLayer="0" posX="27" posY="0" posZ="-6" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_001" code="131137538" yLayer="0" posX="16" posY="0" posZ="-8" angleX="0" angleY="20" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_002" code="131137542" yLayer="0" posX="19" posY="0" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_002" code="131137542" yLayer="0" posX="11" posY="0" posZ="1" angleX="0" angleY="50" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_001" code="131137541" yLayer="0" posX="20" posY="0" posZ="1" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_001" code="131137541" yLayer="0" posX="30" posY="0" posZ="1.48951" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_002" code="131137542" yLayer="0" posX="28" posY="0" posZ="-3" angleX="0" angleY="50" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_plastic_001" code="131137537" yLayer="0" posX="12" posY="0" posZ="-1" angleX="0" angleY="-30" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_plastic_001" code="131137537" yLayer="0" posX="14" posY="0" posZ="1" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_001" code="131137538" yLayer="0" posX="14" posY="0" posZ="-1" angleX="0" angleY="20" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_001" code="131137541" yLayer="0" posX="18" posY="0" posZ="5.64721" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_001" code="131137541" yLayer="0" posX="16" posY="0" posZ="0" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="grandmahouse_bush" code="127991822" yLayer="0" posX="30" posY="0" posZ="4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="grandmahouse_bush" code="127991822" yLayer="0" posX="-31" posY="0" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="7" posY="0" posZ="-1" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="7" posY="0" posZ="1" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="7.69" posY="0" posZ="-0.15" angleX="0" angleY="50" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_wood_005" code="131137547" yLayer="0" posX="26" posY="0" posZ="-12" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="BlossomsFestival_wood_005" code="131137547" yLayer="0" posX="-26" posY="0" posZ="11" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="submarine_paper_1" code="120651793" yLayer="0" posX="-32.34" posY="0.95" posZ="25" angleX="0" angleY="90" angleZ="0" scale="0.6"/>
+	<Object engName="submarine_paper_2" code="120651794" yLayer="0" posX="32.34" posY="0.93" posZ="-25.2" angleX="0" angleY="90" angleZ="0" scale="0.6"/>
+	<Object engName="blossomsfestival_collision_out" code="131137554" yLayer="0" posX="0" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

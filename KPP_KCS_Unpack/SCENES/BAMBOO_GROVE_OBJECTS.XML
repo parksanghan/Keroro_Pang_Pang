@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="bamboo_grove\bamboo_grove.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="barricade" code="119603209" yLayer="0" posX="5.73034" posY="-1.52588e-006" posZ="3.76918" angleX="0" angleY="204.699" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="4.50213" posY="0" posZ="5.80485" angleX="0" angleY="280" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="9.88833" posY="-3.05176e-006" posZ="0.770205" angleX="0" angleY="220" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="11.3832" posY="0" posZ="-1.23453" angleX="0" angleY="220" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="13.7285" posY="1.52588e-006" posZ="-2.44887" angleX="0" angleY="191.699" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="8.01698" posY="-4.57764e-006" posZ="2.7689" angleX="0" angleY="210" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-6.85701" posY="0.0257904" posZ="-13.5087" angleX="0" angleY="311.598" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-4.6885" posY="0.0257935" posZ="-12.078" angleX="0" angleY="345" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-2.36068" posY="-5.79834e-005" posZ="-11.3424" angleX="0" angleY="10" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="0.682999" posY="-5.49316e-005" posZ="-12.9287" angleX="0" angleY="19.7" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="3.18847" posY="-5.49316e-005" posZ="-13.2743" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="5.7961" posY="-5.49316e-005" posZ="-13.3604" angleX="0" angleY="5.3" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="8.24353" posY="-5.18799e-005" posZ="-14.2308" angleX="0" angleY="35.7" angleZ="0" scale="1"/>
+	<Object engName="keron dummy 2" code="119603213" yLayer="0" posX="7.93701" posY="-2.13623e-005" posZ="6.72137" angleX="0" angleY="35" angleZ="0" scale="1"/>
+	<Object engName="keron dummy 2" code="119603213" yLayer="0" posX="14.6732" posY="0" posZ="-0.597943" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keron dummy 3" code="119603214" yLayer="0" posX="10.7882" posY="0" posZ="2.51523" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="keron dummy" code="119603212" yLayer="0" posX="-4.71457" posY="-5.49316e-005" posZ="-14.6951" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="keron dummy 4" code="119603215" yLayer="0" posX="1.882" posY="-5.49316e-005" posZ="-15.5091" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="ninja flag1" code="119603204" yLayer="0" posX="-2.65293" posY="-5.49316e-005" posZ="-14.6357" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="ninja flag1" code="119603204" yLayer="0" posX="-16.958" posY="0.0199463" posZ="-19.0842" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="ninja flag2" code="119603205" yLayer="0" posX="30.3927" posY="-6.10352e-006" posZ="-13.0928" angleX="0" angleY="70" angleZ="0" scale="1"/>
+	<Object engName="ninja flag2" code="119603205" yLayer="0" posX="-0.668383" posY="-3.05176e-006" posZ="12.9524" angleX="0" angleY="215" angleZ="0" scale="1"/>
+	<Object engName="lamplight" code="119603206" yLayer="0" posX="-2.71206" posY="-3.05176e-006" posZ="-6.31899" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="lamplight" code="119603206" yLayer="0" posX="9.02918" posY="0" posZ="-6.65201" angleX="0" angleY="0" angleZ="0" scale="1.3"/>
+	<Object engName="lamplight" code="119603206" yLayer="0" posX="6.73998" posY="-3.05176e-006" posZ="-9.06788" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="basket" code="119603207" yLayer="0" posX="16.6163" posY="-5.79834e-005" posZ="-19.1053" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="basket" code="119603207" yLayer="0" posX="15.9679" posY="-5.79834e-005" posZ="-15.7813" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="declaration" code="119603208" yLayer="0" posX="-24.6027" posY="0.0199951" posZ="9.13852" angleX="0" angleY="285" angleZ="0" scale="1"/>
+	<Object engName="bamboo sheaf" code="119603210" yLayer="0" posX="-9.27876" posY="-9.15527e-006" posZ="-2.0448" angleX="0" angleY="280" angleZ="0" scale="0.7"/>
+	<Object engName="bamboo sprout" code="119603211" yLayer="0" posX="-12.0801" posY="6.10352e-006" posZ="-5.51366" angleX="0" angleY="50" angleZ="0" scale="1.2"/>
+	<Object engName="bamboo sprout" code="119603211" yLayer="0" posX="-27.3665" posY="-4.27246e-005" posZ="6.05021" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo sprout" code="119603211" yLayer="0" posX="32.7445" posY="-9.15527e-006" posZ="-11.4114" angleX="0" angleY="45" angleZ="0" scale="0.8"/>
+	<Object engName="bamboo sprout" code="119603211" yLayer="0" posX="25.4819" posY="-3.05176e-006" posZ="8.61327" angleX="0" angleY="75" angleZ="0" scale="1.5"/>
+	<Object engName="bamboo sprout" code="119603211" yLayer="0" posX="5.13883" posY="0.315021" posZ="19.5379" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo sheaf" code="119603210" yLayer="0" posX="-26.837" posY="-5.79834e-005" posZ="-1.9091" angleX="0" angleY="32" angleZ="0" scale="0.8"/>
+	<Object engName="bamboo sheaf" code="119603210" yLayer="0" posX="16.1102" posY="-0.109735" posZ="-7.64461" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="turtle stone" code="119603201" yLayer="0" posX="4" posY="0" posZ="-5" angleX="0" angleY="285" angleZ="0" scale="3"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-5.25011" posY="-6.10352e-005" posZ="-23.0405" angleX="0" angleY="0" angleZ="0" scale="1.6"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-16.543" posY="-9.15527e-006" posZ="9.56736" angleX="0" angleY="96" angleZ="0" scale="2"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-10.9298" posY="-2.44141e-005" posZ="5.26333" angleX="0" angleY="75" angleZ="0" scale="2"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-17.6632" posY="-6.10352e-006" posZ="-8.16824" angleX="0" angleY="23" angleZ="0" scale="2"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-20.7094" posY="0.0229095" posZ="-6.01809" angleX="0" angleY="54" angleZ="0" scale="1.4"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-19.8036" posY="0.0200012" posZ="-7.67687" angleX="0" angleY="75" angleZ="0" scale="1.1"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-14.7654" posY="9.15527e-006" posZ="9.31143" angleX="0" angleY="54" angleZ="0" scale="1.1"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-12.7306" posY="0.0199951" posZ="5.11841" angleX="0" angleY="23" angleZ="0" scale="1.1"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-24.305" posY="-5.18799e-005" posZ="-6.43071" angleX="0" angleY="134" angleZ="0" scale="1.7"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="4.3726" posY="-5.49316e-005" posZ="-19.8541" angleX="0" angleY="60" angleZ="0" scale="1.8"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-3.89512" posY="-6.10352e-005" posZ="-19.2386" angleX="0" angleY="54" angleZ="0" scale="1.4"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="10.7541" posY="-6.10352e-006" posZ="7.69889" angleX="0" angleY="0" angleZ="0" scale="1.7"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="17.3921" posY="0.0229034" posZ="3.66442" angleX="0" angleY="23" angleZ="0" scale="1.7"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="14.19" posY="0" posZ="4.47002" angleX="0" angleY="75" angleZ="0" scale="1.6"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="2" posY="0" posZ="-18" angleX="0" angleY="23" angleZ="0" scale="1.6"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="5.52999" posY="0" posZ="8.18" angleX="0" angleY="300" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="7.12" posY="0" posZ="10.25" angleX="0" angleY="315" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="9" posY="0" posZ="12" angleX="0" angleY="315" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="10.79" posY="0" posZ="13.79" angleX="0" angleY="315" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="16.25" posY="0" posZ="-2.33" angleX="0" angleY="170" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="18.75" posY="0" posZ="-2.16" angleX="0" angleY="177.2" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="21.22" posY="0" posZ="-2.33" angleX="0" angleY="190" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="23.71" posY="0" posZ="-2.83" angleX="0" angleY="190" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="26.25" posY="0" posZ="-2.92" angleX="0" angleY="170" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="28.62" posY="0" posZ="-2" angleX="0" angleY="150" angleZ="0" scale="1"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="22" posY="0" posZ="1" angleX="0" angleY="64" angleZ="0" scale="1.9"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="28" posY="0" posZ="3" angleX="0" angleY="158" angleZ="0" scale="1.6"/>
+	<Object engName="keron dummy 3" code="119603214" yLayer="0" posX="21" posY="0" posZ="-1" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-7.74" posY="0" posZ="-16" angleX="0" angleY="275.002" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-8.22001" posY="0" posZ="-18.37" angleX="0" angleY="290.999" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-9.26001" posY="0" posZ="-20.6" angleX="0" angleY="295.899" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-10.21" posY="0" posZ="-22.9201" angleX="0" angleY="290.999" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-10.81" posY="0" posZ="-25.3901" angleX="0" angleY="278.098" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="10" posY="0" posZ="-16.07" angleX="0" angleY="54.7999" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="11.28" posY="0" posZ="-18.28" angleX="0" angleY="65" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="12.38" posY="0" posZ="-20.59" angleX="0" angleY="65" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="13.43" posY="0" posZ="-22.87" angleX="0" angleY="65" angleZ="0" scale="1"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="8.14001" posY="0" posZ="-20.0401" angleX="0" angleY="0" angleZ="0" scale="1.6"/>
+	<Object engName="keron dummy" code="119603212" yLayer="0" posX="7" posY="0" posZ="-16" angleX="0" angleY="30" angleZ="0" scale="1.5"/>
+	<Object engName="keron dummy 4" code="119603215" yLayer="0" posX="-6.83999" posY="0" posZ="-19.56" angleX="0" angleY="107.1" angleZ="0" scale="1"/>
+	<Object engName="ninja flag1" code="119603204" yLayer="0" posX="11" posY="0" posZ="-24" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ninja flag1" code="119603204" yLayer="0" posX="22" posY="0" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ninja flag2" code="119603205" yLayer="0" posX="18" posY="0" posZ="0" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="ninja flag2" code="119603205" yLayer="0" posX="6.68999" posY="0" posZ="5" angleX="0" angleY="35" angleZ="0" scale="1"/>
+	<Object engName="lamplight" code="119603206" yLayer="0" posX="-0.936374" posY="0" posZ="-4.31243" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+</ARRANGEMENT>

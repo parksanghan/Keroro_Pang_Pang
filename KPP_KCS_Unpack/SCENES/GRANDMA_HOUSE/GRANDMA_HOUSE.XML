@@ -1,0 +1,470 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_gdm_earth_ga_grass_01 file="notrans_gdm_earth_ga_grass_01.msh" />
+ <notrans_gdm_earth_ga_hill_01 file="notrans_gdm_earth_ga_hill_01.msh" />
+ <notrans_gdm_earth_ga_hill_02 file="notrans_gdm_earth_ga_hill_02.msh" />
+ <notrans_gdm_earth_ga_hill_03 file="notrans_gdm_earth_ga_hill_03.msh" />
+ <notrans_gdm_earth_ga_hill_04 file="notrans_gdm_earth_ga_hill_04.msh" />
+ <notrans_gdm_expearth_kn02 file="notrans_gdm_expearth_kn02.msh" />
+ <gdm_wall_nyh001_03 file="gdm_wall_nyh001_03.msh" />
+ <notrans_gdm_earth_ga_hill_05 file="notrans_gdm_earth_ga_hill_05.msh" />
+ <notrans_gdm_expgrass_kn02 file="notrans_gdm_expgrass_kn02.msh" />
+ <notrans_gdm_earth_ga_grass_02 file="notrans_gdm_earth_ga_grass_02.msh" />
+ <gdm_down_ms01 file="gdm_down_ms01.msh" />
+ <gdm_cloudall_ms01 file="gdm_cloudall_ms01.msh" />
+ <gdm_sky_ms file="gdm_sky_ms.msh" />
+ <gdm_roundall_ms01 file="gdm_roundall_ms01.msh" />
+ <notrans_gdm_wall_nyh002_02 file="notrans_gdm_wall_nyh002_02.msh" />
+ <notrans_gdm_raod_nyh001_03 file="notrans_gdm_raod_nyh001_03.msh" />
+ <notrans_gdm_raod_nyh001_02 file="notrans_gdm_raod_nyh001_02.msh" />
+ <notrans_gdm_clover_a file="notrans_gdm_clover_a.msh" />
+ <gdm_nhouse file="gdm_nhouse.msh" />
+ <gdm_rockcin_a file="gdm_rockcin_a.msh" />
+ <gdm_rockcin_b file="gdm_rockcin_b.msh" />
+ <gdm_tamagyma file="gdm_tamagyma.msh" />
+ <gdm_tamagymb file="gdm_tamagymb.msh" />
+ <gdm_hut_nyh001_01 file="gdm_hut_nyh001_01.msh" />
+ <gdm_hut_nyh001_02 file="gdm_hut_nyh001_02.msh" />
+ <gdm_kennel_nyh001 file="gdm_kennel_nyh001.msh" />
+ <gdm_rockcin_b01 file="gdm_rockcin_b01.msh" />
+ <notrans_gdm_earth_ga_hill_06 file="notrans_gdm_earth_ga_hill_06.msh" />
+ <gdm_rockcin_a01 file="gdm_rockcin_a01.msh" />
+ <notrans_gdm_earth_ga_hill_07 file="notrans_gdm_earth_ga_hill_07.msh" />
+ <notrans_gdm_earth_ga_hill_08 file="notrans_gdm_earth_ga_hill_08.msh" />
+ <gdm_rockcin_a02 file="gdm_rockcin_a02.msh" />
+ <gdm_rockcin_b02 file="gdm_rockcin_b02.msh" />
+ <gdm_rockcin_a03 file="gdm_rockcin_a03.msh" />
+ <gdm_rockcin_b03 file="gdm_rockcin_b03.msh" />
+ <gdm_rockcin_a04 file="gdm_rockcin_a04.msh" />
+ <gdm_rockcin_b04 file="gdm_rockcin_b04.msh" />
+ <gdm_rockcin_a05 file="gdm_rockcin_a05.msh" />
+ <notrans_gdm_bl_stone_01 file="notrans_gdm_bl_stone_01.msh" />
+ <notrans_gdm_dotree_ms01 file="notrans_gdm_dotree_ms01.msh" />
+ <notrans_gdm_dotree_ap_ms01 file="notrans_gdm_dotree_ap_ms01.msh" />
+ <gdm_nhouse01 file="gdm_nhouse01.msh" />
+ <notrans_gdm_bundle_grass_2w file="notrans_gdm_bundle_grass_2w.msh" />
+ <notrans_gdm_clover_c01 file="notrans_gdm_clover_c01.msh" />
+ <gdm_rockcin_b05 file="gdm_rockcin_b05.msh" />
+ <gdm_rockcin_a06 file="gdm_rockcin_a06.msh" />
+ <gdm_rockcin_b06 file="gdm_rockcin_b06.msh" />
+ <gdm_rockcin_a07 file="gdm_rockcin_a07.msh" />
+ <notrans_gdm_shadow_circle_01 file="notrans_gdm_shadow_circle_01.msh" />
+ <notrans_gdm_shadow_square03 file="notrans_gdm_shadow_square03.msh" />
+ <notrans_gdm_shadow_square07 file="notrans_gdm_shadow_square07.msh" />
+ <notrans_gdm_shadow_sp file="notrans_gdm_shadow_sp.msh" />
+ <gdm_wall_nyh001_01 file="gdm_wall_nyh001_01.msh" />
+ <notrans_gdm_expearth_kn01 file="notrans_gdm_expearth_kn01.msh" />
+ <notrans_gdm_expgrass_kn01 file="notrans_gdm_expgrass_kn01.msh" />
+ <notrans_gdm_earth_up_kn01 file="notrans_gdm_earth_up_kn01.msh" />
+ <notrans_gdm_raod_nyh001_01 file="notrans_gdm_raod_nyh001_01.msh" />
+ <gdm_wall_sm001_01 file="gdm_wall_sm001_01.msh" />
+ <gdm_flowerpot_nyh001 file="gdm_flowerpot_nyh001.msh" />
+ <gdm_flowerpot_nyh002 file="gdm_flowerpot_nyh002.msh" />
+ <gdm_grandmabarn_jm01 file="gdm_grandmabarn_jm01.msh" />
+ <notrans_gdm_grandmahouseob_jm file="notrans_gdm_grandmahouseob_jm.msh" />
+ <gdm_grandmabarnalob_jm file="gdm_grandmabarnalob_jm.msh" />
+ <notrans_gdm_grandmabarn_etcms file="notrans_gdm_grandmabarn_etcms.msh" />
+ <gdm_nhouse_wd_sd file="gdm_nhouse_wd_sd.msh" />
+ <gdm_grandmahouse_jm02 file="gdm_grandmahouse_jm02.msh" />
+ <gdm_grandmahouse_jm01 file="gdm_grandmahouse_jm01.msh" />
+ <gdm_grandmahouse_jm06 file="gdm_grandmahouse_jm06.msh" />
+ <gdm_grandmahouse_jm05 file="gdm_grandmahouse_jm05.msh" />
+ <gdm_grandmahouse_jm04 file="gdm_grandmahouse_jm04.msh" />
+ <gdm_grandmahouse_jm03 file="gdm_grandmahouse_jm03.msh" />
+ <gdm_flowerpot_nyh03 file="gdm_flowerpot_nyh03.msh" />
+ <gdm_flowerpot_nyh04 file="gdm_flowerpot_nyh04.msh" />
+ <gdm_grandmabarn_jm03 file="gdm_grandmabarn_jm03.msh" />
+ <gdm_grandmabarn_jm04 file="gdm_grandmabarn_jm04.msh" />
+ <gdm_grandmahouse_jm07 file="gdm_grandmahouse_jm07.msh" />
+ <notrans_gdm_bundle_grass_03 file="notrans_gdm_bundle_grass_03.msh" />
+ <gdm_r_tree_ms64 file="gdm_r_tree_ms64.msh" />
+ <gdm_r_tree_ms34 file="gdm_r_tree_ms34.msh" />
+ <gdm_r_tree_ms09 file="gdm_r_tree_ms09.msh" />
+ <gdm_r_tree_ms14 file="gdm_r_tree_ms14.msh" />
+ <gdm_r_tree_ms15 file="gdm_r_tree_ms15.msh" />
+ <gdm_r_tree_ms10 file="gdm_r_tree_ms10.msh" />
+ <gdm_r_tree_ms08 file="gdm_r_tree_ms08.msh" />
+ <gdm_r_tree_ms25 file="gdm_r_tree_ms25.msh" />
+ <gdm_r_tree_ms28 file="gdm_r_tree_ms28.msh" />
+ <gdm_r_tree_ms26 file="gdm_r_tree_ms26.msh" />
+ <gdm_r_tree_ms19 file="gdm_r_tree_ms19.msh" />
+ <gdm_r_tree_ms23 file="gdm_r_tree_ms23.msh" />
+ <gdm_r_tree_ms18 file="gdm_r_tree_ms18.msh" />
+ <gdm_r_tree_ms17 file="gdm_r_tree_ms17.msh" />
+ <gdm_r_tree_ms12 file="gdm_r_tree_ms12.msh" />
+ <gdm_r_tree_ms35 file="gdm_r_tree_ms35.msh" />
+ <gdm_r_tree_ms16 file="gdm_r_tree_ms16.msh" />
+ <gdm_r_tree_ms33 file="gdm_r_tree_ms33.msh" />
+ <gdm_r_tree_ms21 file="gdm_r_tree_ms21.msh" />
+ <gdm_r_tree_ms24 file="gdm_r_tree_ms24.msh" />
+ <gdm_r_tree_ms43 file="gdm_r_tree_ms43.msh" />
+ <gdm_r_tree_ms39 file="gdm_r_tree_ms39.msh" />
+ <gdm_r_tree_ms44 file="gdm_r_tree_ms44.msh" />
+ <gdm_r_tree_ms29 file="gdm_r_tree_ms29.msh" />
+ <gdm_r_tree_ms32 file="gdm_r_tree_ms32.msh" />
+ <gdm_r_tree_ms06 file="gdm_r_tree_ms06.msh" />
+ <gdm_r_tree_ms07 file="gdm_r_tree_ms07.msh" />
+ <gdm_r_tree_ms03 file="gdm_r_tree_ms03.msh" />
+ <gdm_r_tree_ms20 file="gdm_r_tree_ms20.msh" />
+ <gdm_r_tree_ms30 file="gdm_r_tree_ms30.msh" />
+ <gdm_r_tree_ms11 file="gdm_r_tree_ms11.msh" />
+ <gdm_r_tree_ms37 file="gdm_r_tree_ms37.msh" />
+ <gdm_r_tree_ms45 file="gdm_r_tree_ms45.msh" />
+ <gdm_r_tree_ms55 file="gdm_r_tree_ms55.msh" />
+ <gdm_r_tree_ms67 file="gdm_r_tree_ms67.msh" />
+ <gdm_r_tree_ms71 file="gdm_r_tree_ms71.msh" />
+ <gdm_r_tree_ms68 file="gdm_r_tree_ms68.msh" />
+ <gdm_r_tree_ms48 file="gdm_r_tree_ms48.msh" />
+ <gdm_r_tree_ms60 file="gdm_r_tree_ms60.msh" />
+ <gdm_r_tree_ms79 file="gdm_r_tree_ms79.msh" />
+ <gdm_r_tree_ms52 file="gdm_r_tree_ms52.msh" />
+ <gdm_r_tree_ms47 file="gdm_r_tree_ms47.msh" />
+ <gdm_r_tree_ms51 file="gdm_r_tree_ms51.msh" />
+ <gdm_r_tree_ms74 file="gdm_r_tree_ms74.msh" />
+ <gdm_r_tree_ms46 file="gdm_r_tree_ms46.msh" />
+ <gdm_r_tree_ms61 file="gdm_r_tree_ms61.msh" />
+ <gdm_r_tree_ms41 file="gdm_r_tree_ms41.msh" />
+ <gdm_r_tree_ms75 file="gdm_r_tree_ms75.msh" />
+ <gdm_r_tree_ms78 file="gdm_r_tree_ms78.msh" />
+ <gdm_r_tree_ms31 file="gdm_r_tree_ms31.msh" />
+ <gdm_r_tree_ms77 file="gdm_r_tree_ms77.msh" />
+ <gdm_r_tree_ms66 file="gdm_r_tree_ms66.msh" />
+ <gdm_r_tree_ms65 file="gdm_r_tree_ms65.msh" />
+ <gdm_r_tree_ms76 file="gdm_r_tree_ms76.msh" />
+ <gdm_r_tree_ms40 file="gdm_r_tree_ms40.msh" />
+ <gdm_r_tree_ms72 file="gdm_r_tree_ms72.msh" />
+ <gdm_r_tree_ms62 file="gdm_r_tree_ms62.msh" />
+ <gdm_r_tree_ms63 file="gdm_r_tree_ms63.msh" />
+ <gdm_r_tree_ms57 file="gdm_r_tree_ms57.msh" />
+ <gdm_r_tree_ms69 file="gdm_r_tree_ms69.msh" />
+ <gdm_r_tree_ms70 file="gdm_r_tree_ms70.msh" />
+ <gdm_r_tree_ms59 file="gdm_r_tree_ms59.msh" />
+ <gdm_r_tree_ms73 file="gdm_r_tree_ms73.msh" />
+ <gdm_r_tree_ms13 file="gdm_r_tree_ms13.msh" />
+ <gdm_r_tree_ms01 file="gdm_r_tree_ms01.msh" />
+ <gdm_r_tree_ms54 file="gdm_r_tree_ms54.msh" />
+ <gdm_r_tree_ms42 file="gdm_r_tree_ms42.msh" />
+ <gdm_r_tree_ms58 file="gdm_r_tree_ms58.msh" />
+ <gdm_r_tree_ms38 file="gdm_r_tree_ms38.msh" />
+ <gdm_r_tree_ms02 file="gdm_r_tree_ms02.msh" />
+ <gdm_r_tree_ms05 file="gdm_r_tree_ms05.msh" />
+ <gdm_r_tree_ms04 file="gdm_r_tree_ms04.msh" />
+ <gdm_r_tree2_ms28 file="gdm_r_tree2_ms28.msh" />
+ <gdm_r_tree2_ms05 file="gdm_r_tree2_ms05.msh" />
+ <gdm_r_tree2_ms06 file="gdm_r_tree2_ms06.msh" />
+ <gdm_r_tree2_ms07 file="gdm_r_tree2_ms07.msh" />
+ <gdm_r_tree2_ms08 file="gdm_r_tree2_ms08.msh" />
+ <gdm_r_tree2_ms03 file="gdm_r_tree2_ms03.msh" />
+ <gdm_r_tree2_ms20 file="gdm_r_tree2_ms20.msh" />
+ <gdm_r_tree2_ms24 file="gdm_r_tree2_ms24.msh" />
+ <gdm_r_tree2_ms19 file="gdm_r_tree2_ms19.msh" />
+ <gdm_r_tree2_ms30 file="gdm_r_tree2_ms30.msh" />
+ <gdm_r_tree2_ms14 file="gdm_r_tree2_ms14.msh" />
+ <gdm_r_tree2_ms15 file="gdm_r_tree2_ms15.msh" />
+ <gdm_r_tree2_ms16 file="gdm_r_tree2_ms16.msh" />
+ <gdm_r_tree2_ms13 file="gdm_r_tree2_ms13.msh" />
+ <gdm_r_tree2_ms12 file="gdm_r_tree2_ms12.msh" />
+ <gdm_r_tree2_ms09 file="gdm_r_tree2_ms09.msh" />
+ <gdm_r_tree2_ms11 file="gdm_r_tree2_ms11.msh" />
+ <gdm_r_tree2_ms27 file="gdm_r_tree2_ms27.msh" />
+ <gdm_r_tree2_ms17 file="gdm_r_tree2_ms17.msh" />
+ <gdm_r_tree2_ms21 file="gdm_r_tree2_ms21.msh" />
+ <gdm_r_tree2_ms35 file="gdm_r_tree2_ms35.msh" />
+ <gdm_r_tree2_ms33 file="gdm_r_tree2_ms33.msh" />
+ <gdm_r_tree2_ms34 file="gdm_r_tree2_ms34.msh" />
+ <gdm_r_tree2_ms25 file="gdm_r_tree2_ms25.msh" />
+ <gdm_r_tree2_ms26 file="gdm_r_tree2_ms26.msh" />
+ <gdm_r_tree2_ms01 file="gdm_r_tree2_ms01.msh" />
+ <gdm_r_tree2_ms02 file="gdm_r_tree2_ms02.msh" />
+ <gdm_r_tree2_ms04 file="gdm_r_tree2_ms04.msh" />
+ <gdm_r_tree2_ms18 file="gdm_r_tree2_ms18.msh" />
+ <gdm_r_tree2_ms10 file="gdm_r_tree2_ms10.msh" />
+ <gdm_r_tree2_ms31 file="gdm_r_tree2_ms31.msh" />
+ <gdm_r_tree2_ms40 file="gdm_r_tree2_ms40.msh" />
+ <gdm_r_tree2_ms52 file="gdm_r_tree2_ms52.msh" />
+ <gdm_r_tree2_ms56 file="gdm_r_tree2_ms56.msh" />
+ <gdm_r_tree2_ms61 file="gdm_r_tree2_ms61.msh" />
+ <gdm_r_tree2_ms55 file="gdm_r_tree2_ms55.msh" />
+ <gdm_r_tree2_ms47 file="gdm_r_tree2_ms47.msh" />
+ <gdm_r_tree2_ms44 file="gdm_r_tree2_ms44.msh" />
+ <gdm_r_tree2_ms51 file="gdm_r_tree2_ms51.msh" />
+ <gdm_r_tree2_ms39 file="gdm_r_tree2_ms39.msh" />
+ <gdm_r_tree2_ms46 file="gdm_r_tree2_ms46.msh" />
+ <gdm_r_tree2_ms43 file="gdm_r_tree2_ms43.msh" />
+ <gdm_r_tree2_ms45 file="gdm_r_tree2_ms45.msh" />
+ <gdm_r_tree2_ms66 file="gdm_r_tree2_ms66.msh" />
+ <gdm_r_tree2_ms38 file="gdm_r_tree2_ms38.msh" />
+ <gdm_r_tree2_ms62 file="gdm_r_tree2_ms62.msh" />
+ <gdm_r_tree2_ms37 file="gdm_r_tree2_ms37.msh" />
+ <gdm_r_tree2_ms49 file="gdm_r_tree2_ms49.msh" />
+ <gdm_r_tree2_ms53 file="gdm_r_tree2_ms53.msh" />
+ <gdm_r_tree2_ms58 file="gdm_r_tree2_ms58.msh" />
+ <gdm_r_tree2_ms59 file="gdm_r_tree2_ms59.msh" />
+ <gdm_r_tree2_ms54 file="gdm_r_tree2_ms54.msh" />
+ <gdm_r_tree2_ms36 file="gdm_r_tree2_ms36.msh" />
+ <gdm_r_tree2_ms67 file="gdm_r_tree2_ms67.msh" />
+ <gdm_r_tree2_ms64 file="gdm_r_tree2_ms64.msh" />
+ <gdm_r_tree2_ms65 file="gdm_r_tree2_ms65.msh" />
+ <gdm_r_tree2_ms63 file="gdm_r_tree2_ms63.msh" />
+ <gdm_r_tree2_ms60 file="gdm_r_tree2_ms60.msh" />
+ <gdm_r_tree2_ms70 file="gdm_r_tree2_ms70.msh" />
+ <gdm_r_tree2_ms68 file="gdm_r_tree2_ms68.msh" />
+ <gdm_r_tree2_ms69 file="gdm_r_tree2_ms69.msh" />
+ <gdm_r_tree2_ms50 file="gdm_r_tree2_ms50.msh" />
+ <gdm_r_tree2_ms48 file="gdm_r_tree2_ms48.msh" />
+ <gdm_r_tree2_ms32 file="gdm_r_tree2_ms32.msh" />
+ <gdm_r_tree2_ms22 file="gdm_r_tree2_ms22.msh" />
+ <gdm_wall_ar_ms002 file="gdm_wall_ar_ms002.msh" />
+ <gdm_wall_ar_ms004 file="gdm_wall_ar_ms004.msh" />
+ <gdm_wall_ar_ms003 file="gdm_wall_ar_ms003.msh" />
+ <gdm_wall_ar_ms001 file="gdm_wall_ar_ms001.msh" />
+ <gdm_r_tree_ms80 file="gdm_r_tree_ms80.msh" />
+ <gdm_r_tree_ms81 file="gdm_r_tree_ms81.msh" />
+ <gdm_mirror_ms01 file="gdm_mirror_ms01.msh" />
+ <gdm_mirror_ms02 file="gdm_mirror_ms02.msh" />
+ <notrans_gdm_r_guardrail_ms46 file="notrans_gdm_r_guardrail_ms46.msh" />
+ <gdm_waterbu_ms01 file="gdm_waterbu_ms01.msh" />
+ <notrans_gdm_outline_01 file="notrans_gdm_outline_01.msh" />
+ <gdm_rockcin_b07 file="gdm_rockcin_b07.msh" />
+ <gdm_rockcin_a08 file="gdm_rockcin_a08.msh" />
+ <gdm_rockcin_b08 file="gdm_rockcin_b08.msh" />
+ <gdm_rockcin_a09 file="gdm_rockcin_a09.msh" />
+ <notrans_gdm_bundle_grass_04 file="notrans_gdm_bundle_grass_04.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+</Objects>
+<Materials version="2">
+  <mCollision_MovingMesh
+    color="94 137 225"
+  />
+  <mgdm_earth_ga_grass_02
+    diffuse="gdm_earth_ga_grass_02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_earth_ga_hill_01
+    diffuse="gdm_earth_ga_hill_01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_expearth_kn01
+    diffuse="gdm_expearth_kn01.dds"
+    color="255 255 255"
+  />
+  <mgdm_wall_nyh001
+    diffuse="gdm_cliff_e.dds"
+    color="255 255 255"
+  />
+  <mgdm_expgrass_kn01
+    diffuse="gdm_expgrass_kn01.dds"
+    color="255 255 255"
+  />
+  <mgdm_around_ms02
+    diffuse="gdm_around_ms02.dds"
+    color="255 255 255"
+  />
+  <mgdm_cloudmt_ms01
+    diffuse="gdm_cloudmt_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_sky
+    diffuse="gdm_sky.dds"
+    color="255 255 255"
+  />
+  <mgdm_mt_all_ms
+    diffuse="gdm_mt_all_ms.dds"
+    color="255 255 255"
+  />
+  <mgdm_wall_nyh002_02_id01
+    diffuse="gmwall_nyh002_02_id01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_wall_nyh002_02_id02
+    diffuse="gmwall_nyh002_02_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_raod_nyh001_03
+    diffuse="gmroad_nyh001_03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_raod_nyh001_02
+    diffuse="gmroad_nyh001_02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_clover_a
+    diffuse="gdm_clover_a.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_nhouse
+    diffuse="gdm_nhouse.dds"
+    color="247 247 247"
+  />
+  <mgdm_nhousea
+    diffuse="gdm_nhousea.dds"
+    color="255 255 255"
+  />
+  <mgdm_rockcin_a
+    diffuse="gdm_rockcin_a.dds"
+    color="255 255 255"
+  />
+  <mgdm_rockcin_b
+    diffuse="gdm_rockcin_b.dds"
+    color="255 255 255"
+  />
+  <mgdm_tamagyma
+    diffuse="gdm_tamagyma.dds"
+    color="255 255 255"
+  />
+  <mgdm_tamagymd
+    diffuse="gdm_tamagymd.dds"
+    color="255 255 255"
+  />
+  <mgdm_tamagymb
+    diffuse="gdm_tamagymb.dds"
+    color="255 255 255"
+  />
+  <mgdm_hut_nyh001_01
+    diffuse="gdhut_nyh001_01.dds"
+    color="255 255 255"
+  />
+  <mgdm_hut_nyh001_02
+    diffuse="gdhut_nyh001_02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_kennel_nyh001
+    diffuse="gdkennel_nyh001.dds"
+    color="255 255 255"
+  />
+  <mgdm_bl_stone_01
+    diffuse="gdm_bl_stone_01.dds"
+    color="255 255 255"
+  />
+  <mgem_downtree_ms01
+    diffuse="gem_downtree_ms01.dds"
+    color="255 255 255"
+  />
+  <mgdm_shadow_square_ms
+    diffuse="gdm_shadow_square_ms.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_bundle_grass_01
+    diffuse="gdm_bundle_grass_01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_shadow_circle
+    diffuse="gdm_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_clover_b
+    diffuse="gdm_clover_b.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_shadow_sp
+    diffuse="gdm_shadow_sp.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_raod_nyh001_01_id01
+    diffuse="gmroad_nyh001_01_id01.dds"
+    color="255 255 255"
+  />
+  <mgdm_raod_nyh001_01_id02
+    diffuse="gmroad_nyh001_01_id02.dds"
+    color="255 255 255"
+  />
+  <mgdm_wall_nyh002_01
+    diffuse="gmwall_nyh002_01.dds"
+    color="255 255 255"
+  />
+  <mgdm_flowerpot_nyh001
+    diffuse="gdflowerpot_nyh001.dds"
+    color="255 255 255"
+  />
+  <mgdm_flowerpot_nyh002
+    diffuse="gdflowerpot_nyh002.dds"
+    color="255 255 255"
+  />
+  <mgdm_grandmabarnalpha_jm
+    diffuse="gdm_grandmabarnalpha_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_grandmahouse_jm
+    diffuse="gdm_grandmahouse_jm.dds"
+    color="255 255 255"
+  />
+  <mgdm_grandmabarn_jm
+    diffuse="gdm_grandmabarn_jm.dds"
+    color="255 255 255"
+  />
+  <mgdm_plant_ms001
+    diffuse="gdm_plant_ms001.dds"
+    color="255 255 255"
+  />
+  <mgdm_grandmahousealpha_jm
+    diffuse="gdm_grandmahousealpha_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_grandmahousetree_jm
+    diffuse="gdm_grandmahousetree_jm.dds"
+    color="255 255 255"
+  />
+  <mgdm_grandmahouse_jm04
+    diffuse="gdm_grandmahouse_jm04.dds"
+    color="255 255 255"
+  />
+  <mgdm_grandmahouse_jm05
+    diffuse="gdm_grandmahouse_jm05.dds"
+    color="255 255 255"
+  />
+  <mgdm_grandmahouse_jm03
+    diffuse="gdm_grandmahouse_jm03.dds"
+    color="255 255 255"
+  />
+  <mgdm_grandmabarn_jm_2
+    diffuse="gdm_grandmabarn_jm01.dds"
+    color="255 255 255"
+  />
+  <mgdm_grandmahouse_jm02
+    diffuse="gdm_grandmahouse_jm02.dds"
+    color="255 255 255"
+  />
+  <mgdm_tree_ms_02
+    diffuse="gdm_tree_ms_02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgdm_mirror_ms01
+    diffuse="gdm_mirror_ms01.dds"
+    color="255 255 255"
+  />
+  <mgdm_guardrail_ms01
+    diffuse="gdm_guardrail_ms01.dds"
+    color="255 255 255"
+  />
+  <mgdm_waterbu_ms01
+    diffuse="gdm_waterbu_ms01.dds"
+    color="255 255 255"
+  />
+  <mnotrans_gdm_outline_01
+    diffuse="gdm_nhouse.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="grandma_house.col"
+/>
+</Scene.XML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <bear file="bear.msh" />
+</Objects>
+<Materials version="2">
+  <mbear
+    diffuse="bear01.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="bear01_idle_002.skl"
+/>
+<BoneAnim
+  file="Anims\bear01_idle_002.anm"
+/>
+<collision
+  file="bear01_idle_002.col"
+/>
+</Scene.XML>

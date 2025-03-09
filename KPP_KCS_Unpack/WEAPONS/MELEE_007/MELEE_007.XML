@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <melee_007 file="melee_007.msh" />
+</Objects>
+<Materials version="2">
+  <m01_-_Default
+    diffuse="melee_007.dds"
+    color="92 92 92"
+  />
+</Materials>
+<Skeleton
+  file="melee_007.skl"
+/>
+<collision
+  file="melee_007.col"
+/>
+</Scene.XML>

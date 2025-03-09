@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <iceworld_icebox_008 file="iceworld_icebox_008.msh" />
+</Objects>
+<Materials version="2">
+  <micw_pyramid
+    diffuse="icw_pyramid.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="iceworld_icebox_008.col"
+/>
+</Scene.XML>

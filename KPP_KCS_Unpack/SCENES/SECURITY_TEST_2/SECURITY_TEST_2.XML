@@ -1,0 +1,296 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_sec_statue01_03 file="notrans_sec_statue01_03.msh" />
+ <notrans_sec_ground04_01 file="notrans_sec_ground04_01.msh" />
+ <notrans_sec_stair01_03 file="notrans_sec_stair01_03.msh" />
+ <notrans_sec_statue01_04 file="notrans_sec_statue01_04.msh" />
+ <notrans_sec_statue01_01 file="notrans_sec_statue01_01.msh" />
+ <notrans_sec_statue01_02 file="notrans_sec_statue01_02.msh" />
+ <notrans_sec_grass01_01 file="notrans_sec_grass01_01.msh" />
+ <notrans_sec_grass02_01 file="notrans_sec_grass02_01.msh" />
+ <notrans_sec_shadow01_01 file="notrans_sec_shadow01_01.msh" />
+ <notrans_sec_shadow01_04 file="notrans_sec_shadow01_04.msh" />
+ <notrans_sec_shadow01_07 file="notrans_sec_shadow01_07.msh" />
+ <notrans_sec_shadow01_06 file="notrans_sec_shadow01_06.msh" />
+ <notrans_sec_rock01_01 file="notrans_sec_rock01_01.msh" />
+ <notrans_sec_rock02_01 file="notrans_sec_rock02_01.msh" />
+ <notrans_sec_ground03_01 file="notrans_sec_ground03_01.msh" />
+ <notrans_clover01_01 file="notrans_clover01_01.msh" />
+ <notrans_clover01_02 file="notrans_clover01_02.msh" />
+ <notrans_clover01_04 file="notrans_clover01_04.msh" />
+ <notrans_clover01_05 file="notrans_clover01_05.msh" />
+ <notrans_clover01_06 file="notrans_clover01_06.msh" />
+ <notrans_clover01_07 file="notrans_clover01_07.msh" />
+ <notrans_clover01_08 file="notrans_clover01_08.msh" />
+ <notrans_clover01_09 file="notrans_clover01_09.msh" />
+ <notrans_clover01_10 file="notrans_clover01_10.msh" />
+ <notrans_clover01_11 file="notrans_clover01_11.msh" />
+ <notrans_clover01_12 file="notrans_clover01_12.msh" />
+ <notrans_clover01_13 file="notrans_clover01_13.msh" />
+ <notrans_clover01_14 file="notrans_clover01_14.msh" />
+ <notrans_clover01_15 file="notrans_clover01_15.msh" />
+ <notrans_clover01_16 file="notrans_clover01_16.msh" />
+ <notrans_clover01_17 file="notrans_clover01_17.msh" />
+ <notrans_clover01_18 file="notrans_clover01_18.msh" />
+ <notrans_clover01_19 file="notrans_clover01_19.msh" />
+ <notrans_clover01_20 file="notrans_clover01_20.msh" />
+ <notrans_clover01_21 file="notrans_clover01_21.msh" />
+ <notrans_clover01_22 file="notrans_clover01_22.msh" />
+ <notrans_clover01_23 file="notrans_clover01_23.msh" />
+ <notrans_clover01_24 file="notrans_clover01_24.msh" />
+ <sec_house01_03 file="sec_house01_03.msh" />
+ <sec_wooddoor01_01 file="sec_wooddoor01_01.msh" />
+ <sec_screen02_01 file="sec_screen02_01.msh" />
+ <sec_deco01_02 file="sec_deco01_02.msh" />
+ <sec_punchbag01_01 file="sec_punchbag01_01.msh" />
+ <notrans_sec_tool01_01 file="notrans_sec_tool01_01.msh" />
+ <notrans_sec_tool01_02 file="notrans_sec_tool01_02.msh" />
+ <notrans_sec_shadow02_01 file="notrans_sec_shadow02_01.msh" />
+ <notrans_sec_shadow02_02 file="notrans_sec_shadow02_02.msh" />
+ <notrans_sec_shadow02_03 file="notrans_sec_shadow02_03.msh" />
+ <notrans_sec_ground01_01 file="notrans_sec_ground01_01.msh" />
+ <notrans_sec_bridge01_02 file="notrans_sec_bridge01_02.msh" />
+ <notrans_sec_fence01_01 file="notrans_sec_fence01_01.msh" />
+ <notrans_sec_fence01_02 file="notrans_sec_fence01_02.msh" />
+ <notrans_sec_shadow01_08 file="notrans_sec_shadow01_08.msh" />
+ <notrans_sec_fence01_03 file="notrans_sec_fence01_03.msh" />
+ <notrans_sec_shadow01_09 file="notrans_sec_shadow01_09.msh" />
+ <notrans_sec_ground02_01 file="notrans_sec_ground02_01.msh" />
+ <notrans_sec_fence01_05 file="notrans_sec_fence01_05.msh" />
+ <notrans_sec_fence01_06 file="notrans_sec_fence01_06.msh" />
+ <notrans_sec_shadow01_10 file="notrans_sec_shadow01_10.msh" />
+ <notrans_sec_fence01_07 file="notrans_sec_fence01_07.msh" />
+ <notrans_sec_shadow01_11 file="notrans_sec_shadow01_11.msh" />
+ <notrans_sec_sky01_01 file="notrans_sec_sky01_01.msh" />
+ <Outer_wall_01 file="Outer_wall_01.msh" />
+ <Outer_wall_02 file="Outer_wall_02.msh" />
+ <Outer_wall_04 file="Outer_wall_04.msh" />
+ <Outer_wall_03 file="Outer_wall_03.msh" />
+ <notrans_sec_outrock01_01 file="notrans_sec_outrock01_01.msh" />
+ <notrans_sec_water01_01 file="notrans_sec_water01_01.msh" />
+ <notrans_bbg_mountain_new file="notrans_bbg_mountain_new.msh" />
+ <notrans_clover01_25 file="notrans_clover01_25.msh" />
+ <notrans_clover01_26 file="notrans_clover01_26.msh" />
+ <notrans_clover01_27 file="notrans_clover01_27.msh" />
+ <notrans_sec_stair01_01 file="notrans_sec_stair01_01.msh" />
+ <sec_screen01_01 file="sec_screen01_01.msh" />
+ <notrans_sec_shadow01_12 file="notrans_sec_shadow01_12.msh" />
+ <notrans_clover01_28 file="notrans_clover01_28.msh" />
+ <sec_pleaf01_02 file="sec_pleaf01_02.msh" />
+ <sec_pine01_03 file="sec_pine01_03.msh" />
+ <sec_pine01_04 file="sec_pine01_04.msh" />
+ <sec_pleaf01_04 file="sec_pleaf01_04.msh" />
+ <notrans_sec_pine02_05 file="notrans_sec_pine02_05.msh" />
+ <notrans_sec_pine02_06 file="notrans_sec_pine02_06.msh" />
+ <notrans_sec_pine02_01 file="notrans_sec_pine02_01.msh" />
+ <notrans_sec_pine02_08 file="notrans_sec_pine02_08.msh" />
+ <notrans_sec_pine02_07 file="notrans_sec_pine02_07.msh" />
+ <notrans_sec_rock03_01 file="notrans_sec_rock03_01.msh" />
+ <notrans_sec_pine02_04 file="notrans_sec_pine02_04.msh" />
+ <notrans_sec_pine02_03 file="notrans_sec_pine02_03.msh" />
+ <notrans_sec_pine02_02 file="notrans_sec_pine02_02.msh" />
+ <notrans_sec_pine02_09 file="notrans_sec_pine02_09.msh" />
+ <notrans_sec_pine02_10 file="notrans_sec_pine02_10.msh" />
+ <notrans_sec_pine02_11 file="notrans_sec_pine02_11.msh" />
+ <notrans_clover01_29 file="notrans_clover01_29.msh" />
+ <notrans_sec_shadow01_02 file="notrans_sec_shadow01_02.msh" />
+ <notrans_sec_smoke01_01 file="notrans_sec_smoke01_01.msh" />
+ <notrans_clover01_30 file="notrans_clover01_30.msh" />
+ <notrans_clover01_31 file="notrans_clover01_31.msh" />
+ <notrans_sec_shadow02_06 file="notrans_sec_shadow02_06.msh" />
+ <notrans_sec_shadow02_07 file="notrans_sec_shadow02_07.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <GAME_MonsterMoveBound file="GAME_MonsterMoveBound.msh" />
+ <GAME_MovingMesh file="GAME_MovingMesh.msh" />
+ <notrans_clover01_32 file="notrans_clover01_32.msh" />
+ <notrans_clover01_33 file="notrans_clover01_33.msh" />
+ <notrans_sec_shadow01_13 file="notrans_sec_shadow01_13.msh" />
+ <notrans_sec_shadow01_14 file="notrans_sec_shadow01_14.msh" />
+ <notrans_sec_roof01_01 file="notrans_sec_roof01_01.msh" />
+ <notrans_sec_screen02_03 file="notrans_sec_screen02_03.msh" />
+ <notrans_sec_wooddoor01_05 file="notrans_sec_wooddoor01_05.msh" />
+ <notrans_sec_shadow01_15 file="notrans_sec_shadow01_15.msh" />
+ <notrans_sec_shadow01_16 file="notrans_sec_shadow01_16.msh" />
+ <notrans_sec_wooddoor01_06 file="notrans_sec_wooddoor01_06.msh" />
+ <notrans_sec_roof01_03 file="notrans_sec_roof01_03.msh" />
+ <notrans_sec_screen02_04 file="notrans_sec_screen02_04.msh" />
+ <notrans_clover01_34 file="notrans_clover01_34.msh" />
+ <notrans_clover01_35 file="notrans_clover01_35.msh" />
+ <notrans_clover01_36 file="notrans_clover01_36.msh" />
+ <sec_house01_01 file="sec_house01_01.msh" />
+ <sec_deco01_01 file="sec_deco01_01.msh" />
+ <notrans_sec_house01_02 file="notrans_sec_house01_02.msh" />
+</Objects>
+<Materials version="2">
+  <msec_statue01
+    diffuse="sec_statue01.dds"
+    color="255 255 255"
+  />
+  <msec_ground04
+    diffuse="sec_ground04.dds"
+    color="255 255 255"
+  />
+  <msec_stair01_id01
+    diffuse="sec_stair01_id01.dds"
+    color="255 255 255"
+  />
+  <msec_stair01_id02
+    diffuse="sec_stair01_id02.dds"
+    color="255 255 255"
+  />
+  <msec_stair01_id03
+    diffuse="sec_stair01_id03.dds"
+    color="255 255 255"
+  />
+  <msec_grass01
+    diffuse="sec_grass01_id01.dds"
+    color="255 255 255"
+  />
+  <msec_grass02
+    diffuse="sec_grass01_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msec_shadow01_01
+    diffuse="vil_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_stone_nyh001
+    diffuse="lostone_nyh001.dds"
+    color="255 255 255"
+  />
+  <msec_rock03
+    diffuse="sec_rock03.dds"
+    color="255 255 255"
+  />
+  <msec_ground03
+    diffuse="sec_ground03.dds"
+    color="255 255 255"
+  />
+  <mff
+    diffuse="lob_clovercin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgrass02
+    diffuse="vil_grass2_domscin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msec_house01_id01
+    diffuse="sec_house01_01.dds"
+    color="255 255 255"
+  />
+  <msec_house01_id02
+    diffuse="sec_house01_02.dds"
+    color="255 255 255"
+  />
+  <msec_house01_id03
+    diffuse="sec_house01_03.dds"
+    color="255 255 255"
+  />
+  <msec_house01_id04
+    diffuse="sec_house01_04.dds"
+    color="255 255 255"
+  />
+  <msec_house01_id05
+    diffuse="sec_house01_05.dds"
+    color="255 255 255"
+  />
+  <msec_wooddoor01_id01
+    diffuse="sec_wooddoor01_id01.dds"
+    color="255 255 255"
+  />
+  <msec_wooddoor01_id02
+    diffuse="sec_wooddoor01_id02.dds"
+    color="255 255 255"
+  />
+  <msec_screen01
+    diffuse="sec_screen01.dds"
+    color="255 255 255"
+  />
+  <msec_deco01
+    diffuse="sec_deco01.dds"
+    color="255 255 255"
+  />
+  <msec_punchbag01
+    diffuse="sec_punchbag01.dds"
+    color="255 255 255"
+  />
+  <msec_punchbag02
+    diffuse="sec_punchbag02.dds"
+    color="255 255 255"
+  />
+  <msec_pleaf03
+    diffuse="sec_pleaf03_001.dds"
+    color="255 255 255"
+  />
+  <msec_tool01_001
+    diffuse="sec_tool01.dds"
+    color="255 255 255"
+  />
+  <msec_shadow02
+    diffuse="vil_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msec_ground01
+    diffuse="sec_ground01.dds"
+    color="255 255 255"
+  />
+  <msec_bridge01
+    diffuse="sec_bridge01.dds"
+    color="255 255 255"
+  />
+  <msec_fence01
+    diffuse="sec_fence01.dds"
+    color="255 255 255"
+  />
+  <msec_ground02
+    diffuse="sec_ground02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msec_sky
+    diffuse="sec_sky.dds"
+    color="255 255 255"
+  />
+  <msec_outrock01
+    diffuse="sec_outrock01.dds"
+    color="255 255 255"
+  />
+  <msec_mountain01
+    diffuse="sec_mountain01.dds"
+    color="255 255 255"
+  />
+  <m111
+    color="149 149 149"
+  />
+  <msec_pleaf01
+    diffuse="sec_pleaf01.dds"
+    color="255 255 255"
+  />
+  <msec_pine01
+    diffuse="sec_pine01.dds"
+    color="255 255 255"
+  />
+  <msec_pine02
+    diffuse="sec_pine02.dds"
+    color="248 248 248"
+    opacity="1"
+  />
+  <msec_smoke01
+    diffuse="sec_smke01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mEmptyMat
+  />
+</Materials>
+<collision
+  file="security_test_2.col"
+/>
+</Scene.XML>

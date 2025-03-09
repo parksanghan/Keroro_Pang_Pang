@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!-- 로비에서 게임방으로 입장 -->
+<state name="EnteringState">
+  <action type="0" applyName="in_gameroom_out" actionName="in_gameroom_out_init" actionType="0"/>
+  <action type="1" applyName="in_gameroom_out"/>
+  <action type="2" applyName="in_lobby_in"/>
+  <action type="3"/>
+</state>
+
+<!-- 3d 로비에서 게임방으로 입장 -->
+<state name="EnteringStateFrom3DLobby">
+  <action type="0" applyName="in_gameroom_out" actionName="in_gameroom_out_init" actionType="0"/>
+  <action type="1" applyName="in_gameroom_out" />
+
+  <action type="0" applyName="in_gameroom_seat0" actionName="in_gameroom_seat_1" actionType="0"/>
+  <action type="0" applyName="in_gameroom_seat1" actionName="in_gameroom_seat_1" actionType="0"/>
+  <action type="0" applyName="in_gameroom_seat2" actionName="in_gameroom_seat_1" actionType="0"/>
+  <action type="0" applyName="in_gameroom_seat3" actionName="in_gameroom_seat_1" actionType="0"/>
+  <action type="0" applyName="in_gameroom_seat4" actionName="in_gameroom_seat_1" actionType="0"/>
+  <action type="0" applyName="in_gameroom_seat5" actionName="in_gameroom_seat_1" actionType="0"/>
+  <action type="0" applyName="in_gameroom_seat6" actionName="in_gameroom_seat_1" actionType="0"/>
+  <action type="0" applyName="in_gameroom_seat7" actionName="in_gameroom_seat_1" actionType="0"/>
+  <action type="0" applyName="in_gameroom_seat8" actionName="in_gameroom_seat_1" actionType="0"/>
+  <action type="0" applyName="in_gameroom_seat9" actionName="in_gameroom_seat_1" actionType="0"/>
+
+  <action type="4" applyName="in_gameroom_seat0" />
+  <action type="4" applyName="in_gameroom_seat1" />
+  <action type="4" applyName="in_gameroom_seat2" />
+  <action type="4" applyName="in_gameroom_seat3" />
+  <action type="4" applyName="in_gameroom_seat4" />
+  <action type="4" applyName="in_gameroom_seat5" />
+  <action type="4" applyName="in_gameroom_seat6" />
+  <action type="4" applyName="in_gameroom_seat7" />
+  <action type="4" applyName="in_gameroom_seat8" />
+  <action type="4" applyName="in_gameroom_seat9" />
+
+  <action type="4" applyName="in_gameroom_spaceship" />
+  <action type="4" applyName="in_gameroom_deco" />
+  <action type="4" applyName="in_gameroom_team" />
+  <action type="4" applyName="in_gameroom_mode_broad" />
+  <action type="4" applyName="in_gameroom_sphere" />
+
+  <action type="0" applyName="in_gameroom_deco" actionName="in_gameroom_deco" actionType="1"/>
+  
+  <action type="2" applyName="in_gameroom_out"/>
+  <action type="3"/>
+
+</state>
+
+<!-- 게임시작시 방문 닫기 -->
+<state name="CloseDoorState">
+  <action type="0" applyName="in_gameroom_out" actionName="in_gameroom_out_close" actionType="0"/>
+  <action type="2" applyName="in_gameroom_out"/>
+</state>
+
+<!-- 게임시작시 방문닫히면 기지 이동하기 -->
+<state name="MoveStageState">
+  <action type="0" applyName="in_gameroom_out" actionName="in_gameroom_out_move" actionType="0"/>
+  <action type="2" applyName="in_gameroom_out"/>
+
+  <action type="5" applyName="in_gameroom_seat0" />
+  <action type="5" applyName="in_gameroom_seat1" />
+  <action type="5" applyName="in_gameroom_seat2" />
+  <action type="5" applyName="in_gameroom_seat3" />
+  <action type="5" applyName="in_gameroom_seat4" />
+  <action type="5" applyName="in_gameroom_seat5" />
+  <action type="5" applyName="in_gameroom_seat6" />
+  <action type="5" applyName="in_gameroom_seat7" />
+  <action type="5" applyName="in_gameroom_seat8" />
+  <action type="5" applyName="in_gameroom_seat9" />
+
+  <action type="5" applyName="in_gameroom_spaceship" />
+  <action type="5" applyName="in_gameroom_deco" />
+  <action type="5" applyName="in_gameroom_team" />
+  <action type="5" applyName="in_gameroom_mode_broad" />
+  <action type="5" applyName="in_gameroom_sphere" />
+
+</state>
+
+<!-- 게임이 종료되었다. -->
+<state name="GameFinished">
+  <action type="0" applyName="in_gameroom_out" actionName="in_gameroom_out_init" actionType="0"/>
+  <action type="1" applyName="in_gameroom_out" />
+
+  <action type="2" applyName="in_gameroom_out"/>
+
+  <action type="4" applyName="in_gameroom_seat0" />
+  <action type="4" applyName="in_gameroom_seat1" />
+  <action type="4" applyName="in_gameroom_seat2" />
+  <action type="4" applyName="in_gameroom_seat3" />
+  <action type="4" applyName="in_gameroom_seat4" />
+  <action type="4" applyName="in_gameroom_seat5" />
+  <action type="4" applyName="in_gameroom_seat6" />
+  <action type="4" applyName="in_gameroom_seat7" />
+  <action type="4" applyName="in_gameroom_seat8" />
+  <action type="4" applyName="in_gameroom_seat9" />
+
+  <action type="4" applyName="in_gameroom_spaceship" />
+  <action type="4" applyName="in_gameroom_deco" />
+  <action type="4" applyName="in_gameroom_team" />
+  <action type="4" applyName="in_gameroom_mode_broad" />
+  <action type="4" applyName="in_gameroom_sphere" />
+
+  <action type="0" applyName="in_gameroom_deco" actionName="in_gameroom_deco" actionType="1"/>
+  
+  <action type="2" applyName="in_gameroom_out"/>
+  <action type="3"/>
+</state>
+
+
+
+<!--
+action type 
+  0 - animation 플레이
+    as_play, = 0
+    as_loop, = 1
+    as_pause, = 2
+    as_stop, = 3
+   
+  1 - camera 플레이
+  2 - animation 플레이 완료 확인
+  3 - camera 플레이 완료 확인
+  4 - 오브젝트 attachObject;
+  5 - 오브젝트 detachObject;
+//  6 - 캐릭터 attach
+//  7 - 캐릭터 detach
+-->

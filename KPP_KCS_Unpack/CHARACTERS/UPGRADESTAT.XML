@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<UpgradeStat.XML>
+	<upgrade Name="침략 케로로"	engName="keroro_1"	code="247463937"	needChr="18939905"	skill1="168820746"	skill2="168820747"	skill3="168821175"	hp="250"	sp="300"	moveSpeed="32"	defense="3"	Pistol="5"	autoRifle="3"	machineGun="1"	shotGun="4"	sniperRifle="5"	roketGun="1"	trap="2"	throw="4"	melee="4"	introduce="침략 키트 사용으로 강력해진 케로로. 권총과 저격총에 특화되어 있다. \n[보너스 = 권총류의 무기 연사력 및 기절률 증가. 저격총 연사력 1초 증가. 탄속 증가]" />
+	<upgrade Name="돌격 타마마"	engName="tamama_1"	code="247463938"	needChr="19005441"	skill1="168820740"	skill2="168820741"	skill3="168820742"	hp="240"	sp="300"	moveSpeed="32"	defense="3"	Pistol="3"	autoRifle="5"	machineGun="2"	shotGun="5"	sniperRifle="1"	roketGun="2"	trap="3"	throw="4"	melee="4"	introduce="돌격 키트 사용으로 강력해진 타마마. 자동소총과 산탄총에 특화되어 있다. \n[보너스 = 자동소총 총알 속도 및 크리티컬 증가. 산탄총 총알 수 +1.]" />
+	<upgrade Name="지원 기로로"	engName="giroro_1"	code="247463939"	needChr="19070977"	skill1="168820743"	skill2="168820744"	skill3="168820745"	hp="250"	sp="330"	moveSpeed="32"	defense="4"	Pistol="3"	autoRifle="4"	machineGun="5"	shotGun="1"	sniperRifle="2"	roketGun="5"	trap="4"	throw="1"	melee="4"	introduce="지원 키트 사용으로 강력해진 기로로. 기관총과 로켓포에 특화되어 있다. \n[보너스 = 기관총 총알 속도 및 연사력 증가. 로켓포 공격력 폭발범위 증가, 장전모션 없음.]" />
+	<upgrade Name="원샷 도로로"	engName="dororo_1"	code="247463940"	needChr="19202049"	skill1="168820749"	skill2="168820750"	skill3="168820751"	hp="240"	sp="300"	moveSpeed="35"	defense="1"	Pistol="3"	autoRifle="3"	machineGun="1"	shotGun="5"	sniperRifle="5"	roketGun="1"	trap="2"	throw="5"	melee="4"	introduce="원샷 키트 사용으로 강력해진 도로로. 산탄총과 저격총에 특화되어 있다. \n[보너스 = 산탄총 총알 수 +1. 저격총 연사력 1초 증가. 탄속 증가. 수류탄 사거리 증가.]"	/>
+</UpgradeStat.XML>

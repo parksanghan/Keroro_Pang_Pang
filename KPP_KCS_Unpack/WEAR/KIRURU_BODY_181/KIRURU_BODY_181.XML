@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kiruru_body_181 file="kiruru_body_181.msh" />
+</Objects>
+<Materials version="2">
+  <mkeroro_body_151
+    diffuse="kiruru_body_181.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

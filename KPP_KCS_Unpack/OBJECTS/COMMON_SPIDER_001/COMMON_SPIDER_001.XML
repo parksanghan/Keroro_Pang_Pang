@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <common_spider_001 file="common_spider_001.msh" />
+</Objects>
+<Materials version="2">
+  <mcommon_spider_001
+    diffuse="common_spider_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="common_spider_001.skl"
+/>
+<BoneAnim
+  file="Anims\common_spider_001.anm"
+/>
+<collision
+  file="common_spider_001.col"
+/>
+</Scene.XML>

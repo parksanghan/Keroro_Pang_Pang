@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <virus_002 file="virus_002.msh" />
+</Objects>
+<Materials version="2">
+  <mvirus_002
+    diffuse="virus_002.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Virus_002.skl"
+/>
+<BoneAnim
+  file="Anims\Virus_002.anm"
+/>
+<collision
+  file="Virus_002.col"
+/>
+</Scene.XML>

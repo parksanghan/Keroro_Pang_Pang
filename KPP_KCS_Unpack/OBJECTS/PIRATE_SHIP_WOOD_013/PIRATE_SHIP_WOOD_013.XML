@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pipirate_ship_wood_013 file="pipirate_ship_wood_013.msh" />
+</Objects>
+<Materials version="2">
+  <mpirate_ship_wood_011
+    diffuse="pirate_ship_wood_011.dds"
+    color="255 255 255"
+  />
+  <mpirate_ship_wood_011b
+    diffuse="pirate_ship_wood_012.dds"
+    color="255 255 255"
+  />
+  <mpirate_ship_wood_011c
+    diffuse="pirate_ship_wood_013.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="pirate_ship_wood_013.col"
+/>
+</Scene.XML>

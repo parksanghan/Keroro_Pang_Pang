@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="keron_hangar\keron_hangar.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="keron_hangar_metal_001" code="144769025" yLayer="0" posX="-13.12" posY="0.04" posZ="-10.95" angleX="0" angleY="-23.7001" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_001" code="144769025" yLayer="0" posX="12.53" posY="0.04" posZ="17.59" angleX="0" angleY="-25.5" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_002" code="144769026" yLayer="0" posX="20.31" posY="0.04" posZ="2.66" angleX="0" angleY="128" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_002" code="144769026" yLayer="0" posX="17.06" posY="0.04" posZ="4.11" angleX="0" angleY="30.4001" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_002" code="144769026" yLayer="0" posX="20.86" posY="0.6" posZ="5.16" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_002" code="144769026" yLayer="0" posX="-21.55" posY="0.6" posZ="-5.35001" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_002" code="144769026" yLayer="0" posX="-21.02" posY="0.04" posZ="-2.75" angleX="0" angleY="-139.898" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_002" code="144769026" yLayer="0" posX="-17.82" posY="0.04" posZ="-3.43" angleX="0" angleY="26.1" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_003" code="144769027" yLayer="0" posX="-11.93" posY="0.04" posZ="19.02" angleX="0" angleY="20" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_003" code="144769027" yLayer="0" posX="11.51" posY="0.05" posZ="-14.73" angleX="0" angleY="22.2" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_004" code="144769028" yLayer="0" posX="24" posY="0.05" posZ="-8" angleX="0" angleY="-50" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_004" code="144769028" yLayer="0" posX="24" posY="0.05" posZ="-9" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_004" code="144769028" yLayer="0" posX="-27.84" posY="0.05" posZ="8.94" angleX="0" angleY="140" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_004" code="144769028" yLayer="0" posX="-27.91" posY="0.05" posZ="9.79691" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_005" code="144769029" yLayer="0" posX="-13.48" posY="0.04" posZ="11.73" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_005" code="144769029" yLayer="0" posX="9.7" posY="0.05" posZ="-6.70999" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_004" code="144769028" yLayer="0" posX="2" posY="0.08" posZ="3" angleX="0" angleY="70" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_metal_004" code="144769028" yLayer="0" posX="1" posY="0.08" posZ="1.38" angleX="0" angleY="140" angleZ="0" scale="1"/>
+</ARRANGEMENT>

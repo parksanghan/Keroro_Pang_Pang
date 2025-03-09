@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ChatCommandList>
+  <!-- Type -->
+  <ChatCommandType>
+    <CommandType type="0" name="none"/>
+    <CommandType type="1" name="corporation_chat"/>
+    <CommandType type="2" name="Observer"/>
+    <CommandType type="3" name="Whisper"/>
+    <CommandType type="4" name="Team"/>
+  </ChatCommandType>
+
+  <!-- command -->  
+  <ChatCommandList>
+    <Command name="corporation_chat" cmd1="/g " cmd2="/G " cmd3="/m " cmd4="/M " cmd5="" cmd6="/ㅂ " cmd7="/부대 " cmd8="/부 "/>
+    <Command name="Observer" cmd1="/관전" cmd2="" cmd3="" cmd4="" cmd5="" cmd6="" cmd7="" cmd8=""/>
+    <Command name="Whisper" cmd1="/r " cmd2="/R " cmd3="/ㄱ " cmd4="/귓 " cmd5="/귓말 " cmd6="/귓속말 " cmd7="" cmd8=""/>
+    <Command name="Team" cmd1="/t " cmd2="/T " cmd3="/ㅌ " cmd4="/팀 " cmd5="/ㅅ " cmd6="" cmd7="" cmd8=""/>
+  </ChatCommandList>
+</ChatCommandList>

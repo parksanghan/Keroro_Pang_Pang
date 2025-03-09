@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <incaexcavate_rock_003_1 file="incaexcavate_rock_003_1.msh" />
+</Objects>
+<Materials version="2">
+  <mincaexcavate_rock_003_1
+    diffuse="incaexcavate_rock_003_1.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="incaexcavate_rock_003_1.skl"
+/>
+<collision
+  file="incaexcavate_rock_003_1.col"
+/>
+</Scene.XML>

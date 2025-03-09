@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<viperkid_resource_list.xml>
+	<effects>
+		<effect name="fx_viperkid_skill_001_1.prx" />
+		<effect name="fx_viperkid_skill_001_2.prx" />
+		<effect name="fx_viperkid_skill_002_start.prx" />
+		<effect name="fx_viperkid_skill_002_tail.prx" />
+		<effect name="fx_viperkid_skill_002_shot.prx" />
+		<effect name="fx_viperkid_skill_002_icon.prx" />
+		<effect name="fx_viperkid_skill_003_landing.prx" />
+		<effect name="fx_viperkid_skill_003_cut_1" />
+		<effect name="fx_viperkid_skill_003_cut_2" />
+		<effect name="fx_viperkid_skill_003_cut_3" />
+		<effect name="fx_viperkid_skill_003_fire.prx" />
+	</effects>
+</viperkid_resource_list.xml>

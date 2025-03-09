@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="trader_warehouse\trader_warehouse.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="storehouse_glass_005" code="137428997" yLayer="0" posX="3.2" posY="2" posZ="3.2" angleX="0" angleY="0" angleZ="0" scale="2"/>
+	<Object engName="storehouse_glass_001" code="137428993" yLayer="0" posX="-3.2" posY="2" posZ="-3.2" angleX="0" angleY="0" angleZ="0" scale="2"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="-15.4" posY="2.17" posZ="14.05" angleX="0" angleY="315" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="15.4" posY="2.17" posZ="-14.05" angleX="0" angleY="135" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="12.71" posY="2.17" posZ="-16.49" angleX="0" angleY="140.5" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="-12.71" posY="2.17" posZ="16.49" angleX="0" angleY="-39.5" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="-9.65" posY="2.17" posZ="18.48" angleX="0" angleY="-26.6" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="-15.99" posY="2.17" posZ="-13.54" angleX="0" angleY="225" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="-13.43" posY="2.17" posZ="-16.09" angleX="0" angleY="225" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="-10.48" posY="2.17" posZ="-18.24" angleX="0" angleY="207" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="15.99" posY="2.17" posZ="13.54" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="13.43" posY="2.17" posZ="16.09" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="10.48" posY="2.17" posZ="18.24" angleX="0" angleY="27" angleZ="0" scale="1"/>
+	<Object engName="storehouse_glass_010" code="137429002" yLayer="0" posX="-9.55" posY="0" posZ="-2.07" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="storehouse_glass_009" code="137429001" yLayer="0" posX="-12" posY="0" posZ="-2.07" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="storehouse_glass_014" code="137429006" yLayer="0" posX="15" posY="0" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="storehouse_glass_013" code="137429005" yLayer="0" posX="-8.96" posY="0" posZ="9" angleX="0" angleY="306.6" angleZ="0" scale="1.5"/>
+	<Object engName="storehouse_glass_012" code="137429004" yLayer="0" posX="-12" posY="0" posZ="2.08" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="storehouse_metal_004" code="137429008" yLayer="0" posX="5" posY="2.2" posZ="-22" angleX="0" angleY="-2" angleZ="0" scale="1.3"/>
+	<Object engName="storehouse_metal_005" code="137429009" yLayer="0" posX="-5" posY="2.19" posZ="21" angleX="0" angleY="20" angleZ="0" scale="1"/>
+	<Object engName="storehouse_glass_012" code="137429004" yLayer="0" posX="-24.63" posY="0" posZ="-18.47" angleX="0" angleY="45" angleZ="0" scale="1.5"/>
+	<Object engName="storehouse_glass_010" code="137429002" yLayer="0" posX="-17.42" posY="0" posZ="-19.75" angleX="0" angleY="45" angleZ="0" scale="1.5"/>
+	<Object engName="storehouse_glass_009" code="137429001" yLayer="0" posX="18.66" posY="0" posZ="18.52" angleX="0" angleY="45" angleZ="0" scale="1.5"/>
+	<Object engName="storehouse_glass_008" code="137429000" yLayer="0" posX="24.64" posY="0" posZ="18.47" angleX="0" angleY="45" angleZ="0" scale="1.5"/>
+	<Object engName="storehouse_glass_013" code="137429005" yLayer="0" posX="9" posY="0" posZ="-7" angleX="0" angleY="40" angleZ="0" scale="1.5"/>
+	<Object engName="storehouse_glass_012" code="137429004" yLayer="0" posX="12" posY="0" posZ="-2.1" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="storehouse_metal_004" code="137429008" yLayer="0" posX="-17" posY="0" posZ="2" angleX="0" angleY="180" angleZ="0" scale="1.3"/>
+	<Object engName="storehouse_glass_007" code="137428999" yLayer="0" posX="9" posY="0" posZ="2.1" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="-17.55" posY="2.17" posZ="11.11" angleX="0" angleY="-62.7" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="17.55" posY="2.17" posZ="-11.11" angleX="0" angleY="117.3" angleZ="0" scale="1"/>
+	<Object engName="storehouse_special_002" code="137429011" yLayer="0" posX="9.65" posY="2.17" posZ="-18.48" angleX="0" angleY="153.4" angleZ="0" scale="1"/>
+</ARRANGEMENT>

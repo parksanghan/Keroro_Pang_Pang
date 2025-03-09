@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="-9.5" posY="0.1" posZ="-33" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="1" posX="-9.98" posY="0.1" posZ="27.58" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="2" posX="-19.08" posY="0.1" posZ="-7.33" angleY="90" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="3" posX="18.87" posY="0.1" posZ="7.63001" angleY="270" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="4" posX="9.5" posY="0.1" posZ="33" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="5" posX="11" posY="0.1" posZ="-26" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="6" posX="-12" posY="0.1" posZ="5" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="7" posX="12" posY="0.1" posZ="-4" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="8" posX="11" posY="0.1" posZ="13" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="9" posX="-11" posY="0.1" posZ="-16" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

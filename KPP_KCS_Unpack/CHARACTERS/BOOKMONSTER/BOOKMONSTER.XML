@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <bookmonster file="bookmonster.msh" />
+</Objects>
+<Materials version="2">
+  <mbookmonster_000
+    diffuse="bookmonster.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="bookmonster.skl"
+/>
+<BoneAnim
+  file="Anims\bookmonster.anm"
+/>
+<collision
+  file="bookmonster.col"
+/>
+</Scene.XML>

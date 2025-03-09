@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <vehicle_001 file="vehicle_001.msh" />
+</Objects>
+<Materials version="2">
+  <mvehicle_001
+    diffuse="vehicle_001.dds"
+    color="150 150 150"
+  />
+</Materials>
+<collision
+  file="vehicle_001.col"
+/>
+</Scene.XML>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <nunwawa_head_121 file="nunwawa_head_121.msh" />
+</Objects>
+<Materials version="2">
+  <mnunwawa_head_121
+    diffuse="nunwawa_head_121.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

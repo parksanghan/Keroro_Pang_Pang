@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<toonilandReward.xml>
+	<exchange>
+		<CharacterType>
+			<character name="가루루"	code="18939906"	switchItemName="가루루"	switchItemcode="18939906"	/>
+			<character name="슈라라"	code="18939907"	switchItemName="슈라라"	switchItemcode="18939907"	/>
+			<character name="죠리리"	code="18939908"	switchItemName="죠리리"	switchItemcode="18939908"	/>
+			<character name="푸루루"	code="19005442"	switchItemName="푸루루"	switchItemcode="19005442"	/>
+			<character name="로보보"	code="19005443"	switchItemName="로보보"	switchItemcode="19005443"	/>
+			<character name="키루루"	code="19005444"	switchItemName="키루루"	switchItemcode="19005444"	/>
+			<character name="다크 키루루" code="19005445"	switchItemName="다크 키루루"	switchItemcode="19005445"	/>
+			<character name="스모모"    code="19005446"	switchItemName="스모모"	switchItemcode="19005446"	/>
+			<character name="키카카"	code="19005447"	switchItemName="키카카"	switchItemcode="19005447"	/>
+			<character name="우레레"	code="19005448"	switchItemName="우레레"	switchItemcode="19005448"	/>
+			<character name="꼬마 쿠루루"	code="19005449"	switchItemName="꼬마 쿠루루"	switchItemcode="19005449"	/>
+			<character name="타루루"	code="19070978"	switchItemName="타루루"	switchItemcode="19070978"	/>
+			<character name="눈와와"	code="19070979"	switchItemName="눈와와"	switchItemcode="19070979"	/>
+			<character name="토로로"	code="19136514"	switchItemName="토로로"	switchItemcode="19136514"	/>
+			<character name="푸타타"	code="19136515"	switchItemName="푸타타"	switchItemcode="19136515"	/>
+			<character name="조루루"	code="19202050"	switchItemName="조루루"	switchItemcode="19202050"	/>
+			<character name="카게게"	code="19202051"	switchItemName="카게게"	switchItemcode="19202051"	/>
+			<character name="지라라"	code="19202052"	switchItemName="지라라"	switchItemcode="19202052"	/>
+			<character name="메케케"	code="19202053"	switchItemName="메케케"	switchItemcode="19202053"	/>
+			<character name="교로로"		code="19202054"	switchItemName="교로로"	switchItemcode="19202054"	/>
+			<character name="꼬마 바이퍼"	code="22085633"	switchItemName="꼬마 바이퍼"	switchItemcode="22085633"	/>
+			<character name="메카 바이퍼"	code="22216705"	switchItemName="메카 바이퍼"	switchItemcode="22216705"	/>
+		</CharacterType>
+	</exchange>
+	
+	<provision>
+		<!-- count필드에 몇개를 지급할 건지 넣어주세요(60일짜리면 count = 2) -->
+		<WeaponType>
+			<weapon name="트라이앵글건"	code="35719148"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="라비 건"	code="35719149"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="핑퐁 권총"	code="35719150"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="헤라 권총"	code="35719152"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="베스파 트랜스 건"	code="35784700"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="라이트닝 건"	code="35784701"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="일렉 기타 라이플"	code="35784686"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="스트라이크 라이플"	code="35784702"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="AK-47 자동 소총"	code="35784703"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="아테나 자동 소총"	code="35784705"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="코어 머신건"	code="35850215"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="스피아 머신건"	code="35850216"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="드럼 머신건"	code="35850217"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="제우스 머신건"	code="35850219"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="인크루 샷건"	code="35915763"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="볼트 샷건"	code="35915761"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="트럼펫 샷건"	code="35915755"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="빌리어드 샷건"	code="35915762"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="아레스 샷건"	code="35915765"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="길리 스나이퍼"	code="35981294"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="레드 롱테일 스나이퍼"	code="35981296"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="스매시 스나이퍼"	code="35981295"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="헤르메스 스나이퍼"	code="35981298"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="메드 프로건"	code="36046862"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="F크래커 로켓포"	code="36046863"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="파워슈팅 바주카"	code="36046864"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="붐박스 로켓포"	code="36046865"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="RPG-7 로켓포"	code="36046866"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="헤라클래스 포"	code="36046868"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="똥침 트랩"	code="36112356"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="대야 트랩"	code="36112357"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="바이오탄"	code="36177897"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="팝콘탄"	code="36177898"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="타임리스 투척 트랩"	code="36177896"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="라이트닝 소드 556"	code="36438080"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="모닝스타 철퇴"	code="36438081"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="블러디 소드 556"	code="36438082"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="에메랄드 소드 556"	code="36438083"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="블루버드 트랜스 건"	code="36503560"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="GLL 슈퍼탑 에너지포"	code="36046812"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="GLL 스나이퍼"	code="35981275"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="켈베로스 머신건"	code="35850203"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="화이트 버드 샷건"	code="35915754"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="허스키 라이플"	code="35784688"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="골드드래곤 권총"	code="35719131"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="머스킷 화승총"	code="35784699"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="시작은 언제나 비"	code="35915749"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<weapon name="M79 유탄발사기"	code="36503559"	limitMethod="1"	limitvalue="30"	count="1"	/>
+		</WeaponType>
+		
+		<WearType>
+			<wear name="낚시꾼 의상"	code="70451231"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<wear name="길리슈트"	code="70451221"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<wear name="특수기동복"	code="70451232"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<wear name="허스키의 힘 세트"	code="70451222"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<wear name="바이퍼 낚시꾼 의상"	code="72548367"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<wear name="바이퍼 길리슈트"	code="72548368"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<wear name="바이퍼 특수기동복"	code="72548369"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<wear name="바이퍼 허스키"	code="72548370"	limitMethod="1"	limitvalue="30"	count="1"	/>
+		</WearType>
+		
+		<EffectType>
+			<effect name="우주케로베로스의 간"	code="52494366"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="케로베로스간 DX"	code="52494367"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="기로로 특별 케이크"	code="52494368"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="타입G"	code="52494364"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="백발백중탄"	code="52559887"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="반사탄"	code="52559904"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="멀티포탄"	code="52559905"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="협동전 코인"	code="52559895"	limitMethod="5"	limitvalue="100"	count="2"	/>
+			<effect name="쿠루루 유도탄"	code="52690949"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="더블 왁도널드 햄버거"	code="52494362"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="칼프스 오메가"	code="52494363"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="붉은 즙"	code="52559902"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="마음의 차"	code="52559903"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="스타후르츠 DX"	code="52559906"	limitMethod="3"	limitvalue="100"	count="2"	/>
+			<effect name="모아모아 티"	code="52559907"	limitMethod="3"	limitvalue="100"	count="2"	/>
+		</EffectType>
+		
+		<PremiumType>
+			<premium name="팡 플러스 50"	code="235929603"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<premium name="공헌도 플러스 50"	code="235929604"	limitMethod="1"	limitvalue="30"	count="1"	/>
+			<premium name="플라잉 보드"	code="242221063"	limitMethod="1"	limitvalue="30"	count="1"	/>
+		</PremiumType>
+	</provision>
+</toonilandReward.xml>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tororo_skill_002_ultrasonic file="tororo_skill_002_ultrasonic.msh" />
+</Objects>
+<Materials version="2">
+  <mtororo_skill_002_ultrasonic
+    diffuse="tororo_skill_002_ultrasonic.tga"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="tororo_skill_002_ultrasonic.skl"
+/>
+<BoneAnim
+  file="Anims\tororo_skill_002_ultrasonic.anm"
+/>
+<collision
+  file="tororo_skill_002_ultrasonic.col"
+/>
+</Scene.XML>

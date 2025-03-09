@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="keron" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="0" posY="15" posZ="0" radius="0" respawnTime="0"/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="1" posX="21" posY="5" posZ="-32.7" radius="1" respawnTime="0"/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="2" posX="-11.3" posY="5" posZ="-31.2" radius="1" respawnTime="0"/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="3" posX="-28.4" posY="5" posZ="-31.2" radius="1" respawnTime="0"/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="4" posX="-24" posY="5" posZ="42.3" radius="1" respawnTime="0"/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="5" posX="10" posY="5" posZ="24.8" radius="1" respawnTime="0"/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="6" posX="30.5" posY="5" posZ="23" radius="1" respawnTime="0"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="7" posX="-11.2567" posY="4.49999" posZ="-27.9751" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="8" posX="-25.5798" posY="3.69998" posZ="-33.8965" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="9" posX="-2.82117" posY="2.69999" posZ="-41.3669" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676" teamId="0" spawnId="10" posX="27.9742" posY="3.7" posZ="-40.1283" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="11" posX="-24.4148" posY="1.49998" posZ="-19.0723" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="12" posX="-18.5356" posY="2.7" posZ="-19.6119" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="13" posX="6.80416" posY="3.69999" posZ="-6.21129" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="14" posX="4.08159" posY="3.69999" posZ="-20.8326" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="15" posX="-10.2535" posY="3.69999" posZ="-6.3515" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="17" posX="-9.25835" posY="1.49999" posZ="2.50517" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="18" posX="-3.81423" posY="3.69999" posZ="11.365" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676" teamId="0" spawnId="19" posX="5.84807" posY="4.5" posZ="25.2727" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="20" posX="28.5928" posY="4.49999" posZ="22.7833" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="21" posX="-28.4472" posY="3.69999" posZ="43.9504" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="22" posX="19.3075" posY="2.7" posZ="2.47151" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="23" posX="28.357" posY="1.49998" posZ="34.7948" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="24" posX="12.4774" posY="3.69999" posZ="4.70904" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="25" posX="-27.1372" posY="1.5" posZ="24.8846" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676" teamId="0" spawnId="26" posX="5.82282" posY="1.1927" posZ="24.2536" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="27" posX="32.7097" posY="1.49999" posZ="-10.6918" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="28" posX="26.2623" posY="1.49999" posZ="-15.7549" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="29" posX="-16.3639" posY="1.49999" posZ="-29.65" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676" teamId="0" spawnId="30" posX="-19.9277" posY="1.49999" posZ="13.9339" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="31" posX="-19.1319" posY="1.49999" posZ="28.7773" radius="0" respawnTime="60"/>
+	<spawn type="itembox" engName="defense_1" code="153092097" teamId="0" spawnId="32" posX="64" posY="1.14" posZ="0" radius="1" respawnTime="90"/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="33" posX="59" posY="1.14" posZ="5" radius="1" respawnTime="90"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="34" posX="59" posY="1.14" posZ="-5" radius="1" respawnTime="90"/>
+	<spawn type="itembox" engName="restoration_3" code="154140675" teamId="0" spawnId="35" posX="69" posY="1.14" posZ="5" radius="1" respawnTime="90"/>
+	<spawn type="itembox" engName="restoration_6" code="154140678" teamId="0" spawnId="36" posX="69" posY="1.14" posZ="-5" radius="1" respawnTime="90"/>
+	<spawn type="itembox" engName="defense_1" code="153092097" teamId="0" spawnId="32" posX="-62" posY="1.14" posZ="0" radius="1" respawnTime="90"/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="33" posX="-57" posY="1.14" posZ="5" radius="1" respawnTime="90"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="34" posX="-57" posY="1.14" posZ="-5" radius="1" respawnTime="90"/>
+	<spawn type="itembox" engName="restoration_3" code="154140675" teamId="0" spawnId="35" posX="-67" posY="1.14" posZ="5" radius="1" respawnTime="90"/>
+	<spawn type="itembox" engName="restoration_6" code="154140678" teamId="0" spawnId="36" posX="-67" posY="1.14" posZ="-5" radius="1" respawnTime="90"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="49" posX="30" posY="4.75" posZ="-5" angleY="85.0" scale="1.0" jumpPower="180" force="160" durationTime="4.0"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="50" posX="68" posY="1.14" posZ="0" angleY="270.0" scale="1.0" jumpPower="180" force="300" durationTime="5.0"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="51" posX="-5" posY="1.5" posZ="-34" angleY="0.0" scale="1.0" jumpPower="200" force="200" durationTime="4.5"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="52" posX="19" posY="1.5" posZ="30" angleY="180.0" scale="1.0" jumpPower="200" force="200" durationTime="4.5"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="50" posX="-66.5" posY="1.14" posZ="0" angleY="90.0" scale="1.0" jumpPower="180" force="300" durationTime="5.0"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="49" posX="-6.53" posY="3.7" posZ="1.9" angleY="270.0" scale="1.0" jumpPower="180" force="200" durationTime="4.5"/>
+</SPAWN.XML>
+

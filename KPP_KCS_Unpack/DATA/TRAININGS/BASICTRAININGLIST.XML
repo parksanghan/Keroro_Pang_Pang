@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<BasicTraniningList.xml>
+	<basictraninig	code="251723777"	engName="basic_training_01" brief="basic_training_01"	eventFileName="TutorialEvents01" />
+	<basictraninig	code="251723778"	engName="basic_training_02" brief="basic_training_02"	eventFileName="TutorialEvents02" />
+	<basictraninig	code="251723779"	engName="basic_training_03" brief="basic_training_03"	eventFileName="TutorialEvents03" />
+</BasicTraniningList.xml>

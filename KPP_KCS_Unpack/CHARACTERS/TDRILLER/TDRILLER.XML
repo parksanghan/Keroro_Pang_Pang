@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tdriller file="tdriller.msh" />
+</Objects>
+<Materials version="2">
+  <mtdriller
+    diffuse="tdriller.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Tdriller.skl"
+/>
+<BoneAnim
+  file="Anims\Tdriller.anm"
+/>
+<collision
+  file="Tdriller.col"
+/>
+</Scene.XML>

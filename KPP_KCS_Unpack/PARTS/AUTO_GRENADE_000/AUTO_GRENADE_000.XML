@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <auto_grenade_000 file="auto_grenade_000.msh" />
+</Objects>
+<Materials version="2">
+  <m01_-_Default
+    diffuse="auto_grenade_000.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="auto_grenade_000.skl"
+/>
+<BoneAnim
+  file="Anims\auto_grenade_000.anm"
+/>
+<collision
+  file="auto_grenade_000.col"
+/>
+</Scene.XML>

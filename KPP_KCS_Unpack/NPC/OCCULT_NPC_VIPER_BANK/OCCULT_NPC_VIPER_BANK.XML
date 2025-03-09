@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <occult_viper_head_01 file="occult_viper_head_01.msh" />
+ <occult_viper_body file="occult_viper_body.msh" />
+ <occult_tamama_head file="occult_tamama_head.msh" />
+ <occult_tamama_face file="occult_tamama_face.msh" />
+ <occult_tamama_body file="occult_tamama_body.msh" />
+ <occult_water01 file="occult_water01.msh" />
+ <occult_foam03 file="occult_foam03.msh" />
+ <occult_foam02 file="occult_foam02.msh" />
+ <occult_foam01 file="occult_foam01.msh" />
+ <occult_water04 file="occult_water04.msh" />
+ <occult_water03 file="occult_water03.msh" />
+ <occult_water02 file="occult_water02.msh" />
+ <occult_wheel04 file="occult_wheel04.msh" />
+ <occult_viper_head_02 file="occult_viper_head_02.msh" />
+ <occult_won_NO file="occult_won_NO.msh" />
+ <occult_rope file="occult_rope.msh" />
+</Objects>
+<Materials version="2">
+  <moccult_viper_head_01
+    diffuse="viper_head_001.tga"
+    color="149 149 149"
+  />
+  <moccult_viper_body
+    diffuse="viper_body_001.tga"
+    color="149 149 149"
+  />
+  <moccult_tamama_head
+    diffuse="tamama_head_018.tga"
+    color="149 149 149"
+  />
+  <moccult_tamama_face
+    diffuse="tamama_face_018.tga"
+    color="149 149 149"
+  />
+  <moccult_tamama_body
+    diffuse="tamama_body_018.tga"
+    color="149 149 149"
+  />
+  <mStandard_10
+    diffuse="occult_water.tga"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mMaterial_k283
+    diffuse="occult_foam.tga"
+    color="149 149 149"
+    opacity="1"
+  />
+  <moccult_viper_head_02
+    diffuse="viper_head_002.tga"
+    color="149 149 149"
+  />
+  <moccult_won
+    diffuse="occult_won.tga"
+    color="149 149 149"
+  />
+  <mStandard_5
+    diffuse="occult_stripe.tga"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="occult_npc_viper_bank.skl"
+/>
+<BoneAnim
+  file="Anims\occult_npc_viper_bank.anm"
+/>
+<collision
+  file="occult_npc_viper_bank.col"
+/>
+</Scene.XML>

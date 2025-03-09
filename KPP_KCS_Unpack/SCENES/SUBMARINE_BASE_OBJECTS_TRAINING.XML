@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="submarine_base\submarine_base.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="derrick" code="120651785" yLayer="0" posX="-21" posY="0" posZ="-17" angleX="0" angleY="180" angleZ="0" scale="0.8"/>
+	<Object engName="derrick" code="120651785" yLayer="0" posX="21" posY="0" posZ="17" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="3.70268" posY="2.99999" posZ="33.8406" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-3.6" posY="3.1" posZ="-36" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="-32.3599" posY="1.8" posZ="-18.1404" angleX="0" angleY="180" angleZ="0" scale="1.5"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="32.6405" posY="1.797" posZ="18.0882" angleX="0" angleY="222" angleZ="0" scale="1.5"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="-7.10668" posY="1.49999" posZ="-23.8902" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="7.2033" posY="1.49999" posZ="23.8902" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="-28.7529" posY="1.79699" posZ="-6.48394" angleX="0" angleY="152" angleZ="0" scale="0.5"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="30.1463" posY="1.797" posZ="13.8563" angleX="0" angleY="123" angleZ="0" scale="0.4"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="28.7976" posY="1.797" posZ="6.4249" angleX="0" angleY="72" angleZ="0" scale="0.4"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="33.6606" posY="1.45" posZ="4.50586" angleX="0" angleY="321" angleZ="0" scale="0.4"/>
+	<Object engName="dororo wooden barrel" code="117506060" yLayer="0" posX="-29.7694" posY="3" posZ="-13.5519" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="derrick" code="120651785" yLayer="0" posX="4" posY="0" posZ="0" angleX="0" angleY="270" angleZ="0" scale="0.8"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-18.8" posY="0" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="18" posY="0" posZ="16" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="kururu wooden box" code="117506053" yLayer="0" posX="-16.3" posY="2.95" posZ="31.387" angleX="0" angleY="24" angleZ="0" scale="0.7"/>
+	<Object engName="dororo wooden box" code="117506054" yLayer="0" posX="-15.95" posY="2.94999" posZ="29.78" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="dororo wooden box" code="117506054" yLayer="0" posX="-10.0345" posY="2.99999" posZ="32.9673" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="paper box" code="117506063" yLayer="0" posX="-8.3849" posY="2.95" posZ="35.2232" angleX="0" angleY="13" angleZ="0" scale="0.7"/>
+	<Object engName="potato box" code="117506062" yLayer="0" posX="-4.35466" posY="1.5" posZ="25.0549" angleX="0" angleY="15" angleZ="0" scale="0.7"/>
+	<Object engName="keroro wooden barrel" code="117506056" yLayer="0" posX="-3.705" posY="1.49999" posZ="23.0978" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="keroro wooden barrel" code="117506056" yLayer="0" posX="14.3936" posY="2.99999" posZ="-28.682" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="dororo wooden barrel" code="117506060" yLayer="0" posX="16.0686" posY="2.86998" posZ="-32.9035" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="dororo wooden barrel" code="117506060" yLayer="0" posX="4.24745" posY="2.99998" posZ="-36.2032" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="tamama wooden box" code="117506051" yLayer="0" posX="8.18228" posY="2.99999" posZ="-34.6499" angleX="0" angleY="274" angleZ="0" scale="0.7"/>
+	<Object engName="tamama wooden box" code="117506051" yLayer="0" posX="8.19846" posY="2.99999" posZ="-32.7101" angleX="0" angleY="274" angleZ="0" scale="0.7"/>
+	<Object engName="tamama wooden box" code="117506051" yLayer="0" posX="13.0005" posY="2.99984" posZ="-30.4113" angleX="0" angleY="274" angleZ="0" scale="0.7"/>
+	<Object engName="tamama wooden box" code="117506051" yLayer="0" posX="2.93968" posY="1.49999" posZ="-23.8012" angleX="0" angleY="274" angleZ="0" scale="0.7"/>
+	<Object engName="keroro wooden box" code="117506050" yLayer="0" posX="4.34795" posY="1.5" posZ="-25.0394" angleX="0" angleY="48" angleZ="0" scale="0.7"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="-17.2593" posY="1.5" posZ="23.8902" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="17.2194" posY="1.5" posZ="-23.8902" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="-5" posY="0" posZ="10.5" angleX="0" angleY="355.9" angleZ="0" scale="1.5"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="1" posY="0" posZ="7.5" angleX="0" angleY="112" angleZ="0" scale="1.3"/>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="13" posY="0" posZ="10.5" angleX="0" angleY="3" angleZ="0" scale="1.5"/>
+	<Object engName="container_3" code="120651783" yLayer="0" posX="-15" posY="0" posZ="10.5" angleX="0" angleY="45" angleZ="0" scale="1.2"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="13" posY="0" posZ="27" angleX="0" angleY="6" angleZ="0" scale="1.3"/>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="-13.5" posY="0" posZ="-27" angleX="0" angleY="11" angleZ="0" scale="1.5"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="-11" posY="0" posZ="-11" angleX="0" angleY="132" angleZ="0" scale="1.3"/>
+	<Object engName="container_3" code="120651783" yLayer="0" posX="-0.46" posY="0" posZ="-12" angleX="0" angleY="75" angleZ="0" scale="1.2"/>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="5" posY="0" posZ="-11" angleX="0" angleY="6.7" angleZ="0" scale="1.5"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="13" posY="0" posZ="-13" angleX="0" angleY="96" angleZ="0" scale="1.3"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-15" posY="0" posZ="8" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-1" posY="0" posZ="-10" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-13" posY="0" posZ="-12" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="1" posY="0" posZ="10" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="31" posY="3" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="0.5"/>
+	<Object engName="keroro wooden box" code="117506050" yLayer="0" posX="33.1199" posY="2.86107" posZ="-19.1675" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="keroro wooden box" code="117506050" yLayer="0" posX="-33.673" posY="2.95" posZ="18.2451" angleX="0" angleY="123" angleZ="0" scale="0.7"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="-30.7115" posY="2.95" posZ="18.4523" angleX="0" angleY="192" angleZ="0" scale="0.4"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="0.517381" posY="-6.10352e-006" posZ="5.38924" angleX="0" angleY="12" angleZ="0" scale="0.4"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="13.3021" posY="-3.05176e-006" posZ="15.2501" angleX="0" angleY="192" angleZ="0" scale="0.4"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="14.3727" posY="0.0199951" posZ="-15.4628" angleX="0" angleY="12" angleZ="0" scale="0.4"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="-18.8628" posY="1.5" posZ="23.7004" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="-8.87511" posY="1.49999" posZ="-23.6557" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="18.8978" posY="1.5" posZ="-26.2661" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="8.86865" posY="1.49999" posZ="23.7344" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="-11" posY="0" posZ="-4.35" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="11" posY="0" posZ="-4.35" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="14" posY="0" posZ="4.35" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="-14" posY="0" posZ="4.35" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="derrick" code="120651785" yLayer="0" posX="-4" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="2" posY="0" posZ="-9" angleX="0" angleY="196" angleZ="0" scale="0.4"/>
+	<Object engName="wooden barrel" code="117506055" yLayer="0" posX="-20.3182" posY="0" posZ="2" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-22" posY="0" posZ="-4.7" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="potato box" code="117506062" yLayer="0" posX="21.7624" posY="0" posZ="5" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="paper box" code="117506063" yLayer="0" posX="22" posY="0" posZ="-4" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="hydrant" code="120651779" yLayer="0" posX="-9" posY="0" posZ="-21" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="hydrant" code="120651779" yLayer="0" posX="9" posY="0" posZ="21" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="hydrant" code="120651779" yLayer="0" posX="-22" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="hydrant" code="120651779" yLayer="0" posX="22" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="hydrant" code="120651779" yLayer="0" posX="-19" posY="0" posZ="21" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="hydrant" code="120651779" yLayer="0" posX="19" posY="0" posZ="-21" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="submarine mine" code="120651780" yLayer="0" posX="-14" posY="0" posZ="-17" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="submarine mine" code="120651780" yLayer="0" posX="-10" posY="0" posZ="9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="submarine mine" code="120651780" yLayer="0" posX="16" posY="0" posZ="20" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="submarine mine" code="120651780" yLayer="0" posX="14" posY="0" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

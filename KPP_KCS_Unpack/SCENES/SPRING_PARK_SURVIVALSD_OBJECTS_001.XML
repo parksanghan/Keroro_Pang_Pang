@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="spring_park\spring_park.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-8.81" posY="0.01" posZ="-26" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="8.59001" posY="0.01" posZ="26" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_002" code="131137542" yLayer="0" posX="-9" posY="0.01" posZ="-27" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_002" code="131137542" yLayer="0" posX="9" posY="0.01" posZ="27" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_001" code="131137541" yLayer="0" posX="4.05" posY="0.02" posZ="-10.36" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_glass_001" code="131137541" yLayer="0" posX="-4.31001" posY="0.02" posZ="10.57" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="-9" posY="0.01" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="9" posY="0.02" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="1" posY="0.02" posZ="-18.98" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="12.8" posY="0.02" posZ="-18.97" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="-12.69" posY="0.02" posZ="18.97" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="-0.94" posY="0.02" posZ="19" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="10.38" posY="2.43" posZ="-43.63" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="27.9701" posY="2.71" posZ="-16.71" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="-27.9101" posY="2.71" posZ="16.73" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_metal_001" code="131137549" yLayer="0" posX="-10.44" posY="2.45" posZ="43.46" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="spring_park_metal_001" code="139526145" yLayer="0" posX="14.68" posY="0" posZ="-7.42001" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="spring_park_metal_002" code="139526146" yLayer="0" posX="-14.63" posY="0" posZ="7.15" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="spring_park_wood_001" code="139526147" yLayer="0" posX="-11.12" posY="-0.19" posZ="-30.57" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="spring_park_wood_004" code="139526150" yLayer="0" posX="11.13" posY="-0.2" posZ="30.9" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="spring_park_wood_002" code="139526148" yLayer="0" posX="-6.83" posY="0" posZ="14.81" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="spring_park_wood_003" code="139526149" yLayer="0" posX="7.22" posY="0.14" posZ="37.61" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	<Object engName="spring_park_wood_003" code="139526149" yLayer="0" posX="-7.13" posY="0.14" posZ="-37.83" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	<Object engName="spring_park_wood_003" code="139526149" yLayer="0" posX="-23.85" posY="3.04" posZ="8.97" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="spring_park_wood_003" code="139526149" yLayer="0" posX="23.87" posY="3.04" posZ="-8.96" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="spring_park_wood_003" code="139526149" yLayer="0" posX="9.95" posY="2.7" posZ="-40.7101" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="spring_park_wood_003" code="139526149" yLayer="0" posX="-9.94002" posY="2.72" posZ="40.8599" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="car1" code="125894659" yLayer="0" posX="25.29" posY="0" posZ="31.9302" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="car1" code="125894659" yLayer="0" posX="-25" posY="0" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="car2" code="125894660" yLayer="0" posX="34.62" posY="0" posZ="-4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="car2" code="125894660" yLayer="0" posX="-33.1199" posY="0.02" posZ="3.11001" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="spring_park_wood_003" code="139526149" yLayer="0" posX="-18.5" posY="0.32" posZ="-26.94" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="spring_park_wood_003" code="139526149" yLayer="0" posX="18.41" posY="0.35" posZ="-22.0499" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="spring_park_wood_003" code="139526149" yLayer="0" posX="18.47" posY="0.34" posZ="27.0901" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="spring_park_wood_003" code="139526149" yLayer="0" posX="-18.45" posY="0.33" posZ="22" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+</ARRANGEMENT>

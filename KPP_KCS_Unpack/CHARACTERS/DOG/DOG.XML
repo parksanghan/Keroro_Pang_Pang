@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <dog file="dog.msh" />
+</Objects>
+<Materials version="2">
+  <mdog
+    diffuse="dog.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="dog.skl"
+/>
+<collision
+  file="dog.col"
+/>
+</Scene.XML>

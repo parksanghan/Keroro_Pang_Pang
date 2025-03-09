@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <putata_skill_003_brush file="putata_skill_003_brush.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k5
+    diffuse="putata_skill_003_brush.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="putata_skill_003_brush.skl"
+/>
+<collision
+  file="putata_skill_003_brush.col"
+/>
+</Scene.XML>

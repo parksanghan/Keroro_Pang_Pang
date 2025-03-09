@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pancakefx file="pancakefx.msh" />
+</Objects>
+<Materials version="2">
+  <mpancakefx
+    diffuse="pancakefx.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="pancakefx.skl"
+/>
+<collision
+  file="pancakefx.col"
+/>
+</Scene.XML>

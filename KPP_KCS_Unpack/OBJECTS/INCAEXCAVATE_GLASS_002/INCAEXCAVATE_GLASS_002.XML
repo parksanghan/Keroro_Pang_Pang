@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <incaexcavate_glass_002 file="incaexcavate_glass_002.msh" />
+</Objects>
+<Materials version="2">
+  <mincaexcavate_glass_002
+    diffuse="incaexcavate_glass_002.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="incaexcavate_glass_002.col"
+/>
+</Scene.XML>

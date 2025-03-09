@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <submarine_metal_007_1 file="submarine_metal_007_1.msh" />
+</Objects>
+<Materials version="2">
+  <msubmarine_metal_007_1
+    diffuse="submarine_metal_007_1.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="submarine_metal_007_1.skl"
+/>
+<collision
+  file="submarine_metal_007_1.col"
+/>
+</Scene.XML>

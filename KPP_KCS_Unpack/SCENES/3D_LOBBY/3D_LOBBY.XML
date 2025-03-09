@@ -1,0 +1,906 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_lob_dinzone_earth_ms01 file="notrans_lob_dinzone_earth_ms01.msh" />
+ <notrans_lob_dinzone_grass_ms01 file="notrans_lob_dinzone_grass_ms01.msh" />
+ <notrans_lob_dinzone_stwall_ms01 file="notrans_lob_dinzone_stwall_ms01.msh" />
+ <notrans_lob_send_kn01 file="notrans_lob_send_kn01.msh" />
+ <lob_hinatahouse_nyh001 file="lob_hinatahouse_nyh001.msh" />
+ <notrans_lob_momomark_nyh001 file="notrans_lob_momomark_nyh001.msh" />
+ <notrans_lob_momomark_nyh002 file="notrans_lob_momomark_nyh002.msh" />
+ <lob_palm_jm_a02 file="lob_palm_jm_a02.msh" />
+ <lob_palm_jm_a01 file="lob_palm_jm_a01.msh" />
+ <lob_palm_jm_a03 file="lob_palm_jm_a03.msh" />
+ <lob_palm_jm_a04 file="lob_palm_jm_a04.msh" />
+ <lob_palm_jm_a05 file="lob_palm_jm_a05.msh" />
+ <notrans_smb_rock_jm_a01 file="notrans_smb_rock_jm_a01.msh" />
+ <notrans_smb_rock_jm_a03 file="notrans_smb_rock_jm_a03.msh" />
+ <notrans_smb_rock_jm_a02 file="notrans_smb_rock_jm_a02.msh" />
+ <notrans_smb_rock_jm_a04 file="notrans_smb_rock_jm_a04.msh" />
+ <notrans_smb_rock_jm_a05 file="notrans_smb_rock_jm_a05.msh" />
+ <notrans_smb_rock_jm_a06 file="notrans_smb_rock_jm_a06.msh" />
+ <lob_palm_jm_a06 file="lob_palm_jm_a06.msh" />
+ <lob_palm_jm_a07 file="lob_palm_jm_a07.msh" />
+ <lob_palm_jm_a08 file="lob_palm_jm_a08.msh" />
+ <notrans_smb_rock_jm_a07 file="notrans_smb_rock_jm_a07.msh" />
+ <lob_palm_jm_a09 file="lob_palm_jm_a09.msh" />
+ <lob_palm_jm_a10 file="lob_palm_jm_a10.msh" />
+ <lob_palm_jm_a11 file="lob_palm_jm_a11.msh" />
+ <lob_palm_jm_a12 file="lob_palm_jm_a12.msh" />
+ <notrans_smb_rock_jm_a08 file="notrans_smb_rock_jm_a08.msh" />
+ <notrans_smb_rock_jm_a09 file="notrans_smb_rock_jm_a09.msh" />
+ <notrans_smb_rock_jm_a10 file="notrans_smb_rock_jm_a10.msh" />
+ <notrans_smb_rock_jm_a11 file="notrans_smb_rock_jm_a11.msh" />
+ <notrans_smb_rock_jm_a12 file="notrans_smb_rock_jm_a12.msh" />
+ <notrans_smb_rock_jm_a13 file="notrans_smb_rock_jm_a13.msh" />
+ <notrans_smb_rock_jm_a14 file="notrans_smb_rock_jm_a14.msh" />
+ <notrans_smb_rock_jm_a15 file="notrans_smb_rock_jm_a15.msh" />
+ <notrans_smb_rock_jm_a16 file="notrans_smb_rock_jm_a16.msh" />
+ <lob_palm_jm_a13 file="lob_palm_jm_a13.msh" />
+ <lob_palm_jm_a14 file="lob_palm_jm_a14.msh" />
+ <lob_palm_jm_a15 file="lob_palm_jm_a15.msh" />
+ <lob_palm_jm_a16 file="lob_palm_jm_a16.msh" />
+ <lob_palm_jm_a17 file="lob_palm_jm_a17.msh" />
+ <lob_palm_jm_a18 file="lob_palm_jm_a18.msh" />
+ <notrans_smb_rock_jm_a17 file="notrans_smb_rock_jm_a17.msh" />
+ <notrans_smb_rock_jm_a18 file="notrans_smb_rock_jm_a18.msh" />
+ <notrans_smb_rock_jm_a19 file="notrans_smb_rock_jm_a19.msh" />
+ <notrans_smb_rock_jm_a20 file="notrans_smb_rock_jm_a20.msh" />
+ <lob_palm_jm_a19 file="lob_palm_jm_a19.msh" />
+ <lob_palm_jm_a20 file="lob_palm_jm_a20.msh" />
+ <lob_palm_jm_a21 file="lob_palm_jm_a21.msh" />
+ <notrans_smb_rock_jm_a21 file="notrans_smb_rock_jm_a21.msh" />
+ <lob_palm_jm_a22 file="lob_palm_jm_a22.msh" />
+ <lob_palm_jm_a23 file="lob_palm_jm_a23.msh" />
+ <lob_palm_jm_a24 file="lob_palm_jm_a24.msh" />
+ <lob_palm_jm_a25 file="lob_palm_jm_a25.msh" />
+ <notrans_smb_rock_jm_a22 file="notrans_smb_rock_jm_a22.msh" />
+ <notrans_smb_rock_jm_a23 file="notrans_smb_rock_jm_a23.msh" />
+ <notrans_smb_rock_jm_a24 file="notrans_smb_rock_jm_a24.msh" />
+ <notrans_smb_rock_jm_a25 file="notrans_smb_rock_jm_a25.msh" />
+ <notrans_smb_rock_jm_a26 file="notrans_smb_rock_jm_a26.msh" />
+ <lob_palm_jm_a29 file="lob_palm_jm_a29.msh" />
+ <notrans_smb_rock_jm_a27 file="notrans_smb_rock_jm_a27.msh" />
+ <notrans_smb_rock_jm_a32 file="notrans_smb_rock_jm_a32.msh" />
+ <lob_palm_jm_a30 file="lob_palm_jm_a30.msh" />
+ <lob_palm_jm_a31 file="lob_palm_jm_a31.msh" />
+ <lob_palm_jm_a32 file="lob_palm_jm_a32.msh" />
+ <lob_palm_jm_a33 file="lob_palm_jm_a33.msh" />
+ <lob_palm_jm_a34 file="lob_palm_jm_a34.msh" />
+ <lob_palm_jm_a35 file="lob_palm_jm_a35.msh" />
+ <lob_palm_jm_a36 file="lob_palm_jm_a36.msh" />
+ <lob_palm_jm_a37 file="lob_palm_jm_a37.msh" />
+ <lob_palm_jm_a38 file="lob_palm_jm_a38.msh" />
+ <lob_palm_jm_a39 file="lob_palm_jm_a39.msh" />
+ <lob_palm_jm_a40 file="lob_palm_jm_a40.msh" />
+ <lob_palm_jm_a41 file="lob_palm_jm_a41.msh" />
+ <lob_palm_jm_a42 file="lob_palm_jm_a42.msh" />
+ <notrans_smb_rock_jm_a34 file="notrans_smb_rock_jm_a34.msh" />
+ <lob_palm_jm_a43 file="lob_palm_jm_a43.msh" />
+ <notrans_smb_rock_jm_a35 file="notrans_smb_rock_jm_a35.msh" />
+ <notrans_lob_flowerscd01 file="notrans_lob_flowerscd01.msh" />
+ <notrans_lob_flowerscd04 file="notrans_lob_flowerscd04.msh" />
+ <lob_palm_jm_a44 file="lob_palm_jm_a44.msh" />
+ <notrans_smb_rock_jm_a36 file="notrans_smb_rock_jm_a36.msh" />
+ <notrans_smb_rock_jm_a37 file="notrans_smb_rock_jm_a37.msh" />
+ <lob_palm_jm_a45 file="lob_palm_jm_a45.msh" />
+ <lob_palm_jm_a46 file="lob_palm_jm_a46.msh" />
+ <lob_palm_jm_a47 file="lob_palm_jm_a47.msh" />
+ <notrans_smb_rock_jm_a38 file="notrans_smb_rock_jm_a38.msh" />
+ <lob_palm_jm_a48 file="lob_palm_jm_a48.msh" />
+ <lob_palm_jm_a49 file="lob_palm_jm_a49.msh" />
+ <notrans_smb_rock_jm_a46 file="notrans_smb_rock_jm_a46.msh" />
+ <notrans_smb_rock_jm_a47 file="notrans_smb_rock_jm_a47.msh" />
+ <notrans_smb_rock_jm_a48 file="notrans_smb_rock_jm_a48.msh" />
+ <lob_palm_jm_a55 file="lob_palm_jm_a55.msh" />
+ <notrans_smb_rock_jm_a49 file="notrans_smb_rock_jm_a49.msh" />
+ <lob_palm_jm_a56 file="lob_palm_jm_a56.msh" />
+ <notrans_smb_rock_jm_a50 file="notrans_smb_rock_jm_a50.msh" />
+ <lob_palm_jm_a57 file="lob_palm_jm_a57.msh" />
+ <lob_palm_jm_a58 file="lob_palm_jm_a58.msh" />
+ <notrans_smb_rock_jm_a51 file="notrans_smb_rock_jm_a51.msh" />
+ <lob_palm_jm_a59 file="lob_palm_jm_a59.msh" />
+ <notrans_smb_rock_jm_a52 file="notrans_smb_rock_jm_a52.msh" />
+ <lob_palm_jm_a60 file="lob_palm_jm_a60.msh" />
+ <lob_palm_jm_a61 file="lob_palm_jm_a61.msh" />
+ <lob_palm_jm_a62 file="lob_palm_jm_a62.msh" />
+ <notrans_smb_rock_jm_a53 file="notrans_smb_rock_jm_a53.msh" />
+ <lob_palm_jm_a63 file="lob_palm_jm_a63.msh" />
+ <lob_palm_jm_a64 file="lob_palm_jm_a64.msh" />
+ <lob_palm_jm_a65 file="lob_palm_jm_a65.msh" />
+ <notrans_lob_flowerscd02 file="notrans_lob_flowerscd02.msh" />
+ <lob_palm_jm_a66 file="lob_palm_jm_a66.msh" />
+ <notrans_smb_rock_jm_a54 file="notrans_smb_rock_jm_a54.msh" />
+ <lob_palm_jm_a67 file="lob_palm_jm_a67.msh" />
+ <lob_palm_jm_a68 file="lob_palm_jm_a68.msh" />
+ <lob_palm_jm_a69 file="lob_palm_jm_a69.msh" />
+ <lob_palm_jm_a70 file="lob_palm_jm_a70.msh" />
+ <lob_palm_jm_a71 file="lob_palm_jm_a71.msh" />
+ <notrans_smb_rock_jm_a55 file="notrans_smb_rock_jm_a55.msh" />
+ <notrans_smb_rock_jm_a56 file="notrans_smb_rock_jm_a56.msh" />
+ <lob_palm_jm_a72 file="lob_palm_jm_a72.msh" />
+ <lob_palm_jm_a73 file="lob_palm_jm_a73.msh" />
+ <lob_palm_jm_a74 file="lob_palm_jm_a74.msh" />
+ <notrans_lob_flowerscd05 file="notrans_lob_flowerscd05.msh" />
+ <notrans_lob_send_kn02 file="notrans_lob_send_kn02.msh" />
+ <notrans_sub_flash_08 file="notrans_sub_flash_08.msh" />
+ <notrans_sub_sky_kn file="notrans_sub_sky_kn.msh" />
+ <notrans_smb_seaground file="notrans_smb_seaground.msh" />
+ <notrans_sub_flash_07 file="notrans_sub_flash_07.msh" />
+ <notrans_sub_flash_02 file="notrans_sub_flash_02.msh" />
+ <notrans_sub_flash_06 file="notrans_sub_flash_06.msh" />
+ <notrans_sub_flash_05 file="notrans_sub_flash_05.msh" />
+ <notrans_sub_flash_03 file="notrans_sub_flash_03.msh" />
+ <notrans_sub_flash_04 file="notrans_sub_flash_04.msh" />
+ <notrans_sub_flash_01 file="notrans_sub_flash_01.msh" />
+ <notrans_sub_shell file="notrans_sub_shell.msh" />
+ <notrans_smb_sea_kn02 file="notrans_smb_sea_kn02.msh" />
+ <notrans_smb_sea_kn01 file="notrans_smb_sea_kn01.msh" />
+ <notrans_lob_sea_nyh001_01 file="notrans_lob_sea_nyh001_01.msh" />
+ <notrans_lob_send_line file="notrans_lob_send_line.msh" />
+ <notrans_lob_wave_kn file="notrans_lob_wave_kn.msh" />
+ <lob_hshouseclmhedge_jm file="lob_hshouseclmhedge_jm.msh" />
+ <notrans_lob_hshousecgrass_jm01 file="notrans_lob_hshousecgrass_jm01.msh" />
+ <notrans_lob_mmbr_jm file="notrans_lob_mmbr_jm.msh" />
+ <notrans_lob_mmbriron_jm01 file="notrans_lob_mmbriron_jm01.msh" />
+ <notrans_lob_mmbriron_jm file="notrans_lob_mmbriron_jm.msh" />
+ <notrans_lob_hshousecgrassst_jm file="notrans_lob_hshousecgrassst_jm.msh" />
+ <lob_hinatahouse_jm file="lob_hinatahouse_jm.msh" />
+ <lob_hinatahouse_jm01 file="lob_hinatahouse_jm01.msh" />
+ <notrans_lob_dinzone_earthcd file="notrans_lob_dinzone_earthcd.msh" />
+ <notrans_lob_grasscin file="notrans_lob_grasscin.msh" />
+ <notrans_lob_bundle_grass_03 file="notrans_lob_bundle_grass_03.msh" />
+ <notrans_lob_hshousecgrass_jm03 file="notrans_lob_hshousecgrass_jm03.msh" />
+ <notrans_lob_hshousecgrass_jm02 file="notrans_lob_hshousecgrass_jm02.msh" />
+ <lob_woodcin file="lob_woodcin.msh" />
+ <lob_submarine_nyh001_04 file="lob_submarine_nyh001_04.msh" />
+ <lob_submarine_nyh001_02 file="lob_submarine_nyh001_02.msh" />
+ <notrans_lob_dinzone_stwall_ms02 file="notrans_lob_dinzone_stwall_ms02.msh" />
+ <notrans_lob_apea_ms01 file="notrans_lob_apea_ms01.msh" />
+ <notrans_lob_watercenter_ms01 file="notrans_lob_watercenter_ms01.msh" />
+ <notrans_lob_volzone_do8_ms file="notrans_lob_volzone_do8_ms.msh" />
+ <notrans_lob_volzone_block_02 file="notrans_lob_volzone_block_02.msh" />
+ <notrans_lob_volzone_brdo_ms01 file="notrans_lob_volzone_brdo_ms01.msh" />
+ <notrans_lob_volzone_rston_ms01mk file="notrans_lob_volzone_rston_ms01mk.msh" />
+ <notrans_lob_volzone_stone_ms02 file="notrans_lob_volzone_stone_ms02.msh" />
+ <notrans_lob_volzone_downea_m01 file="notrans_lob_volzone_downea_m01.msh" />
+ <notrans_lob_volzone_grass2_m02 file="notrans_lob_volzone_grass2_m02.msh" />
+ <notrans_lob_volzone_grass2_m01 file="notrans_lob_volzone_grass2_m01.msh" />
+ <notrans_lob_volzone_grass8_m02 file="notrans_lob_volzone_grass8_m02.msh" />
+ <notrans_lob_volzone_wall5_ms01 file="notrans_lob_volzone_wall5_ms01.msh" />
+ <notrans_lob_wood_bridge_01 file="notrans_lob_wood_bridge_01.msh" />
+ <notrans_lob_wood_dea_01 file="notrans_lob_wood_dea_01.msh" />
+ <lob_palm_jm_a26 file="lob_palm_jm_a26.msh" />
+ <lob_palm_jm_a27 file="lob_palm_jm_a27.msh" />
+ <lob_palm_jm_a28 file="lob_palm_jm_a28.msh" />
+ <notrans_smb_rock_jm_a28 file="notrans_smb_rock_jm_a28.msh" />
+ <notrans_smb_rock_jm_a29 file="notrans_smb_rock_jm_a29.msh" />
+ <notrans_smb_rock_jm_a30 file="notrans_smb_rock_jm_a30.msh" />
+ <notrans_smb_rock_jm_a31 file="notrans_smb_rock_jm_a31.msh" />
+ <notrans_smb_rock_jm_a33 file="notrans_smb_rock_jm_a33.msh" />
+ <lob_palm_jm_a50 file="lob_palm_jm_a50.msh" />
+ <lob_palm_jm_a51 file="lob_palm_jm_a51.msh" />
+ <lob_palm_jm_a52 file="lob_palm_jm_a52.msh" />
+ <notrans_smb_rock_jm_a39 file="notrans_smb_rock_jm_a39.msh" />
+ <notrans_smb_rock_jm_a40 file="notrans_smb_rock_jm_a40.msh" />
+ <lob_palm_jm_a54 file="lob_palm_jm_a54.msh" />
+ <notrans_smb_rock_jm_a41 file="notrans_smb_rock_jm_a41.msh" />
+ <notrans_smb_rock_jm_a42 file="notrans_smb_rock_jm_a42.msh" />
+ <notrans_smb_rock_jm_a43 file="notrans_smb_rock_jm_a43.msh" />
+ <notrans_smb_rock_jm_a44 file="notrans_smb_rock_jm_a44.msh" />
+ <notrans_smb_rock_jm_a45 file="notrans_smb_rock_jm_a45.msh" />
+ <notrans_lob_flowerscd08 file="notrans_lob_flowerscd08.msh" />
+ <notrans_lob_dorofield_nyh001_01 file="notrans_lob_dorofield_nyh001_01.msh" />
+ <lob_hut_nyh001_01 file="lob_hut_nyh001_01.msh" />
+ <notrans_lob_fence_nyh001_01 file="notrans_lob_fence_nyh001_01.msh" />
+ <lob_wood_nyh001_02 file="lob_wood_nyh001_02.msh" />
+ <lob_wood_nyh001 file="lob_wood_nyh001.msh" />
+ <lob_dorofield_nyh001_02 file="lob_dorofield_nyh001_02.msh" />
+ <notrans_lob_dorofield_nyh002 file="notrans_lob_dorofield_nyh002.msh" />
+ <lob_flag_nyh001_04 file="lob_flag_nyh001_04.msh" />
+ <notrans_lob_stair_nyh001 file="notrans_lob_stair_nyh001.msh" />
+ <lob_hut_nyh001_02 file="lob_hut_nyh001_02.msh" />
+ <lob_box_nyh001 file="lob_box_nyh001.msh" />
+ <lob_shrine_nyh001 file="lob_shrine_nyh001.msh" />
+ <notrans_lob_stone_nyh001 file="notrans_lob_stone_nyh001.msh" />
+ <lob_palm_jm_a53 file="lob_palm_jm_a53.msh" />
+ <notrans_lob_fence_nyh002_07 file="notrans_lob_fence_nyh002_07.msh" />
+ <notrans_lob_dinzone_grass_ms02 file="notrans_lob_dinzone_grass_ms02.msh" />
+ <notrans_lob_spground_kn01 file="notrans_lob_spground_kn01.msh" />
+ <notrans_lob_spground_kn02 file="notrans_lob_spground_kn02.msh" />
+ <lob_mirror_ms02 file="lob_mirror_ms02.msh" />
+ <lob_momohouse_nyh001 file="lob_momohouse_nyh001.msh" />
+ <notrans_lob_plaza_nyh001 file="notrans_lob_plaza_nyh001.msh" />
+ <lob_momowood_nyh002_10 file="lob_momowood_nyh002_10.msh" />
+ <notrans_lob_momohouse_nyh002 file="notrans_lob_momohouse_nyh002.msh" />
+ <notrans_lob_flowercin01 file="notrans_lob_flowercin01.msh" />
+ <notrans_lob_clovercin01 file="notrans_lob_clovercin01.msh" />
+ <notrans_lob_flowerscd06 file="notrans_lob_flowerscd06.msh" />
+ <lob_kurudrumcin file="lob_kurudrumcin.msh" />
+ <lob_kurufencecin file="lob_kurufencecin.msh" />
+ <notrans_lob_shadow_square01 file="notrans_lob_shadow_square01.msh" />
+ <notrans_lob_shadow_circle02 file="notrans_lob_shadow_circle02.msh" />
+ <notrans_lob_shadow_square02 file="notrans_lob_shadow_square02.msh" />
+ <lob_dinzone_bone2_ms01 file="lob_dinzone_bone2_ms01.msh" />
+ <lob_juramudhut_jm file="lob_juramudhut_jm.msh" />
+ <lob_juraparkwhorf_jm01 file="lob_juraparkwhorf_jm01.msh" />
+ <lob_dinzone_boneall_ms01 file="lob_dinzone_boneall_ms01.msh" />
+ <notrans_lob_guru_ma file="notrans_lob_guru_ma.msh" />
+ <notrans_lob_guru_mark2 file="notrans_lob_guru_mark2.msh" />
+ <notrans_lob_guru_bu_ms file="notrans_lob_guru_bu_ms.msh" />
+ <notrans_lob_guru_msdown file="notrans_lob_guru_msdown.msh" />
+ <notrans_lob_gu_lampdoms06 file="notrans_lob_gu_lampdoms06.msh" />
+ <lob_palm_jm_a75 file="lob_palm_jm_a75.msh" />
+ <lob_momowood_nyh001_22 file="lob_momowood_nyh001_22.msh" />
+ <lob_palm_jm_a76 file="lob_palm_jm_a76.msh" />
+ <notrans_lob_shadow_circle03 file="notrans_lob_shadow_circle03.msh" />
+ <notrans_lob_shadow_square03 file="notrans_lob_shadow_square03.msh" />
+ <notrans_lob_shadow_square04 file="notrans_lob_shadow_square04.msh" />
+ <notrans_lob_clovercin02 file="notrans_lob_clovercin02.msh" />
+ <notrans_lob_clovercin03 file="notrans_lob_clovercin03.msh" />
+ <notrans_lob_flowercin02 file="notrans_lob_flowercin02.msh" />
+ <notrans_lob_flowercin03 file="notrans_lob_flowercin03.msh" />
+ <notrans_lob_clovercin04 file="notrans_lob_clovercin04.msh" />
+ <notrans_lob_flowercin04 file="notrans_lob_flowercin04.msh" />
+ <notrans_lob_clovercin05 file="notrans_lob_clovercin05.msh" />
+ <notrans_lob_clovercin06 file="notrans_lob_clovercin06.msh" />
+ <notrans_lob_clovercin07 file="notrans_lob_clovercin07.msh" />
+ <notrans_lob_shadow_circle05 file="notrans_lob_shadow_circle05.msh" />
+ <notrans_lob_kirotent_nyh001 file="notrans_lob_kirotent_nyh001.msh" />
+ <notrans_lob_clovercin08 file="notrans_lob_clovercin08.msh" />
+ <notrans_lob_clovercin09 file="notrans_lob_clovercin09.msh" />
+ <notrans_lob_clovercin10 file="notrans_lob_clovercin10.msh" />
+ <notrans_lob_flowerscd07 file="notrans_lob_flowerscd07.msh" />
+ <notrans_lob_flowerscd03 file="notrans_lob_flowerscd03.msh" />
+ <notrans_lob_flowercin05 file="notrans_lob_flowercin05.msh" />
+ <lob_juraparkbox_jm file="lob_juraparkbox_jm.msh" />
+ <lob_submarine_nyh001_01 file="lob_submarine_nyh001_01.msh" />
+ <notrans_lob_hshousecwall_jm01 file="notrans_lob_hshousecwall_jm01.msh" />
+ <notrans_lob_volzone_block_01 file="notrans_lob_volzone_block_01.msh" />
+ <notrans_lob_keronstatue_nyh001 file="notrans_lob_keronstatue_nyh001.msh" />
+ <notrans_lob_volzone_giro_ms01 file="notrans_lob_volzone_giro_ms01.msh" />
+ <notrans_lob_volzone_plant2_ms05 file="notrans_lob_volzone_plant2_ms05.msh" />
+ <notrans_lob_volzone_plant_ms13 file="notrans_lob_volzone_plant_ms13.msh" />
+ <notrans_lob_volzone_giro2_ms01 file="notrans_lob_volzone_giro2_ms01.msh" />
+ <notrans_lob_vo_sign_ms01 file="notrans_lob_vo_sign_ms01.msh" />
+ <notrans_lob_volzone_grass4_ms01 file="notrans_lob_volzone_grass4_ms01.msh" />
+ <notrans_lob_volzone_br_ms01 file="notrans_lob_volzone_br_ms01.msh" />
+ <notrans_lob_volzone_grass2_ms05 file="notrans_lob_volzone_grass2_ms05.msh" />
+ <notrans_lob_volzone_downb_m01 file="notrans_lob_volzone_downb_m01.msh" />
+ <notrans_lob_volzone_etcsign_ms01 file="notrans_lob_volzone_etcsign_ms01.msh" />
+ <notrans_lob_volzone_down_m01 file="notrans_lob_volzone_down_m01.msh" />
+ <notrans_lob_volzone_giroro_ms01 file="notrans_lob_volzone_giroro_ms01.msh" />
+ <notrans_lob_vol_grass_mm03 file="notrans_lob_vol_grass_mm03.msh" />
+ <notrans_lod_downston_mms07 file="notrans_lod_downston_mms07.msh" />
+ <notrans_lob_volzone_ston_ms01 file="notrans_lob_volzone_ston_ms01.msh" />
+ <notrans_lob_dodo_mms01 file="notrans_lob_dodo_mms01.msh" />
+ <notrans_lob_volzone_pl01_ms09 file="notrans_lob_volzone_pl01_ms09.msh" />
+ <notrans_waterdown_mmss08 file="notrans_waterdown_mmss08.msh" />
+ <notrans_lob_gu_lampup_ms06 file="notrans_lob_gu_lampup_ms06.msh" />
+ <notrans_lob_slide_nyh001_01 file="notrans_lob_slide_nyh001_01.msh" />
+ <notrans_lob_slide_nyh001_02 file="notrans_lob_slide_nyh001_02.msh" />
+ <lob_nisitopwire_jm file="lob_nisitopwire_jm.msh" />
+ <lob_nisitop_jm file="lob_nisitop_jm.msh" />
+ <notrans_lob_beachchair_nyh04 file="notrans_lob_beachchair_nyh04.msh" />
+ <notrans_lob_beachchair_nyh05 file="notrans_lob_beachchair_nyh05.msh" />
+ <notrans_lob_oj_cloud file="notrans_lob_oj_cloud.msh" />
+ <lob_momostatue_nyh004_01_02 file="lob_momostatue_nyh004_01_02.msh" />
+ <lob_momostatue_nyh004_02 file="lob_momostatue_nyh004_02.msh" />
+ <notrans_lob_hinataground_nyh001 file="notrans_lob_hinataground_nyh001.msh" />
+ <notrans_lob_hshousecgrass_jm04 file="notrans_lob_hshousecgrass_jm04.msh" />
+ <notrans_lob_hshousecgrass_jm04_01 file="notrans_lob_hshousecgrass_jm04_01.msh" />
+ <notrans_lob_shadow_circle01 file="notrans_lob_shadow_circle01.msh" />
+ <lob_treescd file="lob_treescd.msh" />
+ <lob_treescd_01 file="lob_treescd_01.msh" />
+ <lob_treescd_02 file="lob_treescd_02.msh" />
+ <lob_treescd_04 file="lob_treescd_04.msh" />
+ <lob_treescd_03 file="lob_treescd_03.msh" />
+ <lob_momostatue_nyh001_01 file="lob_momostatue_nyh001_01.msh" />
+ <lob_momostatue_nyh004_01_01 file="lob_momostatue_nyh004_01_01.msh" />
+ <notrans_lob_dorofield_nyh001_02 file="notrans_lob_dorofield_nyh001_02.msh" />
+ <notrans_lob_etc_mmss01 file="notrans_lob_etc_mmss01.msh" />
+ <notrans_lob_watercenter_ms02 file="notrans_lob_watercenter_ms02.msh" />
+ <notrans_lob_volzone_grass2_ms05_a file="notrans_lob_volzone_grass2_ms05_a.msh" />
+ <GAME_FishingMesh_01 file="GAME_FishingMesh_01.msh" />
+ <notrans_lob_dinzone_grass_ms03 file="notrans_lob_dinzone_grass_ms03.msh" />
+ <GAME_FishingMesh_02 file="GAME_FishingMesh_02.msh" />
+ <GAME_FishingMesh_03 file="GAME_FishingMesh_03.msh" />
+ <GAME_FishingMesh_04 file="GAME_FishingMesh_04.msh" />
+ <GAME_FishingMesh_05 file="GAME_FishingMesh_05.msh" />
+ <notrans_submarine_island_09 file="notrans_submarine_island_09.msh" />
+ <notrans_submarine_island_08 file="notrans_submarine_island_08.msh" />
+ <notrans_submarine_island_10 file="notrans_submarine_island_10.msh" />
+ <notrans_submarine_island02 file="notrans_submarine_island02.msh" />
+ <notrans_sub_Island_skull03 file="notrans_sub_Island_skull03.msh" />
+ <notrans_submarine_island01 file="notrans_submarine_island01.msh" />
+ <notrans_submarine_island_07 file="notrans_submarine_island_07.msh" />
+ <notrans_submarine_island03 file="notrans_submarine_island03.msh" />
+ <notrans_submarine_island_05 file="notrans_submarine_island_05.msh" />
+ <notrans_submarine_island_06 file="notrans_submarine_island_06.msh" />
+ <notrans_submarine_island_11 file="notrans_submarine_island_11.msh" />
+ <notrans_submarine_island_12 file="notrans_submarine_island_12.msh" />
+ <notrans_sub_Island_skull02 file="notrans_sub_Island_skull02.msh" />
+ <notrans_submarine_island04 file="notrans_submarine_island04.msh" />
+ <notrans_submarine_island_01 file="notrans_submarine_island_01.msh" />
+ <notrans_submarine_island_04 file="notrans_submarine_island_04.msh" />
+ <notrans_submarine_island_03 file="notrans_submarine_island_03.msh" />
+ <notrans_sub_Island_skull01 file="notrans_sub_Island_skull01.msh" />
+ <notrans_submarine_island file="notrans_submarine_island.msh" />
+ <notrans_submarine_island_02 file="notrans_submarine_island_02.msh" />
+ <notrans_lob_shadow_circle04 file="notrans_lob_shadow_circle04.msh" />
+ <lob_cuttlefish_nyh001_01 file="lob_cuttlefish_nyh001_01.msh" />
+ <lob_cuttlefish_nyh001_02 file="lob_cuttlefish_nyh001_02.msh" />
+ <trade_area file="trade_area.msh" />
+ <lob_kerostarcin file="lob_kerostarcin.msh" />
+</Objects>
+<Materials version="2">
+  <mlob_dinzone_earth_ms01
+    diffuse="lob_dinzone_earth_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_dinzone_grass_ms01
+    diffuse="lob_dinzone_grass_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_dinzone_stwall_ms01
+    diffuse="lob_dinzone_stwall_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_send_kn01
+    diffuse="lob_send_kn01.dds"
+    color="255 255 255"
+  />
+  <mlob_hinatahouse_nyh001_id01
+    diffuse="hinatahouse_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mlob_hinatahouse_nyh001_id02
+    diffuse="hinatahouse_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mlob_momomark_nyh001
+    diffuse="lomomomrak_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_momomark_nyh002
+    diffuse="lomomomrak_nyh002.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msmb_plam_jm_a01
+    diffuse="lob_dinzone_plam_ms01.dds"
+    color="255 255 255"
+  />
+  <msmb_rock_jm_a01
+    diffuse="lob_dinzone_rock_ms01.dds"
+    color="255 255 255"
+  />
+  <msmb_rock_jm_a02
+    diffuse="lob_dinzone_rock_ms02.dds"
+    color="255 255 255"
+  />
+  <mnotrans_lob_flowerscd
+    diffuse="lob_flowerscd.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnotrans_lob_send_kn02
+    diffuse="lob_depth_seaside.dds"
+    color="255 255 255"
+  />
+  <msub_flash_01
+    diffuse="sub_flash_01.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_sky_kn01
+    diffuse="sub_sky_kn01.dds"
+    color="255 255 255"
+  />
+  <msmb_depth_of_water
+    diffuse="smb_depth_of_water.dds"
+    color="255 255 255"
+  />
+  <msub_shell
+    diffuse="sub_shell.dds"
+    color="255 255 255"
+  />
+  <msmb_sea_kn02
+    diffuse="smb_sea_kn02.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="smb_sea_kn02.uva"
+  />
+  <msmb_sea_kn01
+    diffuse="smb_sea_kn01.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="smb_sea_kn01.uva"
+  />
+  <msub_sea_nyh001
+    diffuse="sea_nyh001.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_wave_kn
+    diffuse="lob_wave_kn_01.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_hshouseclmhedge_jm
+    diffuse="lob_hshouseclmhedge_jm.dds"
+    color="255 255 255"
+  />
+  <mlob_hshousecgrass_jm01
+    diffuse="lob_hshousecgrass_jm01.dds"
+    color="255 255 255"
+  />
+  <mlob_mmbr_jm
+    diffuse="lob_mmbr_jm.dds"
+    color="255 255 255"
+  />
+  <mlob_mmbriron_jm
+    diffuse="lob_mmbriron_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_mmbriron_jm01
+    diffuse="lob_mmbriron_jm01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_hshousecgrassst_jm
+    diffuse="lob_hshousecgrassst_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_dinzone_earthcd
+    diffuse="lob_dinzone_earthcd.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_grasscin
+    diffuse="lob_grasscin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_bundle_grass_01
+    diffuse="lob_bundle_grass_01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_hshousecgrass_jm03
+    diffuse="lob_hshousecgrass_jm03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_hshousecgrass_jm02
+    diffuse="lob_hshousecgrass_jm02.dds"
+    color="255 255 255"
+  />
+  <mlob_woodcin
+    diffuse="lob_treescin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_submarine_nyh001_04
+    diffuse="losubmarine_nyh001_04.dds"
+    color="255 255 255"
+  />
+  <mlob_submarine_nyh001_02
+    diffuse="losubmarine_nyh001_02.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_giro2_ms01
+    diffuse="lob_volzone_giro2_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_ape_ms02
+    diffuse="lob_volzone_ape_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_water_ms01
+    diffuse="lob_water_ms01.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_volzone_waterms_do01
+    diffuse="lob_volzone_waterms_do01.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_mtston_ms02
+    diffuse="lob_volzone_mtston_ms02.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_br_ms01
+    diffuse="lob_volzone_br_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_stone_ms02mk
+    diffuse="lob_volzone_rston_ms01mk.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_stone_ms02
+    diffuse="lob_volzone_rston_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_dinzone_earth2_ms02
+    diffuse="lob_dinzone_earth2_ms02.dds"
+    color="255 255 255"
+  />
+  <mlob_dinzone_grass3_ms01
+    diffuse="lob_dinzone_grass3_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_dinzone_grass2_ms01
+    diffuse="lob_dinzone_grass2_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_wood_bridge_01
+    diffuse="lob_wood_bridge_01.dds"
+    color="255 255 255"
+  />
+  <mlob_wood_dea_01
+    diffuse="lob_wood_dea_01.dds"
+    color="255 255 255"
+  />
+  <mlob_dorofield_nyh001_01
+    diffuse="lodorotraining_nyh001_01.dds"
+    color="255 255 255"
+  />
+  <mlob_hut_nyh001_01_id01
+    diffuse="lohut_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mlob_hut_nyh001_01_id02
+    diffuse="lohut_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mlob_fence_nyh001
+    diffuse="lofence_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_wood_nyh002
+    diffuse="lowood_nyh002.dds"
+    color="255 255 255"
+  />
+  <mlob_wood_nyh001
+    diffuse="lodoll_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_dorofield_nyh001_02
+    diffuse="lodorotraining_nyh001_02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_dorofield_nyh002
+    diffuse="lodorotraining_nyh002.dds"
+    color="255 255 255"
+  />
+  <m10_-_Default
+    diffuse="loflag_nyh001.dds"
+    color="255 255 255"
+  />
+  <m11_-_Default
+    diffuse="lostair_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_hut_nyh001_02
+    diffuse="lohut_nyh002.dds"
+    color="255 255 255"
+  />
+  <mlob_box_nyh001
+    diffuse="lobox_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_shrine_nyh001
+    diffuse="loshrine_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_stone_nyh001
+    diffuse="lostone_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_fence_nyh002
+    diffuse="lofence_nyh002.dds"
+    color="255 255 255"
+  />
+  <mlob_narapgrass_kn01
+    diffuse="lob_narapgrass_kn01.dds"
+    color="255 255 255"
+  />
+  <mlob_spground_kn01
+    diffuse="lob_spground_kn01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_spground_kn02
+    diffuse="lob_spground_kn02.dds"
+    color="255 255 255"
+  />
+  <mlob_mirror_ms01
+    diffuse="lob_mirror_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_momohouse_nyh001
+    diffuse="lomomohouse_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_plaza_nyh001_id01
+    diffuse="loplaza_lyi001_id01.dds"
+    color="255 255 255"
+  />
+  <mlob_plaza_nyh001_id02
+    diffuse="loplaza_lyi001_id02.dds"
+    color="255 255 255"
+  />
+  <mgrandmahouse_wood_005
+    diffuse="grandmahouse_wood_005.dds"
+    color="255 255 255"
+  />
+  <mgrandmahouse_wood_005a
+    diffuse="grandmahouse_wood_005a.dds"
+    color="253 253 253"
+    opacity="1"
+  />
+  <mlob_momohouse_nyh002
+    diffuse="lomomohouse_nyh002.dds"
+    color="255 255 255"
+  />
+  <mlob_flowercin
+    diffuse="lob_flowercin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_clovercin
+    diffuse="lob_clovercin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_kurudrumcin
+    diffuse="lob_kurudrumcin.dds"
+    color="255 255 255"
+  />
+  <mlob_kurufencecin
+    diffuse="lob_kurufencecin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_shadow_square
+    diffuse="lob_shadow_square.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_shadow_circle
+    diffuse="lob_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_dinzone_bone2_ms02
+    diffuse="lob_dinzone_bone2_ms02.dds"
+    color="255 255 255"
+  />
+  <mlob_juramudhut_jm
+    diffuse="lob_juramudhut_jm.dds"
+    color="255 255 255"
+  />
+  <mlob_juramudhutop_jm
+    diffuse="lob_juramudhutop_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_juraparkwhorf_jm01
+    diffuse="lob_juraparkwhorf_jm01.dds"
+    color="255 255 255"
+    uvAnimFile="lob_juraparkwhorf_jm01.uva"
+  />
+  <mlob_dinzone_bone_ms01
+    diffuse="lob_dinzone_bone_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_guru_mark_ms01
+    diffuse="lob_guru_mark_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_guru_mark2_ms01
+    diffuse="lob_guru_mark2_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_guru_center_ms01
+    diffuse="lob_guru_center_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_guru_ce_bu_ms01
+    diffuse="lob_guru_ce_bu_ms01.dds"
+    color="255 255 255"
+  />
+  <mgrandmahouse_wood_004
+    diffuse="grandmahouse_wood_003.dds"
+    color="255 255 255"
+  />
+  <mgrandmahouse_wood_004a
+    diffuse="grandmahouse_wood_003a.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_kirotent_nyh001
+    diffuse="lokirotent_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_dinzone_sign_ms01
+    diffuse="lojurassic_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_submarine_nyh001_01
+    diffuse="losubmarine_nyh002.dds"
+    color="255 255 255"
+  />
+  <mlob_hshousecwall_jm01
+    diffuse="lob_hshousecwall_jm01.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_mt_ms01
+    diffuse="lob_volzone_mt_ms01.dds"
+    color="255 255 255"
+  />
+  <mob_keronstatue_nyh003
+    diffuse="lostatue_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_fl_ms02
+    diffuse="lob_volzone_fl_ms02.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_fl_ms01
+    diffuse="lob_volzone_fl_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_giro_ms01
+    diffuse="lob_volzone_giro_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_sign_ms01
+    diffuse="lob_volzone_sign_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_grass_ms01
+    diffuse="lob_volzone_grass_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_volzone_br2_ms01
+    diffuse="lob_volzone_br2_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_mtston_ms01
+    diffuse="lob_volzone_mtston_ms01.dds"
+    color="255 255 255"
+  />
+  <mnotrans_lob_volzone_etcsign_ms01
+    diffuse="lob_volzone_etcsign_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_mtroad_ms01
+    diffuse="lob_volzone_mtroad_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_ceston_ms01
+    diffuse="lob_volzone_ceston_ms01.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_plap_ms03
+    diffuse="lob_volzone_plap_ms03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_volzone_waterms2_01
+    diffuse="lob_volzone_waterms2_01.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="lob_volzone_waterms2_01.uva"
+  />
+  <m02_-_Default
+    diffuse="lob_guru_lamp_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_slide_nyh001_01
+    diffuse="loslide_nyh001_01.dds"
+    color="255 255 255"
+  />
+  <mlob_slide_nyh001_02
+    diffuse="loslide_nyh001_02.dds"
+    color="255 255 255"
+  />
+  <mlob_nisitopwire_jm
+    diffuse="lob_nisitopwire_jm.dds"
+    color="252 252 252"
+  />
+  <mlob_nisitop_jm
+    diffuse="lob_nisitop_jm.dds"
+    color="252 252 252"
+  />
+  <mlob_beachchair_nyh02
+    diffuse="lob_bchiar_jm.dds"
+    color="255 255 255"
+  />
+  <mlob_oj_cloud
+    diffuse="lob_oj_cloud.dds"
+    color="255 255 255"
+  />
+  <m01_-_Default
+    diffuse="lob_momostatuewarter_nyh001.ifl"
+    color="255 255 255"
+  />
+  <mlob_hinataground_nyh001
+    diffuse="lohinataground_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_hshousecgrass_jm04
+    diffuse="lob_hshousecgrass_jm04.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_treescd
+    diffuse="lob_treescd.dds"
+    color="252 252 252"
+    opacity="1"
+  />
+  <mlob_momostatue_nyh001_01
+    diffuse="lob_momostatue_nyh001.dds"
+    color="255 255 255"
+  />
+  <mlob_momostatue_nyh004
+    diffuse="lob_momostatue_nyh004.dds"
+    color="255 255 255"
+  />
+  <mlob_volzone_apbu_ms01
+    diffuse="lob_volzone_apbu_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mCollision_
+    color="45 68 163"
+  />
+  <mEmptyMat
+  />
+  <msubmarine_island
+    diffuse="submarine_island.dds"
+    color="255 255 255"
+  />
+  <msub_Island_skull01
+    diffuse="sub_Island_skull.dds"
+    color="255 255 255"
+  />
+  <mlob_cuttlefish_nyh001_01_id01
+    diffuse="locuttlefish_nyh001_01_id01.dds"
+    color="255 255 255"
+  />
+  <mlob_cuttlefish_nyh001_01_id02
+    diffuse="locuttlefish_nyh001_01_id02.dds"
+    color="255 255 255"
+  />
+  <mlob_cuttlefish_nyh001_02
+    diffuse="locuttlefish_nyh001_02.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_kerostarcin
+    diffuse="lob_kerostarcin.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="3d_lobby.skl"
+/>
+<collision
+  file="3d_lobby.col"
+/>
+</Scene.XML>

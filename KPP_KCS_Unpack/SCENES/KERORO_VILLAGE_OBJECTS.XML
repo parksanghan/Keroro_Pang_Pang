@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="keroro_village\keroro_village.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="car1" code="125894659" yLayer="0" posX="-31" posY="3" posZ="-25" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="car2" code="125894660" yLayer="0" posX="-7" posY="3" posZ="25" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="car2" code="125894660" yLayer="0" posX="9" posY="3" posZ="-5" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="car1" code="125894659" yLayer="0" posX="22" posY="3" posZ="16" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="car1" code="125894659" yLayer="0" posX="31" posY="3" posZ="-17" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="car2" code="125894660" yLayer="0" posX="31" posY="3" posZ="10" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="lawn" code="125894662" yLayer="0" posX="17" posY="3" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="lawn" code="125894662" yLayer="0" posX="14" posY="3" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="lawn" code="125894662" yLayer="0" posX="11" posY="3" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="lawn" code="125894662" yLayer="0" posX="-17" posY="3" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="lawn" code="125894662" yLayer="0" posX="-14" posY="3" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="lawn" code="125894662" yLayer="0" posX="-11" posY="3" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="lawn" code="125894662" yLayer="0" posX="-3" posY="3" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="lawn" code="125894662" yLayer="0" posX="0" posY="3" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="lawn" code="125894662" yLayer="0" posX="3" posY="3" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="telegraph_pole" code="125894663" yLayer="0" posX="-21" posY="3" posZ="1" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="telegraph_pole" code="125894663" yLayer="0" posX="3" posY="3" posZ="1" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="telegraph_pole" code="125894663" yLayer="0" posX="21" posY="3" posZ="-6" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="telegraph_pole" code="125894663" yLayer="0" posX="-21" posY="3" posZ="24" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="telegraph_pole" code="125894663" yLayer="0" posX="3" posY="3" posZ="24" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="telegraph_pole" code="125894663" yLayer="0" posX="21" posY="3" posZ="-24" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="telegraph_pole" code="125894663" yLayer="0" posX="21" posY="3" posZ="24" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="17" posY="3" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="6" posY="3" posZ="6" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="-30" posY="3" posZ="-2" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="-18" posY="3" posZ="22" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="-30" posY="3" posZ="-4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="-30" posY="3" posZ="7" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="-37" posY="3" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="-47" posY="3" posZ="1" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="-47" posY="3" posZ="10" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="-38" posY="3" posZ="10" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="-18" posY="3" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1.3"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="-9" posY="3" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="6" posY="3" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="-15" posY="3" posZ="22" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="-6" posY="3" posZ="3" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="-16" posY="3" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="-41" posY="3" posZ="10" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="-47" posY="3" posZ="-2" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="15" posY="3" posZ="3" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="15" posY="3" posZ="13" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="9" posY="3" posZ="13" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="stop_post" code="125894658" yLayer="0" posX="9" posY="3" posZ="-26" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="stop_post" code="125894658" yLayer="0" posX="-6" posY="3" posZ="-29" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="stop_post" code="125894658" yLayer="0" posX="-11" posY="3" posZ="-1" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="stop_post" code="125894658" yLayer="0" posX="-19" posY="3" posZ="29" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="stop_post" code="125894658" yLayer="0" posX="13" posY="3" posZ="29" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="8.3" posY="3" posZ="2" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="19.6" posY="3" posZ="9.7" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="-4.7" posY="3" posZ="7.6" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="-19.3" posY="3" posZ="6.3" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="-30" posY="3" posZ="1.35" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="sandbag" code="125894664" yLayer="0" posX="10" posY="3" posZ="-17" angleX="0" angleY="90" angleZ="0" scale="2">
+		<Object engName="sandbag" code="125894664" yLayer="1" posX="0" posY="0.354098" posZ="0" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	</Object>
+	<Object engName="sandbag" code="125894664" yLayer="0" posX="8" posY="3" posZ="-13" angleX="0" angleY="85" angleZ="0" scale="2">
+		<Object engName="sandbag" code="125894664" yLayer="1" posX="0" posY="0.354098" posZ="0" angleX="0" angleY="85" angleZ="0" scale="2">
+			<Object engName="sandbag" code="125894664" yLayer="2" posX="0" posY="0.354099" posZ="0" angleX="0" angleY="85" angleZ="0" scale="2"/>
+		</Object>
+	</Object>
+	<Object engName="sandbag" code="125894664" yLayer="0" posX="-1" posY="3" posZ="-20" angleX="0" angleY="285" angleZ="0" scale="2">
+		<Object engName="sandbag" code="125894664" yLayer="1" posX="0" posY="0.354098" posZ="0" angleX="0" angleY="285" angleZ="0" scale="2"/>
+	</Object>
+	<Object engName="sandbag" code="125894664" yLayer="0" posX="-3" posY="3" posZ="-21" angleX="0" angleY="285" angleZ="0" scale="2">
+		<Object engName="sandbag" code="125894664" yLayer="1" posX="0" posY="0.354098" posZ="0" angleX="0" angleY="285" angleZ="0" scale="2">
+			<Object engName="sandbag" code="125894664" yLayer="2" posX="0" posY="0.354099" posZ="0" angleX="0" angleY="285" angleZ="0" scale="2"/>
+		</Object>
+	</Object>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="29" posY="3.1" posZ="-2.6" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="-13.2392" posY="3.08297" posZ="10.8998" angleX="0" angleY="0" angleZ="0" scale="2"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="-13.2138" posY="3.08297" posZ="11.647" angleX="0" angleY="95" angleZ="0" scale="2"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="6.89487" posY="3.08297" posZ="15.1293" angleX="0" angleY="95" angleZ="0" scale="2"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="7.59895" posY="3.08297" posZ="15.0536" angleX="0" angleY="45" angleZ="0" scale="2"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="-44.0905" posY="3.06953" posZ="5.93003" angleX="0" angleY="45" angleZ="0" scale="2"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="-44.1464" posY="3.06953" posZ="5.10853" angleX="0" angleY="13" angleZ="0" scale="2"/>
+	<Object engName="washtub" code="125894666" yLayer="0" posX="17.8196" posY="3.1677" posZ="15.4259" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="washtub" code="125894666" yLayer="0" posX="-8.19703" posY="3.08297" posZ="9.82966" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="washtub" code="125894666" yLayer="0" posX="-32.5892" posY="3.15036" posZ="9.76364" angleX="0" angleY="90" angleZ="0" scale="2"/>
+</ARRANGEMENT>

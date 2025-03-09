@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_icw_bott_ms001 file="notrans_icw_bott_ms001.msh" />
+ <notrans_icw_sky_01 file="notrans_icw_sky_01.msh" />
+ <notrans_icw_bbms01 file="notrans_icw_bbms01.msh" />
+ <icw_etc_ms_05 file="icw_etc_ms_05.msh" />
+ <notrans_icw_skyap_02 file="notrans_icw_skyap_02.msh" />
+ <notrans_icw_skyap_01 file="notrans_icw_skyap_01.msh" />
+ <notrans_icw_etc_ms_02 file="notrans_icw_etc_ms_02.msh" />
+ <notrans_icw_icetar01_ms03 file="notrans_icw_icetar01_ms03.msh" />
+ <notrans_icw_icetar01_ms01 file="notrans_icw_icetar01_ms01.msh" />
+ <notrans_icw_icetar01_ms02 file="notrans_icw_icetar01_ms02.msh" />
+ <notrans_icw_etc_ms_01 file="notrans_icw_etc_ms_01.msh" />
+ <notrans_icw_etc_ms_07 file="notrans_icw_etc_ms_07.msh" />
+ <notrans_icw_water_ms02 file="notrans_icw_water_ms02.msh" />
+ <notrans_icw_water_ms01 file="notrans_icw_water_ms01.msh" />
+ <notrans_icw_ibuild_ms_09 file="notrans_icw_ibuild_ms_09.msh" />
+ <notrans_icw_ibuild_ms_10 file="notrans_icw_ibuild_ms_10.msh" />
+ <notrans_icw_apbuild_ms_04 file="notrans_icw_apbuild_ms_04.msh" />
+ <notrans_icw_ibuild_ms_13 file="notrans_icw_ibuild_ms_13.msh" />
+ <notrans_icw_ibuild_ms_14 file="notrans_icw_ibuild_ms_14.msh" />
+ <notrans_icw_apbuild_ms_06 file="notrans_icw_apbuild_ms_06.msh" />
+ <notrans_icw_icetar01_ms07 file="notrans_icw_icetar01_ms07.msh" />
+ <icw_tunnel05 file="icw_tunnel05.msh" />
+ <icw_tunnel07 file="icw_tunnel07.msh" />
+ <icw_tunnel08 file="icw_tunnel08.msh" />
+ <icw_tunnel09 file="icw_tunnel09.msh" />
+ <notrans_icw_projection file="notrans_icw_projection.msh" />
+ <notrans_icw_sun_mm file="notrans_icw_sun_mm.msh" />
+ <notrans_icw_ibottom_ms001 file="notrans_icw_ibottom_ms001.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_icw_aacenter_ms01 file="notrans_icw_aacenter_ms01.msh" />
+ <notrans_icw_aacenter_ms02 file="notrans_icw_aacenter_ms02.msh" />
+ <notrans_icw_aacenter_ms03 file="notrans_icw_aacenter_ms03.msh" />
+ <notrans_icw_aacenter_ms05 file="notrans_icw_aacenter_ms05.msh" />
+ <notrans_icw_aacenter_ms08 file="notrans_icw_aacenter_ms08.msh" />
+ <Outer_icw_cliff09 file="Outer_icw_cliff09.msh" />
+ <Outer_icw_cliff07 file="Outer_icw_cliff07.msh" />
+ <Outer_icw_cliffa01 file="Outer_icw_cliffa01.msh" />
+ <notrans_icw_center_ms01 file="notrans_icw_center_ms01.msh" />
+ <notrans_icw_ssss file="notrans_icw_ssss.msh" />
+ <notrans_icw_icwstation file="notrans_icw_icwstation.msh" />
+ <notrans_icw_icwstationa file="notrans_icw_icwstationa.msh" />
+ <notrans_icw_sn_mms_04 file="notrans_icw_sn_mms_04.msh" />
+ <notrans_icw_sn_mms_02 file="notrans_icw_sn_mms_02.msh" />
+ <icw_cliff16 file="icw_cliff16.msh" />
+ <notrans_icw_sn_mms_01 file="notrans_icw_sn_mms_01.msh" />
+ <notrans_icw_around_m_04 file="notrans_icw_around_m_04.msh" />
+ <notrans_icw_sn_mms_03 file="notrans_icw_sn_mms_03.msh" />
+ <notrans_icw_around_m_01 file="notrans_icw_around_m_01.msh" />
+ <notrans_icw_around_m_02 file="notrans_icw_around_m_02.msh" />
+ <notrans_icw_around_m_03 file="notrans_icw_around_m_03.msh" />
+ <notrans_icw_around_m_06 file="notrans_icw_around_m_06.msh" />
+ <notrans_icw_around_m_07 file="notrans_icw_around_m_07.msh" />
+ <notrans_icw_around_m_05 file="notrans_icw_around_m_05.msh" />
+ <notrans_icw_around_m_09 file="notrans_icw_around_m_09.msh" />
+ <notrans_icw_around_m_08 file="notrans_icw_around_m_08.msh" />
+ <notrans_icw_projection01 file="notrans_icw_projection01.msh" />
+ <icw_bearsign file="icw_bearsign.msh" />
+ <icw_bearsign01 file="icw_bearsign01.msh" />
+ <notrans_icw_jem file="notrans_icw_jem.msh" />
+ <notrans_icw_berg03 file="notrans_icw_berg03.msh" />
+ <notrans_icw_berg02 file="notrans_icw_berg02.msh" />
+ <notrans_icw_berg file="notrans_icw_berg.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <notrans_icw_around_m_10 file="notrans_icw_around_m_10.msh" />
+ <notrans_icw_cliffbotton_01 file="notrans_icw_cliffbotton_01.msh" />
+ <notrans_icw_cliffbotton_02 file="notrans_icw_cliffbotton_02.msh" />
+ <notrans_icw_cliffbotton_03 file="notrans_icw_cliffbotton_03.msh" />
+</Objects>
+<Materials version="2">
+  <micw_bottom_ms01
+    diffuse="icw_bottom_ms01.dds"
+    color="255 255 255"
+  />
+  <micw_sky_01
+    diffuse="icw_sky_01.dds"
+    color="255 255 255"
+  />
+  <micw_ictile_ms04
+    diffuse="icw_ictile_ms04.dds"
+    color="255 255 255"
+  />
+  <micw_sky_ap_ms01
+    diffuse="icw_sky_ap_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="icw_sky_ap_ms01.uva"
+  />
+  <micw_ictile_ms01
+    diffuse="icw_ictile_ms01.dds"
+    color="255 255 255"
+  />
+  <micw_ictile_up_ms01
+    diffuse="icw_ictile_up_ms01.dds"
+    color="255 255 255"
+  />
+  <micw_ictile_upap_ms01
+    diffuse="icw_ictile_upap_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <micw_water_01
+    diffuse="icw_water_01.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="icw_water_01.uva"
+  />
+  <micw_tunnel
+    diffuse="icw_tunnel.dds"
+    color="255 255 255"
+  />
+  <micw_projection
+    diffuse="icw_projection.dds"
+    color="255 255 255"
+  />
+  <micw_sun
+    diffuse="icw_sun.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <micw_down_ms01
+    diffuse="icw_down_ms01.dds"
+    color="255 255 255"
+  />
+  <micw_cliffa
+    diffuse="icw_cliffa.dds"
+    color="255 255 255"
+  />
+  <micw_cliff
+    diffuse="icw_cliff.dds"
+    color="255 255 255"
+  />
+  <mColl_MovingMesh_mm
+    color="67 67 67"
+  />
+  <mStandard_14
+    diffuse="icw_ictile_ms01_001.dds"
+    color="255 255 255"
+  />
+  <micw_icwstation
+    diffuse="icw_icwstation.dds"
+    color="250 250 250"
+  />
+  <micw_icwstationa
+    diffuse="icw_icwstationa.dds"
+    color="255 255 255"
+  />
+  <micw_proja
+    diffuse="icw_proja.dds"
+    color="255 255 255"
+  />
+  <micw_bearsign
+    diffuse="icw_bearsign.dds"
+    color="255 255 255"
+  />
+  <micw_jem
+    diffuse="icw_jem.dds"
+    color="255 255 255"
+  />
+  <micw_berg
+    diffuse="icw_berg.dds"
+    color="255 255 255"
+  />
+  <mStandard_23
+    diffuse="icw_cliffbotton.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="ice_world.skl"
+/>
+<collision
+  file="ice_world.col"
+/>
+</Scene.XML>

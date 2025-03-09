@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<tutorial_step01_camera.xml>
+	<path file="Move_Camera01" fov="45" />
+	<path file="Move_Camera02" fov="45" />
+	<path file="Move_Camera03" fov="45" />
+	<path file="Move_Camera04" fov="45" />
+</tutorial_step01_camera.xml>

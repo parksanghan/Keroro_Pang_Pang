@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="playerSpawnZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="0" posX="-23" posY="3.17" posZ="38.02" angleY="180" scale="1" radius="4" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="1" posX="25" posY="3.33" posZ="44.3" angleY="180" scale="1" radius="3" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="2" posX="-16.66" posY="2.31" posZ="25.43" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="3" posX="-4.18999" posY="2.29" posZ="-15" angleY="180" scale="1" radius="4" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="7" posX="-4" posY="2" posZ="5" angleY="100" scale="1" radius="1"  jumpPower="190" force="190" durationTime="3.0" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="8" posX="0" posY="2" posZ="-3" angleY="40" scale="1" radius="1"  jumpPower="190" force="190" durationTime="3.0" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="6" posX="28.53" posY="2.47" posZ="29.9101" angleY="180" scale="1" radius="3" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="7" posX="54" posY="3.24" posZ="15" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="8" posX="41" posY="5.1" posZ="-16" angleY="180" scale="1" radius="4" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="9" posX="24.61" posY="2" posZ="7.05" angleY="180" scale="1" radius="4" respawnTime="1" msgId="npc0001"/>
+	<spawn type="keroball" engName="keroball" code="117702674" teamId="0" spawnId="10" posX="2.56" posY="3.49" posZ="1.96" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="goal" engName="keroro goal" code="117506073" teamId="0" spawnId="11" posX="28" posY="4.59001" posZ="-26" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="goal" engName="clone goal" code="117506074" teamId="1" spawnId="12" posX="2" posY="3.2" posZ="48" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="13" posX="14" posY="2.3" posZ="20" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

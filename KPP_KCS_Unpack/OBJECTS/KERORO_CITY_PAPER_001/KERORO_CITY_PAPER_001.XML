@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keroro_city_paper_001 file="keroro_city_paper_001.msh" />
+</Objects>
+<Materials version="2">
+  <mkeroro_city_paper_001
+    diffuse="keroro_city_paper_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="keroro_city_paper_001.col"
+/>
+</Scene.XML>

@@ -1,0 +1,285 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <occult_dam file="occult_dam.msh" />
+ <occult_pic_01 file="occult_pic_01.msh" />
+ <notrans_occult_huk3 file="notrans_occult_huk3.msh" />
+ <notrans_occult_huk1 file="notrans_occult_huk1.msh" />
+ <notrans_occult_huk2 file="notrans_occult_huk2.msh" />
+ <occult_pan1 file="occult_pan1.msh" />
+ <occult_bammun file="occult_bammun.msh" />
+ <occult_goindolb file="occult_goindolb.msh" />
+ <occult_dongul file="occult_dongul.msh" />
+ <notrans_occult_earth file="notrans_occult_earth.msh" />
+ <occult_wallpic_01 file="occult_wallpic_01.msh" />
+ <notrans_occult_monk file="notrans_occult_monk.msh" />
+ <notrans_occult_monk_b file="notrans_occult_monk_b.msh" />
+ <occult_boxa file="occult_boxa.msh" />
+ <occult_bam file="occult_bam.msh" />
+ <notrans_occult_doltop file="notrans_occult_doltop.msh" />
+ <notrans_occult_wallpira file="notrans_occult_wallpira.msh" />
+ <occult_ufo file="occult_ufo.msh" />
+ <notrans_occult_pokpomul file="notrans_occult_pokpomul.msh" />
+ <occult_gidung_line01 file="occult_gidung_line01.msh" />
+ <occult_gidung_01 file="occult_gidung_01.msh" />
+ <occult_dia1 file="occult_dia1.msh" />
+ <occult_saja file="occult_saja.msh" />
+ <occult_jm file="occult_jm.msh" />
+ <occult_dia file="occult_dia.msh" />
+ <occult_ufoup file="occult_ufoup.msh" />
+ <notrans_occult_boxb file="notrans_occult_boxb.msh" />
+ <notrans_occult_sum file="notrans_occult_sum.msh" />
+ <notrans_occult_sajabase file="notrans_occult_sajabase.msh" />
+ <notrans_occult_sajabase01 file="notrans_occult_sajabase01.msh" />
+ <notrans_occult_mulviper file="notrans_occult_mulviper.msh" />
+ <notrans_occult_mulviperline file="notrans_occult_mulviperline.msh" />
+ <notrans_occult_mulviper02 file="notrans_occult_mulviper02.msh" />
+ <occult_doldol file="occult_doldol.msh" />
+ <occult_goindol file="occult_goindol.msh" />
+ <notrans_occult_ground file="notrans_occult_ground.msh" />
+ <notrans_occult_ground_b file="notrans_occult_ground_b.msh" />
+ <occult_gidung_line04 file="occult_gidung_line04.msh" />
+ <occult_gidung_04 file="occult_gidung_04.msh" />
+ <occult_pokpo file="occult_pokpo.msh" />
+ <occult_light file="occult_light.msh" />
+ <occult_saja02 file="occult_saja02.msh" />
+ <notrans_occult_pic_03 file="notrans_occult_pic_03.msh" />
+ <notrans_occult_boxe file="notrans_occult_boxe.msh" />
+ <occult_boxf file="occult_boxf.msh" />
+ <notrans_occult_boxg file="notrans_occult_boxg.msh" />
+ <notrans_occult_mulviperlineb file="notrans_occult_mulviperlineb.msh" />
+ <notrans_occult_huk1b file="notrans_occult_huk1b.msh" />
+ <notrans_occult_earth02 file="notrans_occult_earth02.msh" />
+ <notrans_occult_byuk file="notrans_occult_byuk.msh" />
+ <occult_byuk02_VB file="occult_byuk02_VB.msh" />
+ <occult_byuk03_VB file="occult_byuk03_VB.msh" />
+ <notrans_occult_byuk04 file="notrans_occult_byuk04.msh" />
+ <occult_pic_02 file="occult_pic_02.msh" />
+ <occult_pan2 file="occult_pan2.msh" />
+ <occult_doldol_2 file="occult_doldol_2.msh" />
+ <occult_dia2 file="occult_dia2.msh" />
+ <occult_wallpic_02 file="occult_wallpic_02.msh" />
+ <occult_dam_1 file="occult_dam_1.msh" />
+ <notrans_occult_badak file="notrans_occult_badak.msh" />
+ <notrans_occult_badak01 file="notrans_occult_badak01.msh" />
+ <occult_light_01 file="occult_light_01.msh" />
+ <occult_pokpo02 file="occult_pokpo02.msh" />
+ <occult_pokpo01 file="occult_pokpo01.msh" />
+ <occult_wallpic_03 file="occult_wallpic_03.msh" />
+ <occult_wallpic_04 file="occult_wallpic_04.msh" />
+ <occult_dia03 file="occult_dia03.msh" />
+ <occult_dia04 file="occult_dia04.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <occult_gidung_line06 file="occult_gidung_line06.msh" />
+ <occult_gidung_line05 file="occult_gidung_line05.msh" />
+ <occult_gidung_06 file="occult_gidung_06.msh" />
+ <occult_gidung_05 file="occult_gidung_05.msh" />
+ <occult_gidung_line03 file="occult_gidung_line03.msh" />
+ <occult_gidung_line02 file="occult_gidung_line02.msh" />
+ <occult_gidung_03 file="occult_gidung_03.msh" />
+ <occult_gidung_02 file="occult_gidung_02.msh" />
+ <notrans_notrans_occult_byuk_bl file="notrans_notrans_occult_byuk_bl.msh" />
+ <occult_redwall_bl01 file="occult_redwall_bl01.msh" />
+ <occult_redwall_bl03 file="occult_redwall_bl03.msh" />
+ <occult_redwall_bl02 file="occult_redwall_bl02.msh" />
+ <notrans_occult_redwall_bl04 file="notrans_occult_redwall_bl04.msh" />
+ <occult_pan03 file="occult_pan03.msh" />
+</Objects>
+<Materials version="2">
+  <moccult_dam
+    diffuse="occult_dam.dds"
+    color="149 149 149"
+  />
+  <moccult_pic_01
+    diffuse="occult_pic_01.dds"
+    color="149 149 149"
+  />
+  <moccult_huk
+    diffuse="occult_huk.dds"
+    color="149 149 149"
+  />
+  <moccult_pan
+    diffuse="occult_pan.dds"
+    color="149 149 149"
+  />
+  <moccult_bammun
+    diffuse="occult_bammun.dds"
+    color="149 149 149"
+  />
+  <moccult_goindolb
+    diffuse="occult_goindolb.dds"
+    color="149 149 149"
+  />
+  <moccult_dongul
+    diffuse="occult_dongul.dds"
+    color="149 149 149"
+  />
+  <moccult_earth
+    diffuse="occult_earth.dds"
+    color="149 149 149"
+  />
+  <moccult_wallpic
+    diffuse="occult_wallpic.dds"
+    color="149 149 149"
+  />
+  <moccult_monk
+    diffuse="occult_monk.dds"
+    color="149 149 149"
+  />
+  <moccult_monk_b
+    diffuse="occult_monk_b.dds"
+    color="149 149 149"
+  />
+  <moccult_boxa
+    diffuse="occult_boxa.dds"
+    color="149 149 149"
+  />
+  <moccult_bam
+    diffuse="occult_bam.dds"
+    color="149 149 149"
+  />
+  <moccult_doltop
+    diffuse="occult_ground_b.dds"
+    color="149 149 149"
+  />
+  <moccult_wallpira
+    diffuse="occult_wallpira.dds"
+    color="149 149 149"
+  />
+  <moccult_ufo
+    diffuse="occult_ufo.dds"
+    color="149 149 149"
+  />
+  <moccult_pokpomul
+    diffuse="occult_pokpomul.dds"
+    color="149 149 149"
+    opacity="1"
+    uvAnimFile="occult_pokpomul.uva"
+  />
+  <moccult_black
+    diffuse="occult_black.dds"
+    color="149 149 149"
+  />
+  <moccult_gidung
+    diffuse="occult_gidung.dds"
+    color="149 149 149"
+  />
+  <moccult_dia
+    diffuse="occult_dia.dds"
+    color="149 149 149"
+  />
+  <moccult_saja
+    diffuse="occult_saja.dds"
+    color="149 149 149"
+  />
+  <moccult_ufoup
+    diffuse="occult_ufoup.dds"
+    color="149 149 149"
+  />
+  <moccult_boxb
+    diffuse="occult_boxb.dds"
+    color="149 149 149"
+  />
+  <moccult_sum
+    diffuse="occult_sum.dds"
+    color="149 149 149"
+  />
+  <moccult_sajabase
+    diffuse="occult_sajabase.dds"
+    color="149 149 149"
+  />
+  <moccult_mulviper0
+    diffuse="occult_mulviper0.dds"
+    color="149 149 149"
+  />
+  <moccult_mulviper1
+    diffuse="occult_mulviper1.dds"
+    color="149 149 149"
+  />
+  <moccult_mulviper2
+    diffuse="occult_mulviper2.dds"
+    color="149 149 149"
+  />
+  <moccult_mulviper3
+    diffuse="occult_mulviper3.dds"
+    color="149 149 149"
+  />
+  <moccult_mulviper4
+    diffuse="occult_mulviper4.dds"
+    color="149 149 149"
+  />
+  <moccult_doldol
+    diffuse="occult_doldol.dds"
+    color="149 149 149"
+  />
+  <moccult_goindol
+    diffuse="occult_goindol.dds"
+    color="149 149 149"
+  />
+  <moccult_ground
+    diffuse="occult_ground.dds"
+    lightmap="occult_lightmap.dds"
+    color="149 149 149"
+  />
+  <moccult_ground_b
+    diffuse="occult_ground_b.dds"
+    lightmap="occult_lightmap.dds"
+    color="149 149 149"
+  />
+  <moccult_pokpo
+    diffuse="occult_pokpo.dds"
+    color="149 149 149"
+  />
+  <moccult_light
+    diffuse="occult_light.dds"
+    color="149 149 149"
+  />
+  <moccult_byuk
+    diffuse="occult_byuk.dds"
+    color="255 255 255"
+  />
+  <mStandard_5
+    color="30 30 30"
+  />
+  <moccult_badak
+    diffuse="occult_badak.dds"
+    color="255 255 255"
+  />
+  <moccult_w_a
+    diffuse="occult_w_a.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="occult_w_a.uva"
+  />
+  <moccult_w_b
+    diffuse="occult_w_b.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="occult_w_b.uva"
+  />
+  <mpk_alpha
+    diffuse="pk_alpha.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <moccult_byuk_bl
+    diffuse="occult_byuk_bl.dds"
+    color="255 255 255"
+  />
+  <moccult_redwall
+    diffuse="occult_redwall.dds"
+    color="253 253 253"
+  />
+  <moccult_redwall_bl
+    diffuse="occult_redwall_bl.dds"
+    color="253 253 253"
+  />
+</Materials>
+<Skeleton
+  file="occult_temple.skl"
+/>
+<collision
+  file="occult_temple.col"
+/>
+</Scene.XML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Missile_04 file="Missile_04.msh" />
+ <Missile_01 file="Missile_01.msh" />
+ <Missile_02 file="Missile_02.msh" />
+ <Missile_03 file="Missile_03.msh" />
+</Objects>
+<Materials version="2">
+  <mckururu_skill_003_missile
+    diffuse="ckururu_skill_003_missile.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="ckururu_skill_003_missile.skl"
+/>
+<BoneAnim
+  file="Anims\ckururu_skill_003_missile.anm"
+/>
+<collision
+  file="ckururu_skill_003_missile.col"
+/>
+</Scene.XML>

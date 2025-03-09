@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <shotgun_damage_007 file="shotgun_damage_007.msh" />
+</Objects>
+<Materials version="2">
+  <mshotgun_damage_014
+    diffuse="shotgun_damage_007.dds"
+    color="150 150 150"
+    twoSided="1"
+  />
+</Materials>
+<Skeleton
+  file="shotgun_damage_007.skl"
+/>
+<collision
+  file="shotgun_damage_007.col"
+/>
+</Scene.XML>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <dororo_head_181 file="dororo_head_181.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k0
+    diffuse="dororo_head_181.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

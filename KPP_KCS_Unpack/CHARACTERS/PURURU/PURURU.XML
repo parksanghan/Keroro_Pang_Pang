@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pururu_face_000 file="pururu_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mpururu_face_000
+    diffuse="pururu_face_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Pururu.skl"
+/>
+<collision
+  file="Pururu.col"
+/>
+</Scene.XML>

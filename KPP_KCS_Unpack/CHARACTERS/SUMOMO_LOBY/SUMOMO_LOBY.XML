@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <sumomo_head_000 file="sumomo_head_000.msh" />
+ <sumomo_face_000 file="sumomo_face_000.msh" />
+ <sumomo_body_000 file="sumomo_body_000.msh" />
+</Objects>
+<Materials version="2">
+  <msumomo_head_000
+    diffuse="sumomo_head_000.dds"
+    color="149 149 149"
+  />
+  <msumomo_face_000
+    diffuse="sumomo_face_000.dds"
+    color="149 149 149"
+  />
+  <msumomo_body_000
+    diffuse="sumomo_body_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="sumomo_loby.skl"
+/>
+<collision
+  file="sumomo_loby.col"
+/>
+</Scene.XML>

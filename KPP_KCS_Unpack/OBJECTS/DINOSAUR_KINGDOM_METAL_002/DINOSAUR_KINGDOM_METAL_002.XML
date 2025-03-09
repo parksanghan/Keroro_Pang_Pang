@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <dinosaur_kingdom_metal_002 file="dinosaur_kingdom_metal_002.msh" />
+</Objects>
+<Materials version="2">
+  <mdin_wall
+    diffuse="wall.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="dinosaur_kingdom_metal_002.col"
+/>
+</Scene.XML>

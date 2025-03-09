@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <spring_park_wood_004 file="spring_park_wood_004.msh" />
+</Objects>
+<Materials version="2">
+  <mspring_park_wood_004
+    diffuse="spring_park_wood_004.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="spring_park_wood_004.col"
+/>
+</Scene.XML>

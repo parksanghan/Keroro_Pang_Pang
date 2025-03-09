@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tamama_head_063 file="tamama_head_063.msh" />
+</Objects>
+<Materials version="2">
+  <mtamama_head_0063
+    diffuse="tamama_head_063.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

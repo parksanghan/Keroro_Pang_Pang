@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <garuru_wing file="garuru_wing.msh" />
+</Objects>
+<Materials version="2">
+  <mgaruru_wing
+    diffuse="garuru_wing.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="garuru_skill_003_wing.skl"
+/>
+<BoneAnim
+  file="Anims\garuru_skill_003_wing.anm"
+/>
+<collision
+  file="garuru_skill_003_wing.col"
+/>
+</Scene.XML>

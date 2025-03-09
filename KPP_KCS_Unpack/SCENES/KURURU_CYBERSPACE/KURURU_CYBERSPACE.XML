@@ -1,0 +1,214 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_kcy_ground_003 file="notrans_kcy_ground_003.msh" />
+ <notrans_kcy_ground_004 file="notrans_kcy_ground_004.msh" />
+ <notrans_kcy_highwall_nyh002 file="notrans_kcy_highwall_nyh002.msh" />
+ <notrans_kcy_highwall_nyh004 file="notrans_kcy_highwall_nyh004.msh" />
+ <notrans_kcy_highwall_nyh003 file="notrans_kcy_highwall_nyh003.msh" />
+ <notrans_kcy_highwall_nyh005 file="notrans_kcy_highwall_nyh005.msh" />
+ <notrans_kcy_shadow_nyh001 file="notrans_kcy_shadow_nyh001.msh" />
+ <notrans_kcy_stone_nyh001 file="notrans_kcy_stone_nyh001.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <kcy_column_jm01_01 file="kcy_column_jm01_01.msh" />
+ <kcy_column_jm01_02 file="kcy_column_jm01_02.msh" />
+ <kcy_column_jm01_03 file="kcy_column_jm01_03.msh" />
+ <kcy_column_jm_01 file="kcy_column_jm_01.msh" />
+ <kcy_column_jm_02 file="kcy_column_jm_02.msh" />
+ <kcy_column_jm_03 file="kcy_column_jm_03.msh" />
+ <kcy_column_jm01_04 file="kcy_column_jm01_04.msh" />
+ <kcy_column_jm01_05 file="kcy_column_jm01_05.msh" />
+ <kcy_column_jm01_06 file="kcy_column_jm01_06.msh" />
+ <kcy_column_jm01_07 file="kcy_column_jm01_07.msh" />
+ <kcy_column_jm01_08 file="kcy_column_jm01_08.msh" />
+ <kcy_rockcina_01 file="kcy_rockcina_01.msh" />
+ <kcy_rockcina_02 file="kcy_rockcina_02.msh" />
+ <kcy_rockcinb_01 file="kcy_rockcinb_01.msh" />
+ <kcy_rockcinb_02 file="kcy_rockcinb_02.msh" />
+ <kcy_rockcinb_03 file="kcy_rockcinb_03.msh" />
+ <kcy_rockcina_03 file="kcy_rockcina_03.msh" />
+ <kcy_rockcina_04 file="kcy_rockcina_04.msh" />
+ <kcy_rockcinb_04 file="kcy_rockcinb_04.msh" />
+ <kcy_rockcina_05 file="kcy_rockcina_05.msh" />
+ <kcy_rockcinb_05 file="kcy_rockcinb_05.msh" />
+ <kcy_rockcinb_06 file="kcy_rockcinb_06.msh" />
+ <kcy_column_jm_04 file="kcy_column_jm_04.msh" />
+ <kcy_rockcinb_07 file="kcy_rockcinb_07.msh" />
+ <kcy_rockcina_06 file="kcy_rockcina_06.msh" />
+ <kcy_rockcina_07 file="kcy_rockcina_07.msh" />
+ <kcy_column_jm01_09 file="kcy_column_jm01_09.msh" />
+ <kcy_column_jm01_10 file="kcy_column_jm01_10.msh" />
+ <kcy_rockcina_08 file="kcy_rockcina_08.msh" />
+ <kcy_rockcina_09 file="kcy_rockcina_09.msh" />
+ <kcy_rockcinb_08 file="kcy_rockcinb_08.msh" />
+ <kcy_rockcina_10 file="kcy_rockcina_10.msh" />
+ <kcy_rockcinb_09 file="kcy_rockcinb_09.msh" />
+ <kcy_rockcinb_10 file="kcy_rockcinb_10.msh" />
+ <kcy_rockcinb_11 file="kcy_rockcinb_11.msh" />
+ <kcy_rockcinb_12 file="kcy_rockcinb_12.msh" />
+ <kcy_rockcina_11 file="kcy_rockcina_11.msh" />
+ <kcy_rockcinb_13 file="kcy_rockcinb_13.msh" />
+ <notrans_kcy_highwall_nyh006 file="notrans_kcy_highwall_nyh006.msh" />
+ <notrans_kcy_skya file="notrans_kcy_skya.msh" />
+ <notrans_kcy_skyc file="notrans_kcy_skyc.msh" />
+ <notrans_kcy_skyb file="notrans_kcy_skyb.msh" />
+ <notrans_battlesimul_rock_002_01 file="notrans_battlesimul_rock_002_01.msh" />
+ <notrans_battlesimul_rock_002_02 file="notrans_battlesimul_rock_002_02.msh" />
+ <notrans_battlesimul_rock_002_03 file="notrans_battlesimul_rock_002_03.msh" />
+ <notrans_battlesimul_rock_002_05 file="notrans_battlesimul_rock_002_05.msh" />
+ <notrans_battlesimul_rock_002_04 file="notrans_battlesimul_rock_002_04.msh" />
+ <battlesimul_rock_013_1 file="battlesimul_rock_013_1.msh" />
+ <notrans_kcy_ground_001 file="notrans_kcy_ground_001.msh" />
+ <notrans_kcy_wall_nyh001 file="notrans_kcy_wall_nyh001.msh" />
+ <notrans_kcy_circle_001 file="notrans_kcy_circle_001.msh" />
+ <notrans_kcy_keromoon_001 file="notrans_kcy_keromoon_001.msh" />
+ <notrans_kcy_ground_005 file="notrans_kcy_ground_005.msh" />
+ <notrans_kcy_edge_nyh001_01 file="notrans_kcy_edge_nyh001_01.msh" />
+ <notrans_kcy_highwall_nyh001 file="notrans_kcy_highwall_nyh001.msh" />
+ <notrans_kcy_shadow_nyh002 file="notrans_kcy_shadow_nyh002.msh" />
+ <notrans_kcy_edge_nyh001_02 file="notrans_kcy_edge_nyh001_02.msh" />
+ <notrans_kcy_ground_002 file="notrans_kcy_ground_002.msh" />
+ <notrans_kcg_ground_hill19 file="notrans_kcg_ground_hill19.msh" />
+ <notrans_kcg_shadow_hill18 file="notrans_kcg_shadow_hill18.msh" />
+ <GAME_MovingMesh file="GAME_MovingMesh.msh" />
+</Objects>
+<Materials version="2">
+  <mkcy_ground_003
+    diffuse="kcy_ground_003.dds"
+    color="255 255 255"
+  />
+  <mkcy_ground_nyh004
+    diffuse="kcy_ground_004.dds"
+    color="255 255 255"
+  />
+  <mkcy_highwall_nyh002
+    diffuse="kchighwall_nyh002.dds"
+    color="255 255 255"
+  />
+  <mkcy_highwall_nyh004
+    diffuse="kchighwall_nyh004.dds"
+    color="255 255 255"
+  />
+  <mkcy_highwall_nyh003
+    diffuse="kchighwall_nyh003.dds"
+    color="255 255 255"
+  />
+  <mkcy_highwall_nyh005
+    diffuse="kchighwall_nyh005.dds"
+    color="255 255 255"
+  />
+  <mkcy_shadow_nyh001
+    diffuse="kcshadow_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkcy_stone_nyh001
+    diffuse="kcstone_nyh001.dds"
+    color="255 255 255"
+  />
+  <mkcy_shadow_nyh002
+    diffuse="kcshadow_nyh002.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkcy_column_jm
+    diffuse="kcy_column_jm.dds"
+    color="255 255 255"
+  />
+  <mkcy_rockcina
+    diffuse="kcy_rockcina.dds"
+    color="255 255 255"
+  />
+  <mkcy_rockcinb
+    diffuse="kcy_rockcinb.dds"
+    color="255 255 255"
+  />
+  <mkcy_highwall_nyh006
+    diffuse="kchighwall_nyh006.dds"
+    color="250 250 250"
+  />
+  <mkcy_skya
+    diffuse="kcy_skya.dds"
+    color="255 255 255"
+  />
+  <mkcy_skyc
+    diffuse="kcy_skyc.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="kcy_skyc.uva"
+  />
+  <mkcy_skycinb
+    diffuse="kcy_skyb.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="kcy_skycinb.uva"
+  />
+  <mbattlesimul_rock_002
+    diffuse="battlesimul_rock_002.dds"
+    color="255 255 255"
+  />
+  <mbattlesimul_rock_013_1
+    diffuse="battlesimul_rock_013_1.dds"
+    color="255 255 255"
+  />
+  <mkcy_ground_001
+    diffuse="kcy_ground_001.dds"
+    color="255 255 255"
+  />
+  <mkcy_wall_nyh001_id01
+    diffuse="kcwall_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mkcy_wall_nyh001_id02
+    diffuse="kcwall_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mkcy_circle_001
+    diffuse="kcy_circle_001.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="kcy_circle_001.uva"
+  />
+  <mkcy_keromoon_001
+    diffuse="kcy_kerromoon_001.dds"
+    color="255 255 255"
+  />
+  <mkcy_ground_005
+    diffuse="kcy_ground_005.dds"
+    color="255 255 255"
+  />
+  <mkcy_edge_nyh001
+    diffuse="kcedge_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkcy_highwall_nyh001
+    diffuse="kchighwall_nyh001.dds"
+    color="255 255 255"
+  />
+  <mkcy_ground_002
+    diffuse="kcy_ground_002.dds"
+    color="255 255 255"
+  />
+  <mkcg_ground_hill01
+    diffuse="kcg_ground_hill01.dds"
+    color="255 255 255"
+  />
+  <mkcg_ground_hill02
+    diffuse="kcg_ground_hill02.dds"
+    color="255 255 255"
+  />
+  <mkcg_shadow_hill
+    diffuse="kcg_shadow_hill.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <m23_-_Default
+    color="37 44 71"
+  />
+</Materials>
+<collision
+  file="kururu_cyberspace.col"
+/>
+</Scene.XML>

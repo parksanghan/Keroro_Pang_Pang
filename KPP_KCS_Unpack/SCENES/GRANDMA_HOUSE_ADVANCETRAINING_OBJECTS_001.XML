@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="grandma_house\grandma_house.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-26" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-24.09" posY="1.95" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-22" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-20" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-16" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-14" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-12" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-8" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-6" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-4" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-2" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="2" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="3.67001" posY="2" posZ="-33.58" angleX="0" angleY="-30" angleZ="0" scale="1"/>
+	<Object engName="broken_wooden_wall" code="123797512" yLayer="0" posX="-18" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="broken_wooden_wall" code="123797512" yLayer="0" posX="-10" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="broken_wooden_wall" code="123797512" yLayer="0" posX="0" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="rock" code="123797517" yLayer="0" posX="-25" posY="2" posZ="-29" angleX="0" angleY="0" angleZ="0" scale="2.6"/>
+	<Object engName="rock" code="123797517" yLayer="0" posX="3.16" posY="2" posZ="-26.99" angleX="0" angleY="0" angleZ="0" scale="2"/>
+	<Object engName="rock" code="123797517" yLayer="0" posX="-32.56" posY="2" posZ="-24.6" angleX="0" angleY="0" angleZ="0" scale="1.8"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="3.62001" posY="2" posZ="-21" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="0.899996" posY="2" posZ="-21.34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="2.71" posY="2" posZ="-21.48" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-25" posY="2" posZ="-26" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-23.1016" posY="2" posZ="-29" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-31.77" posY="2" posZ="-26.17" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-33.2383" posY="2" posZ="-26.59" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="car1" code="125894659" yLayer="0" posX="5" posY="0" posZ="-40" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="car2" code="125894660" yLayer="0" posX="-14.01" posY="0" posZ="-40.68" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="firewood" code="123797513" yLayer="0" posX="-9" posY="2" posZ="-22" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="firewood" code="123797513" yLayer="0" posX="-8" posY="2" posZ="-20" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_2" code="123797506" yLayer="0" posX="-23" posY="2" posZ="-24" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-21" posY="2" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-20" posY="2" posZ="-2" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-19" posY="2" posZ="-7" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-18" posY="2" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-21" posY="2" posZ="-1" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-17" posY="2" posZ="-12" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-31" posY="2" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-29" posY="2" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-28" posY="2" posZ="6" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-27" posY="2" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-27" posY="2" posZ="-16" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-27" posY="2" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="10" posY="2" posZ="-10" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="14" posY="2" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="11" posY="2" posZ="-11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="15" posY="2" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="16" posY="2" posZ="-10" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-33" posY="2" posZ="-29" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-34" posY="2" posZ="-17" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-33" posY="2" posZ="-21" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-15" posY="3" posZ="-53" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_2" code="123797506" yLayer="0" posX="-15" posY="3" posZ="-53.9464" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-21" posY="2" posZ="-27" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-20" posY="2" posZ="-27" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-20" posY="2" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-13" posY="2" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-12" posY="2" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-11" posY="2" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-2" posY="2" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-2" posY="2" posZ="-29" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="1" posY="2" posZ="-30" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="1" posY="2" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-2" posY="2" posZ="-16" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-3" posY="2" posZ="-16" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-2" posY="2" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-17" posY="2" posZ="-19" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-18" posY="2" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="11" posY="2" posZ="-27" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="12" posY="2" posZ="-27" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="13" posY="2" posZ="-27" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="12" posY="2" posZ="-30" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="16" posY="2" posZ="-27" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="17" posY="2" posZ="-24" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="9" posY="2" posZ="-21" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+</ARRANGEMENT>

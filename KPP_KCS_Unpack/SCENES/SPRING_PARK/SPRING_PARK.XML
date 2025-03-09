@@ -1,0 +1,334 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_spk_grasscin file="notrans_spk_grasscin.msh" />
+ <notrans_spk_outgrgrass file="notrans_spk_outgrgrass.msh" />
+ <notrans_spk_sky file="notrans_spk_sky.msh" />
+ <notrans_spk_bggroundsin file="notrans_spk_bggroundsin.msh" />
+ <notrans_spk_groundcin file="notrans_spk_groundcin.msh" />
+ <spk_pavil_tree02 file="spk_pavil_tree02.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <pk_sphere01 file="pk_sphere01.msh" />
+ <notrans_spk_building05 file="notrans_spk_building05.msh" />
+ <notrans_spk_building06 file="notrans_spk_building06.msh" />
+ <notrans_spk_building08 file="notrans_spk_building08.msh" />
+ <notrans_spk_building10 file="notrans_spk_building10.msh" />
+ <notrans_spk_grblock03 file="notrans_spk_grblock03.msh" />
+ <notrans_spk_roadcin05_id01 file="notrans_spk_roadcin05_id01.msh" />
+ <notrans_spk_buildings_shape file="notrans_spk_buildings_shape.msh" />
+ <notrans_spk_buildings_shape01 file="notrans_spk_buildings_shape01.msh" />
+ <spk_bench1_04 file="spk_bench1_04.msh" />
+ <spk_cherry_leaf09 file="spk_cherry_leaf09.msh" />
+ <spk_cherry_tree10 file="spk_cherry_tree10.msh" />
+ <spk_cherry_leaf16 file="spk_cherry_leaf16.msh" />
+ <spk_cherry_tree17 file="spk_cherry_tree17.msh" />
+ <spk_bench1_05 file="spk_bench1_05.msh" />
+ <notrans_spk_hillcin01 file="notrans_spk_hillcin01.msh" />
+ <notrans_spk_grstaircinc file="notrans_spk_grstaircinc.msh" />
+ <notrans_spk_road01 file="notrans_spk_road01.msh" />
+ <spk_bench1_10 file="spk_bench1_10.msh" />
+ <spk_bench1_11 file="spk_bench1_11.msh" />
+ <spk_bench1_12 file="spk_bench1_12.msh" />
+ <spk_bench1_13 file="spk_bench1_13.msh" />
+ <spk_bench1_14 file="spk_bench1_14.msh" />
+ <spk_bench1_15 file="spk_bench1_15.msh" />
+ <notrans_spk_bftree file="notrans_spk_bftree.msh" />
+ <notrans_spk_tree_nyh001 file="notrans_spk_tree_nyh001.msh" />
+ <notrans_spk_treecinc05 file="notrans_spk_treecinc05.msh" />
+ <notrans_spk_petal_nyh001_133 file="notrans_spk_petal_nyh001_133.msh" />
+ <notrans_spk_treea file="notrans_spk_treea.msh" />
+ <notrans_spk_benchcin file="notrans_spk_benchcin.msh" />
+ <notrans_spk_shadow_circle_ms31 file="notrans_spk_shadow_circle_ms31.msh" />
+ <notrans_spk_shadow_square03 file="notrans_spk_shadow_square03.msh" />
+ <notrans_spk_shadow_square15 file="notrans_spk_shadow_square15.msh" />
+ <notrans_spk_flowercin13 file="notrans_spk_flowercin13.msh" />
+ <spk_pavil_tree03 file="spk_pavil_tree03.msh" />
+ <notrans_spk_clover file="notrans_spk_clover.msh" />
+ <notrans_spk_brfence01 file="notrans_spk_brfence01.msh" />
+ <notrans_spk_pavilion_cina file="notrans_spk_pavilion_cina.msh" />
+ <notrans_spk_benchcinout file="notrans_spk_benchcinout.msh" />
+ <notrans_spk_grstaircinb file="notrans_spk_grstaircinb.msh" />
+ <notrans_spk_grstaircinc01 file="notrans_spk_grstaircinc01.msh" />
+ <spk_cherry1_02 file="spk_cherry1_02.msh" />
+ <spk_cherry1_01 file="spk_cherry1_01.msh" />
+ <spk_cherry1_03 file="spk_cherry1_03.msh" />
+ <spk_cherry1_04 file="spk_cherry1_04.msh" />
+ <spk_cherry1_05 file="spk_cherry1_05.msh" />
+ <spk_cherry1_06 file="spk_cherry1_06.msh" />
+ <spk_cherry1_07 file="spk_cherry1_07.msh" />
+ <spk_cherry1_08 file="spk_cherry1_08.msh" />
+ <spk_cherry2_13 file="spk_cherry2_13.msh" />
+ <spk_cherry2_14 file="spk_cherry2_14.msh" />
+ <spk_cherry2_17 file="spk_cherry2_17.msh" />
+ <spk_cherry2_18 file="spk_cherry2_18.msh" />
+ <spk_cherry2_15 file="spk_cherry2_15.msh" />
+ <spk_cherry2_16 file="spk_cherry2_16.msh" />
+ <notrans_spk_hillcinal01 file="notrans_spk_hillcinal01.msh" />
+ <spk_cherry2_09 file="spk_cherry2_09.msh" />
+ <spk_cherry2_10 file="spk_cherry2_10.msh" />
+ <spk_cherry2_05 file="spk_cherry2_05.msh" />
+ <spk_cherry2_06 file="spk_cherry2_06.msh" />
+ <notrans_spk_fenceline07 file="notrans_spk_fenceline07.msh" />
+ <notrans_spk_fenceline01 file="notrans_spk_fenceline01.msh" />
+ <notrans_spk_hillcin file="notrans_spk_hillcin.msh" />
+ <spk_momostatue01 file="spk_momostatue01.msh" />
+ <spk_momostatuewarter01 file="spk_momostatuewarter01.msh" />
+ <notrans_spk_cicle_cin file="notrans_spk_cicle_cin.msh" />
+ <notrans_spk_groadcingrass file="notrans_spk_groadcingrass.msh" />
+ <spk_bench1_16 file="spk_bench1_16.msh" />
+ <spk_bench1_17 file="spk_bench1_17.msh" />
+ <notrans_spk_grstaircina file="notrans_spk_grstaircina.msh" />
+ <notrans_spk_pavil_treecin03 file="notrans_spk_pavil_treecin03.msh" />
+ <spk_bench1_18 file="spk_bench1_18.msh" />
+ <spk_bench1_19 file="spk_bench1_19.msh" />
+ <notrans_spk_pavil_treecin04 file="notrans_spk_pavil_treecin04.msh" />
+ <notrans_spk_tulip01 file="notrans_spk_tulip01.msh" />
+ <spk_metal_003 file="spk_metal_003.msh" />
+ <spk_metal_003_2 file="spk_metal_003_2.msh" />
+ <spk_metal_003_2_12667C00 file="spk_metal_003_2_12667C00.msh" />
+ <spk_metal_04 file="spk_metal_04.msh" />
+ <notrans_spk_grblock file="notrans_spk_grblock.msh" />
+ <spk_forsythia20 file="spk_forsythia20.msh" />
+ <spk_forsythiabody11 file="spk_forsythiabody11.msh" />
+ <spk_forsythia21 file="spk_forsythia21.msh" />
+ <spk_forsythiabody12 file="spk_forsythiabody12.msh" />
+ <spk_forsythia22 file="spk_forsythia22.msh" />
+ <spk_forsythiabody13 file="spk_forsythiabody13.msh" />
+ <spk_forsythiabody14 file="spk_forsythiabody14.msh" />
+ <spk_forsythia23 file="spk_forsythia23.msh" />
+ <spk_forsythiabody15 file="spk_forsythiabody15.msh" />
+ <spk_forsythia24 file="spk_forsythia24.msh" />
+ <spk_forsythiabody16 file="spk_forsythiabody16.msh" />
+ <spk_forsythia25 file="spk_forsythia25.msh" />
+ <spk_forsythiabody17 file="spk_forsythiabody17.msh" />
+ <spk_forsythia26 file="spk_forsythia26.msh" />
+ <spk_forsythia27 file="spk_forsythia27.msh" />
+ <spk_forsythiabody18 file="spk_forsythiabody18.msh" />
+ <notrans_spk_shadow_circle file="notrans_spk_shadow_circle.msh" />
+ <notrans_spk_tulip02 file="notrans_spk_tulip02.msh" />
+ <notrans_spk_woodcin02 file="notrans_spk_woodcin02.msh" />
+ <notrans_spk_grshadow file="notrans_spk_grshadow.msh" />
+ <notrans_spk_grblock02 file="notrans_spk_grblock02.msh" />
+ <notrans_spk_woodcin03 file="notrans_spk_woodcin03.msh" />
+ <notrans_spk_grstaircinb01 file="notrans_spk_grstaircinb01.msh" />
+</Objects>
+<Materials version="2">
+  <mspk_grasscin
+    diffuse="spk_grasscin.dds"
+    color="255 255 255"
+  />
+  <mspk_sky
+    diffuse="spk_skycina.dds"
+    color="255 255 255"
+    uvAnimFile="spk_sky.uva"
+  />
+  <mspk_bggroundsin
+    diffuse="spk_bggroundsin.dds"
+    color="255 255 255"
+  />
+  <mspk_roadc
+    diffuse="spk_roadc.dds"
+    color="255 255 255"
+  />
+  <mspk_pavil_tree
+    diffuse="spk_pavil_tree.dds"
+    color="255 255 255"
+  />
+  <mStandard_17
+    color="149 149 149"
+  />
+  <mEmptyMat
+  />
+  <mspk_cherry_leaf
+    diffuse="spk_cherry_leaf.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_building02_id01
+    diffuse="spk_building02_id01.dds"
+    color="255 255 255"
+  />
+  <mspk_building02_id02
+    diffuse="spk_building02_id02.dds"
+    color="255 255 255"
+  />
+  <mspk_building03_id01
+    diffuse="spk_building03_id01.dds"
+    color="255 255 255"
+  />
+  <mspk_building03_id02
+    diffuse="spk_building03_id02.dds"
+    color="255 255 255"
+  />
+  <mspk_building04_id01
+    diffuse="spk_building04_id01.dds"
+    color="255 255 255"
+  />
+  <mspk_building04_id02
+    diffuse="spk_building04_id02.dds"
+    color="255 255 255"
+  />
+  <mspk_grblock03
+    diffuse="spk_grstaircina.dds"
+    color="255 255 255"
+  />
+  <mspk_roadcin05_id01
+    diffuse="spk_roadcin05_id01.dds"
+    color="255 255 255"
+  />
+  <mpk_buildings_shape
+    diffuse="spk_buildings_shape.dds"
+    color="255 255 255"
+  />
+  <mspk_bench1_01
+    diffuse="spk_bench1_01.dds"
+    color="255 255 255"
+  />
+  <mspk_cherry_tree
+    diffuse="spk_cherry_tree.dds"
+    color="255 255 255"
+  />
+  <mspk_hillcin
+    diffuse="spk_hillcin.dds"
+    color="255 255 255"
+  />
+  <mspk_grstaircinc
+    diffuse="spk_grstaircinb.dds"
+    color="255 255 255"
+  />
+  <mspk_road01
+    diffuse="spk_road_ms01.dds"
+    color="255 255 255"
+  />
+  <mspk_road03
+    diffuse="spk_road_ms03.dds"
+    color="255 255 255"
+  />
+  <mspk_bftree
+    diffuse="spk_bftree.dds"
+    color="255 255 255"
+  />
+  <mspk_tree_nyh001_id01
+    diffuse="spk_bftree_id01.dds"
+    color="255 255 255"
+  />
+  <mspk_tree_nyh001_id02
+    diffuse="spk_bftree_id02.dds"
+    color="255 255 255"
+  />
+  <mspk_tree002_sm
+    diffuse="spk_tree002_sm001.dds"
+    color="255 255 255"
+  />
+  <mspk_petal_nyh001
+    diffuse="spk_bfpetal_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_benchcin
+    diffuse="spk_benchcin.dds"
+    color="255 255 255"
+  />
+  <mspk_shadow_circle_ms
+    diffuse="spk_shadow_circle_ms.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_shadow_square
+    diffuse="spk_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_flowercin
+    diffuse="spk_flowercin.dds"
+    color="252 252 252"
+    opacity="1"
+  />
+  <mspk_clover
+    diffuse="spk_clover_a.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_fenceline
+    diffuse="spk_pavilion_cina.dds"
+    color="255 255 255"
+  />
+  <mspk_cherry2_01
+    diffuse="spk_cherry2_01.dds"
+    color="255 255 255"
+  />
+  <mspk_cherry2_02
+    diffuse="spk_cherry2_02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_grassalpha
+    diffuse="spk_grassalpha.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_momostatue
+    diffuse="spk_momostatue.dds"
+    color="255 255 255"
+  />
+  <mspk_momostatuewarter
+    diffuse="spk_momostatuewarter_nyh001.ifl"
+    color="255 255 255"
+  />
+  <mspk_shadow_circle_cin
+    diffuse="spk_shadow_circle_cin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_groadcingrass
+    diffuse="spk_groadcingrass.dds"
+    color="252 252 252"
+    opacity="1"
+  />
+  <mspk_tulip_kn01
+    diffuse="spk_tulip_kn01.dds"
+    color="255 255 255"
+  />
+  <mspk_metal_003
+    diffuse="spk_metal_003.dds"
+    color="255 255 255"
+  />
+  <mspk_metal_003_2
+    diffuse="spk_metal_003_2.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_forsythiaa
+    diffuse="spk_forsythia.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_forsythiabody
+    diffuse="spk_forsythia.dds"
+    color="252 252 252"
+  />
+  <mspk_woodcin
+    diffuse="spk_woodcin.dds"
+    color="255 255 255"
+  />
+  <mspk_grshadow
+    diffuse="spk_grshadow.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_grblock
+    diffuse="spk_grstaircinab.dds"
+    color="150 150 150"
+  />
+  <m07_-_Default
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="spring_park.skl"
+/>
+<collision
+  file="spring_park.col"
+/>
+</Scene.XML>

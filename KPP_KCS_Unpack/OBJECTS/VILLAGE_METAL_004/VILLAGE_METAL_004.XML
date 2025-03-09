@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <village_metal_004 file="village_metal_004.msh" />
+</Objects>
+<Materials version="2">
+  <mvil_car_nyh001
+    diffuse="vimetal_nyh004.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="village_metal_004.col"
+/>
+</Scene.XML>

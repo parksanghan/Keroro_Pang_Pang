@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <dsaurus_001 file="dsaurus_001.msh" />
+</Objects>
+<Materials version="2">
+  <mdsaurus_001
+    diffuse="dsaurus_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="dsaurus_001.skl"
+/>
+<collision
+  file="dsaurus_001.col"
+/>
+</Scene.XML>

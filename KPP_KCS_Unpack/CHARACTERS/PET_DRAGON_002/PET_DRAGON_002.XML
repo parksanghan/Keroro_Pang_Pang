@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pet_dragon_002 file="pet_dragon_002.msh" />
+</Objects>
+<Materials version="2">
+  <mpet_dragon_002
+    diffuse="pet_dragon_002.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="pet_dragon_002.skl"
+/>
+<BoneAnim
+  file="Anims\pet_dragon_002.anm"
+/>
+<collision
+  file="pet_dragon_002.col"
+/>
+</Scene.XML>

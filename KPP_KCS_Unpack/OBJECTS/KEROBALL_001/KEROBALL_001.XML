@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <skill_001 file="skill_001.msh" />
+</Objects>
+<Materials version="2">
+  <mskill_001
+    diffuse="skill_001.tga"
+    color="149 149 149"
+  />
+</Materials>
+<collision
+  file="keroball_001.col"
+/>
+</Scene.XML>

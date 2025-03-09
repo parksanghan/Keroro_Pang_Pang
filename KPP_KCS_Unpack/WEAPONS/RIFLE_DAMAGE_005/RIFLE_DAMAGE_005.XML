@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <rifle_damage_005 file="rifle_damage_005.msh" />
+</Objects>
+<Materials version="2">
+  <mrifle_damage_005
+    diffuse="rifle_damage_005.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="rifle_damage_005.skl"
+/>
+<collision
+  file="rifle_damage_005.col"
+/>
+</Scene.XML>

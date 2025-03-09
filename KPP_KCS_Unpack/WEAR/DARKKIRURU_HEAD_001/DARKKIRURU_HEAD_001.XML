@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <darkkiruru_head_001 file="darkkiruru_head_001.msh" />
+</Objects>
+<Materials version="2">
+  <mdarkkiruru_head_001
+    diffuse="darkkiruru_head_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

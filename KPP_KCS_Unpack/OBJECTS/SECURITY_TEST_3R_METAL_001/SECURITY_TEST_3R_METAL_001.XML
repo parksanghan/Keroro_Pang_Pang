@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <set_metalgate file="set_metalgate.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_1
+    diffuse="sec_metalgate01_01.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k213
+    diffuse="sec_grass01_id01.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k214
+    diffuse="set_naragrass_b.dds"
+    color="149 149 149"
+  />
+  <mStandard_63
+    diffuse="sec_metalbox.dds"
+    color="149 149 149"
+  />
+</Materials>
+<collision
+  file="security_test_3r_metal_001.col"
+/>
+</Scene.XML>

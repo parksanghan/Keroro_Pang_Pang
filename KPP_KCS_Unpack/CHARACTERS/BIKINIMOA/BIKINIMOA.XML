@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <moa_head_000 file="moa_head_000.msh" />
+ <moa_face_000 file="moa_face_000.msh" />
+ <nami_body_03 file="nami_body_03.msh" />
+</Objects>
+<Materials version="2">
+  <mmoa_head_000
+    diffuse="moa_hair_000.dds"
+    color="149 149 149"
+  />
+  <mmoa_body_0001
+    diffuse="moa_face_001.dds"
+    color="149 149 149"
+  />
+  <mmoa_face_000
+    diffuse="moa_body_001.dds"
+    color="70 70 70"
+  />
+</Materials>
+<Skeleton
+  file="moa_001.skl"
+/>
+<collision
+  file="moa_001.col"
+/>
+</Scene.XML>

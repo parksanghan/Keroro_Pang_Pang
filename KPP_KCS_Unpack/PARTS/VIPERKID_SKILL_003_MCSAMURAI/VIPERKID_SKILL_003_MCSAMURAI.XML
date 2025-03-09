@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <mcSamurai file="mcSamurai.msh" />
+</Objects>
+<Materials version="2">
+  <mmcSamurai
+    diffuse="mcSamurai.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="viperkid_skill_003_mcsamurai.skl"
+/>
+<BoneAnim
+  file="Anims\viperkid_skill_003_mcsamurai.anm"
+/>
+<collision
+  file="viperkid_skill_003_mcsamurai.col"
+/>
+</Scene.XML>

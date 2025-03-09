@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TutorialEvents> 
+	<!-- 조작 훈련 종료 -->
+	<!-- 기초훈련 3 사격 훈련 시작 -->
+	<event time="0.0" type="move_character">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="spawn_id" value="training_spawn003" />
+	</event>
+	<event time="0.0" type="play_camera">
+		<param name="camera_name" value="tutorial_step03_camera.xml" />
+	</event>
+	<event time="2.0" type="message">
+	<param name="message_id" value="step6_01" />
+	<param name="sound_name" value="vc_moa_ui_009" />
+	</event>
+	<event time="6.0" type="change_weapon">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="weapon_name" value="KRassault" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn003" />
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="1.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="1.0" type="message">
+	<param name="message_id" value="step6_02" />
+	<param name="sound_name" value="vc_moa_ui_009_1" />
+	</event>
+	<event time="0.0" type="spawn_fieldobject">
+		<param name="spawn_id" value="training_spawn007" />
+		<param name="fieldobject_name" value="basket" />
+		<param name="angle_y" value="0" />
+		<param name="scale" value="1" />
+		<param name="name" value="attack_step_01_object" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn007" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="0" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="1" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="destroy_object" value="attack_step_01_object"/>
+	</event>
+	<event time="0.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="1.5" type="message">
+	<param name="message_id" value="step6_03" />
+	<param name="sound_name" value="vc_moa_ui_004_2" />
+	</event>
+	<event time="5.0" type="change_weapon">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="weapon_name" value="KRhighpower" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn003" />
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="1.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="1.0" type="message">
+	<param name="message_id" value="step6_04" />
+	<param name="sound_name" value="vc_moa_ui_009_1" />
+	</event>
+	<event time="5.0" type="spawn_fieldobject">
+		<param name="spawn_id" value="training_spawn008" />
+		<param name="fieldobject_name" value="basket" />
+		<param name="angle_y" value="0" />
+		<param name="scale" value="1" />
+		<param name="name" value="attack_step_02_object" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn008" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="0" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="1" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="destroy_object" value="attack_step_02_object"/>
+	</event>
+	<event time="0.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="1.5" type="message">
+	<param name="message_id" value="step6_03" />
+	<param name="sound_name" value="vc_moa_ui_004_2" />
+	</event>
+	<event time="5.0" type="change_weapon">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="weapon_name" value="KRsupport" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn003" />
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="1.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="1.0" type="message">
+	<param name="message_id" value="step6_05" />
+	<param name="sound_name" value="vc_moa_ui_009_1" />
+	</event>
+	<event time="5.0" type="spawn_fieldobject">
+		<param name="spawn_id" value="training_spawn009" />
+		<param name="fieldobject_name" value="basket" />
+		<param name="angle_y" value="0" />
+		<param name="scale" value="1" />
+		<param name="name" value="attack_step_03_object" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn009" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="0" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="1" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="destroy_object" value="attack_step_03_object"/>
+	</event>
+	<event time="0.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="1.5" type="message">
+	<param name="message_id" value="step6_03" />
+	<param name="sound_name" value="vc_moa_ui_004_2" />
+	</event>
+	<event time="5.0" type="change_weapon">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="weapon_name" value="KRlongRanger" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn003" />
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="1.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="1.0" type="message">
+	<param name="message_id" value="step6_06" />
+	<param name="sound_name" value="vc_moa_ui_009_1" />
+	</event>
+	<event time="5.0" type="spawn_fieldobject">
+		<param name="spawn_id" value="training_spawn010" />
+		<param name="fieldobject_name" value="basket" />
+		<param name="angle_y" value="0" />
+		<param name="scale" value="1" />
+		<param name="name" value="attack_step_04_object" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn010" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+	    <param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="0" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="1" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="destroy_object" value="attack_step_04_object"/>
+	</event>
+	<event time="0.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="1.5" type="message">
+	    <param name="message_id" value="step6_03" />
+	    <param name="sound_name" value="vc_moa_ui_004_2" />
+	</event>
+	<event time="5.0" type="change_weapon">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="weapon_name" value="KRfive" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn003" />
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="1.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="1.0" type="message">
+	    <param name="message_id" value="step6_07" />
+	    <param name="sound_name" value="vc_moa_ui_009_1" />
+	</event>
+	<event time="5.0" type="spawn_fieldobject">
+		<param name="spawn_id" value="training_spawn011" />
+		<param name="fieldobject_name" value="basket" />
+		<param name="angle_y" value="0" />
+		<param name="scale" value="1" />
+		<param name="name" value="attack_step_05_object" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn011" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="0" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="1" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="destroy_object" value="attack_step_05_object"/>
+	</event>
+	<event time="0.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+		<event time="1.5" type="message">
+	    <param name="message_id" value="step6_03" />
+	    <param name="sound_name" value="vc_moa_ui_004_2" />
+	</event>
+	<event time="5.0" type="change_weapon">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="weapon_name" value="Krspas" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn003" />
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="1.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keron_item_get.prx" />
+	</event>
+	<event time="5.0" type="message">
+	    <param name="message_id" value="step6_08" />
+	    <param name="sound_name" value="vc_moa_ui_009_1" />
+	</event>
+	<event time="3.0" type="spawn_fieldobject">
+		<param name="spawn_id" value="training_spawn012" />
+		<param name="fieldobject_name" value="basket" />
+		<param name="angle_y" value="0" />
+		<param name="scale" value="1" />
+		<param name="name" value="attack_step_06_object" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn012" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="0" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="1" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="destroy_object" value="attack_step_06_object"/>
+	</event>
+	<event time="0.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="1.0" type="message">
+	    <param name="message_id" value="step6_09" />
+	</event>
+	<event time="10.0" type="message">
+	    <param name="message_id" value="step6_10" />
+	</event>
+	<event time="4.0" type="message">
+	    <param name="message_id" value="" />
+	</event>
+	<!-- 사격 훈련 종료-->
+	<!-- 기초훈련 4 필드아이템 획득 훈련 시작-->
+	<event time="0.0" type="move_character">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="spawn_id" value="training_spawn004" />
+	</event>
+	<event time="0.0" type="change_weapon">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="weapon_name" value="KRhighpower" />
+	</event>
+	<event time="0.0" type="play_camera">
+		<param name="camera_name" value="tutorial_step04_camera.xml" />
+	</event>
+	<event time="1.0" type="message"> 
+	    <param name="message_id" value="step7_01" />
+	</event>
+	<event time="6.0" type="message">
+	    <param name="message_id" value="step7_02" />
+	    <param name="sound_name" value="vc_moa_ui_009_2" />
+	</event>
+	<event time="3.0" type="spawn_item">
+    <param name="spawn_id" value="reinforce_1" /> 
+    <param name="item_name" value="reinforce_1" />
+    </event>
+	<event time="0.0" type="spawn_item">
+    <param name="spawn_id" value="restoration_1" /> 
+    <param name="item_name" value="restoration_1" />
+    </event>
+    <event time="0.0" type="spawn_fieldobject">
+		<param name="spawn_id" value="training_spawn013" />
+		<param name="fieldobject_name" value="dororo wooden box" />
+		<param name="angle_y" value="0" />
+		<param name="scale" value="1" />
+		<param name="name" value="attack_step_07_object" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn013" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="1" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="1" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="destroy_object" value="attack_step_07_object"/>
+	</event>
+	<event time="0.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="spawn_item">
+    <param name="spawn_id" value="reinforce_2" /> 
+    <param name="item_name" value="reinforce_2" />
+    </event>
+	<event time="2.0" type="message">
+	    <param name="message_id" value="step7_03" />
+	</event>
+	<event time="0.0" type="spawn_fieldobject">
+		<param name="spawn_id" value="training_spawn014" />
+		<param name="fieldobject_name" value="keroro wooden box" />
+		<param name="angle_y" value="0" />
+		<param name="scale" value="1" />
+		<param name="name" value="attack_step_08_object" />
+	</event>
+	<event time="0.0" type="play_effect">
+		<param name="id" value="training_spawn014" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="1" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="1" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="destroy_object" value="attack_step_08_object"/>
+	</event>
+	<event time="0.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="spawn_fieldobject">
+		<param name="spawn_id" value="training_spawn015" />
+		<param name="fieldobject_name" value="giroro wooden box" />
+		<param name="angle_y" value="0" />
+		<param name="scale" value="1" />
+		<param name="name" value="attack_step_09_object" />
+	</event>
+	<event time="0.5" type="play_effect">
+		<param name="id" value="training_spawn015" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="1" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="1" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="destroy_object" value="attack_step_09_object" />
+	</event>
+	<event time="0.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="0.0" type="spawn_item">
+		<param name="spawn_id" value="defense_2" /> 
+		<param name="item_name" value="defense_2" />
+    </event>
+	<event time="4.0" type="message">
+	    <param name="message_id" value="step7_04" />
+	    <param name="sound_name" value="vc_moa_ui_009_3" />
+	</event>
+	<event time="7.0" type="message">
+	    <param name="message_id" value="step7_05" />
+	</event>
+	<event time="4.0" type="message">
+	    <param name="message_id" value="" />
+	</event>	
+	<event time="2.0" type="message">
+	    <param name="message_id" value="step10_02" />
+	    <param name="sound_name" value="vc_moa_ui_012_1" />
+	</event>
+	<event time="5.0" type="message">
+	    <param name="message_id" value="" />
+	</event>
+	<!-- 기초훈련 4 필드아이템 획득 훈련 종료-->
+	<!-- 기초 훈련 종료  -->
+	<event time="0.0" type="play_camera">
+		<param name="camera_name" value="loadingpathlist.xml" />	
+	</event>
+</TutorialEvents>

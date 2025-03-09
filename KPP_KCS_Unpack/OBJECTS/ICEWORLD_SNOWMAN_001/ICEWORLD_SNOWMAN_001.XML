@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <iceworld_snowman_001 file="iceworld_snowman_001.msh" />
+</Objects>
+<Materials version="2">
+  <miceworld_snowman_001
+    diffuse="iceworld_snowman_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="iceworld_snowman_001.col"
+/>
+</Scene.XML>

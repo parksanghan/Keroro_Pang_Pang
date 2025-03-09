@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <common_wood_011 file="common_wood_011.msh" />
+</Objects>
+<Materials version="2">
+  <mnyh_common_drum001_03
+    diffuse="common_drum_nyh001_03.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="common_wood_011.col"
+/>
+</Scene.XML>

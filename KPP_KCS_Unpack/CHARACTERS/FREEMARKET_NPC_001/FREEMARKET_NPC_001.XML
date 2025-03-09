@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <freemarket_NPC_001 file="freemarket_NPC_001.msh" />
+ <balloon file="balloon.msh" />
+</Objects>
+<Materials version="2">
+  <mfreemarket_NPC_001
+    diffuse="freemarket_NPC_001.dds"
+    color="149 149 149"
+  />
+  <mballoon
+    diffuse="balloon.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="freemarket_NPC_001.skl"
+/>
+<BoneAnim
+  file="Anims\freemarket_NPC_001.anm"
+/>
+<collision
+  file="freemarket_NPC_001.col"
+/>
+</Scene.XML>

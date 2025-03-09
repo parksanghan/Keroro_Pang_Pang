@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <mcViperkid_skill_003_converter file="mcViperkid_skill_003_converter.msh" />
+ <mcViper file="mcViper.msh" />
+</Objects>
+<Materials version="2">
+  <m01_-_Default
+    diffuse="mcviperkid_skill_003_converter.dds"
+    color="150 150 150"
+  />
+  <mmcviper
+    diffuse="mcviperkid_skill_003_returns.dds"
+    color="67 67 67"
+  />
+</Materials>
+<Skeleton
+  file="mcViperkid_skill_003_returns.skl"
+/>
+<BoneAnim
+  file="Anims\mcViperkid_skill_003_returns.anm"
+/>
+<collision
+  file="mcViperkid_skill_003_returns.col"
+/>
+</Scene.XML>

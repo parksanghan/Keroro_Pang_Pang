@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<!--<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="33" posY="3" posZ="-25.52" radius="3" />
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="1" posX="-33.5601" posY="3" posZ="25" radius="3" />
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="2" posX="-27.2598" posY="6.07998" posZ="-21.8301" radius="4" />
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="3" posX="34" posY="5" posZ="27.44" radius="3" />
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="4" posX="29" posY="5" posZ="22" radius="3" /> -->
+    <spawn type="platoonZone" teamId="0" spawnId="0" posX="33" posY="3" posZ="-25.52" radius="3"/>
+	<spawn type="platoonZone" teamId="0" spawnId="1" posX="34" posY="5" posZ="27.44" radius="3"/>
+	<spawn type="platoonZone" teamId="0" spawnId="0" posX="29" posY="5" posZ="22" radius="3"/>
+	<spawn type="platoonZone" teamId="1" spawnId="2" posX="-33.5601" posY="3" posZ="25" radius="3"/>
+	<spawn type="platoonZone" teamId="1" spawnId="3" posX="-27.2598" posY="6.07998" posZ="-21.8301" radius="3"/>
+	<spawn type="obj_JumpPad" engName="space_jump pad2" code="129040390" teamId="0" spawnId="6" posX="6" posY="2" posZ="34" angleY="120" scale="1" jumpPower="150" force="150" durationTime="2.0"/>
+	<spawn type="obj_JumpPad" engName="space_jump pad2" code="129040390" teamId="0" spawnId="7" posX="-6" posY="2" posZ="-34" angleY="340" scale="1" jumpPower="200" force="150" durationTime="2.0"/>
+	<spawn type="obj_JumpPad" engName="space_jump pad2" code="129040390" teamId="0" spawnId="14" posX="5" posY="2" posZ="-10" angleY="200" scale="1" jumpPower="130" force="80" durationTime="2.0"/>
+	<spawn type="obj_JumpPad" engName="space_jump pad2" code="129040390" teamId="0" spawnId="15" posX="-4" posY="2" posZ="10" angleY="20" scale="1" jumpPower="130" force="80" durationTime="2.0"/>
+	<spawn type="obj_JumpPad" engName="space_jump pad2" code="129040390" teamId="0" spawnId="9" posX="-30" posY="3.62001" posZ="-27" angleY="-2" scale="1" jumpPower="130" force="380" durationTime="2.0"/>
+	<spawn type="obj_JumpPad" engName="space_jump pad2" code="129040390" teamId="0" spawnId="10" posX="36.65" posY="3.62001" posZ="32.7" angleY="185" scale="1"  jumpPower="130" force="420" durationTime="2.0"/>
+</SPAWN.XML>

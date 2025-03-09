@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Plane01 file="Plane01.msh" />
+ <Plane02 file="Plane02.msh" />
+ <Plane03 file="Plane03.msh" />
+ <Plane11 file="Plane11.msh" />
+ <Plane13 file="Plane13.msh" />
+ <Plane16 file="Plane16.msh" />
+ <Plane19 file="Plane19.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_111
+    diffuse="map_color.dds"
+    lightmap="paper_light.dds"
+    color="149 149 149"
+  />
+  <mStandard_14
+    diffuse="map_color.dds"
+    color="0 0 0"
+    opacity="1"
+  />
+  <mStandard_12
+    diffuse="map_grid.png"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="game_result.col"
+/>
+</Scene.XML>

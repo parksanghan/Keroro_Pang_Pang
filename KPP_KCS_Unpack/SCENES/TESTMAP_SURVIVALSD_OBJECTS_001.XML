@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="testmap\testmap\testmap.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="derrick" code="120651785" yLayer="0" posX="-21" posY="-2" posZ="-15" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="derrick" code="120651785" yLayer="0" posX="-21" posY="-2" posZ="10" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="derrick" code="120651785" yLayer="0" posX="35" posY="1" posZ="13" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="derrick" code="120651785" yLayer="0" posX="35" posY="1" posZ="-20" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="-2" posY="-1" posZ="-3" angleX="0" angleY="60" angleZ="0" scale="1"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="1" posY="-1" posZ="-4" angleX="0" angleY="60" angleZ="0" scale="1">
+		<Object engName="container_2" code="120651782" yLayer="1" posX="0" posY="2.14557" posZ="0" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="-8" posY="-1" posZ="6" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="-8" posY="-1" posZ="-13" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="container_3" code="120651783" yLayer="0" posX="6" posY="-1" posZ="-11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="container_3" code="120651783" yLayer="0" posX="6" posY="-1" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="-4" posY="-1" posZ="-13" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="7" posY="-1" posZ="-2" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="9" posY="-1" posZ="-2" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="-13" posY="-1" posZ="-2" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="-11" posY="-1" posZ="-2" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="-16" posY="-2" posZ="0" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="-20" posY="-2" posZ="-6" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="-2" posY="-1" posZ="10" angleX="0" angleY="90" angleZ="0" scale="0.7"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="-13" posY="-1" posZ="-8" angleX="0" angleY="90" angleZ="0" scale="0.7"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="-13" posY="-1" posZ="-5" angleX="0" angleY="90" angleZ="0" scale="0.7"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="16" posY="1" posZ="-34" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="0" posY="1" posZ="-35" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="2" posY="1" posZ="-35" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="4" posY="1" posZ="-35" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="derrick" code="120651785" yLayer="0" posX="8" posY="1" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="derrick" code="120651785" yLayer="0" posX="8" posY="1" posZ="22" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="0" posY="1" posZ="28" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="16" posY="1" posZ="28" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="32" posY="1" posZ="23" angleX="0" angleY="130" angleZ="0" scale="1"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="23" posY="1" posZ="20" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="25" posY="1" posZ="20" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="23" posY="1" posZ="29" angleX="0" angleY="90" angleZ="0" scale="0.7"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="25" posY="1" posZ="29" angleX="0" angleY="90" angleZ="0" scale="0.7"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="38" posY="2" posZ="13" angleX="0" angleY="90" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="26" posY="1" posZ="12" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="27" posY="1" posZ="13" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="30" posY="1" posZ="31" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="3" posY="0" posZ="32" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="-10" posY="-1" posZ="9" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="-8" posY="-1" posZ="10" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="container_3" code="120651783" yLayer="0" posX="32" posY="1" posZ="-29" angleX="0" angleY="60" angleZ="0" scale="1"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="27" posY="1" posZ="-19" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="25" posY="1" posZ="-21" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="23" posY="1" posZ="-26" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="25" posY="1" posZ="-26" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="27" posY="1" posZ="-36" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="29" posY="1" posZ="-36" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="21" posY="1" posZ="-34" angleX="0" angleY="90" angleZ="0" scale="0.7"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="21" posY="1" posZ="-38" angleX="0" angleY="90" angleZ="0" scale="0.7"/>
+</ARRANGEMENT>

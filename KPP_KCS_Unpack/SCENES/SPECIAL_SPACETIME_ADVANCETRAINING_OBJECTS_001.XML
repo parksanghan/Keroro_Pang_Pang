@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="special_spacetime\special_spacetime.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-28" posY="1.47" posZ="10.94" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-24.9599" posY="1.48" posZ="0.309996" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-27" posY="3" posZ="-13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-30" posY="3" posZ="-22" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="URectangle" code="122748933" yLayer="0" posX="-28" posY="0.699999" posZ="-5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="URectangle" code="122748933" yLayer="0" posX="-28" posY="0.729999" posZ="6" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-29.5" posY="1.49" posZ="32.95" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-29.49" posY="1.5" posZ="27.58" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-34.08" posY="4.15001" posZ="19.61" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-32.03" posY="4.18001" posZ="16.2" angleX="0" angleY="-58.4" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-32" posY="1" posZ="7" angleX="0" angleY="-60" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-34" posY="1" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-30" posY="1" posZ="-15" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="Rectangle" code="122748931" yLayer="1" posX="0" posY="1.00281" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-30" posY="1" posZ="-11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-30" posY="1" posZ="1" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="Rectangle" code="122748931" yLayer="1" posX="0" posY="1.00281" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-14" posY="2" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-14" posY="2" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="Rectangle" code="122748931" yLayer="1" posX="0" posY="1.00281" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-18" posY="2" posZ="14" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-23" posY="3" posZ="15" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-21" posY="2" posZ="-19" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

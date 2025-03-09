@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="mys_3_round\mys_3_round.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="mystery_school_wood_001" code="141623297" yLayer="0" posX="-34.92" posY="0" posZ="24.8" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="mystery_school_wood_001" code="141623297" yLayer="0" posX="-34.93" posY="0" posZ="1.52" angleX="0" angleY="90" angleZ="0" scale="1"/>
+</ARRANGEMENT>

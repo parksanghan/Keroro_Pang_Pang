@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <trainstation_glass_001 file="trainstation_glass_001.msh" />
+</Objects>
+<Materials version="2">
+  <mtrainstation_glass_001
+    diffuse="ts_glass_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="trainstation_glass_001.col"
+/>
+</Scene.XML>

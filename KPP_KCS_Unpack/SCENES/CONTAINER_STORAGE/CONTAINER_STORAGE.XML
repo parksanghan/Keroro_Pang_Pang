@@ -1,0 +1,456 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_con_shadow_b02 file="notrans_con_shadow_b02.msh" />
+ <notrans_con_shadow_b03 file="notrans_con_shadow_b03.msh" />
+ <notrans_con_shadow_b05 file="notrans_con_shadow_b05.msh" />
+ <notrans_con_shadow_b08 file="notrans_con_shadow_b08.msh" />
+ <notrans_con_shadow_b09 file="notrans_con_shadow_b09.msh" />
+ <notrans_con_shadow_b06 file="notrans_con_shadow_b06.msh" />
+ <notrans_con_shadow_a06 file="notrans_con_shadow_a06.msh" />
+ <con_container_b06 file="con_container_b06.msh" />
+ <con_woodbox_b02 file="con_woodbox_b02.msh" />
+ <notrans_con_shadow_a05 file="notrans_con_shadow_a05.msh" />
+ <notrans_con_sky file="notrans_con_sky.msh" />
+ <con_ironbox_a01 file="con_ironbox_a01.msh" />
+ <notrans_con_shadow_b11 file="notrans_con_shadow_b11.msh" />
+ <notrans_con_shadow_b12 file="notrans_con_shadow_b12.msh" />
+ <notrans_con_shadow_b13 file="notrans_con_shadow_b13.msh" />
+ <con_ironbox_a13 file="con_ironbox_a13.msh" />
+ <con_ironbox_a12 file="con_ironbox_a12.msh" />
+ <con_ironbox_a11 file="con_ironbox_a11.msh" />
+ <notrans_con_shadow_b14 file="notrans_con_shadow_b14.msh" />
+ <con_ironbox_a10 file="con_ironbox_a10.msh" />
+ <notrans_con_shadow_a01 file="notrans_con_shadow_a01.msh" />
+ <notrans_con_shadow_a02 file="notrans_con_shadow_a02.msh" />
+ <con_ironbox_a09 file="con_ironbox_a09.msh" />
+ <con_ironbox_a08 file="con_ironbox_a08.msh" />
+ <con_ironbox_a07 file="con_ironbox_a07.msh" />
+ <con_ironbox_a06 file="con_ironbox_a06.msh" />
+ <con_woodbox_b09 file="con_woodbox_b09.msh" />
+ <con_drum_a04 file="con_drum_a04.msh" />
+ <con_drum_a03 file="con_drum_a03.msh" />
+ <con_drum_a05 file="con_drum_a05.msh" />
+ <con_drum_a06 file="con_drum_a06.msh" />
+ <con_drum_a09 file="con_drum_a09.msh" />
+ <con_woodbox_b03 file="con_woodbox_b03.msh" />
+ <con_woodbox_b04 file="con_woodbox_b04.msh" />
+ <con_woodbox_b06 file="con_woodbox_b06.msh" />
+ <con_woodbox_b11 file="con_woodbox_b11.msh" />
+ <con_woodbox_b10 file="con_woodbox_b10.msh" />
+ <con_woodbox_b08 file="con_woodbox_b08.msh" />
+ <con_woodbox_b07 file="con_woodbox_b07.msh" />
+ <con_light_a06 file="con_light_a06.msh" />
+ <con_light_a05 file="con_light_a05.msh" />
+ <con_light_a04 file="con_light_a04.msh" />
+ <con_light_a02 file="con_light_a02.msh" />
+ <con_light_a01 file="con_light_a01.msh" />
+ <con_light_a03 file="con_light_a03.msh" />
+ <con_light_a07 file="con_light_a07.msh" />
+ <con_light_a08 file="con_light_a08.msh" />
+ <con_light_a09 file="con_light_a09.msh" />
+ <con_light_b01 file="con_light_b01.msh" />
+ <con_paperbox_a05 file="con_paperbox_a05.msh" />
+ <con_paperbox_a03 file="con_paperbox_a03.msh" />
+ <con_paperbox_a04 file="con_paperbox_a04.msh" />
+ <con_paperbox_a01 file="con_paperbox_a01.msh" />
+ <notrans_con_shadow_b55 file="notrans_con_shadow_b55.msh" />
+ <notrans_con_drum_a02 file="notrans_con_drum_a02.msh" />
+ <notrans_con_drum_a01 file="notrans_con_drum_a01.msh" />
+ <notrans_con_shadow_a07 file="notrans_con_shadow_a07.msh" />
+ <con_paperbox_b02 file="con_paperbox_b02.msh" />
+ <con_paperbox_b01 file="con_paperbox_b01.msh" />
+ <con_paperbox_b05 file="con_paperbox_b05.msh" />
+ <con_paperbox_b04 file="con_paperbox_b04.msh" />
+ <con_paperbox_b06 file="con_paperbox_b06.msh" />
+ <notrans_con_shadow_b15 file="notrans_con_shadow_b15.msh" />
+ <con_drum_a07 file="con_drum_a07.msh" />
+ <notrans_con_shadow_a03 file="notrans_con_shadow_a03.msh" />
+ <con_drum_a08 file="con_drum_a08.msh" />
+ <notrans_con_shadow_a04 file="notrans_con_shadow_a04.msh" />
+ <con_paperbox_a02 file="con_paperbox_a02.msh" />
+ <notrans_con_ground04 file="notrans_con_ground04.msh" />
+ <con_woodbox_a05 file="con_woodbox_a05.msh" />
+ <con_woodbox_a06 file="con_woodbox_a06.msh" />
+ <con_woodbox_a07 file="con_woodbox_a07.msh" />
+ <con_ironbox_a05 file="con_ironbox_a05.msh" />
+ <notrans_con_shadow_b16 file="notrans_con_shadow_b16.msh" />
+ <con_ironbox_a04 file="con_ironbox_a04.msh" />
+ <con_ironbox_a03 file="con_ironbox_a03.msh" />
+ <notrans_con_frame_01 file="notrans_con_frame_01.msh" />
+ <con_container_a04 file="con_container_a04.msh" />
+ <notrans_con_woodbox_a03 file="notrans_con_woodbox_a03.msh" />
+ <notrans_con_shadow_b17 file="notrans_con_shadow_b17.msh" />
+ <notrans_con_woodbox_a04 file="notrans_con_woodbox_a04.msh" />
+ <notrans_con_shadow_b18 file="notrans_con_shadow_b18.msh" />
+ <con_paperbox_a06 file="con_paperbox_a06.msh" />
+ <con_paperbox_a07 file="con_paperbox_a07.msh" />
+ <notrans_con_woodbox_b01 file="notrans_con_woodbox_b01.msh" />
+ <notrans_con_shadow_b19 file="notrans_con_shadow_b19.msh" />
+ <con_paperbox_b03 file="con_paperbox_b03.msh" />
+ <notrans_con_shadow_b20 file="notrans_con_shadow_b20.msh" />
+ <notrans_con_ground02 file="notrans_con_ground02.msh" />
+ <notrans_con_line01_01 file="notrans_con_line01_01.msh" />
+ <notrans_con_door_a02 file="notrans_con_door_a02.msh" />
+ <notrans_con_door_a01 file="notrans_con_door_a01.msh" />
+ <notrans_con_door_a03 file="notrans_con_door_a03.msh" />
+ <notrans_con_door_a04 file="notrans_con_door_a04.msh" />
+ <notrans_con_woodbox_b18 file="notrans_con_woodbox_b18.msh" />
+ <notrans_con_shadow_b21 file="notrans_con_shadow_b21.msh" />
+ <notrans_con_sign_01 file="notrans_con_sign_01.msh" />
+ <notrans_con_shadow_b22 file="notrans_con_shadow_b22.msh" />
+ <notrans_con_sign_02 file="notrans_con_sign_02.msh" />
+ <notrans_con_shadow_b23 file="notrans_con_shadow_b23.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <Outer_con_wall_02 file="Outer_con_wall_02.msh" />
+ <Outer_con_wall_04 file="Outer_con_wall_04.msh" />
+ <notrans_con_paperbox_a08 file="notrans_con_paperbox_a08.msh" />
+ <notrans_con_shadow_b24 file="notrans_con_shadow_b24.msh" />
+ <notrans_con_water_a01 file="notrans_con_water_a01.msh" />
+ <notrans_con_shadow_a08 file="notrans_con_shadow_a08.msh" />
+ <notrans_con_drum_a10 file="notrans_con_drum_a10.msh" />
+ <notrans_con_shadow_a09 file="notrans_con_shadow_a09.msh" />
+ <notrans_con_shadow_b25 file="notrans_con_shadow_b25.msh" />
+ <notrans_con_woodbox_b23 file="notrans_con_woodbox_b23.msh" />
+ <notrans_keroro_city_guard_metal_003 file="notrans_keroro_city_guard_metal_003.msh" />
+ <notrans_con_shadow_b26 file="notrans_con_shadow_b26.msh" />
+ <notrans_con_container_c04 file="notrans_con_container_c04.msh" />
+ <notrans_con_shadow_b27 file="notrans_con_shadow_b27.msh" />
+ <notrans_keroro_city_guard_metal_04 file="notrans_keroro_city_guard_metal_04.msh" />
+ <notrans_con_container_c05 file="notrans_con_container_c05.msh" />
+ <notrans_con_container_a09 file="notrans_con_container_a09.msh" />
+ <notrans_con_woodbox_a08 file="notrans_con_woodbox_a08.msh" />
+ <notrans_con_woodbox_a09 file="notrans_con_woodbox_a09.msh" />
+ <notrans_con_shadow_b28 file="notrans_con_shadow_b28.msh" />
+ <notrans_con_woodbox_a10 file="notrans_con_woodbox_a10.msh" />
+ <notrans_con_woodbox_a11 file="notrans_con_woodbox_a11.msh" />
+ <notrans_con_light_a01 file="notrans_con_light_a01.msh" />
+ <notrans_con_light_a02 file="notrans_con_light_a02.msh" />
+ <notrans_con_light_a03 file="notrans_con_light_a03.msh" />
+ <notrans_con_light_a04 file="notrans_con_light_a04.msh" />
+ <notrans_con_light_a05 file="notrans_con_light_a05.msh" />
+ <notrans_con_shadow_b56 file="notrans_con_shadow_b56.msh" />
+ <notrans_con_shadow_b29 file="notrans_con_shadow_b29.msh" />
+ <notrans_con_roof file="notrans_con_roof.msh" />
+ <notrans_con_house01 file="notrans_con_house01.msh" />
+ <notrans_con_ground03 file="notrans_con_ground03.msh" />
+ <notrans_con_ground01 file="notrans_con_ground01.msh" />
+ <notrans_con_container_c03 file="notrans_con_container_c03.msh" />
+ <notrans_con_container_a06 file="notrans_con_container_a06.msh" />
+ <con_container_a03 file="con_container_a03.msh" />
+ <con_container_a02 file="con_container_a02.msh" />
+ <con_container_a01 file="con_container_a01.msh" />
+ <con_container_a07 file="con_container_a07.msh" />
+ <con_container_a08 file="con_container_a08.msh" />
+ <con_container_c01 file="con_container_c01.msh" />
+ <con_container_a05 file="con_container_a05.msh" />
+ <con_container_c02 file="con_container_c02.msh" />
+ <con_container_b07 file="con_container_b07.msh" />
+ <con_container_b02 file="con_container_b02.msh" />
+ <con_container_b01 file="con_container_b01.msh" />
+ <con_container_b03 file="con_container_b03.msh" />
+ <con_container_c03 file="con_container_c03.msh" />
+ <notrans_con_container_b04 file="notrans_con_container_b04.msh" />
+ <notrans_vil_sewer_01 file="notrans_vil_sewer_01.msh" />
+ <notrans_con_shadow_b32 file="notrans_con_shadow_b32.msh" />
+ <notrans_con_woodbox_b24 file="notrans_con_woodbox_b24.msh" />
+ <notrans_con_shadow_b30 file="notrans_con_shadow_b30.msh" />
+ <notrans_con_paperbox_a09 file="notrans_con_paperbox_a09.msh" />
+ <notrans_con_block_01 file="notrans_con_block_01.msh" />
+ <notrans_con_fence file="notrans_con_fence.msh" />
+ <notrans_con_woodbox_b25 file="notrans_con_woodbox_b25.msh" />
+ <notrans_con_paperbox_a10 file="notrans_con_paperbox_a10.msh" />
+ <notrans_con_woodbox_a12 file="notrans_con_woodbox_a12.msh" />
+ <notrans_con_shadow_b31 file="notrans_con_shadow_b31.msh" />
+ <notrans_con_drum_a12 file="notrans_con_drum_a12.msh" />
+ <notrans_con_drum_a13 file="notrans_con_drum_a13.msh" />
+ <notrans_con_shadow_a10 file="notrans_con_shadow_a10.msh" />
+ <notrans_con_guard_01 file="notrans_con_guard_01.msh" />
+ <notrans_con_guard01_24 file="notrans_con_guard01_24.msh" />
+ <notrans_con_guard01_23 file="notrans_con_guard01_23.msh" />
+ <notrans_con_shadow_b33 file="notrans_con_shadow_b33.msh" />
+ <notrans_con_shadow_b57 file="notrans_con_shadow_b57.msh" />
+ <notrans_con_roof_01 file="notrans_con_roof_01.msh" />
+ <con_container_b08 file="con_container_b08.msh" />
+ <notrans_con_shadow_b34 file="notrans_con_shadow_b34.msh" />
+ <con_container_c02_11E914D0 file="con_container_c02_11E914D0.msh" />
+ <con_container_a06 file="con_container_a06.msh" />
+ <notrans_con_shadow_b35 file="notrans_con_shadow_b35.msh" />
+ <con_container_a09 file="con_container_a09.msh" />
+ <notrans_con_light_a06 file="notrans_con_light_a06.msh" />
+ <notrans_con_light_b01 file="notrans_con_light_b01.msh" />
+ <notrans_con_light_a07 file="notrans_con_light_a07.msh" />
+ <notrans_con_light_a08 file="notrans_con_light_a08.msh" />
+ <notrans_con_light_a09 file="notrans_con_light_a09.msh" />
+ <notrans_con_light_a10 file="notrans_con_light_a10.msh" />
+ <notrans_con_light_b02 file="notrans_con_light_b02.msh" />
+ <notrans_con_light_a11 file="notrans_con_light_a11.msh" />
+ <notrans_con_woodbox_b26 file="notrans_con_woodbox_b26.msh" />
+ <notrans_con_paperbox_a11 file="notrans_con_paperbox_a11.msh" />
+ <notrans_con_shadow_b36 file="notrans_con_shadow_b36.msh" />
+ <con_woodbox_a13 file="con_woodbox_a13.msh" />
+ <con_woodbox_a14 file="con_woodbox_a14.msh" />
+ <con_woodbox_a15 file="con_woodbox_a15.msh" />
+ <con_woodbox_a16 file="con_woodbox_a16.msh" />
+ <notrans_con_drum_a14 file="notrans_con_drum_a14.msh" />
+ <notrans_con_paperbox_a12 file="notrans_con_paperbox_a12.msh" />
+ <notrans_con_light_a12 file="notrans_con_light_a12.msh" />
+ <notrans_con_light_a13 file="notrans_con_light_a13.msh" />
+ <notrans_con_light_a14 file="notrans_con_light_a14.msh" />
+ <notrans_con_light_a15 file="notrans_con_light_a15.msh" />
+ <notrans_con_light_a16 file="notrans_con_light_a16.msh" />
+ <notrans_con_light_b03 file="notrans_con_light_b03.msh" />
+ <notrans_con_light_a17 file="notrans_con_light_a17.msh" />
+ <notrans_con_light_a18 file="notrans_con_light_a18.msh" />
+ <con_light_b02 file="con_light_b02.msh" />
+ <con_light_b03 file="con_light_b03.msh" />
+ <Outer_con_wall_03 file="Outer_con_wall_03.msh" />
+ <notrans_con_guard01_22 file="notrans_con_guard01_22.msh" />
+ <notrans_vil_plank_02 file="notrans_vil_plank_02.msh" />
+ <con_light_b04 file="con_light_b04.msh" />
+ <con_light_b05 file="con_light_b05.msh" />
+ <con_light_b06 file="con_light_b06.msh" />
+ <con_light_b07 file="con_light_b07.msh" />
+ <con_light_b08 file="con_light_b08.msh" />
+ <con_light_b09 file="con_light_b09.msh" />
+ <notrans_con_shadow_b37 file="notrans_con_shadow_b37.msh" />
+ <con_container_a10 file="con_container_a10.msh" />
+ <notrans_con_shadow_b38 file="notrans_con_shadow_b38.msh" />
+ <notrans_con_guard01_02 file="notrans_con_guard01_02.msh" />
+ <notrans_con_guard01_09 file="notrans_con_guard01_09.msh" />
+ <notrans_con_guard01_10 file="notrans_con_guard01_10.msh" />
+ <notrans_con_guard01_21 file="notrans_con_guard01_21.msh" />
+ <notrans_con_guard01_01 file="notrans_con_guard01_01.msh" />
+ <notrans_con_guard01_06 file="notrans_con_guard01_06.msh" />
+ <notrans_con_roof_01_1276BCB0 file="notrans_con_roof_01_1276BCB0.msh" />
+ <Outer_con_wall_05 file="Outer_con_wall_05.msh" />
+ <notrans_con_shadow_b39 file="notrans_con_shadow_b39.msh" />
+ <notrans_con_shadow_a11 file="notrans_con_shadow_a11.msh" />
+ <notrans_con_shadow_b01 file="notrans_con_shadow_b01.msh" />
+ <con_scribble_01 file="con_scribble_01.msh" />
+ <notrans_con_scribble_02 file="notrans_con_scribble_02.msh" />
+ <notrans_con_scribble_03 file="notrans_con_scribble_03.msh" />
+ <con_scribble_02 file="con_scribble_02.msh" />
+ <notrans_con_guard01_03 file="notrans_con_guard01_03.msh" />
+ <notrans_con_guard01_04 file="notrans_con_guard01_04.msh" />
+ <notrans_con_guard01_05 file="notrans_con_guard01_05.msh" />
+ <notrans_con_guard01_07 file="notrans_con_guard01_07.msh" />
+ <notrans_con_guard01_08 file="notrans_con_guard01_08.msh" />
+ <notrans_con_guard01_11 file="notrans_con_guard01_11.msh" />
+ <notrans_con_guard01_12 file="notrans_con_guard01_12.msh" />
+ <notrans_con_guard01_13 file="notrans_con_guard01_13.msh" />
+ <notrans_con_guard01_14 file="notrans_con_guard01_14.msh" />
+ <notrans_con_guard01_15 file="notrans_con_guard01_15.msh" />
+ <notrans_con_guard01_16 file="notrans_con_guard01_16.msh" />
+ <notrans_con_guard01_17 file="notrans_con_guard01_17.msh" />
+ <notrans_con_guard01_18 file="notrans_con_guard01_18.msh" />
+ <notrans_con_guard01_19 file="notrans_con_guard01_19.msh" />
+ <notrans_con_guard01_20 file="notrans_con_guard01_20.msh" />
+ <notrans_con_shadow_b40 file="notrans_con_shadow_b40.msh" />
+ <notrans_con_shadow_a12 file="notrans_con_shadow_a12.msh" />
+ <notrans_con_shadow_b41 file="notrans_con_shadow_b41.msh" />
+ <con_ironbox_a14 file="con_ironbox_a14.msh" />
+ <con_ironbox_a15 file="con_ironbox_a15.msh" />
+ <con_woodbox_b27 file="con_woodbox_b27.msh" />
+ <notrans_con_shadow_b42 file="notrans_con_shadow_b42.msh" />
+ <con_woodbox_b28 file="con_woodbox_b28.msh" />
+ <con_woodbox_b17 file="con_woodbox_b17.msh" />
+ <notrans_con_container_a10 file="notrans_con_container_a10.msh" />
+ <con_container_c04 file="con_container_c04.msh" />
+ <notrans_con_container_b05 file="notrans_con_container_b05.msh" />
+ <con_container_b09 file="con_container_b09.msh" />
+ <con_container_c05 file="con_container_c05.msh" />
+ <notrans_con_shadow_a13 file="notrans_con_shadow_a13.msh" />
+ <con_drum_a10 file="con_drum_a10.msh" />
+ <notrans_con_shadow_b43 file="notrans_con_shadow_b43.msh" />
+ <con_ironbox_a16 file="con_ironbox_a16.msh" />
+ <con_ironbox_a17 file="con_ironbox_a17.msh" />
+ <con_drum_a11 file="con_drum_a11.msh" />
+ <notrans_con_shadow_a14 file="notrans_con_shadow_a14.msh" />
+ <notrans_con_shadow_a15 file="notrans_con_shadow_a15.msh" />
+ <con_drum_a12 file="con_drum_a12.msh" />
+ <con_woodbox_b29 file="con_woodbox_b29.msh" />
+ <con_woodbox_b30 file="con_woodbox_b30.msh" />
+ <con_woodbox_b31 file="con_woodbox_b31.msh" />
+ <con_woodbox_b32 file="con_woodbox_b32.msh" />
+ <con_woodbox_b33 file="con_woodbox_b33.msh" />
+ <notrans_con_shadow_b44 file="notrans_con_shadow_b44.msh" />
+ <con_woodbox_b34 file="con_woodbox_b34.msh" />
+ <con_woodbox_b35 file="con_woodbox_b35.msh" />
+ <con_woodbox_b27_132DC090 file="con_woodbox_b27_132DC090.msh" />
+ <notrans_con_shadow_b45 file="notrans_con_shadow_b45.msh" />
+ <notrans_con_shadow_b47 file="notrans_con_shadow_b47.msh" />
+ <notrans_con_shadow_b48 file="notrans_con_shadow_b48.msh" />
+ <con_shadow_b01 file="con_shadow_b01.msh" />
+ <notrans_con_shadow_b49 file="notrans_con_shadow_b49.msh" />
+ <notrans_con_shadow_b50 file="notrans_con_shadow_b50.msh" />
+ <notrans_con_shadow_b51 file="notrans_con_shadow_b51.msh" />
+ <notrans_con_shadow_b52 file="notrans_con_shadow_b52.msh" />
+ <notrans_con_shadow_b53 file="notrans_con_shadow_b53.msh" />
+ <notrans_con_shadow_b54 file="notrans_con_shadow_b54.msh" />
+ <con_woodbox_b36 file="con_woodbox_b36.msh" />
+ <con_woodbox_b37 file="con_woodbox_b37.msh" />
+ <con_woodbox_b38 file="con_woodbox_b38.msh" />
+ <con_woodbox_b39 file="con_woodbox_b39.msh" />
+ <con_woodbox_b40 file="con_woodbox_b40.msh" />
+ <con_woodbox_b41 file="con_woodbox_b41.msh" />
+</Objects>
+<Materials version="2">
+  <mvil_shadow_square01
+    diffuse="vil_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_shadow_circle
+    diffuse="vil_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mcon_container_b
+    diffuse="con_container_b.dds"
+    color="255 255 255"
+  />
+  <mcon_woodbox_b
+    diffuse="con_woodbox_b.dds"
+    color="255 255 255"
+  />
+  <mcon_sky
+    diffuse="con_sky.dds"
+    color="255 255 255"
+  />
+  <mcon_ironbox_a
+    diffuse="con_ironbox_a.dds"
+    color="255 255 255"
+  />
+  <mvil_drumcin
+    diffuse="vil_drumcin.dds"
+    color="255 255 255"
+  />
+  <mcon_light_a
+    diffuse="con_light_a.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mcon_light_b
+    diffuse="con_light_b.dds"
+    color="255 255 255"
+  />
+  <msmb_gundambox_jm_a01
+    diffuse="smb_gundambox_jm_a01.dds"
+    color="255 255 255"
+  />
+  <msmb_gundambox_jm_c01
+    diffuse="smb_gundambox_jm_c01.dds"
+    color="255 255 255"
+  />
+  <mcon_ground04
+    diffuse="con_ground04.dds"
+    color="255 255 255"
+  />
+  <msmb_gundambox_jm_b01
+    diffuse="smb_gundambox_jm_b01.dds"
+    color="255 255 255"
+  />
+  <mcon_wall_id01
+    diffuse="con_wall_id01.dds"
+    color="255 255 255"
+  />
+  <mcon_wall_id02
+    diffuse="con_wall_id02.dds"
+    color="255 255 255"
+  />
+  <mcon_wall_id03
+    diffuse="con_wall_id03.dds"
+    color="255 255 255"
+  />
+  <mcon_wall_id04
+    diffuse="con_wall_id04.dds"
+    color="255 255 255"
+  />
+  <mcon_container_a
+    diffuse="con_container_a.dds"
+    color="255 255 255"
+  />
+  <mcon_ground02
+    diffuse="con_ground02.dds"
+    color="255 255 255"
+  />
+  <mcon_line01
+    diffuse="con_line01.dds"
+    color="255 255 255"
+  />
+  <mcon_sign
+    diffuse="con_sign.dds"
+    color="255 255 255"
+  />
+  <mEmptyMat
+  />
+  <mcon_water
+    diffuse="con_water.dds"
+    color="255 255 255"
+  />
+  <mkeroro_city_guard_truck_id01
+    diffuse="kcg_truck01_01.dds"
+    color="255 255 255"
+  />
+  <mkeroro_city_guard_truck_id02
+    diffuse="kcg_truck01_02.dds"
+    color="255 255 255"
+  />
+  <mkeroro_city_guard_truck_id03
+    diffuse="kcg_truck01_03.dds"
+    color="255 255 255"
+  />
+  <mcon_container_c
+    diffuse="con_container_c.dds"
+    color="255 255 255"
+  />
+  <mcon_roof
+    diffuse="con_roof.dds"
+    color="255 255 255"
+  />
+  <mcon_ground03
+    diffuse="con_ground03.dds"
+    color="255 255 255"
+  />
+  <mcon_ground01
+    diffuse="con_ground01.dds"
+    color="255 255 255"
+  />
+  <mvil_sewer_001
+    diffuse="vil_sewer_001.dds"
+    color="255 255 255"
+  />
+  <mcon_block
+    diffuse="con_block.dds"
+    color="255 255 255"
+  />
+  <mcon_fence
+    diffuse="con_fence.dds"
+    color="255 255 255"
+  />
+  <mcon_guard
+    diffuse="con_guard.dds"
+    color="255 255 255"
+  />
+  <mcon_guard_01
+    diffuse="con_guard_01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_plank_001
+    diffuse="vil_plank_001.dds"
+    color="255 255 255"
+  />
+  <mcon_scribble
+    diffuse="con_scribble.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="container_storage.col"
+/>
+</Scene.XML>

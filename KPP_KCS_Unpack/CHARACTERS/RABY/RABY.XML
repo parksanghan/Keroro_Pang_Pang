@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <raby_body_000 file="raby_body_000.msh" />
+ <raby_face_000 file="raby_face_000.msh" />
+ <raby_head_000 file="raby_head_000.msh" />
+</Objects>
+<Materials version="2">
+  <mraby_body_000
+    diffuse="raby_body_000.dds"
+    color="149 149 149"
+  />
+  <mraby_face_000
+    diffuse="raby_face_000.dds"
+    color="149 149 149"
+  />
+  <mraby_head_000
+    diffuse="raby_head_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="raby_T_Pose.skl"
+/>
+<collision
+  file="raby_T_Pose.col"
+/>
+</Scene.XML>

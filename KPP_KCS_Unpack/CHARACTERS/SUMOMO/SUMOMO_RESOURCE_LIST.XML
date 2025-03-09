@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<sumomo_resource_list.xml>
+	<effects>
+		<effect name="fx_sumomo_skill_001_1.prx" />
+		<effect name="fx_sumomo_skill_001_2.prx" />
+		<effect name="fx_sumomo_skill_001_3.prx" />
+		<effect name="fx_sumomo_skill_002_1.prx" />
+		<effect name="fx_sumomo_skill_002_2.prx" />
+		<effect name="fx_sumomo_skill_003_1.prx" />
+		<effect name="fx_sumomo_skill_003_2.prx" />
+		<effect name="fx_sumomo_skill_003_3.prx" />
+		<effect name="fx_sumomo_skill_003_4.prx" />
+		<effect name="fx_sumomo_skill_003_5.prx" />
+		<effect name="fx_sumomo_skill_003_6.prx" />
+		<effect name="fx_sumomo_skill_003_7.prx" />
+		<effect name="fx_sumomo_skill_003_8.prx" />
+		<effect name="fx_sumomo_skill_003_9.prx" />
+		<effect name="fx_sumomo_skill_003_10.prx" />
+		<effect name="fx_sumomo_skill_003_11.prx" />
+		<effect name="fx_sumomo_skill_003_12.prx" />
+	</effects>
+</sumomo_resource_list.xml>

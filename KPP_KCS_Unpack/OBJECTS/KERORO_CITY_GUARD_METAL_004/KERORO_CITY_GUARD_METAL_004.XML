@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kcg_forklift file="kcg_forklift.msh" />
+</Objects>
+<Materials version="2">
+  <mkeroro_city_guard_forklift1_01
+    diffuse="kcg_forklift_01.dds"
+    color="255 255 255"
+  />
+  <mkeroro_city_guard_forklift1_02
+    diffuse="kcg_forklift_02.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="keroro_city_guard_metal_004.col"
+/>
+</Scene.XML>

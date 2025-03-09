@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <viperian_body_154 file="viperian_body_154.msh" />
+</Objects>
+<Materials version="2">
+  <mviperian_set_154
+    diffuse="viperian_set_154.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

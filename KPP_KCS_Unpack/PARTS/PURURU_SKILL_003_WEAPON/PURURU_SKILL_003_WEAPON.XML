@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pururu_skill_003_weapon1 file="pururu_skill_003_weapon1.msh" />
+ <pururu_skill_003_weapon2 file="pururu_skill_003_weapon2.msh" />
+</Objects>
+<Materials version="2">
+  <mpururu_skill_003_weapon
+    diffuse="pururu_skill_003_weapon.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="pururu_skill_003_weapon.skl"
+/>
+<BoneAnim
+  file="Anims\pururu_skill_003_weapon.anm"
+/>
+<collision
+  file="pururu_skill_003_weapon.col"
+/>
+</Scene.XML>

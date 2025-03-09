@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="keron" engName="Platoon_Keroro" code="0" teamId="0" spawnId="0" posX="-9" posY="3.07" posZ="-56" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="TrainingViper" code="19922958" teamId="0" spawnId="1" posX="11" posY="0.05" posZ="-37" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="TrainingViper" code="19922958" teamId="0" spawnId="2" posX="-28" posY="0.05" posZ="-38" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="-23.8345" posY="-3.05176e-006" posZ="-35.5158"/>
+		<patrol id="1" posX="-18.4019" posY="-3.05176e-006" posZ="-38.5294"/>
+	</spawn>
+	<spawn type="npc" engName="TrainingViper" code="19922958" teamId="0" spawnId="3" posX="-21" posY="0.05" posZ="-40" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="TrainingViper" code="19922958" teamId="0" spawnId="4" posX="-19" posY="0.05" posZ="-36" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="1.91767" posY="0" posZ="-36.2922"/>
+	</spawn>
+	<spawn type="npc" engName="TrainingViper" code="19922958" teamId="0" spawnId="5" posX="8" posY="0.05" posZ="-35" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="1.10894" posY="-3.05176e-006" posZ="-37.6499"/>
+		<patrol id="1" posX="0.00476685" posY="1.52588e-006" posZ="-39.4795"/>
+		<patrol id="2" posX="-10.8692" posY="-1.52588e-006" posZ="-39.6341"/>
+		<patrol id="3" posX="-16.4674" posY="-3.05176e-006" posZ="-38.0131"/>
+	</spawn>
+	<spawn type="npc" engName="TrainingViper" code="19922958" teamId="0" spawnId="6" posX="-17" posY="2.05" posZ="-30" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="-4.3691" posY="1.99996" posZ="-31.3958"/>
+		<patrol id="1" posX="1.94711" posY="2.14938" posZ="-31.9391"/>
+	</spawn>
+	<spawn type="npc" engName="TrainingViper" code="19922958" teamId="0" spawnId="7" posX="-1" posY="2.05" posZ="-23" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="-17.8213" posY="1.99995" posZ="-23.9583"/>
+		<patrol id="1" posX="-16.3717" posY="1.99995" posZ="-29.0163"/>
+		<patrol id="2" posX="-6.52169" posY="1.99997" posZ="-30.1527"/>
+		<patrol id="3" posX="-2.08957" posY="1.99996" posZ="-23.4236"/>
+	</spawn>
+	<spawn type="npc" engName="TrainingViper" code="19922958" teamId="0" spawnId="8" posX="-5" posY="2.05" posZ="1" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="-5.12718" posY="1.99995" posZ="-30.1906"/>
+	</spawn>
+	<spawn type="npc" engName="TrainingViper" code="19922958" teamId="0" spawnId="9" posX="-29" posY="2.05" posZ="-26" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="-10.5338" posY="3.66429" posZ="-63.2075"/>
+		<patrol id="1" posX="-23.3137" posY="1.99995" posZ="-21.3903"/>
+		<patrol id="2" posX="-56.261" posY="-12.9744" posZ="8.79492"/>
+	</spawn>
+</SPAWN.XML>

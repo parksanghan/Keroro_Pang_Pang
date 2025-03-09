@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="playerSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="-4" posY="0.9" posZ="39.5" angleY="180" scale="1" radius="3" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="1" posX="3" posY="0.9" posZ="-39.5" angleY="0" scale="1" radius="3" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="train_station\train_station.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="trainstation_metal_001" code="145817601" yLayer="0" posX="-29" posY="0.8" posZ="6" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="trainstation_paper_001" code="145817603" yLayer="0" posX="-17.32" posY="1.3" posZ="1.5" angleX="0" angleY="10" angleZ="0" scale="1"/>
+	<Object engName="trainstation_paper_001" code="145817603" yLayer="0" posX="-17.28" posY="2.5" posZ="1.5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="-15.74" posY="0.88" posZ="-23.82" angleX="10" angleY="50" angleZ="0" scale="1"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="15.9" posY="1.3" posZ="-13.43" angleX="0" angleY="80" angleZ="0" scale="1.1"/>
+	<Object engName="trainstation_glass_001" code="145817602" yLayer="0" posX="11.73" posY="1.3" posZ="5.34" angleX="0" angleY="85" angleZ="0" scale="1"/>
+	<Object engName="trainstation_paper_001" code="145817603" yLayer="0" posX="11.96" posY="1.3" posZ="-1.03" angleX="0" angleY="96" angleZ="0" scale="1"/>
+	<Object engName="car2" code="125894660" yLayer="0" posX="49.54" posY="0.7" posZ="-1" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_003" code="131137540" yLayer="0" posX="26.83" posY="0.77" posZ="-31.29" angleX="5" angleY="-120" angleZ="0" scale="1"/>
+	<!--Object engName="metal_ladder" code="120651792" yLayer="0" posX="30" posY="0.82" posZ="-29.01" angleX="-38" angleY="90" angleZ="0" scale="1"/-->
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-17" posY="1.3" posZ="7.62" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<!--Object engName="metal_ladder" code="120651792" yLayer="0" posX="-8.63" posY="1" posZ="-21.61" angleX="-25" angleY="0" angleZ="0" scale="1"/-->
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="16" posY="1.3" posZ="12.78" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="trainstation_glass_001" code="145817602" yLayer="0" posX="-10" posY="1.3" posZ="-33.28" angleX="0" angleY="10" angleZ="0" scale="1"/>
+	<Object engName="stop_post" code="125894658" yLayer="0" posX="-0.62" posY="0.5" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

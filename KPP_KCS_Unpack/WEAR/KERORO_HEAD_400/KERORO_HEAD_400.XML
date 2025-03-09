@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keroro_head_400 file="keroro_head_400.msh" />
+</Objects>
+<Materials version="2">
+  <mkeroro_head_400
+    diffuse="keroro_head_400.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

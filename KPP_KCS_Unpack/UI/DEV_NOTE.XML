@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DevNote.XML>
+  <development id="1" title="보상 혜택이란?" content="구름 서버에 보유중인 캐릭터를 투니랜드 서버에서도 사용할 수 있도록 보상해주는 혜택입니다."/>
+  <development id="2" title="보상 신청" content="구름 서버에 접속하여 오른쪽 메뉴에 투니랜드 ID와 비밀번호를 입력하고 확인 버튼으로 신청합니다."/>
+  <development id="3" title="보상 받기" content="투니랜드 서버에 접속하여 쿠루루 노트의 메뉴를 통해 신규 및 캐릭터 보상 혜택을 받을 수 있습니다."/>
+  <development id="4" title="보상 혜택 횟수" content="구름 계정 1개당 1번만 신청할 수 있으며, 투니랜드 계정 1개당 1번만 받을 수 있습니다."/>
+</DevNote.XML>

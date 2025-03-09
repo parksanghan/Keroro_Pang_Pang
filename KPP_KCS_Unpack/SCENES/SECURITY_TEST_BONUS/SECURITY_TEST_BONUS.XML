@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_sec_bonus_ground01_01 file="notrans_sec_bonus_ground01_01.msh" />
+ <notrans_sec_bonus_sky file="notrans_sec_bonus_sky.msh" />
+ <notrans_sec_hangar_ground01 file="notrans_sec_hangar_ground01.msh" />
+ <Outer_sec_wall01_03 file="Outer_sec_wall01_03.msh" />
+ <notrans_sec_shadow01_02 file="notrans_sec_shadow01_02.msh" />
+ <notrans_sec_shadow01_03 file="notrans_sec_shadow01_03.msh" />
+ <notrans_sec_wall01_01 file="notrans_sec_wall01_01.msh" />
+ <Outer_sec_wall01_04 file="Outer_sec_wall01_04.msh" />
+ <sec_fireplug01_01 file="sec_fireplug01_01.msh" />
+ <notrans_sec_guard01_01 file="notrans_sec_guard01_01.msh" />
+ <notrans_con_guard01_04 file="notrans_con_guard01_04.msh" />
+ <notrans_con_guard01_05 file="notrans_con_guard01_05.msh" />
+ <notrans_con_guard01_06 file="notrans_con_guard01_06.msh" />
+ <notrans_con_guard01_07 file="notrans_con_guard01_07.msh" />
+ <notrans_con_guard01_08 file="notrans_con_guard01_08.msh" />
+ <notrans_con_guard01_03 file="notrans_con_guard01_03.msh" />
+ <notrans_con_guard01_02 file="notrans_con_guard01_02.msh" />
+ <notrans_con_guard01_01 file="notrans_con_guard01_01.msh" />
+ <notrans_sec_shadow01_06 file="notrans_sec_shadow01_06.msh" />
+ <Outer_sec_wall01_01 file="Outer_sec_wall01_01.msh" />
+ <sec_fireplug01_02 file="sec_fireplug01_02.msh" />
+ <Outer_sec_wall01_02 file="Outer_sec_wall01_02.msh" />
+ <notrans_sec_line01_01 file="notrans_sec_line01_01.msh" />
+ <notrans_sec_shadow01_01 file="notrans_sec_shadow01_01.msh" />
+ <notrans_sec_bonus_ground02_01 file="notrans_sec_bonus_ground02_01.msh" />
+ <sec_heater01_01 file="sec_heater01_01.msh" />
+ <notrans_sec_prop02_001 file="notrans_sec_prop02_001.msh" />
+ <notrans_sec_wall01_02 file="notrans_sec_wall01_02.msh" />
+ <sec_prop01_01 file="sec_prop01_01.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+</Objects>
+<Materials version="2">
+  <mEmptyMat
+  />
+  <msec_bonus_ground01
+    diffuse="sec_bonus_ground01.dds"
+    color="255 255 255"
+  />
+  <msec_bonus_sky
+    diffuse="sec_bonus_sky.dds"
+    color="255 255 255"
+  />
+  <msec_hangar_ground01
+    diffuse="sec_hangar_groud01.dds"
+    color="255 255 255"
+  />
+  <msec_wall01_id01
+    diffuse="sec_hangar_id01.dds"
+    color="255 255 255"
+  />
+  <msec_wall01_id02
+    diffuse="sec_hangar_id02.dds"
+    color="255 255 255"
+  />
+  <msec_wall01_id03
+    diffuse="sec_hangar_id03.dds"
+    color="255 255 255"
+  />
+  <msec_wall01_id04
+    diffuse="sec_hangar_id04.dds"
+    color="255 255 255"
+  />
+  <msec_wall01_id05
+    diffuse="sec_hangar_id05.dds"
+    color="255 255 255"
+  />
+  <msec_shadow01_01
+    diffuse="vil_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msec_fireplug01
+    diffuse="sec_fireplug01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mcon_guard
+    diffuse="con_guard.dds"
+    color="255 255 255"
+  />
+  <mcon_guard_01
+    diffuse="con_guard_01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mcon_line01
+    diffuse="con_line01.dds"
+    color="255 255 255"
+  />
+  <mStandard_8
+    diffuse="con_ground01.dds"
+    color="149 149 149"
+  />
+  <msec_heater01
+    diffuse="sec_heater01.dds"
+    color="255 255 255"
+  />
+  <msec_heater02
+    diffuse="sec_heater02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msec_prop02
+    diffuse="sec_prop02.dds"
+    color="255 255 255"
+  />
+  <msec_prop01
+    diffuse="sec_prop01.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="security_test_bonus.col"
+/>
+</Scene.XML>

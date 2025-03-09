@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <viper_agit_rock_002 file="viper_agit_rock_002.msh" />
+</Objects>
+<Materials version="2">
+  <mviper_agit_rock_002
+    diffuse="viper_agit_rock_id01.dds"
+    color="255 255 255"
+  />
+  <mvag_wall01_id02
+    diffuse="vag_wall01_id02.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="viper_agit_rock_002.col"
+/>
+</Scene.XML>

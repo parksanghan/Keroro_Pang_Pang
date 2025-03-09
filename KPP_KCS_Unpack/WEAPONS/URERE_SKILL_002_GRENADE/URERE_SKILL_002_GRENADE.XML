@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <urere_skill_002_grenade file="urere_skill_002_grenade.msh" />
+</Objects>
+<Materials version="2">
+  <murere_skill_002_grenade
+    diffuse="urere_skill_002_grenade.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="urere_skill_002_grenade.skl"
+/>
+<BoneAnim
+  file="Anims\urere_skill_002_grenade.anm"
+/>
+<collision
+  file="urere_skill_002_grenade.col"
+/>
+</Scene.XML>

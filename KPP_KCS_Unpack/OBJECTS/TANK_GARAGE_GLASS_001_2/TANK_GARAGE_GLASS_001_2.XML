@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tank_window_id03 file="tank_window_id03.msh" />
+</Objects>
+<Materials version="2">
+  <mtankwindow
+    diffuse="tank_garage_glass_001_2.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="tank_garage_glass_001_2.col"
+/>
+</Scene.XML>

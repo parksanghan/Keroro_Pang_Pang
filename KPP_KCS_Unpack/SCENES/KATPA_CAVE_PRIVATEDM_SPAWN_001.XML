@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="privateZone" engName="Giroro" code="19070977" teamId="0" spawnId="0" posX="31" posY="2" posZ="-19" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Giroro" code="19070977" teamId="0" spawnId="1" posX="24" posY="2" posZ="-27" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Giroro" code="19070977" teamId="0" spawnId="2" posX="13" posY="2" posZ="-31" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Giroro" code="19070977" teamId="0" spawnId="3" posX="3" posY="2" posZ="-32" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Giroro" code="19070977" teamId="0" spawnId="4" posX="-31" posY="2" posZ="20" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Giroro" code="19070977" teamId="1" spawnId="5" posX="-24" posY="2" posZ="27" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Giroro" code="19070977" teamId="1" spawnId="6" posX="-13" posY="2" posZ="31" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Giroro" code="19070977" teamId="1" spawnId="7" posX="-3" posY="2" posZ="33" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Giroro" code="19070977" teamId="1" spawnId="8" posX="28" posY="2" posZ="19" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Giroro" code="19070977" teamId="1" spawnId="9" posX="30" posY="2" posZ="10" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Dororo" code="19202049" teamId="0" spawnId="10" posX="-29" posY="2" posZ="-10" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Dororo" code="19202049" teamId="0" spawnId="11" posX="-27" posY="2" posZ="-19" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="12" posX="7" posY="0" posZ="-10" angleY="180" scale="1" radius="1" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="13" posX="-10" posY="0" posZ="12" angleY="180" scale="1" radius="1" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="14" posX="0" posY="4" posZ="0" angleY="180" scale="1" radius="1" respawnTime="60" msgId=""/>
+</SPAWN.XML>

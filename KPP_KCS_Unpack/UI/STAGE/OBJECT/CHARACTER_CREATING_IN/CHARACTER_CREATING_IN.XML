@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <select_earth file="select_earth.msh" />
+ <keroro_gunpra file="keroro_gunpra.msh" />
+ <ch_kururu_build file="ch_kururu_build.msh" />
+ <ch_zz_ms01 file="ch_zz_ms01.msh" />
+ <ch_air_ms01 file="ch_air_ms01.msh" />
+ <ch_air_ms02 file="ch_air_ms02.msh" />
+ <Object05 file="Object05.msh" />
+ <select_dororo_tree file="select_dororo_tree.msh" />
+ <ch_tent_ms01 file="ch_tent_ms01.msh" />
+ <ch_tent_eye_ms01 file="ch_tent_eye_ms01.msh" />
+</Objects>
+<Materials version="2">
+  <mselect_earth
+    diffuse="select_earth.dds"
+    color="255 255 255"
+  />
+  <mkeroro_gunpra_tent
+    diffuse="keroro_gunpra_tent.dds"
+    color="255 255 255"
+  />
+  <mdororo_tree
+    diffuse="dororo_tree.dds"
+    color="255 255 255"
+  />
+  <mchannel_air_ms
+    diffuse="channel_air_ms.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkeroro_tent_eye
+    diffuse="keroro_tent_eye_01.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="character_creating_in.skl"
+/>
+<BoneAnim
+  file="Anims\character_creating_in.anm"
+/>
+<collision
+  file="character_creating_in.col"
+/>
+</Scene.XML>

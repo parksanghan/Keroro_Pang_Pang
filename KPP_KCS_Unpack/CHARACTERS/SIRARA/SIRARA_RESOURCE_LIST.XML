@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<sirara_resource_list.xml>
+	<effects>
+		<effect name="fx_sirara_skill_001_1.prx" />
+		<effect name="fx_sirara_skill_001_2.prx" />
+		<effect name="fx_sirara_skill_001_3.prx" />
+		<effect name="fx_sirara_skill_002_1.prx" />
+		<effect name="fx_sirara_skill_002_2.prx" />
+		<effect name="fx_sirara_skill_003_1.prx" />
+		<effect name="fx_sirara_skill_003_2.prx" />
+		<effect name="fx_sirara_skill_003_3.prx" />
+		<effect name="fx_sirara_skill_003_cannon_muzzle.prx" />
+		<effect name="fx_sirara_skill_003_cannon_muzzle2.prx" />
+		<effect name="fx_sirara_skill_003_cannon_muzzle3.prx" />
+		<effect name="fx_sirara_skill_003_cannon_bullet.prx" />
+		<effect name="fx_sirara_skill_003_cannon_bullet2.prx" />
+		<effect name="fx_sirara_skill_003_cannon_bullet3.prx" />
+		<effect name="fx_sirara_skill_003_cannon_hit.prx" />
+		<effect name="fx_sirara_skill_003_cannon_hit2.prx" />
+		<effect name="fx_sirara_skill_003_cannon_hit3.prx" />
+		<effect name="fx_sirara_skill_003_vulcan_muzzle.prx" />
+		<effect name="fx_sirara_skill_003_vulcan_bullet.prx" />
+		<effect name="fx_sirara_skill_003_vulcan_hit.prx" />
+	</effects>
+</sirara_resource_list.xml>

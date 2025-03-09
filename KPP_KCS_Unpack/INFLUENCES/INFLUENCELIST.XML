@@ -1,0 +1,911 @@
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<InfluenceList.XML>
+	<Influence engName="Keroro 1st Skill" code="201392129" icon="skill_keroro_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_keroro_skill_012" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="20%"/>
+	</Influence>
+	<Influence engName="Keroro 2nd Skill" code="201392130" icon="skill_keroro_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-30%"/>
+	</Influence>
+	<Influence engName="Tamama 1st Skill" code="201392131" icon="skill_tamama_step1" requiredSp="100" requiredItem="" flags="" totalTime="" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="100"/>
+	</Influence>
+	<Influence engName="Tamama 2nd Skill - 0" code="201392132" icon="skill_tamama_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<hitRate value="-50%"/>
+	</Influence>
+	<Influence engName="Tamama 2nd Skill - 1" code="201392133" icon="skill_tamama_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1" tickingTime="0" applyEffect1="" applyEffect2="fx_tamama_skill_021" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="Giroro 1st Skill" code="201392134" icon="skill_giroro_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_giroro_skill_010" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="10"/>
+		<finalDamage value="15%"/>
+	</Influence>
+	<Influence engName="Giroro 2nd Skill" code="201392135" icon="skill_giroro_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="6.5" tickingTime="0" applyEffect1="" applyEffect2="fx_giroro_skill_018" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-40%"/>
+		<hitRate value="-50%"/>
+	</Influence>
+	<Influence engName="Kururu 1st Skill" code="201392136" icon="skill_kururu_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="30" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<information value="1"/>
+	</Influence>
+	<Influence engName="Kururu 2nd Skill" code="201392137" icon="skill_kururu_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2.5" tickingTime="0" applyEffect1="" applyEffect2="fx_kururu_skill_014" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<jamming value="1"/>
+	</Influence>
+	<Influence engName="Dororo 1st Skill" code="201392138" icon="skill_dororo_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar | NoHitChar" totalTime="60" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<transparency value="1"/>
+		<speed value="-25%"/>
+	</Influence>
+	<Influence engName="Dororo 2nd Skill" code="201392139" icon="skill_dororo_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="5" tickingTime="0" applyEffect1="fx_dororo_skill_018" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="Taruru 2nd Skill" code="201392169" icon="skill_taruru_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<MaxHP value="100"/>
+		<HP value="100"/>
+	</Influence>
+	<Influence engName="Tororo 1st Skill" code="201392140" icon="skill_tororo_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="13" tickingTime="0" applyEffect1="fx_tororo_skill_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="fx_tororo_skill_002_2.prx" releaseVoice="vc_tororo_anim_019_1" releaseSound="ef_skill_049" kind="buff" overlap="0">
+		<defenseDamage value="-50%"/>
+	</Influence>
+	<Influence engName="Tororo 2nd Skill" code="201392141" icon="skill_tororo_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="3" tickingTime="0" applyEffect1="" applyEffect2="fx_tororo_skill_007.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<chaos value="1"/>
+	</Influence>
+	<Influence engName="Garuru 1st Skill" code="201392142" icon="skill_garuru_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_garuru_skill_001_2.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="ef_skill_049" kind="buff" overlap="0">
+		<speed value="30%"/>
+	</Influence>
+	<Influence engName="Garuru 2nd Skill" code="201392143" icon="skill_garuru_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="6" tickingTime="0" applyEffect1="" applyEffect2="fx_garuru_skill_002_6.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<nonAttack value="1"/>
+	</Influence>
+	<Influence engName="Pururu 1st Skill" code="201392144" icon="" requiredSp="0" requiredItem="" flags="" totalTime="" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="70"/>
+	</Influence>
+	<Influence engName="Pururu 2nd Skill - 0" code="201392145" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-20%"/>
+	</Influence>
+	<Influence engName="Pururu 2nd Skill - 1" code="201392146" icon="" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<SP value="-5"/>
+	</Influence>
+	<Influence engName="Pururu 2nd Skill - 2" code="201392147" icon="skill_pururu_step2" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="5"/>
+	</Influence>
+	<Influence engName="Pururu 3rd Skill" code="201392148" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-20%"/>
+	</Influence>
+	<Influence engName="Zoruru 1st Skill" code="201392149" icon="skill_zoruru_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar | NoHitChar" totalTime="30" tickingTime="0" applyEffect1="fx_zoruru_skill_002_4.prx" applyEffect2="fx_zoruru_skill_002_5.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<transparency value="1"/>
+		<speed value="20%"/>
+	</Influence>
+	<Influence engName="Zoruru 2nd Skill" code="201392150" icon="skill_zoruru_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_zoruru_skill_002_4.prx" applyEffect2="fx_zoruru_skill_002_5.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="ef_skill_067" releaseSound="" kind="debuff" overlap="0">
+		<donotjump value="1"/>
+		<donottumble value="1"/>
+		<speed value="-30%"/>
+	</Influence>
+	<Influence engName="Zoruru 3rd Skill" code="201392151" icon="skill_zoruru_step3" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="2" applyEffect1="fx_zoruru_skill_003_shock.prx" applyEffect2="fx_zoruru_skill_003_shock_2.prx" applyVoice="" applySound="" tickingVoice="ef_skill_070" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<hp value="-10"/>
+	</Influence>
+	<Influence engName="Sirara 1st Skill" code="201392152" icon="skill_sirara_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<jumpweight value="20"/>
+	</Influence>
+	<Influence engName="Sirara 2nd Skill" code="201392153" icon="skill_sirara_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="6" tickingTime="0" applyEffect1="fx_sirara_skill_002_3.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="fx_sirara_skill_002_4.prx" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="Joriri 1st Skill" code="201392154" icon="skill_joriri_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_joriri_skill_001_2.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="15%"/>
+		<finalDamage value="15%"/>
+	</Influence>
+	<Influence engName="Joriri 2nd Skill - 1" code="201392155" icon="skill_joriri_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar | NoHitChar" totalTime="8" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="Joriri 2nd Skill - 2" code="201392156" icon="skill_joriri_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="8" tickingTime="0" applyEffect1="fx_joriri_skill_002_2.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-50%"/>
+	</Influence>
+	<Influence engName="Kagege 1st Skill" code="201392157" icon="skill_kagege_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="30" tickingTime="0" applyEffect1="fx_kagege_skill_001.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="vc_kagege_anim_019_end" kind="buff" overlap="0">
+		<defenseDamage value="-40%"/>
+	</Influence>
+	<Influence engName="Kagege 2nd Skill - 1" code="201392158" icon="skill_kagege_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_kagege_skill_002_influence.prx" applyEffect2="fx_kagege_skill_002_influence2.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<reset value="2"/>
+	</Influence>
+	<Influence engName="Kagege 2nd Skill - 2" code="201392160" icon="skill_kagege_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_kagege_skill_002_influence.prx" applyEffect2="fx_kagege_skill_002_influence2.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<reset value="1"/>
+	</Influence>
+	<Influence engName="Kagege 2nd Skill - 3" code="201392161" icon="skill_kagege_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1.6" tickingTime="0" applyEffect1="fx_kagege_skill_002_influence.prx" applyEffect2="fx_kagege_skill_002_influence2.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<dummy value="1"/>
+	</Influence>
+	<Influence engName="Kagege 3nd Skill" code="201392159" icon="skill_kagege_step3" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="-10"/>
+	</Influence>
+	<Influence engName="Putata 1st Skill" code="201392162" icon="skill_putata_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="6" tickingTime="0" applyEffect1="" applyEffect2="fx_putata_skill_001_3.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<noChange value="1"/>
+	</Influence>
+	<Influence engName="Putata 2nd Skill" code="201392163" icon="skill_putata_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2.5" tickingTime="0" applyEffect1="" applyEffect2="fx_putata_skill_002_6.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="ef_skill_077" kind="debuff" overlap="0">
+		<screenPainting value="1"/>
+	</Influence>
+	<Influence engName="Putata 3nd Skill" code="201392164" icon="skill_putata_step3" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="30" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<sp value="-5"/>
+	</Influence>
+	<Influence engName="Robobo 1st Skill" code="201392165" icon="skill_robobo_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1" tickingTime="0" applyEffect1="" applyEffect2="fx_tamama_skill_021.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="Robobo 2nd Skill - 1" code="201392166" icon="skill_robobo_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="fx_robobo_skill_002_5.prx" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<transForm value="23819402"/>
+		<nonAttack value="1"/>
+		<donottumble value="1"/>
+		<noKururuGuidedHit value="1"/>
+		<donotSkill value="1"/>
+		<speed value="-30%"/>
+	</Influence>
+	<Influence engName="Robobo 2nd Skill - 2" code="201392167" icon="skill_robobo_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="fx_robobo_skill_002_5.prx" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<transForm value="23819403"/>
+		<nonAttack value="1"/>
+		<donottumble value="1"/>
+		<noKururuGuidedHit value="1"/>
+		<donotSkill value="1"/>
+		<speed value="-30%"/>
+	</Influence>
+	<Influence engName="Robobo 2nd Skill - 3" code="201392168" icon="skill_robobo_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="fx_robobo_skill_002_5.prx" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<transForm value="23819404"/>
+		<nonAttack value="1"/>
+		<donottumble value="1"/>
+		<noKururuGuidedHit value="1"/>
+		<donotSkill value="1"/>
+		<speed value="-30%"/>
+	</Influence>
+	<Influence engName="Zirara 1st Skill" code="201392170" icon="skill_zirara_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar | NoHitChar" totalTime="30" tickingTime="0" applyEffect1="fx_zirara_skill_001_1.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="ef_skill_086.wav" kind="buff" overlap="0">
+		<transparency value="1"/>
+		<finalDamage value="20%"/>
+	</Influence>
+	<Influence engName="Zirara 2nd Skill" code="201392171" icon="skill_zirara_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="fx_zirara_skill_002_3.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="fx_zirara_skill_002_4.prx" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<transForm value="23819408"/>
+		<nonAttack value="1"/>
+		<donottumble value="1"/>
+		<noKururuGuidedHit value="1"/>
+		<donotSkill value="1"/>
+		<speed value="-35%"/>
+	</Influence>
+	<Influence engName="Kiruru 1st Skill" code="201392172" icon="skill_kiruru_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="" applyEffect2="fx_kiruru_skill_001_3.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="15%"/>
+		<evadeRate value="25"/>
+	</Influence>
+	<Influence engName="Kiruru 2nd Skill" code="201392173" icon="skill_kiruru_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="" applyEffect2="fx_kiruru_skill_002_3.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<finalDamage value="-50%"/>
+	</Influence>
+	<Influence engName="Darkkiruru 1st Skill" code="201392174" icon="skill_darkkiruru_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="25" tickingTime="0" applyEffect1="fx_darkkiruru_skill_001_3.prx" applyEffect2="fx_darkkiruru_skill_001_4.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="25%"/>
+		<evadeRate value="35"/>
+	</Influence>
+	<Influence engName="Darkkiruru 2nd Skill" code="201392175" icon="skill_darkkiruru_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="7" tickingTime="0" applyEffect1="fx_darkkiruru_skill_002_3.prx" applyEffect2="fx_darkkiruru_skill_002_4.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="Viperkid 1st Skill" code="201392176" icon="skill_viperkid_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_viperkid_skill_001_1.prx" applyEffect2="fx_viperkid_skill_001_2.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="15%"/>
+		<defenseDamage value="-25%"/>
+	</Influence>
+	<Influence engName="Viperkid 2nd Skill - 0" code="201392177" icon="skill_viperkid_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="fx_viperkid_skill_002_icon.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<chaos value="1"/>
+	</Influence>
+	<Influence engName="Viperkid 2nd Skill - 1" code="201392178" icon="skill_viperkid_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1" tickingTime="0" applyEffect1="" applyEffect2="fx_tamama_skill_021" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="mekeke 1st Skill" code="201392179" icon="skill_mekeke_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar | NoHitChar" totalTime="60" tickingTime="0" applyEffect1="fx_mekeke_skill_001_1.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="ef_skill_086.wav" kind="buff" overlap="0">
+		<transparency value="1"/>
+	</Influence>
+	<Influence engName="mekeke 2nd Skill" code="201392180" icon="skill_mekeke_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="6" tickingTime="0" applyEffect1="fx_mekeke_skill_002_3.prx" applyEffect2="fx_mekeke_skill_002_4.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="fx_mekeke_skill_002_3.prx" releaseVoice="" releaseSound="ef_skill_086.wav" kind="debuff" overlap="0">
+		<keylock value="1"/>
+	</Influence>
+	<Influence engName="mekeke 3rd Skill" code="201392181" icon="skill_mekeke_step3" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="3" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<keylock value="1"/>
+	</Influence>
+	<Influence engName="mekeke 3rd Skill_2" code="201392182" icon="skill_mekeke_step3" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0" applyEffect1="" applyEffect2="fx_tamama_skill_021.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="sumomo 1st Skill" code="201392183" icon="skill_sumomo_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="fx_sumomo_skill_001_3.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<defenseIgnore value="1"/>
+		<donotSkilldefense value="1"/>
+	</Influence>
+	<Influence engName="Nunwawa 1st Skill" code="201392184" icon="skill_nunwawa_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="fx_nunwawa_skill_001_2.prx" applyEffect2="" applyVoice="" applySound="ef_skill_101" tickingVoice="" tickingSound="" releaseEffect="fx_nunwawa_skill_001_3.prx" releaseVoice="" releaseSound="ef_skill_102" kind="buff" overlap="0">
+		<defenseDamage value="-50%"/>
+		<speed value="20%"/>
+	</Influence>
+	<Influence engName="Nunwawa 2nd Skill - 1" code="201392185" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="3" tickingTime="0" applyEffect1="fx_nunwawa_skill_002_2.prx" applyEffect2="" applyVoice="" applySound="ef_skill_103" tickingVoice="" tickingSound="" releaseEffect="fx_nunwawa_skill_002_3.prx" releaseVoice="" releaseSound="ef_skill_104" kind="debuff" overlap="0">
+		<transForm value="23819425"/>
+		<nonAttack value="1"/>
+		<donottumble value="1"/>
+		<noKururuGuidedHit value="1"/>
+		<donotSkill value="1"/>
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="Nunwawa 2nd Skill - 2" code="201392186" icon="skill_nunwawa_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="fx_get_ice.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-30%"/>
+		<donottumble value="1"/>
+	</Influence>
+	<Influence engName="Mcviperkid 1st Skill" code="201392187" icon="skill_mcviperkid_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_mcviperkid_skill_001_3.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<information value="1"/>
+		<finalDamage value="15%"/>
+	</Influence>
+	<Influence engName="Kikaka 1st Skill" code="201392188" icon="skill_kikaka_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="30" tickingTime="0" applyEffect1="" applyEffect2="fx_kikaka_skill_001_2.prx" applyVoice="" applySound="ef_skill_109" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="ef_skill_109_2" kind="buff" overlap="0">
+		<detectionHP value="1"/>
+	</Influence>
+	<Influence engName="Kikaka 2nd Skill" code="201392189" icon="skill_kikaka_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="fx_kikaka_skill_002_3.prx" applyEffect2="" applyVoice="" applySound="ef_skill_110" tickingVoice="" tickingSound="" releaseEffect="fx_kikaka_skill_002_3.prx" releaseVoice="" releaseSound="ef_skill_111" kind="debuff" overlap="0">
+		<transForm value="23819428"/>
+		<nonAttack value="1"/>
+		<donottumble value="1"/>
+		<noKururuGuidedHit value="1"/>
+		<donotSkill value="1"/>
+		<speed value="-35%"/>
+	</Influence>
+	<Influence engName="Kyororo 2nd Skill" code="201392190" icon="skill_kyororo_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0" applyEffect1="" applyEffect2="fx_tamama_skill_021.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="husky_001_low" code="201392191" icon="pet_husky_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_pet_powerup.prx" applyEffect2="fx_pet_husky_001.prx" applyVoice="" applySound="ef_pet_husky" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="7%"/>
+	</Influence>
+	<Influence engName="husky_001" code="201392192" icon="pet_husky_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_pet_powerup.prx" applyEffect2="fx_pet_husky_001.prx" applyVoice="" applySound="ef_pet_husky" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="15%"/>
+	</Influence>
+	<Influence engName="husky_001_high" code="201392193" icon="pet_husky_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_pet_powerup.prx" applyEffect2="fx_pet_husky_001.prx" applyVoice="" applySound="ef_pet_husky" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="30%"/>
+	</Influence>
+	<Influence engName="cat_001_low" code="201392194" icon="pet_cat_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery11_001.prx" applyEffect2="fx_pet_cat_001.prx" applyVoice="" applySound="ef_pet_cat" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="15"/>
+	</Influence>
+	<Influence engName="cat_001" code="201392195" icon="pet_cat_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery11_001.prx" applyEffect2="fx_pet_cat_001.prx" applyVoice="" applySound="ef_pet_cat" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="30"/>
+	</Influence>
+	<Influence engName="cat_001_high" code="201392196" icon="pet_cat_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery11_001.prx" applyEffect2="fx_pet_cat_001.prx" applyVoice="" applySound="ef_pet_cat" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="60"/>
+	</Influence>
+	<Influence engName="Urere 1st Skill" code="201392197" icon="skill_urere_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<lockTarget value="1"/>
+	</Influence>
+	<Influence engName="Urere 3st Skill" code="201392198" icon="train_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="10" tickingTime="0" applyEffect1="fx_urere_train_001.prx" applyEffect2="fx_urere_train_001_2.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<defense value="-5"/>
+	</Influence>
+	<Influence engName="Urere 3st Skill2" code="201392199" icon="train_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="5" tickingTime="1" applyEffect1="fx_get_redfire.prx" applyEffect2="fx_get_damage5.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<hp value="-5"/>
+	</Influence>
+	<Influence engName="Urere 3st Skill3" code="201392200" icon="train_003" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="2" tickingTime="0" applyEffect1="fx_tamama_skill_021.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="Urere 3st Skill4" code="201392201" icon="train_004" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="10" tickingTime="0" applyEffect1="fx_urere_train_004.prx" applyEffect2="fx_urere_train_004_2.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<finalDamage value="-50%"/>
+	</Influence>
+	<Influence engName="Urere 3st Skill5" code="201392202" icon="train_005" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="10" tickingTime="0" applyEffect1="fx_urere_train_005.prx" applyEffect2="fx_urere_train_005_2.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-50%"/>
+	</Influence>
+	<Influence engName="husky_002_low" code="201392203" icon="pet_husky_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="25" tickingTime="0" applyEffect1="fx_pet_powerup.prx" applyEffect2="fx_pet_husky_002.prx" applyVoice="" applySound="ef_pet_husky" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="10%"/>
+	</Influence>
+	<Influence engName="husky_002" code="201392204" icon="pet_husky_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="25" tickingTime="0" applyEffect1="fx_pet_powerup.prx" applyEffect2="fx_pet_husky_002.prx" applyVoice="" applySound="ef_pet_husky" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="20%"/>
+	</Influence>
+	<Influence engName="husky_002_high" code="201392205" icon="pet_husky_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="25" tickingTime="0" applyEffect1="fx_pet_powerup.prx" applyEffect2="fx_pet_husky_002.prx" applyVoice="" applySound="ef_pet_husky" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="40%"/>
+	</Influence>
+	<Influence engName="cat_002_low" code="201392206" icon="pet_cat_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery11_001.prx" applyEffect2="fx_pet_cat_002.prx" applyVoice="" applySound="ef_pet_cat" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="25"/>
+	</Influence>
+	<Influence engName="cat_002" code="201392207" icon="pet_cat_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery11_001.prx" applyEffect2="fx_pet_cat_002.prx" applyVoice="" applySound="ef_pet_cat" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="50"/>
+	</Influence>
+	<Influence engName="cat_002_high" code="201392208" icon="pet_cat_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery11_001.prx" applyEffect2="fx_pet_cat_002.prx" applyVoice="" applySound="ef_pet_cat" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="100"/>
+	</Influence>
+	<Influence engName="husky_003_low" code="201392209" icon="pet_husky_003" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="25" tickingTime="0" applyEffect1="fx_pet_powerup.prx" applyEffect2="fx_pet_husky_003.prx" applyVoice="" applySound="ef_pet_husky" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="10%"/>
+		<evadeRate value="5"/>
+	</Influence>
+	<Influence engName="husky_003" code="201392210" icon="pet_husky_003" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="25" tickingTime="0" applyEffect1="fx_pet_powerup.prx" applyEffect2="fx_pet_husky_003.prx" applyVoice="" applySound="ef_pet_husky" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="40%"/>
+		<evadeRate value="10"/>
+	</Influence>
+	<Influence engName="husky_003_high" code="201392211" icon="pet_husky_003" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="25" tickingTime="0" applyEffect1="fx_pet_powerup.prx" applyEffect2="fx_pet_husky_003.prx" applyVoice="" applySound="ef_pet_husky" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="40%"/>
+		<evadeRate value="20"/>
+	</Influence>
+	<Influence engName="cat_003_low" code="201392212" icon="pet_cat_003" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery12_001.prx" applyEffect2="fx_pet_cat_003.prx" applyVoice="" applySound="ef_pet_cat" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="25"/>
+		<SP value="10"/>		
+	</Influence>
+	<Influence engName="cat_003" code="201392213" icon="pet_cat_003" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery12_001.prx" applyEffect2="fx_pet_cat_003.prx" applyVoice="" applySound="ef_pet_cat" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="50"/>
+		<SP value="20"/>		
+	</Influence>
+	<Influence engName="cat_003_high" code="201392214" icon="pet_cat_003" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery12_001.prx" applyEffect2="fx_pet_cat_003.prx" applyVoice="" applySound="ef_pet_cat" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="100"/>
+		<SP value="40"/>
+	</Influence>	
+	<Influence engName="toonidog_001_low" code="201392215" icon="pet_toonidog_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery11_001.prx" applyEffect2="fx_pet_toonidog_001.prx" applyVoice="" applySound="ef_pet_toonidog_001" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="20"/>
+	</Influence>
+	<Influence engName="toonidog_001" code="201392216" icon="pet_toonidog_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery11_001.prx" applyEffect2="fx_pet_toonidog_001.prx"  applyVoice="" applySound="ef_pet_toonidog_001" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="40"/>
+	</Influence>
+	<Influence engName="toonidog_001_high" code="201392217" icon="pet_toonidog_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="fx_item_recovery11_001.prx" applyEffect2="fx_pet_toonidog_001.prx"  applyVoice="" applySound="ef_pet_toonidog_001" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<HP value="80"/>
+	</Influence>
+	<Influence engName="toonidog_002_low" code="201392218" icon="pet_toonidog_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_pet_speedup.prx" applyEffect2="fx_pet_toonidog_002.prx" applyVoice="" applySound="ef_pet_toonidog_002" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<SP value="10"/>
+		<speed value="5%"/>
+	</Influence>
+	<Influence engName="toonidog_002" code="201392219" icon="pet_toonidog_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_pet_speedup.prx" applyEffect2="fx_pet_toonidog_002.prx" applyVoice="" applySound="ef_pet_toonidog_002" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<SP value="20"/>
+		<speed value="10%"/>
+	</Influence>
+	<Influence engName="toonidog_002_high" code="201392220" icon="pet_toonidog_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_pet_speedup.prx" applyEffect2="fx_pet_toonidog_002.prx" applyVoice="" applySound="ef_pet_toonidog_002" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<SP value="40"/>
+		<speed value="20%"/>
+	</Influence>
+		<Influence engName="Ckururu 1st Skill" code="201392221" icon="skill_ckururu_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="60" tickingTime="0" applyEffect1="fx_ckururu_skill_001_2.prx" applyEffect2="" applyVoice="" applySound="ef_skill_129.wav" tickingVoice="ef_skill_130.wav" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<radarJamming value="1"/>
+	</Influence>
+	<Influence engName="Ckururu 2nd Skill" code="201392222" icon="skill_ckururu_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="fx_ckururu_skill_002_4.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<donotjump value="1"/>
+		<donottumble value="1"/>
+		<speed value="-30%"/>
+		<chaos value="1"/>
+	</Influence>
+	<Influence engName="Ckururu 3rd" code="201392223" icon="skill_ckururu_step3" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="fx_influence_nuclear.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-20%"/>
+	</Influence>		
+	<Influence engName="Ckururu 3rd_2" code="201392224" icon="skill_ckururu_step3" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="fx_influence_nuclear.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<donotjump value="1"/>
+	</Influence>		
+	<Influence engName="Ckururu 3rd_3" code="201392225" icon="skill_ckururu_step3" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="fx_influence_nuclear.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<donottumble value="1"/>
+	</Influence>	
+	<Influence engName="Nobibi 1st Skill_1" code="201392226" icon="skill_nobibi_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="15" tickingTime="0" applyEffect1="fx_nobibi_skill_001_2a.prx" applyEffect2="fx_nobibi_skill_001_2b.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="10%"/>
+	</Influence>	
+	<Influence engName="Nobibi 1st Skill_2" code="201392227" icon="skill_nobibi_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="15" tickingTime="0" applyEffect1="fx_nobibi_skill_001_3a.prx" applyEffect2="fx_nobibi_skill_001_3b.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="15%"/>
+	</Influence>	
+	<Influence engName="Nobibi 1st Skill_3" code="201392228" icon="skill_nobibi_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="15" tickingTime="0" applyEffect1="fx_nobibi_skill_001_4a.prx" applyEffect2="fx_nobibi_skill_001_4b.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<evadeRate value="15%"/>
+	</Influence>	
+	<Influence engName="Nobibi 1st Skill_4" code="201392229" icon="skill_nobibi_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="15" tickingTime="0" applyEffect1="fx_nobibi_skill_001_5a.prx" applyEffect2="fx_nobibi_skill_001_5b.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<jump value="1"/>
+	</Influence>	
+	<Influence engName="Nobibi 1st Skill_5" code="201392230" icon="skill_nobibi_step1" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="fx_nobibi_skill_001_6a.prx" applyEffect2="fx_nobibi_skill_001_6b.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="20%"/>
+		<chaos value="1"/>
+	</Influence>	
+	<Influence engName="Nobibi 2nd Skill" code="201392231" icon="skill_nobibi_step2" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="fx_nobibi_skill_002_2.prx" applyVoice="" applySound="ef_skill_nobibi_crosshair.wav" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="ef_skill_nobibi_bubble_hit.wav" kind="debuff" overlap="0">
+		<hideCursor value="1" />
+	</Influence>
+	<Influence engName="Nobibi 3nd Skill" code="201392232" icon="skill_nobibi_step3" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="3" tickingTime="0" applyEffect1="fx_nobibi_skill_003_bubble.prx" applyEffect2="" applyVoice="" applySound="ef_skill_nobibi_bubble.wav" tickingVoice="" tickingSound="" releaseEffect="fx_nobibi_skill_003_bubble_hit.prx" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<donotjump value="1"/>
+		<donottumble value="1"/>
+		<speed value="-30%"/>
+	</Influence>
+	<Influence engName="SmallHPPotion" code="201457665" icon="recovery_001" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="30"/>
+	</Influence>
+	<Influence engName="MiddleHPPotion" code="201457666" icon="recovery_002" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="60"/>
+	</Influence>
+	<Influence engName="LargeHPPotion" code="201457667" icon="recovery_003" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="120"/>
+	</Influence>
+	<Influence engName="SmallSPPotion" code="201457668" icon="recovery_004" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<sp value="30"/>
+	</Influence>
+	<Influence engName="MiddleSPPotion" code="201457669" icon="recovery_005" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<sp value="60"/>
+	</Influence>
+	<Influence engName="LargeSPPotion" code="201457670" icon="recovery_006" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<sp value="100"/>
+	</Influence>
+	<Influence engName="HealingScroll" code="201457671" icon="recovery_007" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="100"/>
+	</Influence>
+	<Influence engName="5pang" code="201457672" icon="gamemoney_001" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<pang value="5"/>
+	</Influence>
+	<Influence engName="10pang" code="201457673" icon="gamemoney_002" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<pang value="10"/>
+	</Influence>
+	<Influence engName="20pang" code="201457674" icon="gamemoney_003" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<pang value="20"/>
+	</Influence>
+	<Influence engName="50pang" code="201457675" icon="gamemoney_004" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<pang value="50"/>
+	</Influence>
+	<Influence engName="100pang" code="201457676" icon="gamemoney_005" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<pang value="100"/>
+	</Influence>
+	<Influence engName="SpeedUp" code="201457677" icon="reinforce_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="15" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="10"/>
+	</Influence>
+	<Influence engName="MaxHPUp" code="201457678" icon="reinforce_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="30" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<maxHp value="30%"/>
+	</Influence>
+	<Influence engName="MaxSPUp" code="201457679" icon="reinforce_003" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="50" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<maxSp value="30%"/>
+	</Influence>
+	<Influence engName="DoubleJump" code="201457680" icon="reinforce_004" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="60" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<jump value="1"/>
+	</Influence>
+	<Influence engName="PowerUp" code="201457681" icon="reinforce_005" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="60" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="25%"/>
+	</Influence>
+	<Influence engName="DefenseUp" code="201457682" icon="reinforce_006" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="60" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="-25%"/>
+	</Influence>
+	<Influence engName="K.TField" code="201457683" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="fx_item_defense1_001" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="fx_item_defense1_002" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="Shield" code="201457684" icon="defense_002" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="fx_item_defense2_001" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="fx_item_defense2_002" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="-20%"/>
+	</Influence>
+	<Influence engName="AntiBarrier" code="201457685" icon="defense_003" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar | NoHitChar" totalTime="15" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<transparency value="1"/>
+	</Influence>
+	<Influence engName="Damage Immune" code="201457686" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="7" tickingTime="0" applyEffect1="fx_regen_shield.prt" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="Damage Immune by Skill" code="201457695" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="3" tickingTime="0" applyEffect1="fx_regen_shield_1.prt" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+		<skillImmune value="1"/>
+	</Influence>
+	<Influence engName="Stun" code="201457687" icon="defense_003" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1" tickingTime="0" applyEffect1="" applyEffect2="fx_tamama_skill_021" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="Wak Burger" code="201457688" icon="recovery_008" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="6" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="60"/>
+	</Influence>
+	<Influence engName="KPSWater" code="201457689" icon="recovery_009" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="8" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<Sp value="32"/>
+	</Influence>
+	<Influence engName="StarFruits" code="201457690" icon="reinforce_007" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead " totalTime="60" tickingTime="0" applyEffect1="fx_item_starfruits.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="15"/>
+	</Influence>
+	<Influence engName="K.Liver" code="201457691" icon="recovery_010" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="5" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="100"/>
+	</Influence>
+	<Influence engName="riceJelly" code="201457716" icon="recovery_015" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="5" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<hp value="60"/>
+		<speed value="20%"/>
+	</Influence>
+	<Influence engName="RedWater" code="201457692" icon="reinforce_008" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="20" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="5"/>
+		<Hp value="-10%"/>
+	</Influence>
+	<Influence engName="MindWater" code="201457693" icon="reinforce_009" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead " totalTime="30" tickingTime="0" applyEffect1="fx_item_reinforce9_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="15%"/>
+		<evadeRate value="30"/>
+	</Influence>
+	<Influence engName="TutorialDoubleJump" code="201457694" icon="reinforce_004" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="9999" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<jump value="1"/>
+	</Influence>
+	<Influence engName="Keroball Buff" code="201523201" icon="keroball_buff" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar | DropKeroball" totalTime="9999" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="-25%"/>
+	</Influence>
+	<Influence engName="Keroball Debuff" code="201523202" icon="keroball_debuff" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar | DropKeroball" totalTime="9999" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<finalDamage value="-25%"/>
+	</Influence>
+	<Influence engName="Keroball recovery" code="201523203" icon="" requiredSp="0" requiredItem="" flags="" totalTime="9999" tickingTime="0" applyEffect1="fx_item_recovery3_001" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="60"/>
+	</Influence>
+	<Influence engName="Survival Time Over Keron" code="201523204" icon="keroball_debuff" requiredSp="0" requiredItem="" flags="KeepChar | IntTicking" totalTime="9999" tickingTime="3" applyEffect1="fx_scramble_lightpillar_001.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<hpPossibilityDeath value="-8"/>
+	</Influence>
+	<Influence engName="Survival Time Over Viper" code="201523205" icon="keroball_debuff" requiredSp="0" requiredItem="" flags="KeepChar | IntTicking" totalTime="9999" tickingTime="3" applyEffect1="fx_scramble_lightpillar_001.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<hpPossibilityDeath value="-8"/>
+	</Influence>
+	<Influence engName="50PercentHit" code="201457697" icon="reinforce_010" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="15" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<lockTarget value="1"/>
+	</Influence>
+	<Influence engName="100PercentHit" code="201457698" icon="reinforce_011" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="15" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<lockTarget value="1"/>
+	</Influence>
+	<Influence engName="TeamBalance" code="201457699" icon="teambalance_buff" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead" totalTime="9999" tickingTime="0" applyEffect1="fx_item_autobalance_001.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="3">
+		<finalDamage value="10%"/>
+		<respawnTime value="-1"/>
+		<respawnSp value="10"/>
+	</Influence>
+	<Influence engName="Damage Immune in Respawn" code="201457700" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="7" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+		<skillImmune value="1"/>
+	</Influence>
+	<Influence engName="PoppingHit" code="201457704" icon="reinforce_015" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="15" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<bulletReflection value="1"/>
+	</Influence>
+	<Influence engName="PlusHit" code="201457705" icon="reinforce_016" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="5" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<multiRocketShot value="1"/>
+	</Influence>
+	<Influence engName="TeamBalance_Survival" code="201457701" icon="teambalance_buff" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead" totalTime="9999" tickingTime="0" applyEffect1="fx_item_autobalance_001.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="4">
+		<finalDamage value="10%"/>
+		<maxHp value="25%"/>
+	</Influence>
+	<Influence engName="incanecklace" code="201457706" icon="incanecklace" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="40" tickingTime="0" applyEffect1="fx_item_defense4_001.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+		<skillImmune value="1"/>
+		<incaImmune value="1"/>
+	</Influence>
+	<Influence engName="CoopEasy" code="201457707" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead" totalTime="9999" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<Hp value="-30%"/>
+		<finalDamage value="-30%"/>
+		<speed value="-8"/>
+	</Influence>
+	<Influence engName="CoopHard" code="201457708" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead" totalTime="9999" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<Hp value="50%"/>
+		<finalDamage value="30%"/>
+		<speed value="8"/>
+	</Influence>
+	<Influence engName="RechargeHP" code="201457709" icon="" requiredSp="0" requiredItem="" flags="" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="50%"/>
+	</Influence>
+	<Influence engName="Wak Burger2" code="201457711" icon="recovery_008" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="130"/>
+	</Influence>
+	<Influence engName="K.Liver2" code="201457712" icon="recovery_010" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="130"/>
+		<Sp value="60"/>
+	</Influence>
+	<Influence engName="pancake Immune in Respawn" code="201654286" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="6" tickingTime="0" applyEffect1="fx_pancakefx_shield.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="octopus Immune in Respawn" code="201654287" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="6" tickingTime="0" applyEffect1="fx_octopus_shield.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="androhusky Immune in Respawn" code="201654288" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="5" tickingTime="0" applyEffect1="fx_androhusky_shield.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="kerberos Immune in Respawn" code="201654289" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="yororo Immune in Respawn" code="201654290" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="dangl Immune in Respawn" code="201654291" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="boss skill immune" code="201654292" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<defenseDamage value="-50%"/>
+	</Influence>
+	<Influence engName="pu Immune in Respawn" code="201654297" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="6" tickingTime="0" applyEffect1="fx_pu_shield.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="boss 2nd skillImmune" code="201654298" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="9999" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<skillImmune value="1"/>
+	</Influence>
+	<Influence engName="auto respawn sp" code="201654299" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead" totalTime="9999" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<respawnSp value="0%"/>
+	</Influence>
+	<Influence engName="monster skilldefense" code="201654300" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0" applyEffect1="" applyEffect2="fx_monster_skilldefense.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<hp value="0"/>
+	</Influence>
+	<Influence engName="stageMove" code="201654301" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<freezeHp value="1"/>
+	</Influence>
+	<Influence engName="ricecake" code="201457714" icon="recovery_013" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="4" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="60"/>
+	</Influence>
+	<Influence engName="ricecakeDX" code="201457715" icon="recovery_014" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="80"/>
+		<Sp value="30"/>
+	</Influence>
+	<Influence engName="slowDownEasy" code="201523206" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead" totalTime="0.25" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="2">
+		<speed value="-8%"/>
+	</Influence>
+	<Influence engName="slowDownNormal" code="201523207" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead" totalTime="0.4" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="1">
+		<speed value="-15%"/>
+	</Influence>
+	<Influence engName="slowDownHard" code="201523208" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead" totalTime="2" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="-30%"/>
+	</Influence>
+	<Influence engName="slowDownShotGun" code="201523209" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead" totalTime="0.3" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="5">
+		<speed value="-5%"/>
+	</Influence>
+	<Influence engName="slowDownExplosion" code="201523210" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead" totalTime="1" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="-25%"/>
+	</Influence>
+	<Influence engName="snow grenade effect" code="201457717" icon="grenade_damage_015" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="fx_snowman_destruction_001.prx" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<transForm value="23819397"/>
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="KeroroCake" code="201457718" icon="recovery_016" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="300"/>
+	</Influence>
+	<Influence engName="ttops_000_easy_Influences" code="201654312" icon="mon_ttops_000" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="10" tickingTime="0" applyEffect1="fx_ttops_shield.prx" applyEffect2="fx_monsterskill_speedup.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<skillImmune value="1"/>
+		<blowupImmune value="1"/>
+		<speed value="130%"/>
+		<finalDamage value="-50%"/>
+	</Influence>
+	<Influence engName="dsaurus_001_Influences" code="201654313" icon="mon_dsaurus_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="15" tickingTime="0" applyEffect1="" applyEffect2="fx_monsterskill_chaos.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<chaos value="1"/>
+	</Influence>
+	<Influence engName="iplant_001_Influences" code="201654314" icon="mon_iplant_001" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="5" tickingTime="0" applyEffect1="fx_monsterskill_stand.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<donotjump value="1"/>
+		<donottumble value="1"/>
+	</Influence>
+	<Influence engName="compy_001_Influences" code="201654315" icon="mon_compy_000" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="13" tickingTime="0" applyEffect1="" applyEffect2="fx_monsterskill_speedup.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="200%"/>
+		<blowupImmune value="1"/>
+		<defenseDamage value="-30%"/>
+	</Influence>
+	<Influence engName="insect000_Influences" code="201654319" icon="skill_giroro_step2" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="15" tickingTime="0" applyEffect1="" applyEffect2="fx_monsterskill_angry.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<evadeRate value="50"/>
+		<blowupImmune value="1"/>
+		<speed value="200%"/>
+	</Influence>
+	<Influence engName="dsaurus_000_Influences" code="201654320" icon="mon_dsaurus_000" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="5" tickingTime="1" applyEffect1="" applyEffect2="fx_giroro_skill_018" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<hp value="-6"/>
+	</Influence>
+	<Influence engName="pdon_000_Influences" code="201654321" icon="mon_pdon_000" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="3" tickingTime="0" applyEffect1="" applyEffect2="fx_giroro_skill_018" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="3">
+		<speed value="-30%"/>
+	</Influence>
+	<Influence engName="rdon_000_Influences" code="201654325" icon="mon_rdon_000" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="fx_monsterskill_speedup.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="400%"/>
+		<blowupImmune value="1"/>
+		<hitRate value="100%"/>
+	</Influence>
+	<Influence engName="raptor_000_Influences" code="201654322" icon="mon_raptor_000" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="15" tickingTime="0" applyEffect1="" applyEffect2="fx_giroro_skill_018" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="2">
+		<hitRate value="-50"/>
+		<blowupImmune value="1"/>
+	</Influence>
+	<Influence engName="trex_Influences" code="201654326" icon="mon_trex_000" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="fx_monsterskill_stop.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-50%"/>
+		<donotjump value="1"/>
+		<donottumble value="1"/>
+		<sp value="-30"/>
+	</Influence>
+	<Influence engName="raptor_000_Influences2" code="201654327" icon="mon_raptor_000" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="15" tickingTime="0" applyEffect1="" applyEffect2="fx_monsterskill_angry.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<hitRate value="200%"/>
+		<blowupImmune value="1"/>
+		<finalDamage value="-30%"/>
+	</Influence>
+	<Influence engName="pdon_001_Influences" code="201654333" icon="mon_pdon_001" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="5" tickingTime="0" applyEffect1="" applyEffect2="fx_giroro_skill_018" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-60%"/>
+	</Influence>
+	<Influence engName="poison effect" code="201654337" icon="mon_compy_001" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="4" tickingTime="1" applyEffect1="" applyEffect2="fx_giroro_skill_018" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<sp value="-5"/>
+	</Influence>
+	<Influence engName="impact effect" code="201654338" icon="mon_ttops_001" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="fx_monsterskill_chaos.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<chaos value="1"/>
+	</Influence>
+	<Influence engName="ttops Immune in Respawn" code="201654334" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="fx_ttops_shield.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="pdon Immune in Respawn" code="201654335" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="fx_pdon_shield.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="trex Immune in Respawn" code="201654336" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="fx_trex_shield.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="assaultDamage" code="201654316" icon="skill_giroro_step2" requiredSp="" requiredItem="" flags="IntExpiring | KeepChar" totalTime="20" tickingTime="0" applyEffect1="" applyEffect2="fx_giroro_skill_018" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-50%"/>
+		<Hp value="-10000"/>
+	</Influence>
+	<Influence engName="hanako_melee" code="201654342" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="60" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<transparency value="1"/>
+	</Influence>
+	<Influence engName="pumpkin_special" code="201654346" icon="mon_pumpkin" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="1" applyEffect1="fx_get_redfire.prx" applyEffect2="fx_get_damage5.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<hp value="-5"/>
+	</Influence>
+	<Influence engName="tigerhose_special_002" code="201654350" icon="mon_tigerhose" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="4" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<brockscreen value="1"/>
+	</Influence>
+	<Influence engName="persindaBlowupImmune" code="201654353" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="99999" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<blowupImmune value="1"/>
+	</Influence>
+	<Influence engName="Thunderbolt" code="201654354" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="1" applyEffect1="fx_zoruru_skill_003_shock.prx" applyEffect2="fx_zoruru_skill_003_shock_2.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<hp value="-5"/>
+	</Influence>
+	<Influence engName="nontarget" code="201654355" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="99999" tickingTime="" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<nontarget value="1"/>
+	</Influence>
+	<Influence engName="dsoldier" code="201654362" icon="mon_dsoldier" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2.5" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<defense value="-500"/>
+	</Influence>
+	<Influence engName="5Coop_FieldDamage" code="201654363" icon="" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="-5"/>
+	</Influence>
+	<Influence engName="breath" code="201654364" icon="mon_paul" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="kerberosbreath" code="201654365" icon="mon_kerberos" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="danglbreath" code="201654366" icon="mon_dangl" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="mcViperbreath" code="201654367" icon="mon_mcViper" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="mcSamuraibreath" code="201654368" icon="mon_mcSamurai" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="ttopsbreath" code="201654369" icon="mon_ttops_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="pdonbreath" code="201654370" icon="mon_pdon_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="trexbreath" code="201654371" icon="mon_trex_000" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="tigerhosebreath" code="201654372" icon="mon_tigerhose" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="persindabreath" code="201654373" icon="mon_persinda" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="darknarabreath" code="201654374" icon="mon_darknara" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="naramamabreath" code="201654375" icon="mon_naramama" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="2" tickingTime="0.2" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="20"/>
+	</Influence>
+	<Influence engName="GiroroCake" code="201457719" icon="recovery_017" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="150"/>
+		<sp value="80"/>
+	</Influence>
+	<Influence engName="WarBerrierRifle_effect" code="201457720" icon="rifle_damage_009" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="1.5" tickingTime="0" applyEffect1="fx_zoruru_skill_003_shock.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-20%"/>
+	</Influence>
+	<Influence engName="WinterGhillieSniper_effect" code="201457721" icon="sniper_damage_007" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="3" tickingTime="0" applyEffect1="fx_get_ice.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-50%"/>
+	</Influence>
+	<Influence engName="firecrackerRocket_effect" code="201457722" icon="rocket_damage_005" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="5.7" tickingTime="0.8" applyEffect1="fx_get_redfire.prx" applyEffect2="fx_get_damage5.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<hp value="-5"/>
+	</Influence>
+	<Influence engName="KeroBomb_effect" code="201457723" icon="grenade_damage_010" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="4.8" tickingTime="0.8" applyEffect1="" applyEffect2="fx_get_damage5.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<hp value="-5"/>
+	</Influence>
+	<Influence engName="GiroBomb_effect" code="201457724" icon="grenade_damage_004" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="4.8" tickingTime="0.8" applyEffect1="" applyEffect2="fx_get_damage5.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<hp value="-5"/>
+	</Influence>
+	<Influence engName="CrossbowSniper_effect" code="201457725" icon="sniper_damage_010" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="5.7" tickingTime="0.8" applyEffect1="fx_get_redfire.prx" applyEffect2="fx_get_damage5.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<hp value="-5"/>
+	</Influence>
+	<Influence engName="EarthTteokguk_effect" code="201457726" icon="recovery_018" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="300"/>
+	</Influence>
+	<Influence engName="PururuLoveChoco_effect" code="201457727" icon="recovery_019" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="150"/>
+		<sp value="30"/>
+	</Influence>
+	<Influence engName="PururuFriendChoco_effect" code="201457728" icon="recovery_020" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="30"/>
+		<sp value="150"/>
+	</Influence>
+	<Influence engName="WhiteChoco_effect" code="201457729" icon="recovery_021" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="5" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<hp value="100"/>
+		<speed value="20%"/>
+	</Influence>
+	<Influence engName="RainbowCandy_effect" code="201457730" icon="recovery_022" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="5" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<sp value="60"/>
+		<speed value="20%"/>
+	</Influence>
+	<Influence engName="Kerobot_Guard" code="201457731" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+	</Influence>
+	<Influence engName="Kerobot_Skill_Defense" code="201457732" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10000" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<skillImmune value="1"/>
+	</Influence>
+	<Influence engName="AppleCandy_effect" code="201457733" icon="recovery_023" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="15" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="20%"/>
+		<evadeRate value="20"/>
+	</Influence>
+	<Influence engName="LoveChups_effect" code="201457734" icon="recovery_024" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="200"/>
+	</Influence>
+	<Influence engName="StarFruitsDX_effect" code="201457735" icon="reinforce_007" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead " totalTime="40" tickingTime="0" applyEffect1="fx_item_starfruits.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="25%"/>
+	</Influence>
+	<Influence engName="MoamoaTea_effect" code="201457736" icon="reinforce_018" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead " totalTime="40" tickingTime="0" applyEffect1="fx_item_reinforce18_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="15%"/>
+		<evadeRate value="40"/>
+	</Influence>
+	<Influence engName="KeroJajang_effect" code="201457737" icon="recovery_025" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="180"/>
+	</Influence>
+	<Influence engName="KeroroBalloon" code="201457738" icon="reinforce_020" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead " totalTime="30" tickingTime="0" applyEffect1="fx_item_reinforce20_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<evadeRate value="25"/>
+	</Influence>
+	<Influence engName="SiraraBalloon" code="201457739" icon="reinforce_021" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead " totalTime="30" tickingTime="0" applyEffect1="fx_item_reinforce21_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<jump value="1"/>
+	</Influence>
+	<Influence engName="GaruruBalloon" code="201457740" icon="reinforce_022" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead " totalTime="30" tickingTime="0" applyEffect1="fx_item_reinforce22_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<finalDamage value="5"/>
+	</Influence>
+	<Influence engName="RoboboBalloon" code="201457741" icon="reinforce_023" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead " totalTime="30" tickingTime="0" applyEffect1="fx_item_reinforce23_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<defenseDamage value="-25%"/>
+	</Influence>
+	<Influence engName="BoomboxRocket_effect" code="201457742" icon="rocket_damage_036" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="3" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-15%"/>
+	</Influence>
+	<Influence engName="Crazychicken_effect" code="201457743" icon="rocket_damage_016" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-30%"/>
+	</Influence>
+	<Influence engName="TypeG" code="201457744" icon="recovery_026" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="30" tickingTime="0" applyEffect1="fx_item_recovery26_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<hp value="120"/>
+		<finalDamage value="5"/>
+	</Influence>
+	<Influence engName="CleanBalloon" code="201457745" icon="reinforce_024" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="10" tickingTime="0" applyEffect1="fx_item_influence_clean.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<reset value="2"/>
+	</Influence>
+	<Influence engName="GeneratorEnergy_effect" code="201457746" icon="rocket_damage_018" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="5.7" tickingTime="0.8" applyEffect1="fx_influence_spark_red.prx" applyEffect2="fx_get_damage5.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<hp value="-5"/>
+	</Influence>
+	<Influence engName="HappyBalloon" code="201457747" icon="reinforce_025" requiredSp="0" requiredItem="" flags="IntExpiring | KeepDead " totalTime="30" tickingTime="0" applyEffect1="fx_item_reinforce25_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<defenseDamage value="-25%"/>
+		<jump value="1"/>
+	</Influence>
+	<Influence engName="iceTrap_effect" code="201457748" icon="install_damage_009" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="6" tickingTime="0" applyEffect1="fx_get_ice.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-50%"/>
+	</Influence>
+	<Influence engName="fearTrap" code="201457749" icon="install_damage_010" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="4" tickingTime="0" applyEffect1="" applyEffect2="fx_tamama_skill_021.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<immobile value="1"/>
+	</Influence>
+	<Influence engName="smallcod roast" code="201457750" icon="recovery_027" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="150"/>
+	</Influence>
+	<Influence engName="smallhalibut roast" code="201457751" icon="recovery_028" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="80"/>
+		<sp value="40"/>
+	</Influence>
+	<Influence engName="ricefish roast" code="201457752" icon="recovery_029" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="30" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<hp value="80"/>
+		<defenseDamage value="-30%"/>
+	</Influence>
+	<Influence engName="saury  stirfry" code="201457753" icon="reinforce_026" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="30" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<hp value="80"/>
+		<evadeRate value="30"/>
+	</Influence>
+	<Influence engName="anchovy stirfry" code="201457754" icon="reinforce_027" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="30" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<hp value="80"/>
+		<finalDamage value="15%"/>
+	</Influence>
+	<Influence engName="squid stirfry" code="201457755" icon="reinforce_028" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="30" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="25%"/>
+		<evadeRate value="25"/>
+	</Influence>
+	<Influence engName="soy crab" code="201457756" icon="reinforce_029" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="30" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<defenseDamage value="-15%"/>
+		<finalDamage value="15%"/>
+	</Influence>
+	<Influence engName="halibut boiled" code="201457757" icon="reinforce_030" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="30" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<jump value="1"/>
+		<evadeRate value="30"/>
+	</Influence>
+	<Influence engName="octopus bread" code="201457758" icon="reinforce_031" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar | NoHitChar" totalTime="30" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="20%"/>
+		<transparency value="1"/>
+	</Influence>
+	<Influence engName="flyingboard" code="201457759" icon="flyingboard" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="fx_item_reinforce_031_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="50%"/>
+	</Influence>
+	<Influence engName="flyingfish" code="201457760" icon="flyingfish" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="fx_item_reinforce_031_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="100%"/>
+	</Influence>
+	<Influence engName="koosp" code="201457761" icon="koosp" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar " totalTime="0" tickingTime="0" applyEffect1="fx_item_reinforce_031_002.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<speed value="150%"/>
+	</Influence>
+	<Influence engName="pumpkingrenade" code="201457762" icon="grenade_damage_019" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="5" tickingTime="0" applyEffect1="fx_grenade_damage19_influence_1.prx" applyEffect2="fx_grenade_damage19_influence_2.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<speed value="-50%"/>
+	</Influence>
+	<Influence engName="sun_pistol" code="201457763" icon="pistol_damage_022" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0.5" tickingTime="0.5" applyEffect1="fx_pistol_damage22_influence.prx" applyEffect2="fx_get_damage5.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<hp value="-5"/>
+	</Influence>
+	<Influence engName="kero stigma" code="201457764" icon="recovery_030" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="0" tickingTime="0" applyEffect1="" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="oneoff" overlap="0">
+		<hp value="120"/>
+	</Influence>
+	<Influence engName="SurvivalModeAllPlayerHp" code="201457765" icon="keroball_debuff" requiredSp="0" requiredItem="" flags="KeepChar | IntTicking" totalTime="99999" tickingTime="5" applyEffect1="fx_get_damage10.prx" applyEffect2="fx_influence_deathmatch.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="survivaldebuff" overlap="0">
+		<survivalModeAllPlayerHp value="-10"/>
+	</Influence>
+	<Influence engName="portal_field" code="201457766" icon="defense_001" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="5" tickingTime="0" applyEffect1="fx_regen_shield.prx" applyEffect2="" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="fx_item_defense1_002" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<damageImmune value="1"/>
+		<skillImmune value="1"/>
+	</Influence>
+	<Influence engName="wear_evadeRate" code="201457767" icon="wear_evaderate" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="8" tickingTime="0" applyEffect1="fx_wear_evaderate_001.prx" applyEffect2="fx_wear_evaderate_002.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<evadeRate value="10"/>
+	</Influence>
+	<Influence engName="wear_defenseDamage" code="201457768" icon="wear_defensedamage" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="8" tickingTime="0" applyEffect1="fx_wear_defensedamage_001.prx" applyEffect2="fx_wear_defensedamage_002.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<defenseDamage value="-10%"/>
+	</Influence>
+	<Influence engName="wear_stun" code="201457769" icon="wear_stun" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="8" tickingTime="0" applyEffect1="fx_wear_stun_001.prx" applyEffect2="fx_wear_stun_002.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="buff" overlap="0">
+		<evadeStun value="-10%"/>
+	</Influence>
+	<Influence engName="SeasquirtGrenade" code="201457770" icon="grenade_damage_021" requiredSp="0" requiredItem="" flags="IntExpiring | KeepChar" totalTime="3" tickingTime="0" applyEffect1="" applyEffect2="fx_grenade_damage21_003.prx" applyVoice="" applySound="" tickingVoice="" tickingSound="" releaseEffect="" releaseVoice="" releaseSound="" kind="debuff" overlap="0">
+		<chaos value="1"/>
+	</Influence>
+</InfluenceList.XML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <auto_sniper_001 file="auto_sniper_001.msh" />
+</Objects>
+<Materials version="2">
+  <mauto_union_003
+    diffuse="auto_sniper_001.dds"
+    color="65 65 65"
+  />
+</Materials>
+<Skeleton
+  file="auto_sniper_001.skl"
+/>
+<BoneAnim
+  file="Anims\auto_sniper_001.anm"
+/>
+<collision
+  file="auto_sniper_001.col"
+/>
+</Scene.XML>

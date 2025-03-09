@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_vga_ground_B4r01 file="notrans_vga_ground_B4r01.msh" />
+ <notrans_vag_shadow_ba07 file="notrans_vag_shadow_ba07.msh" />
+ <notrans_vga_ground_B4r_sd file="notrans_vga_ground_B4r_sd.msh" />
+ <notrans_vga_ground_B4r02 file="notrans_vga_ground_B4r02.msh" />
+ <notrans_vga_ascent_ground02 file="notrans_vga_ascent_ground02.msh" />
+ <notrans_vag_shadow_ba08 file="notrans_vag_shadow_ba08.msh" />
+ <notrans_vga_creation_17 file="notrans_vga_creation_17.msh" />
+ <notrans_vag_shadow_nyh003_24 file="notrans_vag_shadow_nyh003_24.msh" />
+ <notrans_vga_creation_18 file="notrans_vga_creation_18.msh" />
+ <notrans_vag_shadow_nyh003_25 file="notrans_vag_shadow_nyh003_25.msh" />
+ <notrans_vag_mark_nyh06 file="notrans_vag_mark_nyh06.msh" />
+ <GAME_MovingMesh file="GAME_MovingMesh.msh" />
+ <notrans_vag_shadow_line2p file="notrans_vag_shadow_line2p.msh" />
+ <notrans_vag_shadow_line2p01 file="notrans_vag_shadow_line2p01.msh" />
+ <notrans_vag_shadow_line2p02 file="notrans_vag_shadow_line2p02.msh" />
+ <notrans_vga_wall02_001 file="notrans_vga_wall02_001.msh" />
+</Objects>
+<Materials version="2">
+  <mvaground_nyh001_id04
+    diffuse="vaground_nyh001_id04.dds"
+    color="255 255 255"
+  />
+  <mvag_shadow_ba
+    diffuse="vashadow_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvga_ground_1r_sd
+    diffuse="vaground_nyh001_id03.dds"
+    color="255 255 255"
+  />
+  <mvag_ground_nyh001_id01
+    diffuse="vaground_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mvag_ground_nyh001_id02
+    diffuse="vaground_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mvga_ascent_01
+    diffuse="vga_ascent_01.dds"
+    color="255 255 255"
+  />
+  <mvag_creation
+    diffuse="vag_creation.dds"
+    color="255 255 255"
+  />
+  <mvag_shadow_nyh003
+    diffuse="vashadow_nyh003.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvag_mark_nyh003
+    diffuse="vamark_nyh003.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mCollision_vag
+    color="76 72 130"
+  />
+  <mvag_wall02
+    diffuse="vag_wall02_id01.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="vag_bonus_round_3.col"
+/>
+</Scene.XML>

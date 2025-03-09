@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<garuru_face_animation.XML>
+	<animation name="garuru_feel_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="garuru_feel_002" fr0="1" face0="garuru_face_006"/>
+	<animation name="garuru_feel_003" fr0="1" face0="garuru_face_001"/>
+	<animation name="garuru_feel_004" fr0="1" face0="garuru_face_002"/>
+	<animation name="garuru_feel_005" fr0="1" face0="garuru_face_003"/>
+	<animation name="garuru_feel_006" fr0="1" face0="garuru_face_004"/>
+	<animation name="garuru_feel_007" fr0="1" face0="garuru_face_005"/>
+	<animation name="garuru_feel_008" fr0="1" face0="garuru_face_001" fr1="91" face1="garuru_face_004"/>
+	<animation name="giroro_lobby_item_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_lobby_item_002" fr0="1" face0="garuru_face_006"/>
+	<animation name="giroro_lobby_pistol_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_lobby_pistol_002" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_lobby_rifle_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_lobby_rifle_002" fr0="1" face0="garuru_face_000" fr1="34" face1="garuru_face_001" fr2="59" face2="garuru_face_000"/>
+	<animation name="giroro_lobby_rocket_001" fr0="1" face0="garuru_face_004"/>
+	<animation name="giroro_lobby_rocket_002" fr0="1" face0="garuru_face_004" fr1="11" face1="garuru_face_001" fr2="101" face2="garuru_face_004"/>
+	<animation name="giroro_lobby_machinegun_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_lobby_machinegun_002" fr0="1" face0="garuru_face_000" fr1="71" face1="garuru_face_010" fr2="141" face2="garuru_face_000"/>
+	<animation name="giroro_gameroom_idle" fr0="1" face0="garuru_face_001"/>
+	<animation name="giroro_idle_item_001" fr0="1" face0="garuru_face_000" fr1="20" face1="garuru_face_005" fr2="22" face2="garuru_face_000"/>
+	<animation name="giroro_idle_pistol_001" fr0="1" face0="garuru_face_000" fr1="20" face1="garuru_face_005" fr2="22" face2="garuru_face_000"/>
+	<animation name="giroro_idle_rifle_001" fr0="1" face0="garuru_face_000" fr1="20" face1="garuru_face_005" fr2="22" face2="garuru_face_000"/>
+	<animation name="giroro_idle_rocket_001" fr0="1" face0="garuru_face_000" fr1="20" face1="garuru_face_005" fr2="22" face2="garuru_face_000"/>
+	<animation name="keron_idle_melee_001" fr0="1" face0="garuru_face_000" fr1="20" face1="garuru_face_005" fr2="22" face2="garuru_face_000"/>
+	<animation name="keron_idle_machinegun_001" fr0="1" face0="garuru_face_000" fr1="20" face1="garuru_face_005" fr2="22" face2="garuru_face_000"/>
+	<animation name="keron_idle_keroball_001" fr0="1" face0="garuru_face_002"/>
+	<animation name="giroro_run_item_001" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_run_item_002" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_run_item_003" fr0="1" face0="garuru_face_007"/>
+	<animation name="giroro_run_item_004" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_run_rifle_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_run_rifle_002" fr0="1" face0="garuru_face_007"/>
+	<animation name="giroro_run_rifle_003" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_run_rifle_004" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_run_pistol_001" fr0="1" face0="garuru_face_007"/>
+	<animation name="giroro_run_pistol_002" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_run_pistol_003" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_run_pistol_004" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_run_rocket_001" fr0="1" face0="garuru_face_007"/>
+	<animation name="giroro_run_rocket_002" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_run_rocket_003" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_run_rocket_004" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_run_keroball_001" fr0="1" face0="garuru_face_010"/>
+	<animation name="keron_run_keroball_002" fr0="1" face0="garuru_face_010"/>
+	<animation name="keron_run_keroball_003" fr0="1" face0="garuru_face_010"/>
+	<animation name="keron_run_keroball_004" fr0="1" face0="garuru_face_010"/>
+	<animation name="keron_run_machinegun_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_run_machinegun_002" fr0="1" face0="garuru_face_007"/>
+	<animation name="keron_run_machinegun_003" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_run_machinegun_004" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_walk_sniper_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_walk_sniper_002" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_walk_sniper_003" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_walk_sniper_004" fr0="1" face0="garuru_face_000"/>
+	<animation name="giroro_shot_rifle_001" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_rifle_002" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_rifle_003" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_rifle_004" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_rifle_005" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_shot_rifle_006" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_pistol_001" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_pistol_002" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_pistol_003" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_pistol_004" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_pistol_005" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_shot_pistol_006" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_sniper_001" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_sniper_002" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_sniper_003" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_sniper_004" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_sniper_005" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_shot_sniper_006" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_shot_rocket_001" fr0="1" face0="garuru_face_003"/>
+	<animation name="giroro_shot_rocket_002" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_shot_machinegun_001" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_shot_machinegun_002" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_shot_shotgun_001" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_shot_shotgun_002" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_shot_shotgun_003" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_shot_shotgun_004" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_shot_shotgun_005" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_guard_melee_001" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_attack_melee_001" fr0="1" face0="garuru_face_003"/>
+	<animation name="keron_throw_keroball_001" fr0="1" face0="garuru_face_010"/>
+	<animation name="keron_throw_item_001" fr0="1" face0="garuru_face_007"/>
+	<animation name="keron_throw_item_002" fr0="1" face0="garuru_face_007"/>
+	<animation name="keron_tumble_item_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_tumble_pistol_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_tumble_rifle_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_tumble_rocket_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_change_all_001" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_change_all_002" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_setup_item_001" fr0="1" face0="garuru_face_007"/>
+	<animation name="keron_setup_item_002" fr0="1" face0="garuru_face_001"/>
+	<animation name="garuru_widejump_item_001" fr0="1" face0="garuru_face_001"/>
+	<animation name="garuru_widejump_item_002" fr0="45" face0="garuru_face_010" fr1="51" face1="garuru_face_005"/>
+	<animation name="keron_blowup_item_001" fr0="1" face0="garuru_face_010"/>
+	<animation name="keron_blowup_item_002" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_blowup_pistol_001" fr0="1" face0="garuru_face_010"/>
+	<animation name="keron_blowup_pistol_002" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_blowup_rifle_001" fr0="1" face0="garuru_face_010"/>
+	<animation name="keron_blowup_rifle_002" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_blowup_rocket_001" fr0="1" face0="garuru_face_010"/>
+	<animation name="keron_blowup_rocket_002" fr0="1" face0="garuru_face_000"/>
+	<animation name="keron_explosion_item_001" fr0="1" face0="garuru_face_010"/>
+	<animation name="giroro_death_item_001" fr0="1" face0="garuru_face_011"/>
+	<animation name="giroro_death_pistol_001" fr0="1" face0="garuru_face_011"/>
+	<animation name="giroro_death_rifle_001" fr0="1" face0="garuru_face_011"/>
+	<animation name="giroro_death_rocket_001" fr0="1" face0="garuru_face_011"/>
+	<animation name="giroro_death_machinegun_001" fr0="1" face0="garuru_face_011"/>
+	<animation name="giroro_death_melee_001" fr0="1" face0="garuru_face_011"/>
+	<animation name="game_result_winner_keron" fr0="1" face0="garuru_face_000"/>
+	<animation name="game_result_loser_row1" fr0="1" face0="garuru_face_002"/>
+	<animation name="game_result_loser_row2" fr0="1" face0="garuru_face_002"/>
+	<animation name="in_gameroom_character_idle" fr0="1" face0="garuru_face_000"/>
+	<animation name="in_gameroom_character_ready" fr0="1" face0="garuru_face_000"/>
+	<animation name="in_gameroom_character_unready" fr0="1" face0="garuru_face_000"/>
+	<animation name="character_creating_select_garuru" fr0="1" face0="garuru_face_003" fr1="29" face1="garuru_face_005" fr2="51" face2="garuru_face_000" fr3="66" face3="garuru_face_003" fr4="89" face4="garuru_face_000"/>
+	<animation name="keron_falldown_item_001" fr0="1" face0="garuru_face_010"/>
+	<animation name="garuru_ceremony_item_001" fr0="1" face0="garuru_face_006"/>
+	<animation name="garuru_owngoal_item_001" fr0="1" face0="garuru_face_002"/>
+	<animation name="keron_create_item_001" fr0="1" face0="garuru_face_001"/>
+	<animation name="garuru_skill_002_01" fr0="1" face0="garuru_face_003"/>
+	<animation name="garuru_skill_002_02" fr0="1" face0="garuru_face_003"/>
+	<animation name="garuru_skill_003" fr0="1" face0="garuru_face_000" fr1="35" face1="garuru_face_006" fr2="57" face2="garuru_face_003" fr3="87" face3="garuru_face_007"/>
+	<animation name="keron_boxopen_item_001" fr0="1" face0="garuru_face_001" fr1="41" face1="garuru_face_007" fr2="131" face2="garuru_face_004"/>
+</garuru_face_animation.XML>

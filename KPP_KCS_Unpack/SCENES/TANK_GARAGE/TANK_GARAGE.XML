@@ -1,0 +1,652 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_tank_ground_03 file="notrans_tank_ground_03.msh" />
+ <tank_forklift_01 file="tank_forklift_01.msh" />
+ <notrans_tank_sky_ms01 file="notrans_tank_sky_ms01.msh" />
+ <notrans_tank_prop02_03 file="notrans_tank_prop02_03.msh" />
+ <notrans_tank_deck_03 file="notrans_tank_deck_03.msh" />
+ <tank_minitank_01 file="tank_minitank_01.msh" />
+ <notrans_tank_bottom02_03 file="notrans_tank_bottom02_03.msh" />
+ <notrans_tank_bottom02_01 file="notrans_tank_bottom02_01.msh" />
+ <notrans_tank_safety_01 file="notrans_tank_safety_01.msh" />
+ <notrans_tank_pillar_a_01 file="notrans_tank_pillar_a_01.msh" />
+ <notrans_tank_ground_01 file="notrans_tank_ground_01.msh" />
+ <notrans_tank_bottom03_03 file="notrans_tank_bottom03_03.msh" />
+ <notrans_tank_plaza_01 file="notrans_tank_plaza_01.msh" />
+ <notrans_tank_plaza_04 file="notrans_tank_plaza_04.msh" />
+ <notrans_tank_road_b file="notrans_tank_road_b.msh" />
+ <notrans_tank_manhole_03 file="notrans_tank_manhole_03.msh" />
+ <notrans_tank_road_a file="notrans_tank_road_a.msh" />
+ <notrans_tank_mirror_ms01 file="notrans_tank_mirror_ms01.msh" />
+ <notrans_tank_block_01 file="notrans_tank_block_01.msh" />
+ <notrans_tank_ground_02 file="notrans_tank_ground_02.msh" />
+ <notrans_tank_road_d file="notrans_tank_road_d.msh" />
+ <tank_nah_truck_03 file="tank_nah_truck_03.msh" />
+ <notrans_tank_fence_04 file="notrans_tank_fence_04.msh" />
+ <notrans_tank_ground04 file="notrans_tank_ground04.msh" />
+ <tank_nah_truck_02 file="tank_nah_truck_02.msh" />
+ <notrans_tank_road02_02 file="notrans_tank_road02_02.msh" />
+ <tank_truck_02 file="tank_truck_02.msh" />
+ <tank_fireplug_02 file="tank_fireplug_02.msh" />
+ <notrans_tank_bottom03_01 file="notrans_tank_bottom03_01.msh" />
+ <notrans_tank_lane_05 file="notrans_tank_lane_05.msh" />
+ <tank_truck_01 file="tank_truck_01.msh" />
+ <tank_oiltank_02 file="tank_oiltank_02.msh" />
+ <tank_fireplug_01 file="tank_fireplug_01.msh" />
+ <notrans_tank_bottom03_04 file="notrans_tank_bottom03_04.msh" />
+ <Outer_tank_wall01_01 file="Outer_tank_wall01_01.msh" />
+ <notrans_tank_lane_03 file="notrans_tank_lane_03.msh" />
+ <notrans_tank_fence_b_01 file="notrans_tank_fence_b_01.msh" />
+ <notrans_tank_checkpoint01_02 file="notrans_tank_checkpoint01_02.msh" />
+ <notrans_tank_wall03_02 file="notrans_tank_wall03_02.msh" />
+ <tank_nah_truck_01 file="tank_nah_truck_01.msh" />
+ <notrans_tank_backtree_01 file="notrans_tank_backtree_01.msh" />
+ <tank_oiltank_01 file="tank_oiltank_01.msh" />
+ <notrans_tank_fence_b_02 file="notrans_tank_fence_b_02.msh" />
+ <notrans_tank_checkpoint01_01 file="notrans_tank_checkpoint01_01.msh" />
+ <notrans_tank_wall_sm001_01 file="notrans_tank_wall_sm001_01.msh" />
+ <notrans_tank_wall03_01 file="notrans_tank_wall03_01.msh" />
+ <notrans_tank_wall_sm001_02 file="notrans_tank_wall_sm001_02.msh" />
+ <tank_safe_01 file="tank_safe_01.msh" />
+ <tank_safe_02 file="tank_safe_02.msh" />
+ <notrans_tank_sfshadows_02 file="notrans_tank_sfshadows_02.msh" />
+ <tank_safe_03 file="tank_safe_03.msh" />
+ <tank_safe_04 file="tank_safe_04.msh" />
+ <tank_safe_05 file="tank_safe_05.msh" />
+ <tank_safe_06 file="tank_safe_06.msh" />
+ <notrans_safe_shadows_01 file="notrans_safe_shadows_01.msh" />
+ <tank_safe_07 file="tank_safe_07.msh" />
+ <tank_safe_08 file="tank_safe_08.msh" />
+ <tank_metal_001b file="tank_metal_001b.msh" />
+ <notrans_tank_prop02_02 file="notrans_tank_prop02_02.msh" />
+ <notrans_tank_bottom03_02 file="notrans_tank_bottom03_02.msh" />
+ <Outer_tank_wall01_02 file="Outer_tank_wall01_02.msh" />
+ <notrans_tank_plaza_03 file="notrans_tank_plaza_03.msh" />
+ <notrans_tank_grass_id01 file="notrans_tank_grass_id01.msh" />
+ <notrans_tank_grass_id02 file="notrans_tank_grass_id02.msh" />
+ <notrans_tank_fence_01 file="notrans_tank_fence_01.msh" />
+ <tank_gate02 file="tank_gate02.msh" />
+ <notrans_tank_road02_01 file="notrans_tank_road02_01.msh" />
+ <tank_minitank_02 file="tank_minitank_02.msh" />
+ <tank_minitank_03 file="tank_minitank_03.msh" />
+ <tank_minitank_04 file="tank_minitank_04.msh" />
+ <tank_minitank_05 file="tank_minitank_05.msh" />
+ <tank_minitank_06 file="tank_minitank_06.msh" />
+ <tank_minitank_07 file="tank_minitank_07.msh" />
+ <tank_minitank_08 file="tank_minitank_08.msh" />
+ <tank_minitank_09 file="tank_minitank_09.msh" />
+ <notrans_tank_pattern001_01 file="notrans_tank_pattern001_01.msh" />
+ <notrans_tank_bank_01 file="notrans_tank_bank_01.msh" />
+ <notrans_tank_bank_02 file="notrans_tank_bank_02.msh" />
+ <notrans_tank_ground_04 file="notrans_tank_ground_04.msh" />
+ <notrans_tank_backtree_02 file="notrans_tank_backtree_02.msh" />
+ <notrans_tank_pattern001_02 file="notrans_tank_pattern001_02.msh" />
+ <tank_gate_04 file="tank_gate_04.msh" />
+ <tank_gate_01 file="tank_gate_01.msh" />
+ <tank_gate_02 file="tank_gate_02.msh" />
+ <tank_gate_03 file="tank_gate_03.msh" />
+ <notrans_tank_lane_01 file="notrans_tank_lane_01.msh" />
+ <notrans_tank_bottom01_01 file="notrans_tank_bottom01_01.msh" />
+ <Outer_tank_wall01_03 file="Outer_tank_wall01_03.msh" />
+ <Outer_tank_wall01_04 file="Outer_tank_wall01_04.msh" />
+ <tank_obj_01 file="tank_obj_01.msh" />
+ <notrans_tank_bottom01_02 file="notrans_tank_bottom01_02.msh" />
+ <notrans_tank_bottom01_03 file="notrans_tank_bottom01_03.msh" />
+ <notrans_tank_ground02_02 file="notrans_tank_ground02_02.msh" />
+ <notrans_tank_bottom01_04 file="notrans_tank_bottom01_04.msh" />
+ <notrans_tank_bottom01_05 file="notrans_tank_bottom01_05.msh" />
+ <notrans_tank_manhole_04 file="notrans_tank_manhole_04.msh" />
+ <notrans_tank_manhole_01 file="notrans_tank_manhole_01.msh" />
+ <notrans_tank_manhole_02 file="notrans_tank_manhole_02.msh" />
+ <notrans_tank_stair_01 file="notrans_tank_stair_01.msh" />
+ <notrans_tank_bottom01_06 file="notrans_tank_bottom01_06.msh" />
+ <tank_cotrolroom_01 file="tank_cotrolroom_01.msh" />
+ <notrans_tank_tankshadow_03 file="notrans_tank_tankshadow_03.msh" />
+ <notrans_tank_tankshadow_05 file="notrans_tank_tankshadow_05.msh" />
+ <notrans_tank_trshadow_01 file="notrans_tank_trshadow_01.msh" />
+ <notrans_tank_shadow03_01 file="notrans_tank_shadow03_01.msh" />
+ <notrans_tank_tankshadow_06 file="notrans_tank_tankshadow_06.msh" />
+ <notrans_tank_shadow03_09 file="notrans_tank_shadow03_09.msh" />
+ <notrans_tank_tankshadow_01 file="notrans_tank_tankshadow_01.msh" />
+ <notrans_tank_shadow03_02 file="notrans_tank_shadow03_02.msh" />
+ <notrans_tank_trshadow_02 file="notrans_tank_trshadow_02.msh" />
+ <notrans_tank_shadow03_03 file="notrans_tank_shadow03_03.msh" />
+ <notrans_tank_shadow03_04 file="notrans_tank_shadow03_04.msh" />
+ <tank_minitank_11 file="tank_minitank_11.msh" />
+ <tank_minitank_12 file="tank_minitank_12.msh" />
+ <tank_minitank_13 file="tank_minitank_13.msh" />
+ <tank_minitank_14 file="tank_minitank_14.msh" />
+ <notrans_tank_tankshadow_02 file="notrans_tank_tankshadow_02.msh" />
+ <tank_oil_01 file="tank_oil_01.msh" />
+ <notrans_tank_grshadow_05 file="notrans_tank_grshadow_05.msh" />
+ <notrans_tank_grshadow_01 file="notrans_tank_grshadow_01.msh" />
+ <notrans_tank_shadow03_05 file="notrans_tank_shadow03_05.msh" />
+ <notrans_tank_grshadow_02 file="notrans_tank_grshadow_02.msh" />
+ <notrans_tank_grshadow_03 file="notrans_tank_grshadow_03.msh" />
+ <notrans_tank_shadow06 file="notrans_tank_shadow06.msh" />
+ <notrans_tank_block_02 file="notrans_tank_block_02.msh" />
+ <notrans_tank_tankshadow_07 file="notrans_tank_tankshadow_07.msh" />
+ <notrans_tank_shadow03_06 file="notrans_tank_shadow03_06.msh" />
+ <notrans_tank_shadow03_07 file="notrans_tank_shadow03_07.msh" />
+ <notrans_tank_shadow03_08 file="notrans_tank_shadow03_08.msh" />
+ <notrans_tank_grshadow_04 file="notrans_tank_grshadow_04.msh" />
+ <notrans_tank_plaza_02 file="notrans_tank_plaza_02.msh" />
+ <tank_streetlight_01 file="tank_streetlight_01.msh" />
+ <notrans_tank_stshadow_01 file="notrans_tank_stshadow_01.msh" />
+ <notrans_tank_stshadow_02 file="notrans_tank_stshadow_02.msh" />
+ <notrans_tank_stshadow_03 file="notrans_tank_stshadow_03.msh" />
+ <tank_streetlight_02 file="tank_streetlight_02.msh" />
+ <notrans_tank_stshadow_04 file="notrans_tank_stshadow_04.msh" />
+ <notrans_tank_stshadow_05 file="notrans_tank_stshadow_05.msh" />
+ <tank_streetlight_03 file="tank_streetlight_03.msh" />
+ <notrans_tank_stshadow_06 file="notrans_tank_stshadow_06.msh" />
+ <notrans_tank_stshadow_07 file="notrans_tank_stshadow_07.msh" />
+ <notrans_tank_stshadow_08 file="notrans_tank_stshadow_08.msh" />
+ <tank_streetlight_04 file="tank_streetlight_04.msh" />
+ <notrans_tank_stshadow_09 file="notrans_tank_stshadow_09.msh" />
+ <tank_streetlight_05 file="tank_streetlight_05.msh" />
+ <notrans_tank_stshadow_10 file="notrans_tank_stshadow_10.msh" />
+ <notrans_tank_lane_02 file="notrans_tank_lane_02.msh" />
+ <notrans_tank_bottom02_02 file="notrans_tank_bottom02_02.msh" />
+ <notrans_tank_stair_02 file="notrans_tank_stair_02.msh" />
+ <notrans_tank_safety_04 file="notrans_tank_safety_04.msh" />
+ <notrans_tank_safety_29 file="notrans_tank_safety_29.msh" />
+ <notrans_tank_safety_35 file="notrans_tank_safety_35.msh" />
+ <notrans_tank_safety_41 file="notrans_tank_safety_41.msh" />
+ <tank_streetlight_06 file="tank_streetlight_06.msh" />
+ <tank_streetlight_07 file="tank_streetlight_07.msh" />
+ <tank_streetlight_08 file="tank_streetlight_08.msh" />
+ <tank_streetlight_09 file="tank_streetlight_09.msh" />
+ <tank_streetlight_10 file="tank_streetlight_10.msh" />
+ <notrans_tank_safety_63 file="notrans_tank_safety_63.msh" />
+ <notrans_tank_safety_16 file="notrans_tank_safety_16.msh" />
+ <notrans_tank_road_c file="notrans_tank_road_c.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <tank_fence_02 file="tank_fence_02.msh" />
+ <tank_fence_03 file="tank_fence_03.msh" />
+ <tank_duct_01 file="tank_duct_01.msh" />
+ <notrans_tank_shadow03_10 file="notrans_tank_shadow03_10.msh" />
+ <notrans_tank_tankshadow_08 file="notrans_tank_tankshadow_08.msh" />
+ <tank_drum01_07 file="tank_drum01_07.msh" />
+ <tank_drum01_08 file="tank_drum01_08.msh" />
+ <tank_drum01_09 file="tank_drum01_09.msh" />
+ <tank_drum01_05 file="tank_drum01_05.msh" />
+ <tank_drum01_06 file="tank_drum01_06.msh" />
+ <tank_drum01_10 file="tank_drum01_10.msh" />
+ <tank_drum01_11 file="tank_drum01_11.msh" />
+ <tank_drum01_12 file="tank_drum01_12.msh" />
+ <tank_drum01_15 file="tank_drum01_15.msh" />
+ <tank_drum01_16 file="tank_drum01_16.msh" />
+ <tank_signpost_nyh02 file="tank_signpost_nyh02.msh" />
+ <notrans_kct_shadow_circle01 file="notrans_kct_shadow_circle01.msh" />
+ <tank_drum01_17 file="tank_drum01_17.msh" />
+ <tank_drum01_18 file="tank_drum01_18.msh" />
+ <notrans_tank_shadow03_11 file="notrans_tank_shadow03_11.msh" />
+ <notrans_tank_shadow03_12 file="notrans_tank_shadow03_12.msh" />
+ <tank_drum01_01 file="tank_drum01_01.msh" />
+ <tank_drum01_02 file="tank_drum01_02.msh" />
+ <tank_drum01_03 file="tank_drum01_03.msh" />
+ <tank_drum01_04 file="tank_drum01_04.msh" />
+ <tank_drum01_13 file="tank_drum01_13.msh" />
+ <tank_drum01_14 file="tank_drum01_14.msh" />
+ <notrans_tank_safety_64 file="notrans_tank_safety_64.msh" />
+ <notrans_tank_shadow03_13 file="notrans_tank_shadow03_13.msh" />
+ <notrans_tank_ground02_03 file="notrans_tank_ground02_03.msh" />
+ <tank_cotrolroom_02 file="tank_cotrolroom_02.msh" />
+ <Outer_tank_wall02_05 file="Outer_tank_wall02_05.msh" />
+ <Outer_tank_wall02_08 file="Outer_tank_wall02_08.msh" />
+ <Outer_tank_wall02_07 file="Outer_tank_wall02_07.msh" />
+ <Outer_tank_wall02_06 file="Outer_tank_wall02_06.msh" />
+ <Outer_tank_wall02_04 file="Outer_tank_wall02_04.msh" />
+ <Outer_tank_wall02_03 file="Outer_tank_wall02_03.msh" />
+ <Outer_tank_wall02_02 file="Outer_tank_wall02_02.msh" />
+ <Outer_tank_wall02_01 file="Outer_tank_wall02_01.msh" />
+ <Outer_tank_wall02_09 file="Outer_tank_wall02_09.msh" />
+ <Outer_tank_wall02_10 file="Outer_tank_wall02_10.msh" />
+ <tank_duct_02 file="tank_duct_02.msh" />
+ <tank_duct_03 file="tank_duct_03.msh" />
+ <tank_duct_04 file="tank_duct_04.msh" />
+ <notrans_tank_shadow03_14 file="notrans_tank_shadow03_14.msh" />
+ <notrans_notarget_tank_ceiling01 file="notrans_notarget_tank_ceiling01.msh" />
+ <notarget_tank_light_04 file="notarget_tank_light_04.msh" />
+ <notarget_tank_ceiling_b_01 file="notarget_tank_ceiling_b_01.msh" />
+ <notarget_tank_ceiling_b_02 file="notarget_tank_ceiling_b_02.msh" />
+ <notarget_tank_ceiling_b_03 file="notarget_tank_ceiling_b_03.msh" />
+ <notarget_tank_ceiling_b_04 file="notarget_tank_ceiling_b_04.msh" />
+ <notarget_tank_ceiling_b_05 file="notarget_tank_ceiling_b_05.msh" />
+ <notarget_tank_ceiling_b_06 file="notarget_tank_ceiling_b_06.msh" />
+ <notarget_tank_ceiling_b_07 file="notarget_tank_ceiling_b_07.msh" />
+ <notarget_tank_ceiling_b_08 file="notarget_tank_ceiling_b_08.msh" />
+ <notarget_tank_ceiling_b_09 file="notarget_tank_ceiling_b_09.msh" />
+ <notarget_tank_ceiling_b_10 file="notarget_tank_ceiling_b_10.msh" />
+ <notarget_tank_ceiling_b_11 file="notarget_tank_ceiling_b_11.msh" />
+ <notarget_tank_ceiling_b_12 file="notarget_tank_ceiling_b_12.msh" />
+ <notarget_tank_ceiling_b_13 file="notarget_tank_ceiling_b_13.msh" />
+ <notarget_tank_light_05 file="notarget_tank_light_05.msh" />
+ <notarget_tank_light_06 file="notarget_tank_light_06.msh" />
+ <notarget_tank_light_07 file="notarget_tank_light_07.msh" />
+ <notarget_tank_light_08 file="notarget_tank_light_08.msh" />
+ <notarget_tank_light_09 file="notarget_tank_light_09.msh" />
+ <notarget_tank_light_10 file="notarget_tank_light_10.msh" />
+ <notarget_tank_light_11 file="notarget_tank_light_11.msh" />
+ <notarget_tank_ceiling_b_14 file="notarget_tank_ceiling_b_14.msh" />
+ <notarget_tank_ceiling_b_15 file="notarget_tank_ceiling_b_15.msh" />
+ <notarget_tank_ceiling_b_16 file="notarget_tank_ceiling_b_16.msh" />
+ <notarget_tank_ceiling_b_17 file="notarget_tank_ceiling_b_17.msh" />
+ <notarget_tank_ceiling_b_18 file="notarget_tank_ceiling_b_18.msh" />
+ <notarget_tank_ceiling_b_19 file="notarget_tank_ceiling_b_19.msh" />
+ <notarget_tank_ceiling_b_20 file="notarget_tank_ceiling_b_20.msh" />
+ <notarget_tank_ceiling_b_21 file="notarget_tank_ceiling_b_21.msh" />
+ <notarget_tank_ceiling_b_22 file="notarget_tank_ceiling_b_22.msh" />
+ <notarget_tank_ceiling_b_23 file="notarget_tank_ceiling_b_23.msh" />
+ <notarget_tank_ceiling_b_24 file="notarget_tank_ceiling_b_24.msh" />
+ <notarget_tank_ceiling_b_25 file="notarget_tank_ceiling_b_25.msh" />
+ <notarget_tank_ceiling_b_26 file="notarget_tank_ceiling_b_26.msh" />
+ <notarget_tank_light_12 file="notarget_tank_light_12.msh" />
+ <notarget_tank_light_13 file="notarget_tank_light_13.msh" />
+ <notarget_tank_light_14 file="notarget_tank_light_14.msh" />
+ <notarget_tank_light_15 file="notarget_tank_light_15.msh" />
+ <notarget_tank_light_16 file="notarget_tank_light_16.msh" />
+ <notarget_tank_light_17 file="notarget_tank_light_17.msh" />
+ <notrans_tank_pattern001_03 file="notrans_tank_pattern001_03.msh" />
+ <notrans_tank_pattern001_04 file="notrans_tank_pattern001_04.msh" />
+ <tank_container_02 file="tank_container_02.msh" />
+ <tank_container_03 file="tank_container_03.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <tank_container_01 file="tank_container_01.msh" />
+ <notrans_tank_container_02 file="notrans_tank_container_02.msh" />
+ <notrans_tank_container_01 file="notrans_tank_container_01.msh" />
+ <notarget_tank_ceiling_b_27 file="notarget_tank_ceiling_b_27.msh" />
+ <notarget_tank_ceiling_b_28 file="notarget_tank_ceiling_b_28.msh" />
+ <notarget_tank_ceiling_b_29 file="notarget_tank_ceiling_b_29.msh" />
+ <tank_signpost_nyh001 file="tank_signpost_nyh001.msh" />
+ <notrans_kct_shadow_circle file="notrans_kct_shadow_circle.msh" />
+ <tank_signpost_nyh03 file="tank_signpost_nyh03.msh" />
+ <notrans_kct_shadow_circle02 file="notrans_kct_shadow_circle02.msh" />
+ <tank_signpost_nyh04 file="tank_signpost_nyh04.msh" />
+ <notrans_kct_shadow_circle03 file="notrans_kct_shadow_circle03.msh" />
+ <notrans_tank_shadow03_15 file="notrans_tank_shadow03_15.msh" />
+ <notrans_tank_container_03 file="notrans_tank_container_03.msh" />
+ <notrans_tank_console_03 file="notrans_tank_console_03.msh" />
+ <notrans_tank_deck_01 file="notrans_tank_deck_01.msh" />
+ <notrans_tank_prop01_03 file="notrans_tank_prop01_03.msh" />
+ <notrans_tank_safety_53 file="notrans_tank_safety_53.msh" />
+ <notrans_tank_safety_54 file="notrans_tank_safety_54.msh" />
+ <notrans_tank_safety_55 file="notrans_tank_safety_55.msh" />
+ <notrans_tank_safety_56 file="notrans_tank_safety_56.msh" />
+ <notrans_tank_safety_57 file="notrans_tank_safety_57.msh" />
+ <notrans_tank_safety_58 file="notrans_tank_safety_58.msh" />
+ <notrans_tank_safety_59 file="notrans_tank_safety_59.msh" />
+ <notrans_tank_safety_60 file="notrans_tank_safety_60.msh" />
+ <notrans_tank_safety_61 file="notrans_tank_safety_61.msh" />
+ <notrans_tank_safety_62 file="notrans_tank_safety_62.msh" />
+ <notrans_tank_wall01_03 file="notrans_tank_wall01_03.msh" />
+ <notrans_tank_safety_65 file="notrans_tank_safety_65.msh" />
+ <notrans_tank_safety_66 file="notrans_tank_safety_66.msh" />
+ <notrans_tank_safety_67 file="notrans_tank_safety_67.msh" />
+ <notrans_tank_wall01_04 file="notrans_tank_wall01_04.msh" />
+ <notrans_tank_safety_68 file="notrans_tank_safety_68.msh" />
+ <notrans_tank_safety_69 file="notrans_tank_safety_69.msh" />
+ <notrans_tank_safety_70 file="notrans_tank_safety_70.msh" />
+ <notrans_tank_safety_71 file="notrans_tank_safety_71.msh" />
+ <notrans_tank_safety_72 file="notrans_tank_safety_72.msh" />
+ <notrans_tank_console_04 file="notrans_tank_console_04.msh" />
+ <notrans_tank_safety_73 file="notrans_tank_safety_73.msh" />
+ <notrans_tank_safety_74 file="notrans_tank_safety_74.msh" />
+ <notrans_tank_prop01_04 file="notrans_tank_prop01_04.msh" />
+ <tank_tank_sign_01 file="tank_tank_sign_01.msh" />
+ <tank_tank_sign_02 file="tank_tank_sign_02.msh" />
+ <notrans_tank_deck_05 file="notrans_tank_deck_05.msh" />
+ <tnak_door_06 file="tnak_door_06.msh" />
+ <tnak_door_07 file="tnak_door_07.msh" />
+ <tnak_door_04 file="tnak_door_04.msh" />
+ <tnak_door_05 file="tnak_door_05.msh" />
+ <notrans_tank_stairshadow_01 file="notrans_tank_stairshadow_01.msh" />
+ <notrans_tank_stairshadow_02 file="notrans_tank_stairshadow_02.msh" />
+ <notrans_tank_bottom01_07 file="notrans_tank_bottom01_07.msh" />
+ <notrans_tank_bottom01_08 file="notrans_tank_bottom01_08.msh" />
+ <notrans_tank_bottom01_09 file="notrans_tank_bottom01_09.msh" />
+ <notrans_tank_bottom01_10 file="notrans_tank_bottom01_10.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_6
+    diffuse="sec_grass01_id03.dds"
+    color="65 65 65"
+  />
+  <mkeroro_city_guard_forklift1_01
+    diffuse="kcg_forklift_01.dds"
+    color="255 255 255"
+  />
+  <mkeroro_city_guard_forklift1_02
+    diffuse="kcg_forklift_02.dds"
+    color="255 255 255"
+  />
+  <mnah_sky_ms01
+    diffuse="nah_sky_ms.dds"
+    color="255 255 255"
+  />
+  <msec_prop02
+    diffuse="sec_prop02.dds"
+    color="255 255 255"
+  />
+  <msec_hangar_ground01
+    diffuse="sec_hangar_groud01.dds"
+    color="255 255 255"
+  />
+  <msec_wall01_id01
+    diffuse="sec_hangar_id01.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k17
+    color="149 149 149"
+  />
+  <msec_wall01_id05
+    diffuse="sec_hangar_id05.dds"
+    color="255 255 255"
+  />
+  <mminitank
+    diffuse="minitank.dds"
+    color="149 149 149"
+  />
+  <mStandard_1555df
+    diffuse="chm_groundline.dds"
+    color="30 36 42"
+  />
+  <mStandard_aaaa
+    diffuse="tank_safty.dds"
+    color="30 36 42"
+  />
+  <mStandard_5
+    diffuse="chm_pillar_b.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k503
+    diffuse="nah_mule_base.dds"
+    color="49 61 77"
+  />
+  <mlob_plaza_nyh001_id01
+    diffuse="loplaza_lyi001_id01.dds"
+    color="255 255 255"
+  />
+  <mlob_plaza_nyh001_id02
+    diffuse="loplaza_lyi001_id02.dds"
+    color="255 255 255"
+  />
+  <mvil_playground_nyh001_id01
+    diffuse="viplayground_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k510
+    diffuse="vil_road_ms04.dds"
+    color="255 255 255"
+  />
+  <mvil_manhole_ms01
+    diffuse="vil_manhole_ms01.dds"
+    color="255 255 255"
+  />
+  <mvil_road_ms01
+    diffuse="vil_road_ms01.dds"
+    color="255 255 255"
+  />
+  <mgdm_mirror_ms01
+    diffuse="gdm_mirror_ms01.dds"
+    color="255 255 255"
+  />
+  <mcon_block
+    diffuse="con_block.dds"
+    color="255 255 255"
+  />
+  <mStandard_4
+    diffuse="set_ground04.dds"
+    color="149 149 149"
+  />
+  <mvil_road_ms02_1
+    diffuse="vil_road_ms02_1.dds"
+    color="255 255 255"
+  />
+  <msec_truck01
+    diffuse="sec_truck01.dds"
+    color="255 255 255"
+  />
+  <msec_truck02
+    diffuse="sec_truck02.dds"
+    color="255 255 255"
+  />
+  <mvil_playground_nyh001_id02
+    diffuse="viplayground_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mvil_playground_nyh001_id03
+    diffuse="viplayground_nyh001_id03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_mule_base
+    diffuse="vil_mule_base.dds"
+    color="255 255 255"
+  />
+  <mkeroro_city_guard_truck_id01
+    diffuse="kcg_truck01_01.dds"
+    color="255 255 255"
+  />
+  <mkeroro_city_guard_truck_id02
+    diffuse="kcg_truck01_02.dds"
+    color="255 255 255"
+  />
+  <mkeroro_city_guard_truck_id03
+    diffuse="kcg_truck01_03.dds"
+    color="255 255 255"
+  />
+  <msec_fireplug01
+    diffuse="sec_fireplug01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_line_nyh001
+    diffuse="naline_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkcg_tank_id01
+    diffuse="kcg_tank_id01.dds"
+    color="255 255 255"
+  />
+  <mkcg_tank_id02
+    diffuse="kcg_tank_id02.dds"
+    color="255 255 255"
+  />
+  <mStandard_wall_02
+    diffuse="chm_wall_02.dds"
+    color="30 36 42"
+  />
+  <mStandard_8
+    diffuse="chm_window_02.dds"
+    color="149 149 149"
+  />
+  <mpillar_a
+    diffuse="chm_pillar_a.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k509
+    diffuse="vil_mule_fence.dds"
+    color="255 255 255"
+  />
+  <msec_checkpoint01
+    diffuse="naracp_checkpoint01.dds"
+    color="255 255 255"
+  />
+  <msec_checkpoint02
+    diffuse="naracp_checkpoint02.dds"
+    color="255 255 255"
+  />
+  <mnah_wall_nyh001
+    diffuse="nawall_nyh001.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k502
+    diffuse="sec_wood01.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k512
+    diffuse="nah_wall_sm001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_safe
+    diffuse="vil_safe.dds"
+    color="255 255 255"
+  />
+  <mvil_shadow_square01
+    diffuse="vil_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkcg_construction_id01
+    diffuse="kcg_construction_id01.dds"
+    color="255 255 255"
+  />
+  <mkcg_construction_id02
+    diffuse="kcg_construction_id02.dds"
+    color="255 255 255"
+  />
+  <mkcg_fence_01
+    diffuse="kcg_fence_01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msec_grass02
+    diffuse="sec_grass01_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvilrage_metal_002_1
+    diffuse="vilrage_metal_002_1.dds"
+    color="253 253 253"
+  />
+  <mnah_pattern001_sm001
+    diffuse="nah_pattern001_sm001.dds"
+    color="150 150 150"
+    opacity="1"
+  />
+  <msec_wall01_id02
+    diffuse="sec_hangar_id02.dds"
+    color="255 255 255"
+  />
+  <msec_wall01_id03
+    diffuse="sec_hangar_id03.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k929
+    diffuse="con_line01.dds"
+    color="255 255 255"
+  />
+  <m07_-_Default
+    diffuse="tank_ground02.dds"
+    color="150 150 150"
+  />
+  <mStandard_1
+    diffuse="chm_stair.dds"
+    color="149 149 149"
+  />
+  <m20_-_Default
+    diffuse="tank_controlroom01.dds"
+    color="150 150 150"
+  />
+  <m19_-_Default
+    diffuse="tank_controlroom02.dds"
+    color="150 150 150"
+    opacity="1"
+  />
+  <mStandard_19
+    diffuse="sst_shadow_square.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mStandard_11
+    diffuse="sst_shadow_circle.dds"
+    color="68 102 97"
+    opacity="1"
+  />
+  <mMaterial_k1
+    diffuse="kh_oil01_01.dds"
+    color="255 255 255"
+  />
+  <mgggg
+    diffuse="set_shadow_c.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mvil_streetlight_ms01
+    diffuse="vil_streetlight_ms01.dds"
+    color="255 255 255"
+  />
+  <mvil_shadow_telepole_ms01
+    diffuse="vil_shadow_telepole_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mCollision
+    color="66 118 62"
+  />
+  <mEmptyMat
+  />
+  <mStandard_14
+    diffuse="vil_road_ms02.dds"
+    color="149 149 149"
+  />
+  <mStandard_4ee
+    diffuse="tank_ventilator.dds"
+    color="149 149 149"
+  />
+  <msec_drum01_001
+    diffuse="sec_drum01_001.dds"
+    color="255 255 255"
+  />
+  <mkct_signpost_nyh
+    diffuse="kct_signpost_nyh001.dds"
+    color="255 255 255"
+  />
+  <m08_-_Default
+    diffuse="tank_wall_03.dds"
+    color="150 150 150"
+  />
+  <ms
+    diffuse="tank_light1.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k41
+    diffuse="tank_container3.dds"
+    color="255 255 255"
+  />
+  <mkh_fence01
+    diffuse="kh_fence01_001.dds"
+    color="255 255 255"
+  />
+  <mkh_fence02
+    diffuse="kh_fence02_001.dds"
+    color="255 255 255"
+  />
+  <msec_prop01
+    diffuse="sec_prop01.dds"
+    color="255 255 255"
+  />
+  <m04_-_Default
+    diffuse="sec_hangar_id03.dds"
+    color="150 150 150"
+  />
+  <m18_-_Default
+    diffuse="kcg_sign01.dds"
+    color="150 150 150"
+    opacity="1"
+  />
+  <mStandard_door
+    diffuse="con_wall_id04.dds"
+    color="149 149 149"
+  />
+</Materials>
+<collision
+  file="tank_garage.col"
+/>
+</Scene.XML>

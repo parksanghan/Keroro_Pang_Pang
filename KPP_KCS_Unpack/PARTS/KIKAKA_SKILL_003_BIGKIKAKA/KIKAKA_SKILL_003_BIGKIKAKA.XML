@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kikaka_skill_003 file="kikaka_skill_003.msh" />
+</Objects>
+<Materials version="2">
+  <mkikaka_skill_003
+    diffuse="kikaka_skill_003.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="kikaka_skill_003_bigkikaka.skl"
+/>
+<BoneAnim
+  file="Anims\kikaka_skill_003_bigkikaka.anm"
+/>
+<collision
+  file="kikaka_skill_003_bigkikaka.col"
+/>
+</Scene.XML>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_set_3Rloadedge file="notrans_set_3Rloadedge.msh" />
+ <notrans_set_3Rnaraload file="notrans_set_3Rnaraload.msh" />
+ <notrans_set_trap file="notrans_set_trap.msh" />
+ <notrans_set_3Rground file="notrans_set_3Rground.msh" />
+ <notrans_sec_electrity file="notrans_sec_electrity.msh" />
+ <notrans_set_grassground file="notrans_set_grassground.msh" />
+ <notrans_set_3Rtreeshadow file="notrans_set_3Rtreeshadow.msh" />
+ <notrans_set_shadow_square_02 file="notrans_set_shadow_square_02.msh" />
+ <notrans_set_3Rgrass file="notrans_set_3Rgrass.msh" />
+ <notrans_set_shadow_c file="notrans_set_shadow_c.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k1715
+    diffuse="nah_stonetile001_sm001.dds"
+    color="255 255 255"
+  />
+  <m11
+    diffuse="bfground_nyh001.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k1546
+    diffuse="set_naragrass_b.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k1547
+    diffuse="set_trapwll.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k1545
+    diffuse="sec_ground02_03.dds"
+    color="255 255 255"
+  />
+  <mStandard_4
+    diffuse="set_ground04.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k1713
+    diffuse="wall.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mMaterial_k186
+    diffuse="sec_grass01_id01.dds"
+    color="149 149 149"
+  />
+  <mkct_shadow_circle
+    diffuse="kct_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mStandard_4fd
+    diffuse="spk_shadow_square_ms02.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <msec_grass02
+    diffuse="sec_grass01_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mStandard_12
+    diffuse="set_shadow_c.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="security_test_3round.col"
+/>
+</Scene.XML>

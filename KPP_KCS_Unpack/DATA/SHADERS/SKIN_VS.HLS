@@ -1,0 +1,82 @@
+#include "Common.hls"
+
+float4x3	mSkin[128]	: register(c20);
+
+struct VS_INPUT_SKIN
+{
+	float4	vPos		: POSITION;
+	float3	vNormal		: NORMAL;
+	float2	vUV1		: TEXCOORD0;
+	float2	vUV2		: TEXCOORD1;
+	float4 	BlendWeights    : BLENDWEIGHT;
+	float4 	BlendIndices    : BLENDINDICES;
+};
+
+void main(VS_INPUT_SKIN IN,
+  out float4 	vOutPos		: POSITION,
+  #ifdef CALC_FOG
+  out float  	fOutFog		: FOG,
+  #endif
+  out float4 	vOutColor	: COLOR0,
+  out float2 	vOutUV1		: TEXCOORD0,
+  out float2 	vOutUV2		: TEXCOORD1
+)
+{
+  // cast the vectors to arrays for use in the for loop below
+  float BlendWeightsArray[4] = (float[4])IN.BlendWeights;
+  int   IndexArray[4]        = (int[4])D3DCOLORtoUBYTE4(IN.BlendIndices);	// Compensate for lack of UBYTE4 on Geforce3
+
+  float3 Pos1  = float3(0, 0, 0);
+  float3 Norm1 = float3(0, 0, 0);
+
+#if 1
+  Pos1  += mul(IN.vPos,    mSkin[IndexArray[0]]) * BlendWeightsArray[0];
+  Pos1  += mul(IN.vPos,    mSkin[IndexArray[1]]) * BlendWeightsArray[1];
+  Pos1  += mul(IN.vPos,    mSkin[IndexArray[2]]) * BlendWeightsArray[2];
+  Pos1  += mul(IN.vPos,    mSkin[IndexArray[3]]) * BlendWeightsArray[3];
+#else
+  Pos1  += mul(IN.vPos,    mSkin[IndexArray[0]]);
+#endif
+
+
+#if 0
+  // skin normal
+  Norm1 += mul(IN.vPos,    mSkin[IndexArray[0]]) * BlendWeightsArray[0];
+  Norm1 += mul(IN.vPos,    mSkin[IndexArray[1]]) * BlendWeightsArray[1];
+  Norm1 += mul(IN.vPos,    mSkin[IndexArray[2]]) * BlendWeightsArray[2];
+  Norm1 += mul(IN.vPos,    mSkin[IndexArray[3]]) * BlendWeightsArray[3];
+  Norm1 = normalize(Norm1);
+#else 
+  // skin normal with 1 bone
+  Norm1 += mul(IN.vNormal, mSkin[IndexArray[0]]);
+#endif  
+
+  // toon: extract position along normal.
+  Pos1 += Norm1 * vLightPos[0].x;
+
+  vOutPos = mul(float4(Pos1.xyz, 1.0f), mWVP);
+  #ifdef CALC_FOG
+  fOutFog = 1 - vOutPos.z * vFog.w;
+  #endif
+  vOutUV1 = IN.vUV1;
+
+  float3 NormW   = normalize(mul(Norm1, mWorld));
+  float3 PosW    = mul(Pos1, mWorld);
+
+  // toon: shading
+  vOutUV2    = dot(Norm1, -vDirLightDir);
+
+  vOutColor  = vAmbientColor;
+  
+/*
+  // directional light
+  vOutColor += vDirLightColor * max(dot(-vDirLightDir, NormW), 0);
+
+  // point lights
+  for(int i=0; i<4; i++)
+    vOutColor += CalculatePointLightVS(PosW, NormW, vLightPos[i], vLightColor[i]);
+
+  vOutColor.a = 1;
+*/
+
+}

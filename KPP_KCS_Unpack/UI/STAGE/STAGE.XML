@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2007 (http://www.altova.com) by effecters (EMBRACEsa) -->
+<STAGE.XML>
+	<!-- ######## 오브젝트 ######## -->
+	<stage baseDir="UI/stage/object" filename="uistage">
+		<object name="character_creating_in" type="ANI" filename="character_creating_in/character_creating_in.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="channel_selecting_alpha_out" type="ANI" filename="channel_selecting_alpha_out/channel_selecting_alpha_out.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="True"/>
+		<object name="grenade_damage_002" type="STATIC" filename="grenade_damage_002/grenade_damage_002.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="pistol_event_005" type="STATIC" filename="pistol_event_005/pistol_event_005.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="rifle_event_001" type="STATIC" filename="rifle_event_001/rifle_event_001.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="rifle_event_002" type="STATIC" filename="rifle_event_002/rifle_event_002.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="rocket_event_001" type="STATIC" filename="rocket_event_001/rocket_event_001.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="sniper_damage_001" type="STATIC" filename="sniper_damage_001/sniper_damage_001.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="star_idle" type="ANI" filename="star_idle/star_idle.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_out" type="ANI" filename="in_gameroom_out/in_gameroom_out.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_seat0" type="ANI" filename="in_gameroom_seat/in_gameroom_seat.xml" dummyName="Dummy01" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_seat1" type="ANI" filename="in_gameroom_seat/in_gameroom_seat.xml" dummyName="Dummy02" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_seat2" type="ANI" filename="in_gameroom_seat/in_gameroom_seat.xml" dummyName="Dummy03" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_seat3" type="ANI" filename="in_gameroom_seat/in_gameroom_seat.xml" dummyName="Dummy04" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_seat4" type="ANI" filename="in_gameroom_seat/in_gameroom_seat.xml" dummyName="Dummy05" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_seat5" type="ANI" filename="in_gameroom_seat/in_gameroom_seat.xml" dummyName="Dummy06" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_seat6" type="ANI" filename="in_gameroom_seat/in_gameroom_seat.xml" dummyName="Dummy07" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_seat7" type="ANI" filename="in_gameroom_seat/in_gameroom_seat.xml" dummyName="Dummy08" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_seat8" type="ANI" filename="in_gameroom_seat/in_gameroom_seat.xml" dummyName="Dummy09" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_seat9" type="ANI" filename="in_gameroom_seat/in_gameroom_seat.xml" dummyName="Dummy10" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_mode_broad" type="ANI" filename="in_gameroom_mode_broad/in_gameroom_mode_broad.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_deco" type="ANI" filename="in_gameroom_deco/in_gameroom_deco.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_spaceship" type="STATIC" filename="in_gameroom_spaceship/in_gameroom_spaceship.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_team" type="STATIC" filename="in_gameroom_team/in_gameroom_team.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="in_gameroom_sphere" type="STATIC" filename="in_gameroom_sphere/in_gameroom_sphere.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="True"/>
+		<object name="game_result" type="STATIC" filename="game_result/game_result.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="result_win_stage" type="STATIC" filename="result_win_stage/result_win_stage.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="result_win_stage_alpha" type="STATIC" filename="result_win_stage_alpha/result_win_stage_alpha.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="result_win_ani_in" type="ANI" filename="result_win_ani_in/result_win_ani_in.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="result_win_action" type="ANI" filename="result_win_action/result_win_action.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="game_result_lose_stage" type="STATIC" filename="game_result_lose_stage/game_result_lose_stage.xml" dummyName="Dummy_for_center" outline="false" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+		<object name="game_result_lose_action" type="ANI" filename="game_result_lose_action/game_result_lose_action.xml" dummyName="Dummy_for_center" outline="true" thickness="1.0" red="0" green="0" blue="0" alpha="False"/>
+	</stage>
+	<!-- ######## 캐릭터 ######## -->
+	<characters baseDir="Characters">
+		<character name="Keroro" resname="Keroro" outline="true" thickness="3.0" red="0" green="0" blue="0" alpha="False"/>
+		<character name="Giroro" resname="Giroro" outline="true" thickness="3.0" red="0" green="0" blue="0" alpha="False"/>
+		<character name="Tamama" resname="Tamama" outline="true" thickness="3.0" red="0" green="0" blue="0" alpha="False"/>
+		<character name="Kururu" resname="Kururu" outline="true" thickness="3.0" red="0" green="0" blue="0" alpha="False"/>
+		<character name="Dororo" resname="Dororo" outline="true" thickness="3.0" red="0" green="0" blue="0" alpha="False"/>
+		<character name="Taruru" resname="Taruru" outline="true" thickness="3.0" red="0" green="0" blue="0" alpha="False"/>
+	</characters>
+	<!-- ######## 카메라경로 ######## -->
+	<cameraPaths baseDir="UI/stage/path">
+		<!-- character create -->
+		<path name="character_creating_in" filename="character_creating_in.pth"/>
+		<!-- channel -->
+		<path name="channel_selecting_in" filename="channel_selecting_in.pth"/>
+		<path name="in_lobby_to_channel_selecting" filename="in_lobby_to_channel_selecting.pth"/>
+		<!-- lobby -->
+		<path name="channel_selecting_to_in_lobby" filename="channel_selecting_to_in_lobby.pth"/>
+		<path name="in_gameroom_to_in_lobby" filename="in_gameroom_to_in_lobby.pth"/>
+		<!-- GameRoom -->
+		<path name="in_gameroom_out" filename="in_gameroom_out.pth"/>
+		<!-- Game Result -->
+		<path name="game_result" filename="game_result.pth"/>
+	</cameraPaths>
+	<!-- ######## 텍스쳐 ######## -->
+	<textureChanger baseDir="UI/stage/texture">
+		<texture name="keorn_seat0" filename="UI_gm_mark_so.dds" object="in_gameroom_seat0" mesh="ui_c_point_l05"/>
+		<texture name="keorn_seat1" filename="UI_gm_mark_so.dds" object="in_gameroom_seat1" mesh="ui_c_point_l05"/>
+		<texture name="keorn_seat2" filename="UI_gm_mark_so.dds" object="in_gameroom_seat2" mesh="ui_c_point_l05"/>
+		<texture name="keorn_seat3" filename="UI_gm_mark_so.dds" object="in_gameroom_seat3" mesh="ui_c_point_l05"/>
+		<texture name="keorn_seat4" filename="UI_gm_mark_so.dds" object="in_gameroom_seat4" mesh="ui_c_point_l05"/>
+		<texture name="keorn_seat5" filename="UI_gm_mark_so.dds" object="in_gameroom_seat5" mesh="ui_c_point_l05"/>
+		<texture name="keorn_seat6" filename="UI_gm_mark_so.dds" object="in_gameroom_seat6" mesh="ui_c_point_l05"/>
+		<texture name="keorn_seat7" filename="UI_gm_mark_so.dds" object="in_gameroom_seat7" mesh="ui_c_point_l05"/>
+		<texture name="keorn_seat8" filename="UI_gm_mark_so.dds" object="in_gameroom_seat8" mesh="ui_c_point_l05"/>
+		<texture name="keorn_seat9" filename="UI_gm_mark_so.dds" object="in_gameroom_seat9" mesh="ui_c_point_l05"/>
+		<texture name="clone_seat0" filename="UI_gm_mark_so_replica.dds" object="in_gameroom_seat0" mesh="ui_c_point_l05"/>
+		<texture name="clone_seat1" filename="UI_gm_mark_so_replica.dds" object="in_gameroom_seat1" mesh="ui_c_point_l05"/>
+		<texture name="clone_seat2" filename="UI_gm_mark_so_replica.dds" object="in_gameroom_seat2" mesh="ui_c_point_l05"/>
+		<texture name="clone_seat3" filename="UI_gm_mark_so_replica.dds" object="in_gameroom_seat3" mesh="ui_c_point_l05"/>
+		<texture name="clone_seat4" filename="UI_gm_mark_so_replica.dds" object="in_gameroom_seat4" mesh="ui_c_point_l05"/>
+		<texture name="clone_seat5" filename="UI_gm_mark_so_replica.dds" object="in_gameroom_seat5" mesh="ui_c_point_l05"/>
+		<texture name="clone_seat6" filename="UI_gm_mark_so_replica.dds" object="in_gameroom_seat6" mesh="ui_c_point_l05"/>
+		<texture name="clone_seat7" filename="UI_gm_mark_so_replica.dds" object="in_gameroom_seat7" mesh="ui_c_point_l05"/>
+		<texture name="clone_seat8" filename="UI_gm_mark_so_replica.dds" object="in_gameroom_seat8" mesh="ui_c_point_l05"/>
+		<texture name="clone_seat9" filename="UI_gm_mark_so_replica.dds" object="in_gameroom_seat9" mesh="ui_c_point_l05"/>
+		<texture name="private_monitor_left" filename="lobby2_groom_monitor_ms01.dds" object="in_gameroom_team" mesh="Object01"/>
+		<texture name="private_monitor_right" filename="lobby2_groom_monitor_ms01.dds" object="in_gameroom_team" mesh="Object02"/>
+		<texture name="platoon_monitor_left" filename="lobby2_groom_monitor_ms03.dds" object="in_gameroom_team" mesh="Object01"/>
+		<texture name="platoon_monitor_right" filename="lobby2_groom_monitor_ms02.dds" object="in_gameroom_team" mesh="Object02"/>
+		<texture name="private_board_panel_left" filename="lobby2_groom_cedown_ms01.dds" object="in_gameroom_team" mesh="ui_gm_centerplate_ms01"/>
+		<texture name="private_board_panel_right" filename="lobby2_groom_cedown_ms01.dds" object="in_gameroom_team" mesh="ui_gm_centerplate_ms02"/>
+		<texture name="platoon_board_panel_left" filename="lobby2_groom_cedown_ms03.dds" object="in_gameroom_team" mesh="ui_gm_centerplate_ms01"/>
+		<texture name="platoon_board_panel_right" filename="lobby2_groom_cedown_ms02.dds" object="in_gameroom_team" mesh="ui_gm_centerplate_ms02"/>
+		<texture name="Behind_the_ancient_temple" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="Dororo's_bamboo_forest" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="The_submarine_base" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="Katpa's_cave" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="Special_spacetime" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="Grandma_house" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="Vine_log" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="Keroro_Village" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="Ice_World" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="nara_house" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="space_station" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="kururu_cyberspace" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="submarine_base_sd" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="space_station_sd" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="blossoms_festival" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="inca_excavate" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="keroro_city" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="viper_agit" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="pirate_ship" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="trader_warehouse" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="dinosaur_kingdom" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+		<texture name="snow_field" filename="map_1.dds" object="in_gameroom_mapview" mesh="map_screen"/>
+	</textureChanger>
+	<!-- ######## 파티클 ######## -->
+	<particles>
+		<particle name="fx_spaceship_start_left" filename="fx_spaceship_start.prt" object="in_gameroom_out" dummy="EFFECT_fx_spaceship_start_left"/>
+		<particle name="fx_spaceship_start_right" filename="fx_spaceship_start.prt" object="in_gameroom_out" dummy="EFFECT_fx_spaceship_start_right"/>
+		<particle name="fx_lose_tire_left" filename="fx_lose_tire_left.prt" object="game_result_lose_action" dummy="EFFECT_fx_lose_tire_left"/>
+		<particle name="fx_lose_tire_right" filename="fx_lose_tire_right.prt" object="game_result_lose_action" dummy="EFFECT_fx_lose_tire_right"/>
+		<particle name="fx_lose_trunk" filename="fx_lose_trunk.prt" object="game_result_lose_action" dummy="EFFECT_fx_lose_trunk"/>
+		<particle name="fx_ui_burner_02" filename="fx_ui_burner_02.prt" object="character_creating_in" dummy="ship_ef02"/>
+		<particle name="fx_ui_burner_03" filename="fx_ui_burner_03.prt" object="character_creating_in" dummy="ship_ef03"/>
+		<particle name="fx_ui_stars" filename="fx_ui_stars.prt" object="star_idle" dummy="star_ef01"/>
+		<particle name="fx_ui_keroro_shot" filename="fx_ui_keroro_shot.prt" object="rifle_event_001" dummy="item_ef"/>
+		<particle name="fx_ui_tamama_kick" filename="fx_ui_tamama_kick.prt" object="uistage" dummy="Dummy_for_center"/>
+		<particle name="fx_ui_tamama_shot01" filename="fx_ui_tamama_shot01.prt" object="rifle_event_002" dummy="item_ef"/>
+		<particle name="fx_ui_giroro_shot" filename="fx_ui_giroro_shot.prt" object="rocket_event_001" dummy="item_ef"/>
+		<particle name="fx_ui_kururu_bomb" filename="fx_ui_kururu_bomb.prt" object="grenade_damage_002" dummy="item_ef"/>
+		<particle name="fx_ui_dororo_move01" filename="fx_ui_dororo_move01.prt" object="uistage" dummy="Dummy_for_center"/>
+		<particle name="fx_ui_dororo_move02" filename="fx_ui_dororo_move02.prt" object="uistage" dummy="Dummy_for_center"/>
+		<particle name="fx_ui_dororo_shot" filename="fx_ui_dororo_shot.prt" object="sniper_damage_001" dummy="item_ef"/>
+		<particle name="fx_lobby_keroro_rifle_003" filename="fx_lobby_keroro_rifle_003.prt" object="uistage" dummy="Dummy_for_center"/>
+		<particle name="fx_ui_result_earthglow" filename="fx_ui_result_earthglow.prt" object="result_win_action" dummy="Dummy_for_glow"/>
+		<particle name="fx_ui_result_paper" filename="fx_ui_result_paper.prt" object="result_win_ani_in" dummy="Dummy_for_paper"/>
+	</particles>
+</STAGE.XML>
+<!--
+stage fileDirectory =  상위 디렉토리 
+      fileName = 디렉토리이름 및 파일이름 (동일해야된다)
+      object filename = 애니메이션이 있는 오브젝트의 파일경로.
+             dummyName = 오브젝트가 붙여질 스테이지의 더미 이름.
+-->

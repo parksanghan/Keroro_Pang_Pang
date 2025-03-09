@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <set_4Rexit file="set_4Rexit.msh" />
+</Objects>
+<Materials version="2">
+  <mEmptyMat
+  />
+  <mStandard_3
+    diffuse="sec_stairstep.dds"
+    color="149 149 149"
+  />
+</Materials>
+<collision
+  file="security_test_4r_metal_003.col"
+/>
+</Scene.XML>

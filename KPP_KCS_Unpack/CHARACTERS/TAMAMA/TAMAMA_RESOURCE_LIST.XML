@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<tamama_resource_list.xml>
+	<effects>
+		<effect name="fx_tamama_skill_001.prx" />
+		<effect name="fx_tamama_skill_002.prx" />
+		<effect name="fx_tamama_skill_003.prx" />
+		<effect name="fx_tamama_skill_004.prx" />
+		<effect name="fx_tamama_skill_005.prx" />
+		<effect name="fx_tamama_skill_006.prx" />
+		<effect name="fx_tamama_skill_008.prx" />
+		<effect name="fx_tamama_skill_009.prx" />
+		<effect name="fx_tamama_skill_010.prx" />
+		<effect name="fx_tamama_skill_010_2.prx" />
+		<effect name="fx_tamama_skill_013.prx" />
+		<effect name="fx_tamama_skill_014.prx" />
+		<effect name="fx_tamama_skill_015.prx" />
+		<effect name="fx_tamama_skill_021.prx" />
+	</effects>
+</tamama_resource_list.xml>

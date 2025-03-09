@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kerberos file="kerberos.msh" />
+</Objects>
+<Materials version="2">
+  <mkerberos
+    diffuse="kerberos.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="kerberos01.skl"
+/>
+<collision
+  file="kerberos01.col"
+/>
+</Scene.XML>

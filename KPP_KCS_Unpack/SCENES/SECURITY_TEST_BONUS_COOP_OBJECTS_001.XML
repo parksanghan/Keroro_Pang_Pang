@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="security_test_bonus\security_test_bonus.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="sec_metal_001" code="143720464" yLayer="0" posX="-1.5" posY="0.51" posZ="10" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="sec_metal_001" code="143720464" yLayer="0" posX="-2" posY="0.51" posZ="11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="sec_metal_001" code="143720464" yLayer="0" posX="3" posY="0.51" posZ="-9.4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="sec_metal_001" code="143720464" yLayer="0" posX="2" posY="0.51" posZ="-11.5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="sec_metal_001" code="143720464" yLayer="0" posX="-6" posY="0.02" posZ="10" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="sec_metal_001" code="143720464" yLayer="0" posX="2" posY="0.51" posZ="11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="sec_metal_001" code="143720464" yLayer="0" posX="-3" posY="0.51" posZ="-10" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="sec_metal_001" code="143720464" yLayer="0" posX="8" posY="0.02" posZ="-10" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

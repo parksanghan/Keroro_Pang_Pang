@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keroro_skill_002_body file="keroro_skill_002_body.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_1
+    diffuse="keroro_skill_002_moa.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="keroro_skill_002_moa.skl"
+/>
+<BoneAnim
+  file="Anims\keroro_skill_002_moa.anm"
+/>
+<collision
+  file="keroro_skill_002_moa.col"
+/>
+</Scene.XML>

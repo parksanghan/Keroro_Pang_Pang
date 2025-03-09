@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <common_metal_001 file="common_metal_001.msh" />
+</Objects>
+<Materials version="2">
+  <mcommon_metal_001
+    diffuse="common_metal_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="common_metal_001.skl"
+/>
+<BoneAnim
+  file="Anims\common_metal_001.anm"
+/>
+<collision
+  file="common_metal_001.col"
+/>
+</Scene.XML>

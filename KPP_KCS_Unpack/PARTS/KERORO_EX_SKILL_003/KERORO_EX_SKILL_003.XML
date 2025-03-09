@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keroro_body_000 file="keroro_body_000.msh" />
+ <keroro_head_000 file="keroro_head_000.msh" />
+ <keroro_face_000 file="keroro_face_000.msh" />
+ <garuru_wing file="garuru_wing.msh" />
+ <suits_body file="suits_body.msh" />
+ <suits_arm_l file="suits_arm_l.msh" />
+ <suits_arm_r file="suits_arm_r.msh" />
+ <suits_foot_r file="suits_foot_r.msh" />
+ <suits_foot_l file="suits_foot_l.msh" />
+ <suits_shoulder_r file="suits_shoulder_r.msh" />
+ <suits_shoulder_l file="suits_shoulder_l.msh" />
+ <suit_head file="suit_head.msh" />
+ <gogle file="gogle.msh" />
+</Objects>
+<Materials version="2">
+  <mkeroro_body_000
+    diffuse="keroro_body_000.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k0
+    diffuse="keroro_head_000.dds"
+    color="149 149 149"
+  />
+  <mkeroro_face_000
+    diffuse="keroro_face_000.dds"
+    color="149 149 149"
+  />
+  <mgaruru_wing
+    diffuse="keroro_skill_003_wing.dds"
+    color="149 149 149"
+  />
+  <mkeroro_body_003
+    diffuse="keroro_body_003.dds"
+    color="149 149 149"
+  />
+  <mkeroro_head_003
+    diffuse="keroro_head_003.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k1
+    diffuse="keroro_head_176.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="keroro_ex_skill_003.skl"
+/>
+<BoneAnim
+  file="Anims\keroro_ex_skill_003.anm"
+/>
+<collision
+  file="keroro_ex_skill_003.col"
+/>
+</Scene.XML>

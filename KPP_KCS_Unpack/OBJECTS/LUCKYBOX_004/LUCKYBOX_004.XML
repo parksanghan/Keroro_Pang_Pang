@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <luckybox_004 file="luckybox_004.msh" />
+</Objects>
+<Materials version="2">
+  <mluckybox_001
+    diffuse="luckybox_004.dds"
+    color="87 87 87"
+  />
+</Materials>
+<collision
+  file="luckybox_004.col"
+/>
+</Scene.XML>

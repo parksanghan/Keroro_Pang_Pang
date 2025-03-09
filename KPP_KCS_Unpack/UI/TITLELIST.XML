@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<TitleList.XML>
+	<Title name="완벽주의"	engName="perfect"	code="1"	AchivementCode="286261249"	/>
+	<Title name="베테랑 전투요원"	engName="veteran"	code="2"	AchivementCode="286261270"	/>
+	<Title name="스카우트"	engName="scout"	code="3"	AchivementCode="286261299"	/>
+	<Title name="사신"	engName="grimreaper"	code="4"	AchivementCode="286326789"	/>
+	<Title name="돌격대장"	engName="charger"	code="5"	AchivementCode="286392325"	/>
+	<Title name="작전참모"	engName="advisor"	code="6"	AchivementCode="286523397"	/>
+	<Title name="리더"	engName="leader"	code="7"	AchivementCode="286588933"	/>
+	<Title name="수호신"	engName="guardian"	code="8"	AchivementCode="286654469"	/>
+	<Title name="지휘관"	engName="commander"	code="9"	AchivementCode="286261300"	/>
+	<Title name="웨펀 마스터"	engName="wpmaster"	code="10"	AchivementCode="286261356"	/>
+	<Title name="지구방위대"	engName="protector"	code="11"	AchivementCode="286261364"	/>
+	<Title name="낚시의 달인"	engName="fishing"	code="12"	AchivementCode="287309826"	/>
+	<Title name="케로로 소대"	engName="krrplatoon"	code="13"	AchivementCode="287309828"	/>
+	<Title name="가루루 소대"	engName="grrplatoon"	code="14"	AchivementCode="287309829"	/>
+	<Title name="슈라라 군단"	engName="srrplatoon"	code="15"	AchivementCode="287309830"	/>
+	<Title name="바이퍼 군단"	engName="vpplatoon"	code="16"	AchivementCode="287309831"	/>
+	<Title name="로봇 군단"	engName="robotplatoon"	code="17"	AchivementCode="287309832"	/>
+	<Title name="엘리트 소대"	engName="elite"	code="18"	AchivementCode="287309833"	/>
+	<Title name="무기 수집가"	engName="wpcollector"	code="19"	AchivementCode="287309835"	/>
+	<Title name="럭셔리한 케론인"	engName="luxury"	code="20"	AchivementCode="287506473"	/>
+	<Title name="해결사"	engName="solver"	code="21"	AchivementCode="288358401"	/>
+	<Title name="너무너무 심심한"	engName="bored"	code="22"	AchivementCode="288358402"	/>
+	<Title name="가난뱅이"	engName="poor"	code="23"	AchivementCode="287572025"	/>
+	<Title name="럭키스타"	engName="luckystar"	code="24"	AchivementCode="287572031"	/>
+	<Title name="새 출발"	engName="newstart"	code="25"	AchivementCode="287572032"	/>
+	<Title name="기절초풍"	engName="pistol"	code="26"	AchivementCode="286261371"	/>
+	<Title name="작전상 후퇴"	engName="rifle"	code="27"	AchivementCode="286261375"	/>
+	<Title name="전력질주"	engName="machinegun"	code="28"	AchivementCode="286261379"	/>
+	<Title name="접근금지"	engName="shotgun"	code="29"	AchivementCode="286261383"	/>
+	<Title name="저격불가"	engName="snipe"	code="30"	AchivementCode="286261387"	/>
+	<Title name="로켓포 팡팡"	engName="rocket"	code="31"	AchivementCode="286261391"	/>
+	<Title name="온몸으로 지뢰제거"	engName="trap"	code="32"	AchivementCode="286261395"	/>
+	<Title name="정확한 캐치볼"	engName="grenade"	code="33"	AchivementCode="286261399"	/>
+	<Title name="콤보는 못당해"	engName="sword"	code="34"	AchivementCode="286261403"	/>
+	<Title name="진정한 깨달음"	engName="realization"	code="35"	AchivementCode="286261404"	/>
+	<Title name="침략자"	engName="invader"	code="36"	AchivementCode="286261410"	/>
+	<Title name="지독한 구두쇠"	engName="miser"	code="37"	AchivementCode="287506481"	/>
+	<Title name="사랑의 메신저"	engName="lovemessenger"	code="38"	AchivementCode="288423942"	/>
+	<Title name="힘내라 556"	engName="556"	code="39"	AchivementCode="288423943"	/>
+	<Title name="엑소시스트"	engName="exorcist"	code="40"	AchivementCode="288423944"	/>
+	<Title name="불가능은 없다"	engName="impossible"	code="41"	AchivementCode="288423945"	/>
+	<Title name="친절한 케론인"	engName="kind"	code="42"	AchivementCode="288423946"	/>
+</TitleList.XML>

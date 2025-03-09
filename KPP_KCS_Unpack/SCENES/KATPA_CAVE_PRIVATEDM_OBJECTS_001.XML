@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="katpa_cave\katpa_cave.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="25.61" posY="1.5" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="29.52" posY="1.5" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="33.41" posY="1.5" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="21.2" posY="0" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="19" posY="1.5" posZ="-17.73" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="19" posY="1.5" posZ="-21.64" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="19" posY="1.5" posZ="-25.5501" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="19" posY="1.5" posZ="-29.46" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="19" posY="1.5" posZ="-33.3701" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="RoundMushroom" code="121700362" yLayer="0" posX="19" posY="1.5" posZ="-36.3" angleX="0" angleY="110" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_3" code="121700368" yLayer="0" posX="28.54" posY="1.5" posZ="-24.99" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="34.16" posY="1.5" posZ="-26.13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="31.6" posY="1.5" posZ="-26.11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="27.4" posY="1.5" posZ="-21.9601" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="27.42" posY="1.5" posZ="-19.4" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="-5.01" posY="1.5" posZ="-29.29" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="-5" posY="1.5" posZ="-32.84" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="-5" posY="1.5" posZ="-36.38" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="-5.12" posY="0" posZ="-25" angleX="0" angleY="90" angleZ="0" scale="1.5"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="-3.07" posY="1.5" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="0.51" posY="1.5" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="17" posY="1.5" posZ="-23" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="13.09" posY="1.5" posZ="-23" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="8" posY="1.5" posZ="-28.5" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="8.03" posY="1.5" posZ="-31.0501" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="8.03" posY="1.5" posZ="-33.54" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="8" posY="1.5" posZ="-36.1001" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="-25.58" posY="1.5" posZ="9" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="-29.47" posY="1.5" posZ="9" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="-33.33" posY="1.5" posZ="9" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="-20.9699" posY="0" posZ="9" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="-19" posY="1.5" posZ="17.6" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="-19" posY="1.5" posZ="21.54" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="-19" posY="1.5" posZ="25.4701" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="-19" posY="1.5" posZ="29.42" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="-19" posY="1.5" posZ="33.37" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="MossWood" code="121700361" yLayer="0" posX="-18.77" posY="1.5" posZ="36.25" angleX="0" angleY="36.8" angleZ="0" scale="0.9"/>
+	<Object engName="katpa_RockWall_3" code="121700368" yLayer="0" posX="-28.7" posY="1.5" posZ="24.84" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="-31.74" posY="1.5" posZ="26" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="-34.3" posY="1.5" posZ="25.98" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="-27.55" posY="1.5" posZ="21.8" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="-27.57" posY="1.5" posZ="19.24" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="5" posY="1.5" posZ="29.1099" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="5" posY="1.5" posZ="32.68" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="5" posY="1.5" posZ="36.22" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="3.03" posY="1.5" posZ="28" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="-0.589999" posY="1.5" posZ="28" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="-16.9" posY="1.5" posZ="23" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_1" code="121700370" yLayer="0" posX="-12.98" posY="1.5" posZ="23" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="-8.07" posY="1.5" posZ="28.5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="-8.06" posY="1.5" posZ="36.1" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="-8.05" posY="1.5" posZ="31.06" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="-8.04" posY="1.5" posZ="33.54" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="-33.91" posY="1.5" posZ="-14.8" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="-31.35" posY="1.5" posZ="-14.79" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="-28.86" posY="1.5" posZ="-14.8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="-26.3" posY="1.5" posZ="-14.82" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="33.91" posY="1.5" posZ="14" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="31.36" posY="1.5" posZ="14.02" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="28.87" posY="1.5" posZ="14.02" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="26.31" posY="1.5" posZ="13.99" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="18" posY="1.5" posZ="7.36999" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="18" posY="1.5" posZ="11" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="18" posY="1.5" posZ="14.61" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="18" posY="1.5" posZ="18.22" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="-18.25" posY="1.5" posZ="-7.28997" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="-18.25" posY="1.5" posZ="-10.9" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="-18.25" posY="1.5" posZ="-14.5001" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_woodwall_2" code="121700371" yLayer="0" posX="-18.25" posY="1.5" posZ="-18.1" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="katpa_RockWall_3" code="121700368" yLayer="0" posX="-8.73" posY="0" posZ="-13.63" angleX="0" angleY="-90" angleZ="0" scale="1.2">
+		<Object engName="Stalactite" code="121700355" yLayer="1" posX="-0.169997" posY="2.33074" posZ="-1.40009" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	</Object>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="-5.07" posY="0" posZ="-14.97" angleX="0" angleY="0" angleZ="0" scale="1.2">
+		<Object engName="Stalactite" code="121700355" yLayer="1" posX="0" posY="2.35074" posZ="-0.0300016" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	</Object>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="-10.05" posY="0" posZ="-9.99" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="-2" posY="0" posZ="-15" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="-10.07" posY="0" posZ="-6.93" angleX="0" angleY="-90" angleZ="0" scale="1.2">
+		<Object engName="Stalactite" code="121700355" yLayer="1" posX="-0.04" posY="2.26904" posZ="0.0299997" angleX="0" angleY="90" angleZ="0" scale="0.9"/>
+	</Object>
+	<Object engName="katpa_RockWall_3" code="121700368" yLayer="0" posX="8.72" posY="0" posZ="13.64" angleX="0" angleY="90" angleZ="0" scale="1.2">
+		<Object engName="Stalactite" code="121700355" yLayer="1" posX="-0.00999832" posY="2.33074" posZ="1.35008" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	</Object>
+	<Object engName="katpa_RockWall_2" code="121700367" yLayer="0" posX="5.07" posY="0" posZ="15" angleX="0" angleY="0" angleZ="0" scale="1.2">
+		<Object engName="Stalactite" code="121700355" yLayer="1" posX="0" posY="2.33074" posZ="0" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	</Object>
+	<Object engName="katpa_RockWall_2" code="121700367" yLayer="0" posX="10.06" posY="0" posZ="10.02" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="2" posY="0" posZ="15" angleX="0" angleY="180" angleZ="0" scale="1.2">
+		<Object engName="Stalactite" code="121700355" yLayer="1" posX="0" posY="2.28904" posZ="-0.0300016" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	</Object>
+	<Object engName="katpa_RockWall_4" code="121700369" yLayer="0" posX="10.08" posY="0" posZ="7.04" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="10.05" posY="0" posZ="3.96999" angleX="0" angleY="90" angleZ="0" scale="1.2">
+		<Object engName="Stalactite" code="121700355" yLayer="1" posX="0.0199995" posY="2.23904" posZ="0.059999" angleX="0" angleY="90" angleZ="0" scale="0.9"/>
+	</Object>
+	<Object engName="katpa_woodwall_3" code="121700372" yLayer="0" posX="9.96" posY="0" posZ="10.09" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_woodwall_3" code="121700372" yLayer="0" posX="5" posY="0" posZ="15.04" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_RockWall_3" code="121700368" yLayer="0" posX="9" posY="0" posZ="-13" angleX="0" angleY="180" angleZ="0" scale="1.2">
+		<Object engName="Stalactite" code="121700355" yLayer="1" posX="0" posY="2.36074" posZ="-1.38008" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	</Object>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="10.37" posY="0" posZ="-9.25" angleX="0" angleY="-90" angleZ="0" scale="1.2"/>
+	<Object engName="katpa_RockWall_1" code="121700366" yLayer="0" posX="5.28" posY="0" posZ="-14.34" angleX="0" angleY="180.3" angleZ="0" scale="1.2">
+		<Object engName="Stalactite" code="121700355" yLayer="1" posX="-0.339994" posY="2.24904" posZ="-0.0400028" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	</Object>
+	<Object engName="StalactitePillar" code="121700357" yLayer="0" posX="15" posY="1.5" posZ="27" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="StalactitePillar" code="121700357" yLayer="0" posX="-15" posY="1.5" posZ="-26" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="StalactitePillar" code="121700357" yLayer="0" posX="11" posY="0" posZ="-3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="SealingBox" code="121700360" yLayer="0" posX="2" posY="0" posZ="17" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="SealingBox" code="121700360" yLayer="0" posX="-12" posY="0" posZ="-6" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="SealingBox" code="121700360" yLayer="0" posX="6" posY="0" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="SealingBox" code="121700360" yLayer="0" posX="-2" posY="0" posZ="-17" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="MossWood" code="121700361" yLayer="0" posX="-17" posY="1.5" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="MossWood" code="121700361" yLayer="0" posX="-21" posY="0" posZ="1" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="RoundMushroom" code="121700362" yLayer="0" posX="23" posY="1.5" posZ="9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="RoundMushroom" code="121700362" yLayer="0" posX="13" posY="0" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="RockWall" code="121700365" yLayer="0" posX="15" posY="0" posZ="-3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="RockWall" code="121700365" yLayer="0" posX="-13" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="FoundationStone" code="121700353" yLayer="0" posX="0" posY="0" posZ="17" angleX="0" angleY="0" angleZ="0" scale="1.4"/>
+	<Object engName="FoundationStone" code="121700353" yLayer="0" posX="12" posY="0" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1.4"/>
+	<Object engName="FoundationStone" code="121700353" yLayer="0" posX="34" posY="1.5" posZ="-7" angleX="0" angleY="0" angleZ="0" scale="1.4"/>
+	<Object engName="FoundationStone" code="121700353" yLayer="0" posX="3" posY="1.5" posZ="36" angleX="0" angleY="0" angleZ="0" scale="1.4"/>
+	<Object engName="FoundationStone" code="121700353" yLayer="0" posX="-34" posY="1.5" posZ="-17" angleX="0" angleY="0" angleZ="0" scale="1.4"/>
+	<Object engName="FoundationStone" code="121700353" yLayer="0" posX="22" posY="1.5" posZ="-31" angleX="0" angleY="0" angleZ="0" scale="1.4"/>
+	<Object engName="ProtectionStone" code="121700354" yLayer="0" posX="-26" posY="1.5" posZ="32" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="ProtectionStone" code="121700354" yLayer="0" posX="-20" posY="1.5" posZ="-6" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="ProtectionStone" code="121700354" yLayer="0" posX="25" posY="1.5" posZ="-19" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="ProtectionStone" code="121700354" yLayer="0" posX="-16" posY="0" posZ="-15" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="ProtectionStone" code="121700354" yLayer="0" posX="16" posY="0" posZ="16" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="StalactiteTower" code="121700356" yLayer="0" posX="-13" posY="1.5" posZ="-29" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="StalactiteTower" code="121700356" yLayer="0" posX="17" posY="1.5" posZ="25" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlueCrystal" code="121700359" yLayer="0" posX="23.07" posY="0" posZ="-13" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="BlueCrystal" code="121700359" yLayer="0" posX="23" posY="0" posZ="1" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="BlueCrystal" code="121700359" yLayer="0" posX="14.04" posY="0" posZ="21.76" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlueCrystal" code="121700359" yLayer="0" posX="-22.8" posY="0" posZ="13" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="BlueCrystal" code="121700359" yLayer="0" posX="-20" posY="0" posZ="-2.42" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="BlueCrystal" code="121700359" yLayer="0" posX="-13.18" posY="0" posZ="-21.76" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="BambooHatMushRoom" code="121700363" yLayer="0" posX="-16.9288" posY="0" posZ="-20.02" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="UndergroundFlower" code="121700364" yLayer="0" posX="17" posY="0" posZ="21" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

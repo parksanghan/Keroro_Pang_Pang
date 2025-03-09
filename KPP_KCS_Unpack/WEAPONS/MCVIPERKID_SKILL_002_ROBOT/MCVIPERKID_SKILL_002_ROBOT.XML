@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <mcViperkid_skill_002_robot file="mcViperkid_skill_002_robot.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_1
+    diffuse="mcviperkid_skill_002_robot.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="mcViperkid_skill_002_robot.skl"
+/>
+<BoneAnim
+  file="Anims\mcViperkid_skill_002_robot.anm"
+/>
+<collision
+  file="mcViperkid_skill_002_robot.col"
+/>
+</Scene.XML>

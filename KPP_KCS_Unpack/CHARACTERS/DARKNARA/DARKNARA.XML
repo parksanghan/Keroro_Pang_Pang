@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <darknara file="darknara.msh" />
+</Objects>
+<Materials version="2">
+  <mdarknara
+    diffuse="darknara.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="darknara.skl"
+/>
+<collision
+  file="darknara.col"
+/>
+</Scene.XML>

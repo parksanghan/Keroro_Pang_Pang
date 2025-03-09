@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!-- 결과화면 초기화 -->
+<state name="Init_Game_Result">
+  <action type="1" applyName="game_result"/>
+</state>
+
+
+
+
+<!--
+action type 
+  0 - animation 플레이
+    as_play, = 0
+    as_loop, = 1
+    as_pause, = 2
+    as_stop, = 3
+  1 - camera 플레이
+  2 - animation 플레이 완료 확인
+  3 - camera 플레이 완료 확인
+  4 - 오브젝트 attachObject;
+  5 - 오브젝트 detachObject;
+//  6 - 캐릭터 attach
+//  7 - 캐릭터 detach
+
+  8 - object 생성
+  9 - character 생성
+  10 - texture 생성
+
+-->

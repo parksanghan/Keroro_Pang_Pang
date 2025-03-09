@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ckururu_skill_002_curry file="ckururu_skill_002_curry.msh" />
+</Objects>
+<Materials version="2">
+  <mckururu_skill_002_curry
+    diffuse="ckururu_skill_002_curry.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="ckururu_skill_002_curry.skl"
+/>
+<BoneAnim
+  file="Anims\ckururu_skill_002_curry.anm"
+/>
+<collision
+  file="ckururu_skill_002_curry.col"
+/>
+</Scene.XML>

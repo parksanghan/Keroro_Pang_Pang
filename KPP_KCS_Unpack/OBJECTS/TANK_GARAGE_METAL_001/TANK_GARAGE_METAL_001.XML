@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_tank_safety_53 file="notrans_tank_safety_53.msh" />
+ <notrans_tank_safety_54 file="notrans_tank_safety_54.msh" />
+ <notrans_tank_safety_55 file="notrans_tank_safety_55.msh" />
+ <notrans_sec_wall01_03 file="notrans_sec_wall01_03.msh" />
+ <notrans_tank_safety_56 file="notrans_tank_safety_56.msh" />
+ <notrans_tank_safety_57 file="notrans_tank_safety_57.msh" />
+ <notrans_tank_safety_58 file="notrans_tank_safety_58.msh" />
+ <notrans_tank_safety_59 file="notrans_tank_safety_59.msh" />
+ <notrans_tank_safety_60 file="notrans_tank_safety_60.msh" />
+ <notrans_tank_deck_03 file="notrans_tank_deck_03.msh" />
+ <notrans_tank_console_03 file="notrans_tank_console_03.msh" />
+ <notrans_tank_safety_61 file="notrans_tank_safety_61.msh" />
+ <notrans_tank_safety_62 file="notrans_tank_safety_62.msh" />
+ <notrans_tank_prop01_03 file="notrans_tank_prop01_03.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_aaaa
+    diffuse="tank_safty.dds"
+    color="30 36 42"
+  />
+  <m04_-_Default
+    diffuse="sec_hangar_id03.dds"
+    color="150 150 150"
+  />
+  <msec_wall01_id01
+    diffuse="sec_hangar_id01.dds"
+    color="255 255 255"
+  />
+  <msec_wall01_id05
+    diffuse="sec_hangar_id05.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k17
+    diffuse="sec_hangar_groud01.dds"
+    color="149 149 149"
+  />
+  <mkh_fence01
+    diffuse="kh_fence01_001.dds"
+    color="255 255 255"
+  />
+  <mkh_fence02
+    diffuse="kh_fence02_001.dds"
+    color="255 255 255"
+  />
+  <msec_prop01
+    diffuse="sec_prop01.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="tank_garage_metal_001.col"
+/>
+</Scene.XML>

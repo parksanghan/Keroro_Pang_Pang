@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tamama_head_166 file="tamama_head_166.msh" />
+ <keron_body_166 file="keron_body_166.msh" />
+</Objects>
+<Materials version="2">
+  <mtamama_head_166
+    diffuse="tamama_head_166.dds"
+    color="149 149 149"
+  />
+  <mkeron_body_166
+    diffuse="keron_body_166.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

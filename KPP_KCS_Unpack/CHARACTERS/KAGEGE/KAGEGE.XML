@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kagege_face_000 file="kagege_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mkagege_face_000
+    diffuse="kagege_face_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Kagege.skl"
+/>
+<collision
+  file="Kagege.col"
+/>
+</Scene.XML>

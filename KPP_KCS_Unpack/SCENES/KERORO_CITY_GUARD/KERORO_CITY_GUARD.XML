@@ -1,0 +1,565 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_kcg_sky_001 file="notrans_kcg_sky_001.msh" />
+ <notrans_kcg_road_a001 file="notrans_kcg_road_a001.msh" />
+ <notrans_kcg_road_c001 file="notrans_kcg_road_c001.msh" />
+ <notrans_kcg_shadow01_001 file="notrans_kcg_shadow01_001.msh" />
+ <notrans_kcg_streetlight_001 file="notrans_kcg_streetlight_001.msh" />
+ <notrans_kcg_safe_001 file="notrans_kcg_safe_001.msh" />
+ <notrans_kcg_road_b001 file="notrans_kcg_road_b001.msh" />
+ <notrans_kcg_signal_001 file="notrans_kcg_signal_001.msh" />
+ <notrans_kcg_shell_building file="notrans_kcg_shell_building.msh" />
+ <notrans_kcg_fog file="notrans_kcg_fog.msh" />
+ <notrans_kcg_building04_01 file="notrans_kcg_building04_01.msh" />
+ <notrans_kcg_building04_b01 file="notrans_kcg_building04_b01.msh" />
+ <notrans_kcg_building01_01 file="notrans_kcg_building01_01.msh" />
+ <notrans_kcg_building04_02 file="notrans_kcg_building04_02.msh" />
+ <notrans_kcg_building01_b01 file="notrans_kcg_building01_b01.msh" />
+ <notrans_kcg_building02_b01 file="notrans_kcg_building02_b01.msh" />
+ <notrans_kcg_building03_06 file="notrans_kcg_building03_06.msh" />
+ <notrans_kcg_building01_02 file="notrans_kcg_building01_02.msh" />
+ <notrans_kcg_building04_03 file="notrans_kcg_building04_03.msh" />
+ <notrans_kcg_building04_b04 file="notrans_kcg_building04_b04.msh" />
+ <notrans_kcg_building02_01 file="notrans_kcg_building02_01.msh" />
+ <notrans_kcg_building04_04 file="notrans_kcg_building04_04.msh" />
+ <notrans_kcg_building03_05 file="notrans_kcg_building03_05.msh" />
+ <notrans_kcg_building03_01 file="notrans_kcg_building03_01.msh" />
+ <notrans_kcg_building03_03 file="notrans_kcg_building03_03.msh" />
+ <notrans_kcg_building03_02 file="notrans_kcg_building03_02.msh" />
+ <notrans_kcg_building03_04 file="notrans_kcg_building03_04.msh" />
+ <notrans_kcg_building02_02 file="notrans_kcg_building02_02.msh" />
+ <notrans_kcg_building02_03 file="notrans_kcg_building02_03.msh" />
+ <notrans_kcg_building02_04 file="notrans_kcg_building02_04.msh" />
+ <notrans_kcg_wire_04 file="notrans_kcg_wire_04.msh" />
+ <notrans_kcg_building01_03 file="notrans_kcg_building01_03.msh" />
+ <notrans_kcg_building01_04 file="notrans_kcg_building01_04.msh" />
+ <notrans_kcg_building02_b03 file="notrans_kcg_building02_b03.msh" />
+ <notrans_kcg_building02_b02 file="notrans_kcg_building02_b02.msh" />
+ <notrans_kcg_building02_b04 file="notrans_kcg_building02_b04.msh" />
+ <notrans_kcg_building04_b03 file="notrans_kcg_building04_b03.msh" />
+ <notrans_kcg_building04_b02 file="notrans_kcg_building04_b02.msh" />
+ <notrans_kcg_building03_b01 file="notrans_kcg_building03_b01.msh" />
+ <notrans_kcg_building03_b04 file="notrans_kcg_building03_b04.msh" />
+ <notrans_kcg_building03_b03 file="notrans_kcg_building03_b03.msh" />
+ <notrans_kcg_building03_b02 file="notrans_kcg_building03_b02.msh" />
+ <notrans_kcg_building01_b04 file="notrans_kcg_building01_b04.msh" />
+ <notrans_kcg_building01_b03 file="notrans_kcg_building01_b03.msh" />
+ <notrans_kcg_building01_b02 file="notrans_kcg_building01_b02.msh" />
+ <notrans_kcg_wire_01 file="notrans_kcg_wire_01.msh" />
+ <notrans_kcg_wire_02 file="notrans_kcg_wire_02.msh" />
+ <notrans_kcg_wire_03 file="notrans_kcg_wire_03.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_kcg_point_001 file="notrans_kcg_point_001.msh" />
+ <kcg_roadcin_pillar01 file="kcg_roadcin_pillar01.msh" />
+ <kcg_roadcin_pillar02 file="kcg_roadcin_pillar02.msh" />
+ <kcg_roadcin_pillar03 file="kcg_roadcin_pillar03.msh" />
+ <kcg_door_01 file="kcg_door_01.msh" />
+ <kcg_roadlamp_04 file="kcg_roadlamp_04.msh" />
+ <kcg_roadlamp_01 file="kcg_roadlamp_01.msh" />
+ <kcg_roadlamp_02 file="kcg_roadlamp_02.msh" />
+ <kcg_roadlamp_03 file="kcg_roadlamp_03.msh" />
+ <kcg_signpost_nyh04 file="kcg_signpost_nyh04.msh" />
+ <kcg_signpost_nyh01 file="kcg_signpost_nyh01.msh" />
+ <kcg_signpost_nyh02 file="kcg_signpost_nyh02.msh" />
+ <notrans_kcg_shadow_circle01 file="notrans_kcg_shadow_circle01.msh" />
+ <notrans_kcg_shadow_circle04 file="notrans_kcg_shadow_circle04.msh" />
+ <notrans_kcg_shadow_circle02 file="notrans_kcg_shadow_circle02.msh" />
+ <notrans_kcg_shadow_circle05 file="notrans_kcg_shadow_circle05.msh" />
+ <notrans_kcg_shadow_circle11 file="notrans_kcg_shadow_circle11.msh" />
+ <notrans_kcg_wallcin_a01 file="notrans_kcg_wallcin_a01.msh" />
+ <notrans_kcg_roadcin03_01 file="notrans_kcg_roadcin03_01.msh" />
+ <notrans_kcg_obj01_02 file="notrans_kcg_obj01_02.msh" />
+ <notrans_kcg_road_kn01 file="notrans_kcg_road_kn01.msh" />
+ <notrans_kcg_roadcin01_01 file="notrans_kcg_roadcin01_01.msh" />
+ <notrans_kcg_obj02_06 file="notrans_kcg_obj02_06.msh" />
+ <notrans_kcg_obj02_01 file="notrans_kcg_obj02_01.msh" />
+ <notrans_kcg_obj02_02 file="notrans_kcg_obj02_02.msh" />
+ <notrans_kcg_obj02_03 file="notrans_kcg_obj02_03.msh" />
+ <notrans_kcg_obj02_04 file="notrans_kcg_obj02_04.msh" />
+ <notrans_kcg_obj02_05 file="notrans_kcg_obj02_05.msh" />
+ <notrans_kcg_wallcin_c01 file="notrans_kcg_wallcin_c01.msh" />
+ <kcg_door_02 file="kcg_door_02.msh" />
+ <kcg_signpost_nyh03 file="kcg_signpost_nyh03.msh" />
+ <notrans_kcg_shadow_circle07 file="notrans_kcg_shadow_circle07.msh" />
+ <notrans_kcg_sewer_02 file="notrans_kcg_sewer_02.msh" />
+ <notrans_kcg_tire_03 file="notrans_kcg_tire_03.msh" />
+ <notrans_kcg_tire_01 file="notrans_kcg_tire_01.msh" />
+ <notrans_kcg_plank_01 file="notrans_kcg_plank_01.msh" />
+ <kcg_parkingLine file="kcg_parkingLine.msh" />
+ <notrans_kcg_sewer_03 file="notrans_kcg_sewer_03.msh" />
+ <notrans_kcg_sewer_01 file="notrans_kcg_sewer_01.msh" />
+ <kcg_mule_fence_06 file="kcg_mule_fence_06.msh" />
+ <notrans_kcg_fence_02 file="notrans_kcg_fence_02.msh" />
+ <notrans_kcg_fence_05 file="notrans_kcg_fence_05.msh" />
+ <notrans_kcg_fence_04 file="notrans_kcg_fence_04.msh" />
+ <notrans_kcg_roadcin04_01 file="notrans_kcg_roadcin04_01.msh" />
+ <notrans_kcg_roadcin04_02 file="notrans_kcg_roadcin04_02.msh" />
+ <notrans_kcg_tire_02 file="notrans_kcg_tire_02.msh" />
+ <kcg_roadcin_06 file="kcg_roadcin_06.msh" />
+ <kcg_roadcin_pillar05 file="kcg_roadcin_pillar05.msh" />
+ <kcg_house_kn_wire01 file="kcg_house_kn_wire01.msh" />
+ <kcg_roadcin_pillar06 file="kcg_roadcin_pillar06.msh" />
+ <kcg_roadcin_pillar07 file="kcg_roadcin_pillar07.msh" />
+ <kcg_roadcin_pillar08 file="kcg_roadcin_pillar08.msh" />
+ <kcg_roadcin_pillar10 file="kcg_roadcin_pillar10.msh" />
+ <kcg_roadcin_01 file="kcg_roadcin_01.msh" />
+ <kcg_roadcin_02 file="kcg_roadcin_02.msh" />
+ <notrans_kcg_shadow_square01 file="notrans_kcg_shadow_square01.msh" />
+ <notrans_kcg_shadow_square02 file="notrans_kcg_shadow_square02.msh" />
+ <notrans_kcg_shadow_square06 file="notrans_kcg_shadow_square06.msh" />
+ <notrans_kcg_shadow_square07 file="notrans_kcg_shadow_square07.msh" />
+ <notrans_kcg_shadow_square04 file="notrans_kcg_shadow_square04.msh" />
+ <notrans_kcg_shadow_square05 file="notrans_kcg_shadow_square05.msh" />
+ <notrans_kcg_shadow_user06 file="notrans_kcg_shadow_user06.msh" />
+ <notrans_kcg_shadow_user01 file="notrans_kcg_shadow_user01.msh" />
+ <notrans_kcg_shadow_square03 file="notrans_kcg_shadow_square03.msh" />
+ <notrans_kcg_shadow_square08 file="notrans_kcg_shadow_square08.msh" />
+ <notrans_kcg_shadow_square10 file="notrans_kcg_shadow_square10.msh" />
+ <notrans_kcg_shadow_square11 file="notrans_kcg_shadow_square11.msh" />
+ <notrans_kcg_shadow_square12 file="notrans_kcg_shadow_square12.msh" />
+ <notrans_kcg_shadow_square13 file="notrans_kcg_shadow_square13.msh" />
+ <notrans_kcg_shadow_square14 file="notrans_kcg_shadow_square14.msh" />
+ <notrans_kcg_shadow_square15 file="notrans_kcg_shadow_square15.msh" />
+ <notrans_kcg_shadow_square16 file="notrans_kcg_shadow_square16.msh" />
+ <notrans_kcg_shadow_user02 file="notrans_kcg_shadow_user02.msh" />
+ <notrans_kcg_shadow_square17 file="notrans_kcg_shadow_square17.msh" />
+ <notrans_kcg_shadow_user03 file="notrans_kcg_shadow_user03.msh" />
+ <notrans_kcg_shadow_square18 file="notrans_kcg_shadow_square18.msh" />
+ <notrans_kcg_shadow_user04 file="notrans_kcg_shadow_user04.msh" />
+ <notrans_kcg_shadow_square21 file="notrans_kcg_shadow_square21.msh" />
+ <notrans_kcg_shadow_square22 file="notrans_kcg_shadow_square22.msh" />
+ <notrans_kcg_shadow_square23 file="notrans_kcg_shadow_square23.msh" />
+ <notrans_kcg_shadow_circle08 file="notrans_kcg_shadow_circle08.msh" />
+ <notrans_kcg_shadow_circle09 file="notrans_kcg_shadow_circle09.msh" />
+ <notrans_kcg_shadow_circle06 file="notrans_kcg_shadow_circle06.msh" />
+ <kcg_chekmachine_ file="kcg_chekmachine_.msh" />
+ <GAME_MovingMesh file="GAME_MovingMesh.msh" />
+ <notrans_kcg_house01_01 file="notrans_kcg_house01_01.msh" />
+ <notrans_kcg_house_03 file="notrans_kcg_house_03.msh" />
+ <notrans_kcg_house01_03 file="notrans_kcg_house01_03.msh" />
+ <notrans_kcg_house_02 file="notrans_kcg_house_02.msh" />
+ <notrans_kcg_house_01 file="notrans_kcg_house_01.msh" />
+ <notrans_kcg_roadcin01_02 file="notrans_kcg_roadcin01_02.msh" />
+ <notrans_kcg_roadcin01_03 file="notrans_kcg_roadcin01_03.msh" />
+ <kcg_signal_002 file="kcg_signal_002.msh" />
+ <notrans_kcg_shadow_user05 file="notrans_kcg_shadow_user05.msh" />
+ <notrans_kcg_roadcin_broken_01 file="notrans_kcg_roadcin_broken_01.msh" />
+ <notrans_kcg_roadcin_broken_02 file="notrans_kcg_roadcin_broken_02.msh" />
+ <notrans_kcg_stonecin_001 file="notrans_kcg_stonecin_001.msh" />
+ <notrans_kcg_helicopter_001 file="notrans_kcg_helicopter_001.msh" />
+ <notrans_kcg_roadcin02_001 file="notrans_kcg_roadcin02_001.msh" />
+ <notrans_kcg_stonecin_02 file="notrans_kcg_stonecin_02.msh" />
+ <notrans_kcg_roadcin_broken_03 file="notrans_kcg_roadcin_broken_03.msh" />
+ <notrans_kcg_roadcin_broken_04 file="notrans_kcg_roadcin_broken_04.msh" />
+ <notrans_kcg_roadcin_broken_05 file="notrans_kcg_roadcin_broken_05.msh" />
+ <notrans_kcg_roadcin_broken_06 file="notrans_kcg_roadcin_broken_06.msh" />
+ <notrans_kcg_roadcin_broken_07 file="notrans_kcg_roadcin_broken_07.msh" />
+ <notrans_kcg_roadcin_broken_08 file="notrans_kcg_roadcin_broken_08.msh" />
+ <notrans_kcg_roadcin_broken_09 file="notrans_kcg_roadcin_broken_09.msh" />
+ <notrans_kcg_roadcin_broken_10 file="notrans_kcg_roadcin_broken_10.msh" />
+ <notrans_kcg_roadcin_broken_11 file="notrans_kcg_roadcin_broken_11.msh" />
+ <notrans_kcg_roadcin_broken_12 file="notrans_kcg_roadcin_broken_12.msh" />
+ <notrans_kcg_roadcin_broken_13 file="notrans_kcg_roadcin_broken_13.msh" />
+ <notrans_kcg_roadcin_broken_14 file="notrans_kcg_roadcin_broken_14.msh" />
+ <notrans_kcg_roadcin_broken_15 file="notrans_kcg_roadcin_broken_15.msh" />
+ <notrans_kcg_roadcin_broken_16 file="notrans_kcg_roadcin_broken_16.msh" />
+ <notrans_kcg_roadcin_broken_17 file="notrans_kcg_roadcin_broken_17.msh" />
+ <notrans_kcg_roadcin_broken_18 file="notrans_kcg_roadcin_broken_18.msh" />
+ <notrans_kcg_roadcin_broken_19 file="notrans_kcg_roadcin_broken_19.msh" />
+ <notrans_kcg_roadcin_broken_20 file="notrans_kcg_roadcin_broken_20.msh" />
+ <notrans_kcg_roadcin_broken_21 file="notrans_kcg_roadcin_broken_21.msh" />
+ <notrans_kcg_roadcin_broken_22 file="notrans_kcg_roadcin_broken_22.msh" />
+ <notrans_kcg_roadcin_broken_23 file="notrans_kcg_roadcin_broken_23.msh" />
+ <notrans_kcg_roadcin_broken_24 file="notrans_kcg_roadcin_broken_24.msh" />
+ <notrans_kcg_shadow_square25 file="notrans_kcg_shadow_square25.msh" />
+ <notrans_kcg_shadow_square26 file="notrans_kcg_shadow_square26.msh" />
+ <notrans_kcg_shadow_square27 file="notrans_kcg_shadow_square27.msh" />
+ <notrans_kcg_shadow_square28 file="notrans_kcg_shadow_square28.msh" />
+ <notrans_kcg_shadow_square29 file="notrans_kcg_shadow_square29.msh" />
+ <notrans_kcg_shadow_square30 file="notrans_kcg_shadow_square30.msh" />
+ <notrans_kcg_shadow_square32 file="notrans_kcg_shadow_square32.msh" />
+ <notrans_kcg_shadow_user07 file="notrans_kcg_shadow_user07.msh" />
+ <notrans_kcg_shadow_square33 file="notrans_kcg_shadow_square33.msh" />
+ <notrans_kcg_shadow_square34 file="notrans_kcg_shadow_square34.msh" />
+ <notrans_kcg_shadow_square37 file="notrans_kcg_shadow_square37.msh" />
+ <notrans_kcg_shadow_square38 file="notrans_kcg_shadow_square38.msh" />
+ <notrans_kcg_shadow_square39 file="notrans_kcg_shadow_square39.msh" />
+ <notrans_kcg_shadow_square40 file="notrans_kcg_shadow_square40.msh" />
+ <notrans_kcg_shadow_user08 file="notrans_kcg_shadow_user08.msh" />
+ <notrans_kcg_shadow_user09 file="notrans_kcg_shadow_user09.msh" />
+ <notrans_kcg_shadow_user10 file="notrans_kcg_shadow_user10.msh" />
+ <notrans_kcg_shadow_user11 file="notrans_kcg_shadow_user11.msh" />
+ <notrans_kcg_rain_broad_06 file="notrans_kcg_rain_broad_06.msh" />
+ <notrans_kcg_rain_broad_02 file="notrans_kcg_rain_broad_02.msh" />
+ <notrans_kcg_rain_broad_03 file="notrans_kcg_rain_broad_03.msh" />
+ <notrans_kcg_rain_broad_05 file="notrans_kcg_rain_broad_05.msh" />
+ <notrans_kcg_rain_broad_11 file="notrans_kcg_rain_broad_11.msh" />
+ <notrans_kcg_rain_broad_10 file="notrans_kcg_rain_broad_10.msh" />
+ <notrans_kcg_rain_broad_01 file="notrans_kcg_rain_broad_01.msh" />
+ <notrans_kcg_rain_broad_07 file="notrans_kcg_rain_broad_07.msh" />
+ <notrans_kcg_rain_broad_08 file="notrans_kcg_rain_broad_08.msh" />
+ <notrans_kcg_rain_broad_09 file="notrans_kcg_rain_broad_09.msh" />
+ <notrans_kcg_rain_broad_04 file="notrans_kcg_rain_broad_04.msh" />
+ <notrans_kcg_rain_broad_12 file="notrans_kcg_rain_broad_12.msh" />
+ <notrans_kcg_rain_broad_14 file="notrans_kcg_rain_broad_14.msh" />
+ <notrans_kcg_shadow_circle12 file="notrans_kcg_shadow_circle12.msh" />
+ <kcg_signpost_nyh05 file="kcg_signpost_nyh05.msh" />
+ <kcg_roadcin_03 file="kcg_roadcin_03.msh" />
+ <notrans_kcg_road_d02 file="notrans_kcg_road_d02.msh" />
+ <notrans_kcg_road_e04 file="notrans_kcg_road_e04.msh" />
+ <notrans_kcg_ground_down03 file="notrans_kcg_ground_down03.msh" />
+ <notrans_kcg_fence_06 file="notrans_kcg_fence_06.msh" />
+ <notrans_kcg_shadow_square41 file="notrans_kcg_shadow_square41.msh" />
+ <kcg_signal_003 file="kcg_signal_003.msh" />
+ <kcg_signal_004 file="kcg_signal_004.msh" />
+ <kcg_signal_005 file="kcg_signal_005.msh" />
+ <kcg_signal_006 file="kcg_signal_006.msh" />
+ <kcg_signal_007 file="kcg_signal_007.msh" />
+ <notrans_kcg_stonecin_003 file="notrans_kcg_stonecin_003.msh" />
+ <notrans_kcg_shadow_user12 file="notrans_kcg_shadow_user12.msh" />
+ <notrans_kcg_house01_04 file="notrans_kcg_house01_04.msh" />
+ <notrans_kcg_shadow_square43 file="notrans_kcg_shadow_square43.msh" />
+ <notrans_kcg_shadow_square09 file="notrans_kcg_shadow_square09.msh" />
+ <notrans_kcg_roadcin_b20 file="notrans_kcg_roadcin_b20.msh" />
+ <notrans_kcg_roadcin_b14 file="notrans_kcg_roadcin_b14.msh" />
+ <notrans_kcg_roadcin_a02 file="notrans_kcg_roadcin_a02.msh" />
+ <notrans_kcg_roadcin_iron11 file="notrans_kcg_roadcin_iron11.msh" />
+ <notrans_kcg_roadcin_iron12 file="notrans_kcg_roadcin_iron12.msh" />
+ <notrans_kcg_roadcin_c07 file="notrans_kcg_roadcin_c07.msh" />
+ <notrans_kcg_roadcin_b16 file="notrans_kcg_roadcin_b16.msh" />
+ <notrans_kcg_roadcin_c08 file="notrans_kcg_roadcin_c08.msh" />
+ <notrans_kcg_roadcin_b07 file="notrans_kcg_roadcin_b07.msh" />
+ <kcg_roadcin_04 file="kcg_roadcin_04.msh" />
+ <notrans_kcg_roadcin_b21 file="notrans_kcg_roadcin_b21.msh" />
+ <notrans_kcg_roadcin_c12 file="notrans_kcg_roadcin_c12.msh" />
+ <notrans_kcg_roadcin_b23 file="notrans_kcg_roadcin_b23.msh" />
+ <notrans_kcg_roadcin_iron31 file="notrans_kcg_roadcin_iron31.msh" />
+ <notrans_kcg_roadcin_iron32 file="notrans_kcg_roadcin_iron32.msh" />
+ <notrans_kcg_roadcin_iron18 file="notrans_kcg_roadcin_iron18.msh" />
+ <notrans_kcg_roadcin_c11 file="notrans_kcg_roadcin_c11.msh" />
+ <notrans_kcg_roadcin_b22 file="notrans_kcg_roadcin_b22.msh" />
+ <notrans_kcg_roadcin_a04 file="notrans_kcg_roadcin_a04.msh" />
+ <notrans_kcg_shadow_user13 file="notrans_kcg_shadow_user13.msh" />
+ <notrans_kcg_shadow_square42 file="notrans_kcg_shadow_square42.msh" />
+ <notrans_kcg_house_04 file="notrans_kcg_house_04.msh" />
+ <notrans_kcg_shadow_square44 file="notrans_kcg_shadow_square44.msh" />
+ <notrans_kcg_point_start file="notrans_kcg_point_start.msh" />
+ <notrans_kcg_point_finish file="notrans_kcg_point_finish.msh" />
+ <kcg_mule_fence_01 file="kcg_mule_fence_01.msh" />
+ <kcg_mule_fence_02 file="kcg_mule_fence_02.msh" />
+ <kcg_mule_fence_03 file="kcg_mule_fence_03.msh" />
+ <kcg_mule_fence_04 file="kcg_mule_fence_04.msh" />
+ <kcg_mule_fence_05 file="kcg_mule_fence_05.msh" />
+ <kcg_roadcin_05 file="kcg_roadcin_05.msh" />
+ <notrans_kcg_roadcin_iron33 file="notrans_kcg_roadcin_iron33.msh" />
+ <notrans_kcg_roadcin_iron34 file="notrans_kcg_roadcin_iron34.msh" />
+ <notrans_kcg_shadow_square45 file="notrans_kcg_shadow_square45.msh" />
+ <notrans_kcg_shadow_square46 file="notrans_kcg_shadow_square46.msh" />
+ <notrans_kcg_shadow_square47 file="notrans_kcg_shadow_square47.msh" />
+ <notrans_kcg_shadow_square48 file="notrans_kcg_shadow_square48.msh" />
+</Objects>
+<Materials version="2">
+  <mkct_sky_001
+    diffuse="kct_sky_001.dds"
+    color="255 255 255"
+    uvAnimFile="kct_sky_001.uva"
+  />
+  <mkct_road_a
+    diffuse="kct_road_a.dds"
+    color="255 255 255"
+  />
+  <mkct_road_c
+    diffuse="kct_road_c.dds"
+    color="255 255 255"
+  />
+  <mkct_shadow01
+    diffuse="kct_shadow01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkct_streetlight
+    diffuse="kct_streetlight_001.dds"
+    color="255 255 255"
+  />
+  <mkct_safe
+    diffuse="kct_safe_01.dds"
+    color="255 255 255"
+  />
+  <mkct_road_b
+    diffuse="kct_road_b.dds"
+    color="255 255 255"
+  />
+  <mkct_signal
+    diffuse="kct_signal_001.dds"
+    color="255 255 255"
+  />
+  <mkct_shell_building
+    diffuse="kct_shell_building.dds"
+    color="255 255 255"
+  />
+  <mkct_fog
+    diffuse="kct_fog.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkct_building04_id01
+    diffuse="kct_building04_id01.dds"
+    color="255 255 255"
+  />
+  <mkct_building04_id02
+    diffuse="kct_building04_id02.dds"
+    color="255 255 255"
+  />
+  <mkct_building04_id01_b
+    diffuse="kct_building04_id01_b.dds"
+    color="255 255 255"
+  />
+  <mkct_building04_id02_b
+    diffuse="kct_building04_id02_b.dds"
+    color="255 255 255"
+  />
+  <mkct_building01_id01
+    diffuse="kct_building01_id01.dds"
+    color="255 255 255"
+  />
+  <mkct_building01_id02
+    diffuse="kct_building01_id02.dds"
+    color="255 255 255"
+  />
+  <mkct_building01_id01_b
+    diffuse="kct_building01_id01_b.dds"
+    color="255 255 255"
+  />
+  <mkct_building01_id02_b
+    diffuse="kct_building01_id02_b.dds"
+    color="255 255 255"
+  />
+  <mkct_building02_id01_b
+    diffuse="kct_building02_id01_b.dds"
+    color="255 255 255"
+  />
+  <mkct_building02_id02_b
+    diffuse="kct_building02_id02_b.dds"
+    color="255 255 255"
+  />
+  <mkct_building03_id01
+    diffuse="kct_building03_id01.dds"
+    color="255 255 255"
+  />
+  <mkct_building03_id02
+    diffuse="kct_building03_id02.dds"
+    color="255 255 255"
+  />
+  <mkct_building02_id01
+    diffuse="kct_building02_id01.dds"
+    color="255 255 255"
+  />
+  <mkct_building02_id02
+    diffuse="kct_building02_id02.dds"
+    color="255 255 255"
+  />
+  <mkct_wire
+    diffuse="kct_wire_01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkct_building03_id01_b
+    diffuse="kct_building03_id01_b.dds"
+    color="255 255 255"
+  />
+  <mkct_building03_id02_b
+    diffuse="kct_building03_id02_b.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k45
+    diffuse="kct_shadow_user.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_point
+    diffuse="vil_point.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkct_block_kn01
+    diffuse="kct_block_kn01.dds"
+    color="255 255 255"
+  />
+  <mkct_door_id01
+    diffuse="kct_door01_001.dds"
+    color="255 255 255"
+  />
+  <mkct_door_id02
+    diffuse="kct_door02_001.dds"
+    color="255 255 255"
+  />
+  <mkct_roadlamp
+    diffuse="kct_roadlamp.dds"
+    color="255 255 255"
+  />
+  <mkct_signpost_nyh
+    diffuse="kct_signpost_nyh001.dds"
+    color="255 255 255"
+  />
+  <mkct_shadow_circle
+    diffuse="kct_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkct_wallcin_a
+    diffuse="kct_wallcin_a.dds"
+    color="255 255 255"
+  />
+  <mkct_roadcin03
+    diffuse="kct_roadcin03.dds"
+    color="255 255 255"
+  />
+  <mkct_roadcin05_id01
+    diffuse="kct_roadcin05_id01.dds"
+    color="255 255 255"
+  />
+  <mkct_roadcin01
+    diffuse="kcg_road_d_01.dds"
+    color="255 255 255"
+  />
+  <mvil_sewer_001
+    diffuse="vil_sewer_001.dds"
+    color="255 255 255"
+  />
+  <mvil_tire_001
+    diffuse="vil_tire_001.dds"
+    color="255 255 255"
+  />
+  <mvil_plank_001
+    diffuse="vil_plank_001.dds"
+    color="255 255 255"
+  />
+  <mvil_mule_fence
+    diffuse="vil_mule_fence.dds"
+    color="255 255 255"
+  />
+  <mStandard_19
+    color="79 79 79"
+  />
+  <mvil_playground_nyh001_id01
+    diffuse="viplayground_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mvil_playground_nyh001_id02
+    diffuse="viplayground_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mvil_playground_nyh001_id03
+    diffuse="viplayground_nyh001_id03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mStandard_11
+    diffuse="nah_mule_base.dds"
+    color="149 149 149"
+  />
+  <mkct_roadcin_kn01
+    diffuse="kct_roadcin_kn01.dds"
+    color="255 255 255"
+  />
+  <mkct_roadcin_kn02
+    diffuse="kct_roadcin_kn02.dds"
+    color="255 255 255"
+  />
+  <mkct_roadcin_kn03
+    diffuse="kct_roadcin_kn03.dds"
+    color="255 255 255"
+  />
+  <mkct_house_kn_wire01
+    diffuse="kct_house_kn_wire01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mMaterial_k28
+    diffuse="kct_shadow_square.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mparking_chekmachine_
+    diffuse="kcg_chekmachine.dds"
+    color="255 255 255"
+  />
+  <mEmptyMat
+  />
+  <mkct_house02_01
+    diffuse="kct_tempbuilding_a.dds"
+    color="255 255 255"
+  />
+  <mkct_house02_02
+    diffuse="kct_tempbuilding_b.dds"
+    color="255 255 255"
+  />
+  <mkct_house_kn01
+    diffuse="kct_house_kn_ba.dds"
+    color="255 255 255"
+  />
+  <mkct_house_kn02
+    diffuse="kct_house_kn_broad01.dds"
+    color="255 255 255"
+  />
+  <mStandard_9
+    diffuse="kcg_road_d_02.dds"
+    color="149 149 149"
+  />
+  <mStandard_10
+    diffuse="kcg_road_d_03.dds"
+    color="149 149 149"
+  />
+  <mkct_stonecin
+    diffuse="kct_stonecin.dds"
+    color="255 255 255"
+  />
+  <mkct_helicopter_id01
+    diffuse="kct_helicopter_id01.dds"
+    color="255 255 255"
+  />
+  <mkct_helicopter_id02
+    diffuse="kct_helicopter_id02.dds"
+    color="255 255 255"
+  />
+  <mkct_helicopter_id03
+    diffuse="kct_helicopter_id03.dds"
+    color="255 255 255"
+  />
+  <maa
+    diffuse="kcg_road_d_04.dds"
+    color="149 149 149"
+  />
+  <mkct_rain_broad
+    diffuse="kct_rain_broad.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkct_roadcin05_id02
+    diffuse="kct_roadcin05_id02.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k46
+    diffuse="kct_roadcin04.dds"
+    color="255 255 255"
+  />
+  <mStandard_14
+    diffuse="vil_point_start.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mStandard_15
+    diffuse="vil_point_finish.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="keroro_city_guard.skl"
+/>
+<collision
+  file="keroro_city_guard.col"
+/>
+</Scene.XML>

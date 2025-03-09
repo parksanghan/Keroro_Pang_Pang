@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="0" spawnId="14" posX="-36" posY="4" posZ="22" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="0" spawnId="15" posX="-12" posY="3" posZ="-28" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="0" spawnId="16" posX="-9" posY="3" posZ="-1" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Giroro" code="19070977" teamId="1" spawnId="17" posX="44" posY="6" posZ="-16" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Giroro" code="19070977" teamId="1" spawnId="18" posX="56" posY="4" posZ="16" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Giroro" code="19070977" teamId="1" spawnId="19" posX="15" posY="4" posZ="37" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="20" posX="-17" posY="1.8" posZ="-28" angleY="90" scale="1" radius="1" jumpPower="150" force="240" durationTime="4.0" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="21" posX="31" posY="1.8" posZ="28" angleY="270" scale="1" radius="1" jumpPower="150" force="240" durationTime="4.0" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="22" posX="-24" posY="1.8" posZ="26" angleY="90" scale="1" radius="1" jumpPower="150" force="240" durationTime="4.0" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

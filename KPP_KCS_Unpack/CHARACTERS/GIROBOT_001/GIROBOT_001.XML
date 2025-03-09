@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kerobotbike_001 file="kerobotbike_001.msh" />
+ <girobot_001 file="girobot_001.msh" />
+</Objects>
+<Materials version="2">
+  <m02_-_Default
+    diffuse="girobotbike_001.dds"
+    color="150 150 150"
+  />
+  <m01_-_Default
+    diffuse="girobot_001.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="girobot_001.skl"
+/>
+<BoneAnim
+  file="Anims\girobot_001.anm"
+/>
+<collision
+  file="girobot_001.col"
+/>
+</Scene.XML>

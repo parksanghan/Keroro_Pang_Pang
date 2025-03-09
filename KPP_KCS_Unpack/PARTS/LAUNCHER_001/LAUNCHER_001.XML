@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <launcher_001 file="launcher_001.msh" />
+</Objects>
+<Materials version="2">
+  <mlauncher_001
+    diffuse="launcher_001.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="launcher_001.skl"
+/>
+<BoneAnim
+  file="Anims\launcher_001.anm"
+/>
+<collision
+  file="launcher_001.col"
+/>
+</Scene.XML>

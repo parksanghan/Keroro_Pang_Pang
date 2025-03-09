@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="goal" engName="keroro goal" code="117506073" teamId="0" spawnId="0" posX="45" posY="4.6" posZ="-12" angleY="270" scale="0.7" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="goal" engName="clone goal" code="117506074" teamId="1" spawnId="1" posX="45" posY="4.6" posZ="-19.5" angleY="270" scale="0.7" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="keroball" engName="keroball" code="117702674" teamId="0" spawnId="2" posX="12.3964" posY="2.40374" posZ="-1.89275" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Keroro" code="18939905" teamId="1" spawnId="3" posX="-13" posY="3" posZ="-28" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="4" posX="-13" posY="3" posZ="24" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="1" spawnId="5" posX="-3" posY="3" posZ="-4" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="6" posX="-3" posY="3" posZ="-1" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="1" spawnId="7" posX="23" posY="3" posZ="14" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="8" posX="23" posY="3" posZ="16" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="1" spawnId="9" posX="54" posY="4" posZ="17" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="10" posX="54" posY="4" posZ="15" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="1" spawnId="11" posX="30" posY="5" posZ="-3" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="12" posX="30" posY="5" posZ="-5" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="1" spawnId="13" posX="41" posY="6" posZ="-14" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="14" posX="41" posY="6" posZ="-17" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="15" posX="17" posY="6" posZ="-29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="1" spawnId="16" posX="19" posY="6" posZ="-29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="1" spawnId="17" posX="13" posY="4" posZ="37" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="18" posX="15" posY="4" posZ="37" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <train_002 file="train_002.msh" />
+ <rail01 file="rail01.msh" />
+ <rail02 file="rail02.msh" />
+ <rail03 file="rail03.msh" />
+ <rail04 file="rail04.msh" />
+</Objects>
+<Materials version="2">
+  <mtrain_002
+    diffuse="train_002.dds"
+    color="149 149 149"
+  />
+  <mrail
+    diffuse="rail.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="train_002.skl"
+/>
+<BoneAnim
+  file="Anims\train_002.anm"
+/>
+<collision
+  file="train_002.col"
+/>
+</Scene.XML>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <lob_npc_butterfly file="lob_npc_butterfly.msh" />
+ <lob_npc_butterfly01 file="lob_npc_butterfly01.msh" />
+ <lob_npc_butterfly02 file="lob_npc_butterfly02.msh" />
+ <lob_npc_butterfly03 file="lob_npc_butterfly03.msh" />
+ <lob_npc_butterfly04 file="lob_npc_butterfly04.msh" />
+ <lob_npc_butterfly05 file="lob_npc_butterfly05.msh" />
+ <lob_npc_butterfly06 file="lob_npc_butterfly06.msh" />
+ <lob_npc_butterfly07 file="lob_npc_butterfly07.msh" />
+ <lob_npc_butterfly08 file="lob_npc_butterfly08.msh" />
+</Objects>
+<Materials version="2">
+  <mnah_butterfly
+    diffuse="lob_butterfly.tga"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="lob_npc_butterfly.skl"
+/>
+<BoneAnim
+  file="Anims\lob_npc_butterfly.anm"
+/>
+<collision
+  file="lob_npc_butterfly.col"
+/>
+</Scene.XML>

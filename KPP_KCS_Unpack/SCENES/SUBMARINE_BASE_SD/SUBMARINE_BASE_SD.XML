@@ -1,0 +1,592 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_sub_guide_kn01 file="notrans_sub_guide_kn01.msh" />
+ <notrans_smb_seaground file="notrans_smb_seaground.msh" />
+ <notrans_smb_sea_kn01 file="notrans_smb_sea_kn01.msh" />
+ <notrans_sub_main_island_up04 file="notrans_sub_main_island_up04.msh" />
+ <notrans_sub_main_island_up05 file="notrans_sub_main_island_up05.msh" />
+ <notrans_sub_main_island_up06 file="notrans_sub_main_island_up06.msh" />
+ <notrans_sub_main_island_up03 file="notrans_sub_main_island_up03.msh" />
+ <notrans_smb_send_kn01 file="notrans_smb_send_kn01.msh" />
+ <notrans_sub_main_island_up01 file="notrans_sub_main_island_up01.msh" />
+ <notrans_sub_main_island_up02 file="notrans_sub_main_island_up02.msh" />
+ <notrans_sub_main_island_up07 file="notrans_sub_main_island_up07.msh" />
+ <notrans_sub_main_island_up08 file="notrans_sub_main_island_up08.msh" />
+ <notrans_sub_main_island_up09 file="notrans_sub_main_island_up09.msh" />
+ <notrans_sub_metal_ground file="notrans_sub_metal_ground.msh" />
+ <notrans_sub_metal_ground_03 file="notrans_sub_metal_ground_03.msh" />
+ <notrans_sub_hole_nyh001_01 file="notrans_sub_hole_nyh001_01.msh" />
+ <notrans_sub_hole_nyh001_02 file="notrans_sub_hole_nyh001_02.msh" />
+ <notrans_sub_metal_ground_04 file="notrans_sub_metal_ground_04.msh" />
+ <notrans_sub_metal_ground_05 file="notrans_sub_metal_ground_05.msh" />
+ <notrans_sub_metal_ground_06 file="notrans_sub_metal_ground_06.msh" />
+ <notrans_sub_metal_ground_07 file="notrans_sub_metal_ground_07.msh" />
+ <notrans_sub_sky_kn file="notrans_sub_sky_kn.msh" />
+ <notrans_submarine_island file="notrans_submarine_island.msh" />
+ <notrans_sub_main_island_down file="notrans_sub_main_island_down.msh" />
+ <notrans_smb_sea_kn02 file="notrans_smb_sea_kn02.msh" />
+ <notrans_sub_uphill01_oj_ms file="notrans_sub_uphill01_oj_ms.msh" />
+ <notrans_sub_tube_oj_ms file="notrans_sub_tube_oj_ms.msh" />
+ <notrans_sub_guide_kn02 file="notrans_sub_guide_kn02.msh" />
+ <notrans_sub_guide_kn03 file="notrans_sub_guide_kn03.msh" />
+ <notrans_sub_guide_kn04 file="notrans_sub_guide_kn04.msh" />
+ <notrans_sub_guide_kn05 file="notrans_sub_guide_kn05.msh" />
+ <notrans_sub_guide_kn06 file="notrans_sub_guide_kn06.msh" />
+ <notrans_sub_guide_kn07 file="notrans_sub_guide_kn07.msh" />
+ <notrans_sub_guide_kn08 file="notrans_sub_guide_kn08.msh" />
+ <notrans_sub_guide_kn09 file="notrans_sub_guide_kn09.msh" />
+ <notrans_sub_uphill01_oj_ms01 file="notrans_sub_uphill01_oj_ms01.msh" />
+ <sub_uphill02_oj_ms01 file="sub_uphill02_oj_ms01.msh" />
+ <notrans_sub_tube_oj_ms01 file="notrans_sub_tube_oj_ms01.msh" />
+ <notrans_sub_tube_oj_ms02 file="notrans_sub_tube_oj_ms02.msh" />
+ <notrans_sub_tube_oj_ms03 file="notrans_sub_tube_oj_ms03.msh" />
+ <notrans_submarine_crane_cindy file="notrans_submarine_crane_cindy.msh" />
+ <notrans_sub_guide_kn10 file="notrans_sub_guide_kn10.msh" />
+ <notrans_sub_metal_ground_ex file="notrans_sub_metal_ground_ex.msh" />
+ <notrans_sub_guide_kn11 file="notrans_sub_guide_kn11.msh" />
+ <notrans_sub_guide_kn12 file="notrans_sub_guide_kn12.msh" />
+ <notrans_sub_guide_kn13 file="notrans_sub_guide_kn13.msh" />
+ <notrans_sub_guide_kn14 file="notrans_sub_guide_kn14.msh" />
+ <notrans_sub_guide_kn15 file="notrans_sub_guide_kn15.msh" />
+ <notrans_sub_guide_kn16 file="notrans_sub_guide_kn16.msh" />
+ <notrans_sub_guide_kn17 file="notrans_sub_guide_kn17.msh" />
+ <notrans_sub_wall_nyh001_04 file="notrans_sub_wall_nyh001_04.msh" />
+ <notrans_sub_wall_nyh001_06 file="notrans_sub_wall_nyh001_06.msh" />
+ <notrans_sub_wall_nyh001_03 file="notrans_sub_wall_nyh001_03.msh" />
+ <notrans_sub_wall_nyh001_01 file="notrans_sub_wall_nyh001_01.msh" />
+ <notrans_sub_wall_nyh001_05 file="notrans_sub_wall_nyh001_05.msh" />
+ <notrans_sub_wall_nyh001_02 file="notrans_sub_wall_nyh001_02.msh" />
+ <notrans_sub_wall_nyh001_07 file="notrans_sub_wall_nyh001_07.msh" />
+ <sub_pipe_nyh001_02 file="sub_pipe_nyh001_02.msh" />
+ <notrans_sub_wall_nyh002_02 file="notrans_sub_wall_nyh002_02.msh" />
+ <notrans_sub_wall_nyh002_03 file="notrans_sub_wall_nyh002_03.msh" />
+ <notrans_sub_wall_nyh002_05 file="notrans_sub_wall_nyh002_05.msh" />
+ <notrans_sub_wall_nyh002_07 file="notrans_sub_wall_nyh002_07.msh" />
+ <notrans_sub_pipe_nyh001_01 file="notrans_sub_pipe_nyh001_01.msh" />
+ <notrans_sub_wall_nyh002_01 file="notrans_sub_wall_nyh002_01.msh" />
+ <notrans_sub_wall_nyh002_06 file="notrans_sub_wall_nyh002_06.msh" />
+ <notrans_sub_wall_nyh002_04 file="notrans_sub_wall_nyh002_04.msh" />
+ <sub_pipe_nyh001_03 file="sub_pipe_nyh001_03.msh" />
+ <notrans_sub_wall_nyh003_01 file="notrans_sub_wall_nyh003_01.msh" />
+ <notrans_sub_wall_nyh003_02 file="notrans_sub_wall_nyh003_02.msh" />
+ <notrans_submarine_island_02 file="notrans_submarine_island_02.msh" />
+ <notrans_submarine_island_01 file="notrans_submarine_island_01.msh" />
+ <notrans_submarine_island_04 file="notrans_submarine_island_04.msh" />
+ <notrans_submarine_island_03 file="notrans_submarine_island_03.msh" />
+ <notrans_submarine_island_05 file="notrans_submarine_island_05.msh" />
+ <notrans_submarine_island_06 file="notrans_submarine_island_06.msh" />
+ <notrans_submarine_island_07 file="notrans_submarine_island_07.msh" />
+ <notrans_submarine_island01 file="notrans_submarine_island01.msh" />
+ <notrans_submarine_island02 file="notrans_submarine_island02.msh" />
+ <notrans_submarine_island03 file="notrans_submarine_island03.msh" />
+ <notrans_submarine_island_08 file="notrans_submarine_island_08.msh" />
+ <notrans_submarine_island_09 file="notrans_submarine_island_09.msh" />
+ <notrans_submarine_island_10 file="notrans_submarine_island_10.msh" />
+ <notrans_smb_palm_jm_a02 file="notrans_smb_palm_jm_a02.msh" />
+ <notrans_smb_palm_jm_a01 file="notrans_smb_palm_jm_a01.msh" />
+ <notrans_smb_palm_jm_a03 file="notrans_smb_palm_jm_a03.msh" />
+ <notrans_smb_palm_jm_a04 file="notrans_smb_palm_jm_a04.msh" />
+ <notrans_smb_palm_jm_a05 file="notrans_smb_palm_jm_a05.msh" />
+ <notrans_smb_palm_jm_a06 file="notrans_smb_palm_jm_a06.msh" />
+ <notrans_smb_palm_jm_a07 file="notrans_smb_palm_jm_a07.msh" />
+ <notrans_smb_palm_jm_a08 file="notrans_smb_palm_jm_a08.msh" />
+ <notrans_smb_palm_jm_a09 file="notrans_smb_palm_jm_a09.msh" />
+ <notrans_smb_palm_jm_a10 file="notrans_smb_palm_jm_a10.msh" />
+ <notrans_smb_palm_jm_a11 file="notrans_smb_palm_jm_a11.msh" />
+ <notrans_smb_palm_jm_a12 file="notrans_smb_palm_jm_a12.msh" />
+ <notrans_smb_palm_jm_a13 file="notrans_smb_palm_jm_a13.msh" />
+ <notrans_smb_palm_jm_a14 file="notrans_smb_palm_jm_a14.msh" />
+ <notrans_smb_palm_jm_a15 file="notrans_smb_palm_jm_a15.msh" />
+ <notrans_smb_palm_jm_a16 file="notrans_smb_palm_jm_a16.msh" />
+ <notrans_sub_c_gundambox_jm_a01 file="notrans_sub_c_gundambox_jm_a01.msh" />
+ <notrans_sub_c_gundambox_jm_b01 file="notrans_sub_c_gundambox_jm_b01.msh" />
+ <notrans_sub_c_gundambox_jm_c01 file="notrans_sub_c_gundambox_jm_c01.msh" />
+ <notrans_sub_c_gundambox_jm_c02 file="notrans_sub_c_gundambox_jm_c02.msh" />
+ <notrans_sub_c_gundambox_jm_c03 file="notrans_sub_c_gundambox_jm_c03.msh" />
+ <notrans_sub_c_gundambox_jm_c04 file="notrans_sub_c_gundambox_jm_c04.msh" />
+ <notrans_sub_c_gundambox_jm_c05 file="notrans_sub_c_gundambox_jm_c05.msh" />
+ <notrans_sub_c_gundambox_jm_c06 file="notrans_sub_c_gundambox_jm_c06.msh" />
+ <notrans_sub_c_gundambox_jm_b02 file="notrans_sub_c_gundambox_jm_b02.msh" />
+ <notrans_sub_c_gundambox_jm_b03 file="notrans_sub_c_gundambox_jm_b03.msh" />
+ <notrans_sub_c_gundambox_jm_b04 file="notrans_sub_c_gundambox_jm_b04.msh" />
+ <notrans_sub_c_gundambox_jm_b05 file="notrans_sub_c_gundambox_jm_b05.msh" />
+ <notrans_sub_c_gundambox_jm_c07 file="notrans_sub_c_gundambox_jm_c07.msh" />
+ <notrans_sub_c_gundambox_jm_a02 file="notrans_sub_c_gundambox_jm_a02.msh" />
+ <notrans_sub_c_gundambox_jm_a03 file="notrans_sub_c_gundambox_jm_a03.msh" />
+ <notrans_sub_c_gundambox_jm_a04 file="notrans_sub_c_gundambox_jm_a04.msh" />
+ <notrans_sub_tube_oj_ms04 file="notrans_sub_tube_oj_ms04.msh" />
+ <notrans_sub_tube_oj_ms05 file="notrans_sub_tube_oj_ms05.msh" />
+ <notrans_sub_shadow file="notrans_sub_shadow.msh" />
+ <notrans_sub_stair_nyh001_01 file="notrans_sub_stair_nyh001_01.msh" />
+ <notrans_sub_stair_nyh001_02 file="notrans_sub_stair_nyh001_02.msh" />
+ <notrans_sub_shadow01 file="notrans_sub_shadow01.msh" />
+ <notrans_sub_shadow02 file="notrans_sub_shadow02.msh" />
+ <notrans_sub_shadow03 file="notrans_sub_shadow03.msh" />
+ <notrans_sub_shadow_circle file="notrans_sub_shadow_circle.msh" />
+ <notrans_sub_shadow_square file="notrans_sub_shadow_square.msh" />
+ <notrans_sub_shadow_square01 file="notrans_sub_shadow_square01.msh" />
+ <notrans_sub_shadow_square02 file="notrans_sub_shadow_square02.msh" />
+ <notrans_sub_shadow_square03 file="notrans_sub_shadow_square03.msh" />
+ <notrans_sub_shadow_square04 file="notrans_sub_shadow_square04.msh" />
+ <notrans_sub_shadow_square05 file="notrans_sub_shadow_square05.msh" />
+ <notrans_sub_shadow_square06 file="notrans_sub_shadow_square06.msh" />
+ <notrans_sub_shadow_square07 file="notrans_sub_shadow_square07.msh" />
+ <notrans_sub_shadow_square08 file="notrans_sub_shadow_square08.msh" />
+ <notrans_sub_shadow_square09 file="notrans_sub_shadow_square09.msh" />
+ <notrans_sub_shadow_square10 file="notrans_sub_shadow_square10.msh" />
+ <notrans_sub_shadow_square11 file="notrans_sub_shadow_square11.msh" />
+ <notrans_sub_shadow_circle01 file="notrans_sub_shadow_circle01.msh" />
+ <notrans_sub_shadow_circle02 file="notrans_sub_shadow_circle02.msh" />
+ <notrans_sub_shadow_circle03 file="notrans_sub_shadow_circle03.msh" />
+ <notrans_sub_shadow_circle04 file="notrans_sub_shadow_circle04.msh" />
+ <notrans_sub_shadow_square12 file="notrans_sub_shadow_square12.msh" />
+ <notrans_sub_shadow_square14 file="notrans_sub_shadow_square14.msh" />
+ <notrans_sub_shadow_square15 file="notrans_sub_shadow_square15.msh" />
+ <notrans_sub_Island_skull01 file="notrans_sub_Island_skull01.msh" />
+ <notrans_sub_Island_skull02 file="notrans_sub_Island_skull02.msh" />
+ <notrans_sub_Island_skull03 file="notrans_sub_Island_skull03.msh" />
+ <notrans_submarine_island04 file="notrans_submarine_island04.msh" />
+ <notrans_submarine_island_11 file="notrans_submarine_island_11.msh" />
+ <notrans_submarine_island_12 file="notrans_submarine_island_12.msh" />
+ <notrans_sub_sea_wave file="notrans_sub_sea_wave.msh" />
+ <notrans_sub_sea_wave01 file="notrans_sub_sea_wave01.msh" />
+ <notrans_sub_sea_wave02 file="notrans_sub_sea_wave02.msh" />
+ <notrans_sub_sea_wave03 file="notrans_sub_sea_wave03.msh" />
+ <notrans_sub_sea_wave04 file="notrans_sub_sea_wave04.msh" />
+ <notrans_sub_sea_wave05 file="notrans_sub_sea_wave05.msh" />
+ <notrans_sub_sea_wave06 file="notrans_sub_sea_wave06.msh" />
+ <notrans_sub_sea_wave07 file="notrans_sub_sea_wave07.msh" />
+ <notrans_sub_sea_wave08 file="notrans_sub_sea_wave08.msh" />
+ <notrans_sub_sea_wave09 file="notrans_sub_sea_wave09.msh" />
+ <notrans_sub_sea_wave10 file="notrans_sub_sea_wave10.msh" />
+ <notrans_sub_sea_wave11 file="notrans_sub_sea_wave11.msh" />
+ <notrans_sub_sea_wave12 file="notrans_sub_sea_wave12.msh" />
+ <notrans_sub_sea_wave13 file="notrans_sub_sea_wave13.msh" />
+ <notrans_sub_sea_wave14 file="notrans_sub_sea_wave14.msh" />
+ <notrans_sub_sea_wave15 file="notrans_sub_sea_wave15.msh" />
+ <notrans_sub_sea_wave16 file="notrans_sub_sea_wave16.msh" />
+ <notrans_sub_sea_wave17 file="notrans_sub_sea_wave17.msh" />
+ <notrans_sub_sea_wave18 file="notrans_sub_sea_wave18.msh" />
+ <notrans_sub_sea_wave19 file="notrans_sub_sea_wave19.msh" />
+ <notrans_sub_sea_wave21 file="notrans_sub_sea_wave21.msh" />
+ <notrans_sub_sea_wave22 file="notrans_sub_sea_wave22.msh" />
+ <notrans_sub_sea_wave23 file="notrans_sub_sea_wave23.msh" />
+ <notrans_smb_rock_jm_a01 file="notrans_smb_rock_jm_a01.msh" />
+ <notrans_smb_rock_jm_a03 file="notrans_smb_rock_jm_a03.msh" />
+ <notrans_smb_rock_jm_a02 file="notrans_smb_rock_jm_a02.msh" />
+ <notrans_smb_rock_jm_a04 file="notrans_smb_rock_jm_a04.msh" />
+ <notrans_smb_rock_jm_a05 file="notrans_smb_rock_jm_a05.msh" />
+ <notrans_smb_rock_jm_a06 file="notrans_smb_rock_jm_a06.msh" />
+ <notrans_smb_rock_jm_a07 file="notrans_smb_rock_jm_a07.msh" />
+ <notrans_smb_rock_jm_a08 file="notrans_smb_rock_jm_a08.msh" />
+ <notrans_smb_rock_jm_a09 file="notrans_smb_rock_jm_a09.msh" />
+ <notrans_smb_rock_jm_a10 file="notrans_smb_rock_jm_a10.msh" />
+ <notrans_smb_palm_jm_a17 file="notrans_smb_palm_jm_a17.msh" />
+ <notrans_smb_rock_jm_a11 file="notrans_smb_rock_jm_a11.msh" />
+ <notrans_smb_palm_jm_a18 file="notrans_smb_palm_jm_a18.msh" />
+ <notrans_smb_palm_jm_a19 file="notrans_smb_palm_jm_a19.msh" />
+ <notrans_smb_rock_jm_a12 file="notrans_smb_rock_jm_a12.msh" />
+ <notrans_smb_rock_jm_a14 file="notrans_smb_rock_jm_a14.msh" />
+ <notrans_smb_palm_jm_a20 file="notrans_smb_palm_jm_a20.msh" />
+ <notrans_smb_palm_jm_a21 file="notrans_smb_palm_jm_a21.msh" />
+ <notrans_smb_palm_jm_a22 file="notrans_smb_palm_jm_a22.msh" />
+ <notrans_smb_rock_jm_a15 file="notrans_smb_rock_jm_a15.msh" />
+ <notrans_smb_palm_jm_a23 file="notrans_smb_palm_jm_a23.msh" />
+ <notrans_smb_palm_jm_a24 file="notrans_smb_palm_jm_a24.msh" />
+ <notrans_smb_palm_jm_a25 file="notrans_smb_palm_jm_a25.msh" />
+ <notrans_smb_palm_jm_a26 file="notrans_smb_palm_jm_a26.msh" />
+ <notrans_smb_rock_jm_a16 file="notrans_smb_rock_jm_a16.msh" />
+ <notrans_smb_rock_jm_a17 file="notrans_smb_rock_jm_a17.msh" />
+ <notrans_smb_rock_jm_a18 file="notrans_smb_rock_jm_a18.msh" />
+ <notrans_smb_rock_jm_a19 file="notrans_smb_rock_jm_a19.msh" />
+ <notrans_smb_rock_jm_a20 file="notrans_smb_rock_jm_a20.msh" />
+ <notrans_smb_rock_jm_a21 file="notrans_smb_rock_jm_a21.msh" />
+ <notrans_smb_rock_jm_a22 file="notrans_smb_rock_jm_a22.msh" />
+ <notrans_smb_rock_jm_a23 file="notrans_smb_rock_jm_a23.msh" />
+ <notrans_smb_rock_jm_a24 file="notrans_smb_rock_jm_a24.msh" />
+ <notrans_smb_rock_jm_a25 file="notrans_smb_rock_jm_a25.msh" />
+ <notrans_smb_rock_jm_a26 file="notrans_smb_rock_jm_a26.msh" />
+ <notrans_smb_palm_jm_a27 file="notrans_smb_palm_jm_a27.msh" />
+ <notrans_smb_palm_jm_a28 file="notrans_smb_palm_jm_a28.msh" />
+ <notrans_smb_rock_jm_a27 file="notrans_smb_rock_jm_a27.msh" />
+ <notrans_smb_palm_jm_a29 file="notrans_smb_palm_jm_a29.msh" />
+ <notrans_smb_rock_jm_a28 file="notrans_smb_rock_jm_a28.msh" />
+ <notrans_smb_rock_jm_a29 file="notrans_smb_rock_jm_a29.msh" />
+ <notrans_smb_rock_jm_a30 file="notrans_smb_rock_jm_a30.msh" />
+ <notrans_smb_rock_jm_a31 file="notrans_smb_rock_jm_a31.msh" />
+ <notrans_sub_sea_wave24 file="notrans_sub_sea_wave24.msh" />
+ <notrans_sub_sea_wave25 file="notrans_sub_sea_wave25.msh" />
+ <notrans_sub_sea_wave26 file="notrans_sub_sea_wave26.msh" />
+ <notrans_sub_sea_wave27 file="notrans_sub_sea_wave27.msh" />
+ <notrans_sub_sea_wave28 file="notrans_sub_sea_wave28.msh" />
+ <notrans_sub_sea_wave29 file="notrans_sub_sea_wave29.msh" />
+ <notrans_sub_sea_wave30 file="notrans_sub_sea_wave30.msh" />
+ <notrans_sub_sea_wave31 file="notrans_sub_sea_wave31.msh" />
+ <notrans_sub_sea_wave32 file="notrans_sub_sea_wave32.msh" />
+ <notrans_sub_sea_wave33 file="notrans_sub_sea_wave33.msh" />
+ <notrans_sub_sill file="notrans_sub_sill.msh" />
+ <notrans_smb_drum_jm_a01 file="notrans_smb_drum_jm_a01.msh" />
+ <notrans_smb_drum_jm_c01 file="notrans_smb_drum_jm_c01.msh" />
+ <notrans_smb_drum_jm_b02 file="notrans_smb_drum_jm_b02.msh" />
+ <notrans_smb_drum_jm_c02 file="notrans_smb_drum_jm_c02.msh" />
+ <notrans_smb_drum_jm_c03 file="notrans_smb_drum_jm_c03.msh" />
+ <notrans_smb_drum_jm_a02 file="notrans_smb_drum_jm_a02.msh" />
+ <notrans_sub_shadow04 file="notrans_sub_shadow04.msh" />
+ <notrans_sub_shadow05 file="notrans_sub_shadow05.msh" />
+ <notrans_sub_flash_01 file="notrans_sub_flash_01.msh" />
+ <notrans_sub_flash_02 file="notrans_sub_flash_02.msh" />
+ <notrans_sub_flash_03 file="notrans_sub_flash_03.msh" />
+ <notrans_sub_flash_04 file="notrans_sub_flash_04.msh" />
+ <notrans_sub_flash_05 file="notrans_sub_flash_05.msh" />
+ <notrans_sub_flash_06 file="notrans_sub_flash_06.msh" />
+ <notrans_sub_flash_07 file="notrans_sub_flash_07.msh" />
+ <notrans_sub_flash_08 file="notrans_sub_flash_08.msh" />
+ <notrans_sub_submarine_nyh001_04 file="notrans_sub_submarine_nyh001_04.msh" />
+ <sub_submarine_nyh001_03 file="sub_submarine_nyh001_03.msh" />
+ <notrans_sub_submarine_nyh001_02 file="notrans_sub_submarine_nyh001_02.msh" />
+ <notrans_sub_submarine_nyh001_01 file="notrans_sub_submarine_nyh001_01.msh" />
+ <notrans_sub_submarine_nyh001_05 file="notrans_sub_submarine_nyh001_05.msh" />
+ <notrans_sub_submarine_nyh001_06 file="notrans_sub_submarine_nyh001_06.msh" />
+ <sub_stair_nyh002_02 file="sub_stair_nyh002_02.msh" />
+ <notrans_sub_shell file="notrans_sub_shell.msh" />
+ <notrans_sub_shell01 file="notrans_sub_shell01.msh" />
+ <notrans_sub_shell02 file="notrans_sub_shell02.msh" />
+ <notrans_sub_sea_nyh001_01 file="notrans_sub_sea_nyh001_01.msh" />
+ <notrans_sub_sea_nyh001_03 file="notrans_sub_sea_nyh001_03.msh" />
+ <notrans_sub_sea_nyh001_04 file="notrans_sub_sea_nyh001_04.msh" />
+ <notrans_sub_sea_nyh001_05 file="notrans_sub_sea_nyh001_05.msh" />
+ <notrans_sub_sea_nyh001_06 file="notrans_sub_sea_nyh001_06.msh" />
+ <notrans_sub_sea_nyh001_07 file="notrans_sub_sea_nyh001_07.msh" />
+ <notrans_sub_sea_nyh001_08 file="notrans_sub_sea_nyh001_08.msh" />
+ <notrans_sub_sea_nyh001_09 file="notrans_sub_sea_nyh001_09.msh" />
+ <notrans_sub_sea_nyh001_10 file="notrans_sub_sea_nyh001_10.msh" />
+ <notrans_sub_sea_nyh001_11 file="notrans_sub_sea_nyh001_11.msh" />
+ <notrans_sub_c_gundambox_jm_c08 file="notrans_sub_c_gundambox_jm_c08.msh" />
+ <notrans_sub_c_gundambox_jm_c10 file="notrans_sub_c_gundambox_jm_c10.msh" />
+ <notrans_sub_c_gundambox_jm_c11 file="notrans_sub_c_gundambox_jm_c11.msh" />
+ <notrans_sub_c_gundambox_jm_b06 file="notrans_sub_c_gundambox_jm_b06.msh" />
+ <notrans_sub_c_gundambox_jm_b07 file="notrans_sub_c_gundambox_jm_b07.msh" />
+ <notrans_sub_c_gundambox_jm_b08 file="notrans_sub_c_gundambox_jm_b08.msh" />
+ <notrans_sub_c_gundambox_jm_a05 file="notrans_sub_c_gundambox_jm_a05.msh" />
+ <notrans_sub_c_gundambox_jm_a06 file="notrans_sub_c_gundambox_jm_a06.msh" />
+ <notrans_smb_drum_jm_c04 file="notrans_smb_drum_jm_c04.msh" />
+ <notrans_sub_shadow_circle05 file="notrans_sub_shadow_circle05.msh" />
+ <sub_pipe_nyh001_04 file="sub_pipe_nyh001_04.msh" />
+ <sub_wall_nyh001_08 file="sub_wall_nyh001_08.msh" />
+ <sub_wall_nyh001_09 file="sub_wall_nyh001_09.msh" />
+ <submarine_crane_cindy01 file="submarine_crane_cindy01.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+</Objects>
+<Materials version="2">
+  <msub_guide_kn01
+    diffuse="sub_guide_kn01.dds"
+    color="255 255 255"
+  />
+  <msmb_depth_of_water
+    diffuse="smb_depth_of_water.dds"
+    color="255 255 255"
+  />
+  <msmb_sea_kn01
+    diffuse="smb_sea_kn01.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="smb_sea_kn01.uva"
+  />
+  <msmb_grass_kn01
+    diffuse="smb_grass_kn01.dds"
+    color="255 255 255"
+  />
+  <msmb_send_kn01
+    diffuse="smb_send_kn01.dds"
+    color="255 255 255"
+  />
+  <msmb_stone_kn02
+    diffuse="smb_stone_kn02.dds"
+    color="255 255 255"
+  />
+  <msmb_gr_ga_st_kn01
+    diffuse="smb_gr_ga_st_kn01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_metal_ground_01
+    diffuse="sub_metal_ground_01.dds"
+    color="255 255 255"
+  />
+  <msub_metal_ground_02
+    diffuse="sub_metal_ground_02.dds"
+    color="255 255 255"
+  />
+  <msub_metal_ground_03
+    diffuse="sub_metal_ground_03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_hole_nyh001_01
+    diffuse="hole_nyh001_01.dds"
+    color="255 255 255"
+  />
+  <msub_hole_nyh001_02
+    diffuse="hole_nyh001_02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_metal_ground_04
+    diffuse="sub_metal_ground_04.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_metal_ground_05
+    diffuse="sub_metal_ground_05.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_sky_kn01
+    diffuse="sub_sky_kn01.dds"
+    color="255 255 255"
+  />
+  <msubmarine_island
+    diffuse="submarine_island.dds"
+    color="255 255 255"
+  />
+  <msub_main_island_down
+    diffuse="sub_main_island_down.dds"
+    color="255 255 255"
+  />
+  <msmb_sea_kn02
+    diffuse="smb_sea_kn02.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="smb_sea_kn02.uva"
+  />
+  <msub_uphill01_ms_01
+    diffuse="sub_uphill01_ms_01.dds"
+    color="255 255 255"
+  />
+  <msub_tube_ms_b
+    diffuse="sub_tube_ms_b.dds"
+    color="255 255 255"
+  />
+  <msub_uphill02_ms_02
+    diffuse="sub_uphill02_ms_02.dds"
+    color="255 255 255"
+  />
+  <msubmarine_crane_cindy
+    diffuse="submarine_crane_cindy.dds"
+    color="255 255 255"
+  />
+  <msub_metal_ground_06
+    diffuse="sub_metal_ground_06.dds"
+    color="255 255 255"
+  />
+  <msub_wall_nyh001_04
+    diffuse="wall_nyh001_04.dds"
+    color="255 255 255"
+  />
+  <msub_wall_nyh001_06
+    diffuse="wall_nyh001_06.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_wall_nyh001_03
+    diffuse="wall_nyh001_03.dds"
+    color="255 255 255"
+  />
+  <msub_wall_nyh001_01
+    diffuse="wall_nyh001_01.dds"
+    color="255 255 255"
+  />
+  <msub_wall_nyh001_05
+    diffuse="wall_nyh001_05.dds"
+    color="255 255 255"
+  />
+  <msub_wall_nyh001_02
+    diffuse="wall_nyh001_02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_wall_nyh001_07
+    diffuse="wall_nyh001_07.dds"
+    color="255 255 255"
+  />
+  <msub_pipe_nyh001_02
+    diffuse="pipe_nyh001_02.dds"
+    color="255 255 255"
+  />
+  <msub_wall_nyh002_02
+    diffuse="wall_nyh002_02.dds"
+    color="255 255 255"
+  />
+  <msub_wall_nyh002_03
+    diffuse="wall_nyh002_03.dds"
+    color="255 255 255"
+  />
+  <msub_wall_nyh002_05
+    diffuse="wall_nyh002_05.dds"
+    color="255 255 255"
+  />
+  <msub_wall_nyh002_07
+    diffuse="wall_nyh002_07.dds"
+    color="255 255 255"
+  />
+  <msub_pipe_nyh001_01
+    diffuse="pipe_nyh001_01.dds"
+    color="255 255 255"
+  />
+  <msub_wall_nyh002_01
+    diffuse="wall_nyh002_01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_wall_nyh002_06
+    diffuse="wall_nyh002_06.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_wall_nyh002_04
+    diffuse="wall_nyh002_04.dds"
+    color="255 255 255"
+  />
+  <msub_pipe_nyh001_03
+    diffuse="pipe_nyh001_03.dds"
+    color="255 255 255"
+  />
+  <msub_wall_nyh003
+    diffuse="wall_nyh003.dds"
+    color="255 255 255"
+  />
+  <msmb_plam_jm_a01
+    diffuse="smb_plam_jm_a01.dds"
+    color="255 255 255"
+  />
+  <msmb_gundambox_jm_a01
+    diffuse="smb_gundambox_jm_a01.dds"
+    color="255 255 255"
+  />
+  <msmb_gundambox_jm_b01
+    diffuse="smb_gundambox_jm_b01.dds"
+    color="255 255 255"
+  />
+  <msmb_gundambox_jm_c01
+    diffuse="smb_gundambox_jm_c01.dds"
+    color="255 255 255"
+  />
+  <msub_shadow
+    diffuse="sub_shadow.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_stair_nyh001
+    diffuse="substair_nyh001.dds"
+    color="255 255 255"
+  />
+  <msub_shadow_circle
+    diffuse="sub_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_shadow_square
+    diffuse="sub_shadow_square.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_Island_skull01
+    diffuse="sub_Island_skull.dds"
+    color="255 255 255"
+  />
+  <msub_sea_wave
+    diffuse="sub_sea_wave_01.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msmb_rock_jm_a01
+    diffuse="smb_rock_jm_a01.dds"
+    color="255 255 255"
+  />
+  <msmb_rock_jm_a02
+    diffuse="smb_rock_jm_a02.dds"
+    color="255 255 255"
+  />
+  <msub_sill
+    diffuse="sub_sill.dds"
+    color="255 255 255"
+  />
+  <msmb_drum_jm_a02
+    diffuse="smb_drum_jm_a02.dds"
+    color="255 255 255"
+  />
+  <msmb_drum_jm_a01
+    diffuse="smb_drum_jm_a01.dds"
+    color="255 255 255"
+  />
+  <msmb_drum_jm_c02
+    diffuse="smb_drum_jm_c02.dds"
+    color="255 255 255"
+  />
+  <msmb_drum_jm_c01
+    diffuse="smb_drum_jm_c01.dds"
+    color="255 255 255"
+  />
+  <msmb_drum_jm_b02
+    diffuse="smb_drum_jm_b02.dds"
+    color="255 255 255"
+  />
+  <msmb_drum_jm_b01
+    diffuse="smb_drum_jm_b01.dds"
+    color="255 255 255"
+  />
+  <msub_flash_01
+    diffuse="sub_flash_01.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msub_submarine_nyh001_04
+    diffuse="submarine_nyh001_04.dds"
+    color="252 252 252"
+  />
+  <msub_submarine_nyh001_03
+    diffuse="submarine_nyh001_03.dds"
+    color="255 255 255"
+  />
+  <msub_submarine_nyh001_02
+    diffuse="submarine_nyh001_02.dds"
+    color="255 255 255"
+  />
+  <msub_submarine_nyh001_01
+    diffuse="submarine_nyh001_01.dds"
+    color="255 255 255"
+  />
+  <msub_submarine_nyh001_05
+    diffuse="submarine_nyh001_05.dds"
+    color="255 255 255"
+  />
+  <msub_submarine_nyh001_06
+    diffuse="submarine_nyh001_06.dds"
+    color="255 255 255"
+  />
+  <msub_stair_nyh002
+    diffuse="substair_nyh002.dds"
+    color="255 255 255"
+  />
+  <msub_shell
+    diffuse="sub_shell.dds"
+    color="255 255 255"
+  />
+  <msub_sea_nyh001
+    diffuse="sea_nyh001.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mGAME_MovingMesh
+    color="75 79 164"
+  />
+</Materials>
+<Skeleton
+  file="submarine_base_sd.skl"
+/>
+<collision
+  file="submarine_base_sd.col"
+/>
+</Scene.XML>

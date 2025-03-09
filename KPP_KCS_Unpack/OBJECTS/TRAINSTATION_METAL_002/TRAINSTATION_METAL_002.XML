@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <trainstation_metal_002 file="trainstation_metal_002.msh" />
+</Objects>
+<Materials version="2">
+  <mtrainstation_metal_002_id01
+    diffuse="ts_train01_001.dds"
+    color="255 255 255"
+  />
+  <mtrainstation_metal_002_id02
+    diffuse="ts_train01_002.dds"
+    color="255 255 255"
+  />
+  <mtrainstation_metal_002_id03
+    diffuse="ts_train01_003.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="trainstation_metal_002.col"
+/>
+</Scene.XML>

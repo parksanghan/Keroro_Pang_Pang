@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <channel_moon_nyh001_01 file="channel_moon_nyh001_01.msh" />
+ <select_earth_line file="select_earth_line.msh" />
+ <select_eatth_effect file="select_eatth_effect.msh" />
+ <Plane01 file="Plane01.msh" />
+</Objects>
+<Materials version="2">
+  <mchannel_air_ms
+    diffuse="channel_air_ms.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mselect_earth_line
+    diffuse="select_earth_line.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <m09_-_Default
+    diffuse="select_eatth_effect.dds"
+    color="150 150 150"
+    opacity="1"
+  />
+  <mStandard_14
+    diffuse="select_sky_light.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="channel_selecting_alpha_out.skl"
+/>
+<BoneAnim
+  file="Anims\channel_selecting_alpha_out.anm"
+/>
+<collision
+  file="channel_selecting_alpha_out.col"
+/>
+</Scene.XML>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2007 (http://www.altova.com) by NararaCDS (NSTORM) -->
+<savin_face_animation.XML>
+	<!--event animation - controlled by character animation frame, up to 8 sets-->
+	<animation name="savin_idle_002" fr0="1" face0="savin_face_000" fr1="169" face1="savin_face_002" fr2="220" face2="savin_face_000" fr3="" face3="" fr4="" face4="" fr5="" face5="" fr6="" face6="" fr7="" face7="" fr8="" face8="" fr9="" face9="" fr10="" face10="" fr11="" face11="" fr12="" face12="" fr13="" face13="" fr14="" face14=""/>
+	

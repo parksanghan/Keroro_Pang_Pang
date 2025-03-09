@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <spacestation_glass_001 file="spacestation_glass_001.msh" />
+</Objects>
+<Materials version="2">
+  <mspacestation_glass_001_sm001
+    diffuse="spacestation_glass_001_sm001.dds"
+    color="255 255 255"
+  />
+  <mspacestation_glass_001_sm002
+    diffuse="spacestation_glass_001_sm002.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="spacestation_glass_001.col"
+/>
+</Scene.XML>

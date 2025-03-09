@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="-14" posY="3" posZ="-28" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="1" posX="-24" posY="3" posZ="19" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="2" posX="13" posY="4" posZ="37" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="3" posX="54" posY="4" posZ="16" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="4" posX="28" posY="6" posZ="-30" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="5" posX="-25" posY="4" posZ="40" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="6" posX="42" posY="6" posZ="-16" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="7" posX="-36" posY="4" posZ="20" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="8" posX="-9" posY="3" posZ="-5" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="9" posX="31" posY="3" posZ="25" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="10" posX="0" posY="4" posZ="47" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="11" posX="14" posY="6" posZ="-30" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="12" posX="25" posY="3" posZ="34" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="13" posX="40" posY="5" posZ="-1" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="20" posX="-17" posY="1.8" posZ="-28" angleY="90" scale="1" radius="1" jumpPower="150" force="240" durationTime="4.0" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="21" posX="31" posY="1.8" posZ="28" angleY="270" scale="1" radius="1" jumpPower="150" force="240" durationTime="4.0" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="22" posX="-24" posY="1.8" posZ="26" angleY="90" scale="1" radius="1" jumpPower="150" force="240" durationTime="4.0" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

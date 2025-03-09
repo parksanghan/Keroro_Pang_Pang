@@ -1,0 +1,401 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <sst_gashb file="sst_gashb.msh" />
+ <sst_gasha file="sst_gasha.msh" />
+ <sst_gasb file="sst_gasb.msh" />
+ <sst_mule file="sst_mule.msh" />
+ <notrans_sst_bl_ground_b05 file="notrans_sst_bl_ground_b05.msh" />
+ <notrans_sst_shadow01 file="notrans_sst_shadow01.msh" />
+ <notrans_sst_bl_ground_b01 file="notrans_sst_bl_ground_b01.msh" />
+ <notrans_sst_bl_ground_a01 file="notrans_sst_bl_ground_a01.msh" />
+ <notrans_sst_bl_ground_a05 file="notrans_sst_bl_ground_a05.msh" />
+ <notrans_sst_bl_ground_b08 file="notrans_sst_bl_ground_b08.msh" />
+ <notrans_sst_bl_ground_b10 file="notrans_sst_bl_ground_b10.msh" />
+ <notrans_sst_bl_ground_a09 file="notrans_sst_bl_ground_a09.msh" />
+ <notrans_sst_bl_ground_a10 file="notrans_sst_bl_ground_a10.msh" />
+ <notrans_sst_bl_ground_a11 file="notrans_sst_bl_ground_a11.msh" />
+ <notrans_sst_bl_ground_a12 file="notrans_sst_bl_ground_a12.msh" />
+ <notrans_sst_bl_ground_b13 file="notrans_sst_bl_ground_b13.msh" />
+ <notrans_sst_bl_ground_b14 file="notrans_sst_bl_ground_b14.msh" />
+ <notrans_sst_bl_ground_b15 file="notrans_sst_bl_ground_b15.msh" />
+ <notrans_sst_bl_ground_b16 file="notrans_sst_bl_ground_b16.msh" />
+ <notrans_sst_bl_ground_b17 file="notrans_sst_bl_ground_b17.msh" />
+ <notrans_sst_br01_ms06 file="notrans_sst_br01_ms06.msh" />
+ <notrans_sst_br01_ms07 file="notrans_sst_br01_ms07.msh" />
+ <notrans_sst_br01_ms08 file="notrans_sst_br01_ms08.msh" />
+ <notrans_sst_blackhole_nyh001 file="notrans_sst_blackhole_nyh001.msh" />
+ <notrans_sst_blackhole_nyh002 file="notrans_sst_blackhole_nyh002.msh" />
+ <notrans_sst_planet_jm file="notrans_sst_planet_jm.msh" />
+ <sst_spaceship_nyh003 file="sst_spaceship_nyh003.msh" />
+ <sst_spaceship_nyh04 file="sst_spaceship_nyh04.msh" />
+ <notrans_sst_satellite_jm04 file="notrans_sst_satellite_jm04.msh" />
+ <notrans_sst_bl_ground_a15 file="notrans_sst_bl_ground_a15.msh" />
+ <notrans_sst_spaceship_nyh001 file="notrans_sst_spaceship_nyh001.msh" />
+ <notrans_sst_spaceship_nyh002 file="notrans_sst_spaceship_nyh002.msh" />
+ <notrans_sst_gasa01 file="notrans_sst_gasa01.msh" />
+ <notrans_sst_gasa file="notrans_sst_gasa.msh" />
+ <notrans_sst_spacebar_nyh001_01 file="notrans_sst_spacebar_nyh001_01.msh" />
+ <notrans_sst_spacebar_nyh001_02 file="notrans_sst_spacebar_nyh001_02.msh" />
+ <notrans_sst_spacebar_nyh001_03 file="notrans_sst_spacebar_nyh001_03.msh" />
+ <notrans_sst_spacebar_nyh001_04 file="notrans_sst_spacebar_nyh001_04.msh" />
+ <notrans_sst_spacebar_nyh001_05 file="notrans_sst_spacebar_nyh001_05.msh" />
+ <notrans_sst_spacebar_nyh001_06 file="notrans_sst_spacebar_nyh001_06.msh" />
+ <notrans_sst_etc_oj_ms35 file="notrans_sst_etc_oj_ms35.msh" />
+ <notrans_sst_etc_oj_ms36 file="notrans_sst_etc_oj_ms36.msh" />
+ <notrans_sst_etc_oj_ms38 file="notrans_sst_etc_oj_ms38.msh" />
+ <notrans_sst_etc_oj_ms39 file="notrans_sst_etc_oj_ms39.msh" />
+ <notrans_sst_etc_oj_ms40 file="notrans_sst_etc_oj_ms40.msh" />
+ <notrans_sst_etc_oj_ms41 file="notrans_sst_etc_oj_ms41.msh" />
+ <notrans_sst_etc_oj_ms42 file="notrans_sst_etc_oj_ms42.msh" />
+ <notrans_sst_etc_oj_ms47 file="notrans_sst_etc_oj_ms47.msh" />
+ <notrans_sst_etc_oj_ms48 file="notrans_sst_etc_oj_ms48.msh" />
+ <notrans_sst_etc_oj_ms49 file="notrans_sst_etc_oj_ms49.msh" />
+ <notrans_sst_etc_oj_ms50 file="notrans_sst_etc_oj_ms50.msh" />
+ <notrans_sst_etc_oj_ms51 file="notrans_sst_etc_oj_ms51.msh" />
+ <notrans_sst_etc_oj_ms52 file="notrans_sst_etc_oj_ms52.msh" />
+ <notrans_sst_etc_oj_ms53 file="notrans_sst_etc_oj_ms53.msh" />
+ <notrans_sst_etc_oj_ms60 file="notrans_sst_etc_oj_ms60.msh" />
+ <notrans_sst_etc_oj_ms61 file="notrans_sst_etc_oj_ms61.msh" />
+ <notrans_sst_etc_oj_ms62 file="notrans_sst_etc_oj_ms62.msh" />
+ <notrans_sst_etc_oj_ms65 file="notrans_sst_etc_oj_ms65.msh" />
+ <notrans_sst_etc_oj_ms66 file="notrans_sst_etc_oj_ms66.msh" />
+ <notrans_sst_etc_oj_ms72 file="notrans_sst_etc_oj_ms72.msh" />
+ <notrans_sst_etc_oj_ms74 file="notrans_sst_etc_oj_ms74.msh" />
+ <notrans_sst_etc_oj_ms75 file="notrans_sst_etc_oj_ms75.msh" />
+ <notrans_sst_etc_oj_ms76 file="notrans_sst_etc_oj_ms76.msh" />
+ <notrans_sst_etc_oj_ms77 file="notrans_sst_etc_oj_ms77.msh" />
+ <notrans_sst_etc_oj_ms78 file="notrans_sst_etc_oj_ms78.msh" />
+ <notrans_sst_etc_oj_ms79 file="notrans_sst_etc_oj_ms79.msh" />
+ <notrans_sst_etc_oj_ms80 file="notrans_sst_etc_oj_ms80.msh" />
+ <notrans_sst_etc_oj_ms81 file="notrans_sst_etc_oj_ms81.msh" />
+ <notrans_sst_etc_oj_ms82 file="notrans_sst_etc_oj_ms82.msh" />
+ <notrans_sst_etc_oj_ms83 file="notrans_sst_etc_oj_ms83.msh" />
+ <notrans_sst_etc_oj_ms84 file="notrans_sst_etc_oj_ms84.msh" />
+ <notrans_sst_etc_oj_ms85 file="notrans_sst_etc_oj_ms85.msh" />
+ <notrans_sst_etc_oj_ms86 file="notrans_sst_etc_oj_ms86.msh" />
+ <notrans_sst_etc_oj_ms87 file="notrans_sst_etc_oj_ms87.msh" />
+ <notrans_sst_shadow_square01 file="notrans_sst_shadow_square01.msh" />
+ <notrans_sst_shadow_circle03 file="notrans_sst_shadow_circle03.msh" />
+ <notrans_sst_etc_oj_ms91 file="notrans_sst_etc_oj_ms91.msh" />
+ <notrans_sst_gaspipesc file="notrans_sst_gaspipesc.msh" />
+ <notrans_sst_gaspipese file="notrans_sst_gaspipese.msh" />
+ <notrans_sst_gaspipesa file="notrans_sst_gaspipesa.msh" />
+ <notrans_sst_gaspipesa01 file="notrans_sst_gaspipesa01.msh" />
+ <notrans_sst_gaspipesa02 file="notrans_sst_gaspipesa02.msh" />
+ <notrans_sst_gaspipesa03 file="notrans_sst_gaspipesa03.msh" />
+ <notrans_sst_gaspipesa04 file="notrans_sst_gaspipesa04.msh" />
+ <notrans_sst_gaspipesa05 file="notrans_sst_gaspipesa05.msh" />
+ <notrans_sst_gaspipesa06 file="notrans_sst_gaspipesa06.msh" />
+ <notrans_sst_gaspipesb file="notrans_sst_gaspipesb.msh" />
+ <notrans_sst_gaspipesd file="notrans_sst_gaspipesd.msh" />
+ <notrans_sst_sky_ap_ms01 file="notrans_sst_sky_ap_ms01.msh" />
+ <notrans_sst_sky_ap_ms02 file="notrans_sst_sky_ap_ms02.msh" />
+ <notrans_sst_sky001_sm03 file="notrans_sst_sky001_sm03.msh" />
+ <notrans_sst_star001_sm001 file="notrans_sst_star001_sm001.msh" />
+ <notrans_sst_shadow_square02 file="notrans_sst_shadow_square02.msh" />
+ <sst_mulesign05 file="sst_mulesign05.msh" />
+ <notrans_sst_theearthatmos file="notrans_sst_theearthatmos.msh" />
+ <notrans_sst_theearthcloud file="notrans_sst_theearthcloud.msh" />
+ <notrans_sst_theerath file="notrans_sst_theerath.msh" />
+ <notrans_sst_gate_all_ms01 file="notrans_sst_gate_all_ms01.msh" />
+ <notrans_sst_ground_outline_13 file="notrans_sst_ground_outline_13.msh" />
+ <notrans_sst_ground_outline_01 file="notrans_sst_ground_outline_01.msh" />
+ <notrans_sst_ground_outline_03 file="notrans_sst_ground_outline_03.msh" />
+ <notrans_sst_ground_outline_05 file="notrans_sst_ground_outline_05.msh" />
+ <notrans_sst_ground_outline_07 file="notrans_sst_ground_outline_07.msh" />
+ <notrans_sst_ground_outline_08 file="notrans_sst_ground_outline_08.msh" />
+ <notrans_sst_ground_outline_09 file="notrans_sst_ground_outline_09.msh" />
+ <notrans_sst_ground_outline_11 file="notrans_sst_ground_outline_11.msh" />
+ <notrans_sst_ground_outline_12 file="notrans_sst_ground_outline_12.msh" />
+ <notrans_sst_ground_outline_15 file="notrans_sst_ground_outline_15.msh" />
+ <sst_etc_oj_ms03 file="sst_etc_oj_ms03.msh" />
+ <sst_etc_oj_ms08 file="sst_etc_oj_ms08.msh" />
+ <sst_etc_oj_ms09 file="sst_etc_oj_ms09.msh" />
+ <sst_etc_oj_ms26 file="sst_etc_oj_ms26.msh" />
+ <sst_etc_oj_ms27 file="sst_etc_oj_ms27.msh" />
+ <sst_etc_oj_ms29 file="sst_etc_oj_ms29.msh" />
+ <notrans_sst_ground_outline_16 file="notrans_sst_ground_outline_16.msh" />
+ <notrans_sst_etc_oj_ms90 file="notrans_sst_etc_oj_ms90.msh" />
+ <notrans_sst_etc_oj_ms89 file="notrans_sst_etc_oj_ms89.msh" />
+ <notrans_sst_br01_ms10 file="notrans_sst_br01_ms10.msh" />
+ <notrans_sst_etc_oj_ms30 file="notrans_sst_etc_oj_ms30.msh" />
+ <notrans_sst_etc_oj_ms25 file="notrans_sst_etc_oj_ms25.msh" />
+ <notrans_sst_etc_oj_ms23 file="notrans_sst_etc_oj_ms23.msh" />
+ <notrans_sst_etc_oj_ms22 file="notrans_sst_etc_oj_ms22.msh" />
+ <notrans_sst_etc_oj_ms21 file="notrans_sst_etc_oj_ms21.msh" />
+ <notrans_sst_etc_oj_ms20 file="notrans_sst_etc_oj_ms20.msh" />
+ <sst_etc_oj_ms19 file="sst_etc_oj_ms19.msh" />
+ <sst_etc_oj_ms18 file="sst_etc_oj_ms18.msh" />
+ <sst_etc_oj_ms17 file="sst_etc_oj_ms17.msh" />
+ <sst_etc_oj_ms16 file="sst_etc_oj_ms16.msh" />
+ <notrans_sst_etc_oj_ms15 file="notrans_sst_etc_oj_ms15.msh" />
+ <notrans_sst_etc_oj_ms14 file="notrans_sst_etc_oj_ms14.msh" />
+ <sst_etc_oj_ms13 file="sst_etc_oj_ms13.msh" />
+ <sst_etc_oj_ms12 file="sst_etc_oj_ms12.msh" />
+ <sst_etc_oj_ms11 file="sst_etc_oj_ms11.msh" />
+ <sst_etc_oj_ms10 file="sst_etc_oj_ms10.msh" />
+ <notrans_sst_ground_outline_02 file="notrans_sst_ground_outline_02.msh" />
+ <notrans_sst_ground_outline_04 file="notrans_sst_ground_outline_04.msh" />
+ <notrans_sst_ground_outline_06 file="notrans_sst_ground_outline_06.msh" />
+ <sst_etc_oj_ms01 file="sst_etc_oj_ms01.msh" />
+ <notrans_sst_etc_oj_ms06 file="notrans_sst_etc_oj_ms06.msh" />
+ <notrans_sst_etc_oj_ms05 file="notrans_sst_etc_oj_ms05.msh" />
+ <notrans_sst_etc_oj_ms04 file="notrans_sst_etc_oj_ms04.msh" />
+ <notrans_sst_ground_outline_10 file="notrans_sst_ground_outline_10.msh" />
+ <sst_etc_oj_ms07 file="sst_etc_oj_ms07.msh" />
+ <notrans_sst_br01_ms09 file="notrans_sst_br01_ms09.msh" />
+ <notrans_sst_ground_outline_14 file="notrans_sst_ground_outline_14.msh" />
+ <sst_bl_ground_2f_06 file="sst_bl_ground_2f_06.msh" />
+ <sst_bl_ground_2f_05 file="sst_bl_ground_2f_05.msh" />
+ <sst_bl_ground_2f_04 file="sst_bl_ground_2f_04.msh" />
+ <sst_bl_ground_2f_03 file="sst_bl_ground_2f_03.msh" />
+ <sst_bl_ground_2f_02 file="sst_bl_ground_2f_02.msh" />
+ <sst_bl_ground_2f_01 file="sst_bl_ground_2f_01.msh" />
+ <notrans_sst_br01_ms04 file="notrans_sst_br01_ms04.msh" />
+ <notrans_sst_br01_ms03 file="notrans_sst_br01_ms03.msh" />
+ <notrans_sst_br01_ms02 file="notrans_sst_br01_ms02.msh" />
+ <notrans_sst_br01_ms001 file="notrans_sst_br01_ms001.msh" />
+ <notrans_sst_satellite_jm01 file="notrans_sst_satellite_jm01.msh" />
+ <notrans_sst_satellite_jm file="notrans_sst_satellite_jm.msh" />
+ <sst_bl_ground_a06 file="sst_bl_ground_a06.msh" />
+ <sst_bl_ground_b18 file="sst_bl_ground_b18.msh" />
+ <sst_bl_ground_a14 file="sst_bl_ground_a14.msh" />
+ <sst_bl_ground_b12 file="sst_bl_ground_b12.msh" />
+ <notrans_sst_shadow02 file="notrans_sst_shadow02.msh" />
+ <sst_bl_ground_b07 file="sst_bl_ground_b07.msh" />
+ <sst_bl_ground_a02 file="sst_bl_ground_a02.msh" />
+ <sst_storein_jm file="sst_storein_jm.msh" />
+ <sst_store_jm file="sst_store_jm.msh" />
+ <sst_jmshop_jm file="sst_jmshop_jm.msh" />
+ <notrans_sst_shadow_square03 file="notrans_sst_shadow_square03.msh" />
+ <sst_wall_a01 file="sst_wall_a01.msh" />
+ <sst_wall_b01 file="sst_wall_b01.msh" />
+ <notrans_sst_wall_c10 file="notrans_sst_wall_c10.msh" />
+ <notrans_sst_wall_a_outline_01 file="notrans_sst_wall_a_outline_01.msh" />
+ <notrans_sst_wall_b_outline_12 file="notrans_sst_wall_b_outline_12.msh" />
+ <notrans_sst_br02_ms02 file="notrans_sst_br02_ms02.msh" />
+ <notrans_sst_br02_ms03 file="notrans_sst_br02_ms03.msh" />
+ <notrans_sst_wall_b_outline_13 file="notrans_sst_wall_b_outline_13.msh" />
+ <sst_wall_b02 file="sst_wall_b02.msh" />
+ <sst_wall_b03 file="sst_wall_b03.msh" />
+ <notrans_sst_wall_a_outline_02 file="notrans_sst_wall_a_outline_02.msh" />
+ <notrans_sst_wall_b_outline_14 file="notrans_sst_wall_b_outline_14.msh" />
+ <sst_wall_a02 file="sst_wall_a02.msh" />
+ <sst_wall_a03 file="sst_wall_a03.msh" />
+ <sst_wall_b04 file="sst_wall_b04.msh" />
+ <notrans_sst_wall_a_outline_03 file="notrans_sst_wall_a_outline_03.msh" />
+ <notrans_sst_wall_b_outline_15 file="notrans_sst_wall_b_outline_15.msh" />
+ <notrans_sst_wall_a_outline_04 file="notrans_sst_wall_a_outline_04.msh" />
+ <sst_wall_a04 file="sst_wall_a04.msh" />
+ <sst_wall_b05 file="sst_wall_b05.msh" />
+ <sst_wall_b06 file="sst_wall_b06.msh" />
+ <notrans_sst_wall_b_outline_16 file="notrans_sst_wall_b_outline_16.msh" />
+ <notrans_sst_wall_b_outline_17 file="notrans_sst_wall_b_outline_17.msh" />
+ <notrans_sst_wall_c12 file="notrans_sst_wall_c12.msh" />
+ <notrans_sst_wall_c13 file="notrans_sst_wall_c13.msh" />
+ <notrans_sst_wall_c14 file="notrans_sst_wall_c14.msh" />
+ <notrans_sst_wall_c16 file="notrans_sst_wall_c16.msh" />
+ <notrans_sst_wall_c17 file="notrans_sst_wall_c17.msh" />
+ <notrans_sst_wall_c18 file="notrans_sst_wall_c18.msh" />
+ <notrans_sst_wall_c19 file="notrans_sst_wall_c19.msh" />
+</Objects>
+<Materials version="2">
+  <msst_gashb
+    diffuse="sst_gashb.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msst_gasha
+    diffuse="sst_gasha.dds"
+    color="255 255 255"
+  />
+  <msst_gasa
+    diffuse="sst_gasa.dds"
+    color="255 255 255"
+  />
+  <msst_mule
+    diffuse="sst_mule.dds"
+    color="255 255 255"
+  />
+  <msst_bl_ground_01
+    diffuse="sst_bl_ground_01.dds"
+    color="255 255 255"
+  />
+  <msst_bl_ground_bottom
+    diffuse="sst_bl_ground_bottom.dds"
+    color="255 255 255"
+  />
+  <msst_bl_ground_02
+    diffuse="sst_bl_ground_02.dds"
+    color="255 255 255"
+  />
+  <msst_bl_ground_side
+    diffuse="sst_bl_ground_side.dds"
+    color="255 255 255"
+  />
+  <msst_shadow
+    diffuse="sst_shadow.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mCollision_MovingMesh
+    color="51 47 134"
+  />
+  <msst_br01_ms01
+    diffuse="sst_br01_ms01.dds"
+    color="255 255 255"
+  />
+  <msst_blackhole_nyh001
+    diffuse="ssblackhole_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="sst_blackhole_nyh001.uva"
+  />
+  <msst_blackhole_nyh002
+    diffuse="ssblackhole_nyh002.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="sst_blackhole_nyh002.uva"
+  />
+  <msst_planet_jm
+    diffuse="sst_planet_jm.dds"
+    color="255 255 255"
+  />
+  <msst_spaceship_nyh003
+    diffuse="ssspaceship_nyh003.dds"
+    color="255 255 255"
+  />
+  <mCollision_sst_spaceship_nyh003
+    color="255 255 255"
+  />
+  <msst_satellite_jm
+    diffuse="sst_satellite_jm.dds"
+    color="255 255 255"
+  />
+  <msst_spaceship_nyh001
+    diffuse="ssspaceship_nyh001.dds"
+    color="255 255 255"
+  />
+  <msst_spaceship_nyh002
+    diffuse="ssspaceship_nyh002.dds"
+    color="255 255 255"
+  />
+  <msst_spacebar_nyh001_01_id01
+    diffuse="ssspacebar_nyh001_01_id01.dds"
+    color="255 255 255"
+  />
+  <msst_spacebar_nyh001_01_id02
+    diffuse="ssspacebar_nyh001_01_id02.dds"
+    color="255 255 255"
+  />
+  <msst_spacebar_nyh001_02
+    diffuse="ssspacebar_nyh001_02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msst_etc_ms03
+    diffuse="sst_etc_ms03.dds"
+    color="255 255 255"
+  />
+  <msst_etc_ms01
+    diffuse="sst_etc_ms01.dds"
+    color="255 255 255"
+  />
+  <msst_etc_ms04
+    diffuse="sst_etc_ms04.dds"
+    color="255 255 255"
+  />
+  <msst_etc_ms02
+    diffuse="sst_etc_ms02.dds"
+    color="255 255 255"
+  />
+  <msst_shadow_square
+    diffuse="sst_shadow_square.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msst_shadow_circle
+    diffuse="sst_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mEmptyMat
+  />
+  <msst_gaspipes
+    diffuse="sst_gaspipes.dds"
+    color="255 255 255"
+  />
+  <msst_sky_ap_ms01
+    diffuse="sst_sky_ap_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="sst_sky_ap_ms01.uva"
+  />
+  <msst_sky001_sm001
+    diffuse="sst_sky001_sm001.dds"
+    color="255 255 255"
+  />
+  <mnotrans_sst_star001_sm001
+    diffuse="sst_star001_all.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msst_mulesign2_ms01
+    diffuse="sst_mulesign2_ms01.dds"
+    color="255 255 255"
+  />
+  <msst_theerathatmos
+    diffuse="sst_theerathatmos.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msst_theearthcloud
+    diffuse="sst_theearthcloud.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="sst_theearthcloud.uva"
+  />
+  <msst_theerath
+    diffuse="sst_theearth.dds"
+    color="255 255 255"
+    uvAnimFile="sst_theerath.uva"
+  />
+  <msst_ar_gate_ms01
+    diffuse="sst_ar_gate_ms01.dds"
+    color="255 255 255"
+  />
+  <msst_bl_ground_03
+    diffuse="sst_bl_ground_03.dds"
+    color="255 255 255"
+  />
+  <msst_storein_jm
+    diffuse="sst_storein_jm.dds"
+    color="255 255 255"
+  />
+  <msst_store_jm
+    diffuse="sst_store_jm.dds"
+    color="255 255 255"
+  />
+  <msst_jmshop_jm
+    diffuse="sst_jmshop_jm.dds"
+    color="255 255 255"
+  />
+  <msst_wall_a01
+    diffuse="sst_wall_a01.dds"
+    color="255 255 255"
+  />
+  <msst_outline_ground_dan
+    diffuse="sst_bl_ground_side.dds"
+    color="149 149 149"
+  />
+  <msst_br02_ms01
+    diffuse="sst_br02_ms01.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="space_station.col"
+/>
+</Scene.XML>

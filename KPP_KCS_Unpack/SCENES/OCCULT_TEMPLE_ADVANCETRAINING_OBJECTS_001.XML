@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="occult_temple\occult_temple.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="cube wall" code="118554642" yLayer="0" posX="-7" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="occult rock" code="118554632" yLayer="1" posX="0" posY="3.25" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1.8">
+			<Object engName="mystery statue" code="118554634" yLayer="2" posX="0" posY="1.80132" posZ="0" angleX="0" angleY="90" angleZ="0" scale="1.6"/>
+		</Object>
+	</Object>
+	<Object engName="cube wall" code="118554642" yLayer="0" posX="-15" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="much broken wall" code="118554638" yLayer="0" posX="-7" posY="0" posZ="3" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="much broken wall" code="118554638" yLayer="0" posX="-5.91002" posY="0" posZ="-2.98" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="-5.91002" posY="0" posZ="-4.94" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="-7" posY="0" posZ="5" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="-16" posY="0" posZ="3" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="little broken wall" code="118554637" yLayer="0" posX="14" posY="0" posZ="1.21" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="little broken wall" code="118554637" yLayer="0" posX="-4" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="-1.99999" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="much broken wall" code="118554638" yLayer="0" posX="4" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="default pillar" code="118554639" yLayer="0" posX="6.00001" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="default pillar" code="118554639" yLayer="0" posX="2.00001" posY="0" posZ="0" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="default pillar" code="118554639" yLayer="0" posX="-16" posY="0" posZ="5" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="cube wall" code="118554642" yLayer="0" posX="-11.09" posY="0" posZ="5.76002" angleX="0" angleY="0" angleZ="0" scale="0.6">
+		<Object engName="4sides statue" code="118554630" yLayer="1" posX="0" posY="1.95" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="cube wall" code="118554642" yLayer="0" posX="-9" posY="0" posZ="-7" angleX="0" angleY="0" angleZ="0" scale="0.7">
+		<Object engName="4sides statue" code="118554630" yLayer="1" posX="0" posY="2.275" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="arch" code="118554645" yLayer="0" posX="9" posY="-3.10001" posZ="0.48" angleX="0" angleY="-12.4" angleZ="0" scale="1.5"/>
+	<Object engName="arch" code="118554645" yLayer="0" posX="-0.02" posY="-1.09" posZ="-0.04" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="mummy coffin" code="118554629" yLayer="0" posX="-19.56" posY="0" posZ="-0.04" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="mummy coffin" code="118554629" yLayer="0" posX="-19.5" posY="0" posZ="5.92" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="mystery statue" code="118554634" yLayer="0" posX="-16" posY="0" posZ="6" angleX="0" angleY="180" angleZ="0" scale="1.6"/>
+	<Object engName="mystery statue" code="118554634" yLayer="0" posX="-13.92" posY="0" posZ="-6.14322" angleX="0" angleY="0" angleZ="0" scale="1.6"/>
+	<Object engName="ancient wall" code="118554625" yLayer="0" posX="-19.44" posY="0" posZ="2.86" angleX="0" angleY="0" angleZ="0" scale="1.2">
+		<Object engName="glass skull" code="118554631" yLayer="1" posX="0" posY="1.44002" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="-13.26" posY="0" posZ="-4.86" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="-14.26" posY="0" posZ="-4.86" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="little broken wall" code="118554637" yLayer="0" posX="6" posY="0" posZ="-1.78" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="much broken wall" code="118554638" yLayer="0" posX="6" posY="0" posZ="-4.77" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="little broken wall" code="118554637" yLayer="0" posX="6" posY="0" posZ="-7.77" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="cube wall" code="118554642" yLayer="0" posX="6" posY="0" posZ="-9.86583" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="cube wall" code="118554642" yLayer="0" posX="-18.73" posY="0" posZ="-5.75" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="sphinx" code="118554627" yLayer="0" posX="13.83" posY="0" posZ="5.55999" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="mystery statue" code="118554634" yLayer="0" posX="16" posY="0" posZ="-1" angleX="0" angleY="0" angleZ="0" scale="1.6"/>
+	<Object engName="mystery statue" code="118554634" yLayer="0" posX="12.3" posY="0" posZ="-1.16708" angleX="0" angleY="0" angleZ="0" scale="1.6"/>
+	<Object engName="occult rock" code="118554632" yLayer="0" posX="11.12" posY="0" posZ="-5.55001" angleX="0" angleY="0" angleZ="0" scale="1.8">
+		<Object engName="glass skull" code="118554631" yLayer="1" posX="0" posY="1.80132" posZ="0" angleX="0" angleY="-90" angleZ="0" scale="1.5"/>
+	</Object>
+	<Object engName="occult rock" code="118554632" yLayer="0" posX="17" posY="0" posZ="-5.55001" angleX="0" angleY="0" angleZ="0" scale="1.8">
+		<Object engName="glass skull" code="118554631" yLayer="1" posX="0" posY="1.80132" posZ="0" angleX="0" angleY="90" angleZ="0" scale="1.5"/>
+	</Object>
+	<Object engName="water bottle" code="117571586" yLayer="0" posX="14" posY="0" posZ="-6" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="water bottle" code="117571586" yLayer="0" posX="13" posY="0" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="mystery statue" code="118554634" yLayer="0" posX="16" posY="0" posZ="-10" angleX="0" angleY="180" angleZ="0" scale="1.6"/>
+	<Object engName="mystery statue" code="118554634" yLayer="0" posX="12" posY="0" posZ="-10" angleX="0" angleY="180" angleZ="0" scale="1.6"/>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="12" posY="0" posZ="1.21" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="6.12002" posY="0" posZ="0.05" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="occult rock" code="118554632" yLayer="0" posX="6.24998" posY="0" posZ="5.49001" angleX="0" angleY="0" angleZ="0" scale="2.5">
+		<Object engName="shelf" code="118554646" yLayer="1" posX="0" posY="2.50184" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1">
+			<Object engName="water bottle" code="117571586" yLayer="2" posX="0" posY="0.267117" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		</Object>
+	</Object>
+	<Object engName="occult rock" code="118554632" yLayer="0" posX="-0.629999" posY="0" posZ="5.51001" angleX="0" angleY="0" angleZ="0" scale="2.5">
+		<Object engName="shelf" code="118554646" yLayer="1" posX="0" posY="2.50184" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1">
+			<Object engName="water bottle" code="117571586" yLayer="2" posX="0" posY="0.267117" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		</Object>
+	</Object>
+	<Object engName="mummy coffin" code="118554629" yLayer="0" posX="-3.66902" posY="0" posZ="-2.98" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="mummy coffin" code="118554629" yLayer="0" posX="4" posY="0" posZ="-4" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="mummy coffin" code="118554629" yLayer="0" posX="-1" posY="0" posZ="-9" angleX="0" angleY="-90" angleZ="0" scale="1.5"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="17" posY="0" posZ="1.21" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="corner pillar" code="118554641" yLayer="0" posX="19" posY="0" posZ="1.21" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="19" posY="0" posZ="5" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="much broken wall" code="118554638" yLayer="0" posX="19" posY="0" posZ="3" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="-13.42" posY="0" posZ="-12" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="6.55001" posY="0" posZ="-12" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="24" posY="0" posZ="-2" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="19.1199" posY="0" posZ="-12" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="24" posY="0" posZ="9" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="13.99" posY="0" posZ="11.4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="-6" posY="0" posZ="11.39" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="-19.0001" posY="0" posZ="11.39" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="-24.05" posY="0" posZ="1.5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 3" code="117506068" yLayer="0" posX="-24.05" posY="0" posZ="-10" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 1" code="117506066" yLayer="0" posX="-23.75" posY="0" posZ="-11.74" angleX="0" angleY="45" angleZ="0" scale="1"/>
+</ARRANGEMENT>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<MessageList.XML>
+	<message msgID="npc0001"	class="엔피씨"	num="1"	title="우주"	text="지구에 와서 생활은 좀 어때? 친구는 많이 사귄거야?"	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0002"	class="엔피씨"	num="2"	title="한별"	text="안녕~! 음... 지구에서 수상한 짓 하다가 걸리면 그땐 해부당해도 난 몰라~ ㅎㅎㅎ"	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0003"	class="엔피씨"	num="3"	title="나라"	text="우주는 지금쯤 뭐하고 있을까? (당장 달려가고 싶다구!!)\n\n아참!!나라그룹에서 발행한 쿠폰을 가져온거니? 나에게 쿠폰 번호를 알려주면 아이템으로 바꿔줄께.\n\n※ 쿠폰 번호는 8자리 또는 16자리입니다.\n※ 한번 사용된 쿠폰은 다시 사용할 수 없습니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="쿠폰 사용"	link2="msg_npc0062"	menu3="닫기"	link3="close"	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0004"	class="엔피씨"	num="4"	title="모아"	text="오늘도 출동하시는 거예요? 말하자면 항시대기?"	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0005"	class="엔피씨"	num="5"	title="폴"	text="어서 오십시오. 침략자가 나날이 발전하는것을 지켜보는 것도 그렇게 나쁘지 않군요."	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="부대 창설"	link2="msg_npc0020"	menu3="닫기"	link3="close"	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0006"	class="엔피씨"	num="6"	title="우주네 유령"	text="잊지않고 저를 찾아줘서 정말 고마워요."	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0007"	class="엔피씨"	num="7"	title="사빈"	text="응? 무슨 일이야? 미안하지만 난 지금 혼자 있고 싶은데... 다음에 찾아줄래?"	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0008"	class="엔피씨"	num="8"	title="포용"	text="오늘도 수고가 많다 포용! 수상한 자가 보이거든 언제든지 신고해 달라구 포요요요용~! "	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="펫 진화"	link2="petEvolve"	menu3="닫기"	link3="close"	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0009"	class="엔피씨"	num="9"	title="556"	text="하하하하하하!!! 사랑!! 사랑이란 뭐지? 그래 망설이지 않는 것이다!! \n\n수많은 악의 몬스터를 무찔러 최고가된 실력자는 사랑받을 자격이 충분하지 않은가!!\n\n자네! 사랑 받을 준비가 되어 있는지 어디 확인해 보지 않겠나??"	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="협동전 랭킹 보기"	link2="coop_rank"	menu3="닫기"	link3="close"	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0010"	class="엔피씨"	num="10"	title="라비"	text="오빠가 항상 신세를 지고 있어서 죄송합니다. 죄송합니다. \n\n 저희 오빠는 우주탐정인데 케로로 팡팡의 실력자들의 정보를 조사 중이에요. \n\n 한번 구경 하시겠어요? 굉장한 실력자들이 나타났답니다. "	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="협동전 랭킹 보기"	link2="coop_rank"	menu3="닫기"	link3="close"	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0011"	class="엔피씨"	num="11"	title="게일"	text="자 어떻습니까? 침략에 도움이 될만한 물건이 잔뜩 있습니다. 구경들 하세요."	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0012"	class="엔피씨"	num="12"	title="홍미나"	text="바이퍼가 케로로로 변장했다는데 사실이니? 어머나~ 끝내주는걸! 왠지 재미있을것 같은 소재야. 그치?"	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="진급 보상"	link2="promotion"	menu3="출석 확인"	link3="attend_event"	menu4="닫기"	link4="close"	menu5=""	link5=""	/>
+	<message msgID="npc0013"	class="엔피씨"	num="13"	title="홍미나"	text="세상에 이렇게 편히 쉴 수 있다니. 이건 다 김선생님 덕분이야. ^^ 고맙습니다~"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0014"	class="엔피씨"	num="14"	title="모아"	text="아함~! 날씨도 화창하고 오늘이라면 퍼렁별을 예쁘게 쪼갤 수 있을 것 같은데...  수면부족?"	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0015"	class="엔피씨"	num="15"	title="고양이"	text="냐옹~!"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0016"	class="엔피씨"	num="16"	title="3M"	text="점수가 낮아. 낮다고! 5cm 정도."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0017"	class="엔피씨"	num="17"	title="미스터G"	text="(대사) OK! (조명) OK! (음향) OK!"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0018"	class="엔피씨"	num="18"	title="R그레이"	text="음... 여기가 케로로 랜드란 말인가? 멋진 경치에 밀려오는 이 감동!(..전혀 그럴 일 없겠지? 응?)"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0019"	class="엔피씨"	num="19"	title="설화"	text="제법 훈련하기 좋은 날씨인걸. ^^"	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0020"	class="엔피씨"	num="20"	title="폴"	text="새로 부대를 만드시려는군요. 그렇다면 제가 도와드리죠. 먼저 부대를 만들기 위해선 두가지 조건이 있습니다.\n\n♣ 계급 : 병장1 이상 ♣ 창설비 : 30,000팡\n\n계속 진행하시겠습니까?"	variable1=""	variable2=""	variable3=""	image=""	menu1="계속 진행"	link1="corporation_condition"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0021"	class="엔피씨"	num="21"	title="폴"	text="음... 아직 부대를 만들기엔 실력이 부족하십니다.\n나중에 다시 오시지요.\n\n※ 계급이 창설 조건보다 낮거나, 팡이 부족합니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0022"	class="엔피씨"	num="22"	title="폴"	text="부대를 만들기에 전혀 부족함이 없어 보이는군요.\n좋습니다. 이제 본격적으로 부대를 만들어 보실까요?"	variable1=""	variable2=""	variable3=""	image=""	menu1="계속 진행"	link1="corporation_create"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0023"	class="엔피씨"	num="23"	title="폴"	text="부대가 창설되었습니다. 축하합니다.\n\n하지만, 이게 시작입니다. 더 크고 강력한 부대로 만들기 위해서는 믿고 의지할 동료를 모으고 더 열심히 노력해야 합니다.\n\n그럼 건투를 빕니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0024"	class="엔피씨"	num="24"	title="홍미나"	text="어디 얼마나 자주 들어왔는지 확인해볼까?\n\n총 출석일 : %s일\n연속 출석 : %s일\n\n용돈받는 날 : %s일 후"	variable1=""	variable2=""	variable3=""	image=""	menu1="출석비 받기"	link1="get_attendance_money"	menu2="용돈 받기"	link2="get_pocket_money"	menu3="닫기"	link3="close"	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0025"	class="엔피씨"	num="25"	title="홍미나"	text="오늘 연속 출석비는 이미 받았으니 내일 꼭 출석해서 다시 받아가렴."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0026"	class="엔피씨"	num="26"	title="홍미나"	text="안돼. 연속 출석비는 2일 이상 연속으로 출석해야만 줄 수 있으니 내일 꼭 출석해서 받아가길 바래."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0027"	class="엔피씨"	num="27"	title="홍미나"	text="용돈을 받아간지 아직 얼마되지 않은것 같은데…\n용돈날까지 얼마나 남았는지 다시 확인해볼래?"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0028"	class="엔피씨"	num="28"	title="홍미나"	text="[일병1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 2,000팡. 행운상자(5개)\n\n[다음 보상]\n♣ [상병1] 진급 시 : 권총 - 케론 파이브. 3,000팡.\n♣ [병장1] 진급 시 : 4,000팡. 야간전투복(7일). 황금열쇠(2개)."	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0029"	class="엔피씨"	num="29"	title="홍미나"	text="[상병1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 권총 - 케론 파이브. 3,000팡.\n\n[다음 보상]\n♣ [병장1] 진급 시 : 4,000팡. 야간전투복(7일). 황금열쇠(2개).\n♣ [하사1] 진급 시 : 자동소총 - 케론 어설트"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0030"	class="엔피씨"	num="30"	title="홍미나"	text="[병장1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 4,000팡. 야간전투복(7일). 황금열쇠(2개).\n\n[다음 보상]\n♣ [하사1] 진급 시 : 자동소총 - 케론 어설트\n♣ [중사1] 진급 시 : 7,000팡"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0031"	class="엔피씨"	num="31"	title="홍미나"	text="[하사1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 자동소총 - 케론 어설트\n\n[다음 보상]\n♣ [중사1] 진급 시 : 7,000팡\n♣ [상사1] 진급 시 : 산탄총 - 케론 스파스"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0032"	class="엔피씨"	num="32"	title="홍미나"	text="[중사1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 7,000팡\n\n[다음 보상]\n♣ [상사1] 진급 시 : 산탄총 - 케론 스파스\n♣ [원사1] 진급 시 : 10,000팡"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0033"	class="엔피씨"	num="33"	title="홍미나"	text="[상사1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 산탄총 - 케론 스파스\n\n[다음 보상]\n♣ [원사1] 진급 시 : 10,000팡\n♣ [소위1] 진급 시 : 기관총 - 케론 서포트"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0034"	class="엔피씨"	num="34"	title="홍미나"	text="[원사1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 10,000팡\n\n[다음 보상]\n♣ [소위1] 진급 시 : 기관총 - 케론 서포트\n♣ [중위1] 진급 시 : 15,000팡"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0035"	class="엔피씨"	num="35"	title="홍미나"	text="[소위1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 기관총 - 케론 서포트\n\n[다음 보상]\n♣ [중위1] 진급 시 : 15,000팡\n♣ [대위1] 진급 시 : 로켓포 - 케론 하이파워"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0036"	class="엔피씨"	num="36"	title="홍미나"	text="[중위1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 15,000팡\n\n[다음 보상]\n♣ [대위1] 진급 시 : 로켓포 - 케론 하이파워\n♣ [소령1] 진급 시 : 30,000팡"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0037"	class="엔피씨"	num="37"	title="홍미나"	text="[대위1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 로켓포 - 케론 하이파워\n\n[다음 보상]\n♣ [소령1] 진급 시 : 30,000팡\n♣ [중령1] 진급 시 : 저격총 - 케론 롱레인저"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0038"	class="엔피씨"	num="38"	title="홍미나"	text="[소령1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 30,000팡\n\n[다음 보상]\n♣ [중령1] 진급 시 : 저격총 - 케론 롱레인저\n♣ [대령1] 진급 시 : 50,000팡"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0039"	class="엔피씨"	num="39"	title="홍미나"	text="[중령1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 저격총 - 케론 롱레인저\n\n[다음 보상]\n♣ [대령1] 진급 시 : 50,000팡\n♣ [준장] 진급 시 : 75,000팡"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0040"	class="엔피씨"	num="40"	title="홍미나"	text="[대령1] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 50,000팡\n\n[다음 보상]\n♣ [준장] 진급 시 : 75,000팡\n♣ [소장] 진급 시 : 100,000팡"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0041"	class="엔피씨"	num="41"	title="홍미나"	text="[준장] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 75,000팡\n\n[다음 보상]\n♣ [소장] 진급 시 : 100,000팡\n♣ [중장] 진급 시 : 125,000팡"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0042"	class="엔피씨"	num="42"	title="홍미나"	text="[소장] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 100,000팡\n\n[다음 보상]\n♣ [중장] 진급 시 : 125,000팡\n♣ [대장] 진급 시 : 100,000팡"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0043"	class="엔피씨"	num="43"	title="홍미나"	text="[중장] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 125,000팡\n\n[다음 보상]\n♣ [대장] 진급 시 : 150,000팡"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0044"	class="엔피씨"	num="44"	title="홍미나"	text="[대장] 계급이 되면 축하 보상을 줄테니 잊지말고 꼭 말해주렴.\n\n♣ 진급 보상 : 150,000팡"	variable1=""	variable2=""	variable3=""	image=""	menu1="보상 받기"	link1="get_promotion_money"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0045"	class="엔피씨"	num="45"	title="홍미나"	text="아직 진급 보상을 받을 수 있는 계급이 되지 못했구나.\n조금만 더 열심히 하면 금방 받을 수 있겠는걸?\n그럼 파이팅~!"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0046"	class="엔피씨"	num="46"	title="폴"	text="새로 부대를 만드시려는군요. 죄송하지만 지금 부대 창설 절차를 열심히 개발 중이니 조금 더 기다려 주셔야 겠습니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0047"	class="엔피씨"	num="47"	title="홍미나"	text="이런 깜박하고 출석부를 안가져왔네. 미안한데 출석부를 가져올 때까지 조금만 더 기다려줄래?"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0048"	class="엔피씨"	num="48"	title="우주"	text="미안한데 잘못 찾아온 것 같아. 다른 사람들에게 찾아가볼래?\n★케로로 선물 지급★\n\n♣ 기로로 → 한별\n♣ 타마마 → 나라\n♣ 쿠루루 → 사빈\n♣ 도로로 → 설화"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0049"	class="엔피씨"	num="49"	title="한별"	text="네 것은 다른 사람이 가지고 있을꺼야.\n★기로로 선물 지급★\n\n♣ 케로로 → 우주\n♣ 타마마 → 나라\n♣ 쿠루루 → 사빈\n♣ 도로로 → 설화"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0050"	class="엔피씨"	num="50"	title="나라"	text="다른 사람들에게 찾아가 봐야할 것 같은데.\n★타마마 선물 지급★\n\n♣ 케로로 → 우주\n♣ 기로로 → 한별\n♣ 쿠루루 → 사빈\n♣ 도로로 → 설화"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0051"	class="엔피씨"	num="51"	title="사빈"	text="미안. 다른 사람들에게 물어봐.\n★쿠루루 선물 지급★\n\n♣ 케로로 → 우주\n♣ 기로로 → 한별\n♣ 타마마 → 나라\n♣ 도로로 → 설화"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0052"	class="엔피씨"	num="52"	title="설화"	text="다른 사람들에게 찾아가봐. 난 안 가지고 있어.\n★도로로 선물 지급★\n\n♣ 케로로 → 우주\n♣ 기로로 → 한별\n♣ 타마마 → 나라\n♣ 쿠루루 → 사빈"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0053"	class="엔피씨"	num="53"	title="우주"	text="선물은 벌써 받았었는걸. 다시 잘 확인해봐.\n\n※ 선물은 한 계정당 한번만 받으실 수 있습니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0054"	class="엔피씨"	num="54"	title="한별"	text="은근히 욕심이 많은걸. 선물은 이미 받아갔잖아!\n\n※ 선물은 한 계정당 한번만 받으실 수 있습니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0055"	class="엔피씨"	num="55"	title="나라"	text="으으으~ !! 내가 준 선물을 벌써 잃어버린거냐!!!! 빨리 찾아오지 못해! ＃＆＊＠§\n\n※ 선물은 한 계정당 한번만 받으실 수 있습니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0056"	class="엔피씨"	num="56"	title="사빈"	text="뭐야? 너 답지 않게 선물에 욕심부리는 건 아니겠지? 선물은 한번뿐이야.\n\n※ 선물은 한 계정당 한번만 받으실 수 있습니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0057"	class="엔피씨"	num="57"	title="설화"	text="은신을 한다고 선물이 없어지진 않아. 다시 확인해봐.\n\n※ 선물은 한 계정당 한번만 받으실 수 있습니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0058"	class="엔피씨"	num="58"	title="홍미나"	text="어머! 오늘은 벌써 세배를 하고 세배돈을 받아가지 않았니? 내일 다시 오렴.\n\n※ 세배돈은 연휴 기간동안 하루에 한번씩만 받으실 수 있습니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0059"	class="엔피씨"	num="59"	title="꼬마 쿠루루 "	text="귀여운 천재 꼬마 케론인 꼬마 쿠루루 \n 잘부탁한다고 끄끄끄\n\n※꼬마 쿠루루는 상점에서 만나실 수 있습니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0060"	class="엔피씨"	num="60"	title="기로로"	text="이제 곧 월드컵이다!!\n퍼렁별 침략 활동은 잠시 접어두고 모두 함께 응원하는 거다!\n두둠 둠 둠 둠 대~한~민~국!!"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0061"	class="엔피씨"	num="61"	title="쿠루루"	text="쿠~쿠쿠~\n이번 월드컵을 기념으로 이 쿠루루님이 만든 신형 월드컵 유니폼.\n이걸 입으면 3배는 더 빨라진다고~ 쿠~쿠쿠~\n모두 함께 응원하자구~\n대~한~민~국!!\n쿠~쿠쿠~"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0062"	class="엔피씨"	num="62"	title="나라"	text="나라그룹에서 발행한 쿠폰을 가져온거니? 나에게 쿠폰 번호를 알려주면 아이템으로 바꿔줄께.\n\n※ 쿠폰 번호는 8자리 또는 16자리입니다.\n※ 한번 사용된 쿠폰은 다시 사용할 수 없습니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="쿠폰 번호 입력"	link1="coupon"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0063"	class="엔피씨"	num="63"	title="스모모  "	text="안녕 여러분의 아이돌 스모모에요. \n\n방학 기간을 맞이하여 여러분에게 드리는 스모모의 선물이에요 \n\n단 이 스모모가 내주는 숙제를 완료 해야만 선물을 받을 수 있다는거 명심하세요^^"	variable1=""	variable2=""	variable3=""	image=""	menu1="소원카드 열기"	link1="wish_event"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0064"	class="엔피씨"	num="64"	title="스모모  "	text="다른 일정이 있어서 이 스모모는 이만 여러분과 헤어져야 겠어요~다음에 만날때까지 모두들 안녕!!"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0065"	class="엔피씨"	num="65"	title="우주 상인"	text="어서 오도록해. 난 진귀한 우주 보물을 모으는게 나의 취미지. 만약 가지고 있다면 나에게 가져오렴."	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="경매장"	link2="auction_show"	menu3="닫기"	link3="close"	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0066"	class="엔피씨"	num="66"	title="압축이"	text="압축이에게 아이템을 주고 새로운 아이템을 받아가세요."	variable1=""	variable2=""	variable3=""	image=""	menu1="아이템 압축"	link1="recycle"	menu2="닫기"	link2="close"	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0067"	class="엔피씨"	num="67"	title="요리사"	text="우리는 별들을 떠도는 방랑 요리사. \n요리의 달인 미누미누와 고미고미예요!!\n낚시를 해서 재료를 얻어오면 요리를 알려줄께요."	variable1=""	variable2=""	variable3=""	image=""	menu1="퀘스트"	link1="quest"	menu2="요리 하기"	link2="cooking"	menu3="닫기"	link3="close"	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0068"	class="엔피씨"	num="68"	title="556"	text="하하하하하하!!! 자넨 이미 받았지 않은가!! 욕심쟁이군 그래~ 하하하하하하!!!"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0069"	class="엔피씨"	num="69"	title="556"	text="하하하하하하!!! 자네 잘못 찾아왔군!! 다른 곳으로 가보게~"	variable1=""	variable2=""	variable3=""	image=""	menu1="닫기"	link1="close"	menu2=""	link2=""	menu3=""	link3=""	menu4=""	link4=""	menu5=""	link5=""	/>
+	<message msgID="npc0070"	class="엔피씨"	num="70"	title="황금동상"	text="아이템 교환소입니다."	variable1=""	variable2=""	variable3=""	image=""	menu1="아이템 교환"	link1="badgeshop"	menu2="동전 교환"	link2="coinshop"	menu3="닫기"	link3="close"	menu4=""	link4=""	menu5=""	link5=""	/>
+</MessageList.XML>
+<LinkType>
+	<!-- link type이 더 필요한경우 프로그램팀에 요청해주세요 -->
+	<link id="0" name="none" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<link id="1" name="close" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<link id="2" name="tutorial" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<link id="3" name="gameroomlist_show" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<link id="4" name="myinfo_show" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<link id="5" name="itemshop_show" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<link id="6" name="option_show" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!-- 진급 축하금 , 2 메시지 ID시작번호-->
+	<link id="7" name="promotion" temp1="npc" temp2="28" temp3="%s%04d" temp4="" temp5=""/>
+	<!--친급 축하 보상 받기 1 메시지 num, 2 보상 받을 수 없을때 메시지id -->
+	<link id="8" name="get_promotion_money" temp1="28" temp2="npc0045" temp3="" temp4="" temp5=""/>
+	<!--부대 창설 조건 검색 1 부대생성가능, 2 부대생성 불가능-->
+	<link id="9" name="corporation_condition" temp1="npc0022" temp2="npc0021" temp3="" temp4="" temp5=""/>
+	<!--부대 창설 1 부대 창설 완료-->
+	<link id="10" name="corporation_create" temp1="npc0023" temp2="" temp3="" temp4="" temp5=""/>
+	<!--개발노트-->
+	<link id="11" name="show_devnote" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--쿠폰-->
+	<link id="12" name="coupon" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--출석체크-->
+	<link id="14" name="attend_event" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--협동전 랭킹-->
+	<link id="15" name="coop_rank" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--시즌 이벤트-->
+	<link id="16" name="season_event" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--소원 이벤트-->
+	<link id="17" name="wish_event" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--경매장-->
+	<link id="18" name="auction_show" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--재활용 자판기-->
+	<link id="19" name="recycle" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--요리사-->
+	<link id="20" name="cooking" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--퀘스트-->
+	<link id="21" name="quest" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--인첸트-->
+	<link id="22" name="enchant" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--펫 진화-->
+	<link id="23" name="petEvolve" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--훈장교환소-->
+	<link id="24" name="badgeshop" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--동전교환-->
+	<link id="25" name="coinshop" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+	<!--리그전 랭킹-->
+	<link id="27" name="league_rank" temp1="" temp2="" temp3="" temp4="" temp5=""/>
+</LinkType>

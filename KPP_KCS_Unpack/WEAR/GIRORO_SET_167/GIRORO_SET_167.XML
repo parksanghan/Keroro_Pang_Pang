@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keron_body_167 file="keron_body_167.msh" />
+ <giroro_head_167 file="giroro_head_167.msh" />
+</Objects>
+<Materials version="2">
+  <mkeron_body_167
+    diffuse="keron_body_167.dds"
+    color="149 149 149"
+  />
+  <mgiroro_head_167
+    diffuse="giroro_head_167.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="reinforce_7" engName="reinforce_4" code="155189252" teamId="0" spawnId="0" posX="19.3801" posY="0.320005" posZ="7.99002" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="restoration_1" engName="restoration_1" code="154140673" teamId="0" spawnId="1" posX="2" posY="0.04" posZ="-2" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="reinforce_1" engName="reinforce_1" code="155189249" teamId="0" spawnId="2" posX="7" posY="0.03" posZ="-8" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="NONE_TYPE" engName="Moa" code="18415617" teamId="0" spawnId="3" posX="32.32" posY="3.46" posZ="-0.7" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="goal" engName="clone goal" code="117506074" teamId="1" spawnId="4" posX="2.74006" posY="0" posZ="-16.24" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="goal" engName="keroro goal" code="117506073" teamId="0" spawnId="5" posX="-17.08" posY="0" posZ="-20.38" angleY="180" scale="1" radius="-0.1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn001" engName="Platoon_Keroro" code="0" teamId="0" spawnId="6" posX="-18" posY="0.05" posZ="1" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn002" engName="Platoon_Keroro" code="0" teamId="0" spawnId="7" posX="9" posY="0.05" posZ="8" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn003" engName="Platoon_Keroro" code="0" teamId="0" spawnId="8" posX="17" posY="0.05" posZ="-8" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn004" engName="Platoon_Keroro" code="0" teamId="0" spawnId="9" posX="4" posY="0.05" posZ="-5" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn005" engName="Platoon_Keroro" code="0" teamId="0" spawnId="10" posX="19" posY="0.05" posZ="-18" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn006" engName="Platoon_Keroro" code="0" teamId="0" spawnId="11" posX="11" posY="0.05" posZ="-23" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="keroball" engName="keroball" code="117702674" teamId="0" spawnId="12" posX="9.44999" posY="0.37" posZ="-16.3299" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn007" engName="Platoon_Keroro" code="0" teamId="0" spawnId="13" posX="26.41" posY="1.09" posZ="-9.01002" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn008" engName="Platoon_Keroro" code="0" teamId="0" spawnId="14" posX="31.7701" posY="1.82" posZ="-8.60002" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn009" engName="Platoon_Keroro" code="0" teamId="0" spawnId="15" posX="29.76" posY="1.41" posZ="-12.84" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn010" engName="Platoon_Keroro" code="0" teamId="0" spawnId="16" posX="30.6801" posY="2.02" posZ="-16.6301" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn011" engName="Platoon_Keroro" code="0" teamId="0" spawnId="17" posX="27.8301" posY="1.01" posZ="-6.07001" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn012" engName="Platoon_Keroro" code="0" teamId="0" spawnId="18" posX="25.66" posY="1.01" posZ="-4.88002" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="defense_2" engName="defense_2" code="153092098" teamId="0" spawnId="19" posX="4" posY="0" posZ="-0.0299998" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="reinforce_2" engName="reinforce_2" code="155189250" teamId="0" spawnId="20" posX="-1" posY="0" posZ="-6.66999" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn013" engName="Platoon_Keroro" code="0" teamId="0" spawnId="21" posX="-1" posY="0" posZ="-6.68002" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn014" engName="Platoon_Keroro" code="0" teamId="0" spawnId="22" posX="9" posY="0" posZ="-9" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn015" engName="Platoon_Keroro" code="0" teamId="0" spawnId="23" posX="4" posY="0" posZ="0" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn016" engName="Platoon_Keroro" code="0" teamId="0" spawnId="24" posX="20" posY="0" posZ="-15" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn017" engName="Platoon_Keroro" code="0" teamId="0" spawnId="25" posX="21" posY="0" posZ="-20" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn018" engName="Platoon_Keroro" code="0" teamId="0" spawnId="26" posX="16" posY="0" posZ="-16" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="training_spawn019" engName="Platoon_Keroro" code="0" teamId="0" spawnId="27" posX="17" posY="0" posZ="-20" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

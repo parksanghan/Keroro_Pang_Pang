@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <goldstatue file="goldstatue.msh" />
+</Objects>
+<Materials version="2">
+  <mlob_kerostarcin
+    diffuse="goldstatue.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="goldstatue.skl"
+/>
+<BoneAnim
+  file="Anims\goldstatue.anm"
+/>
+<collision
+  file="goldstatue.col"
+/>
+</Scene.XML>

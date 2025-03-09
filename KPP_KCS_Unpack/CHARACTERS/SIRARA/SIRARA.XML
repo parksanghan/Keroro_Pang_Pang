@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <sirara_face_000 file="sirara_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <msirara_face_000
+    diffuse="sirara_face_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Sirara.skl"
+/>
+<collision
+  file="Sirara.col"
+/>
+</Scene.XML>

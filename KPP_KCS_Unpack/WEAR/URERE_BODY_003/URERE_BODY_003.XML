@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <urere_body_003 file="urere_body_003.msh" />
+</Objects>
+<Materials version="2">
+  <murere_body_003
+    diffuse="urere_body_003.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

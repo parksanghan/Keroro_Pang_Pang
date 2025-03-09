@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="bamboo_grove/bamboo_grove.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="keron dummy" code="119603212" yLayer="0" posX="-15" posY="0" posZ="-3" angleX="0" angleY="42" angleZ="0" scale="1"/>
+	<Object engName="keron dummy" code="119603212" yLayer="0" posX="-12" posY="0" posZ="2" angleX="0" angleY="205" angleZ="0" scale="1"/>
+	<Object engName="keron dummy" code="119603212" yLayer="0" posX="-18" posY="0" posZ="1" angleX="0" angleY="146" angleZ="0" scale="1"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-9.34999" posY="0" posZ="-21" angleX="0" angleY="72" angleZ="0" scale="1"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-6.6" posY="0" posZ="-21" angleX="0" angleY="0" angleZ="0" scale="1.9"/>
+	<Object engName="bamboo sheaf" code="119603210" yLayer="0" posX="-4" posY="0" posZ="-27" angleX="0" angleY="20" angleZ="0" scale="1.2"/>
+	<Object engName="basket" code="119603207" yLayer="0" posX="22" posY="0" posZ="-13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="10.3" posY="0" posZ="0.7" angleX="0" angleY="41" angleZ="0" scale="1.3"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-5.5" posY="0" posZ="1.7" angleX="0" angleY="128" angleZ="0" scale="1.3"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="1.5" posY="0" posZ="-13" angleX="0" angleY="5" angleZ="0" scale="1.3"/>
+	<Object engName="spear stone" code="119603202" yLayer="0" posX="2" posY="0" posZ="14.27" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="stone pillar" code="119603203" yLayer="0" posX="-24" posY="0" posZ="11" angleX="0" angleY="285" angleZ="0" scale="1"/>
+	<Object engName="bamboo sprout" code="119603211" yLayer="0" posX="-21" posY="0.24" posZ="21" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="ninja flag1" code="119603204" yLayer="0" posX="0" posY="0" posZ="14.13" angleX="0" angleY="15" angleZ="0" scale="1"/>
+	<Object engName="ninja flag1" code="119603204" yLayer="0" posX="7" posY="0" posZ="4" angleX="0" angleY="74" angleZ="0" scale="1"/>
+	<Object engName="ninja flag1" code="119603204" yLayer="0" posX="-6" posY="0" posZ="-14.5" angleX="0" angleY="201" angleZ="0" scale="1"/>
+	<Object engName="spear stone" code="119603202" yLayer="0" posX="-4" posY="0" posZ="-14" angleX="0" angleY="-17" angleZ="0" scale="1"/>
+	<Object engName="spear stone" code="119603202" yLayer="0" posX="15" posY="0" posZ="-1" angleX="0" angleY="31" angleZ="0" scale="1"/>
+	<Object engName="stone pillar" code="119603203" yLayer="0" posX="29" posY="0" posZ="-2" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="basket" code="119603207" yLayer="0" posX="22.03" posY="0.061993" posZ="-16" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo sheaf" code="119603210" yLayer="0" posX="32" posY="0" posZ="-9" angleX="0" angleY="28" angleZ="0" scale="0.9"/>
+	<Object engName="bamboo sprout" code="119603211" yLayer="0" posX="31" posY="0" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="1.7"/>
+	<Object engName="keron dummy" code="119603212" yLayer="0" posX="18" posY="0" posZ="-15.5" angleX="0" angleY="146" angleZ="0" scale="1"/>
+	<Object engName="declaration" code="119603208" yLayer="0" posX="-20.72" posY="0.25" posZ="15" angleX="0" angleY="350" angleZ="0" scale="1"/>
+	<Object engName="declaration" code="119603208" yLayer="0" posX="31" posY="0" posZ="-6" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="declaration" code="119603208" yLayer="0" posX="4" posY="0.39" posZ="19" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo sprout" code="119603211" yLayer="0" posX="-26" posY="0" posZ="-12" angleX="0" angleY="0" angleZ="0" scale="1.7"/>
+	<Object engName="bamboo sprout" code="119603211" yLayer="0" posX="-28" posY="0" posZ="6" angleX="0" angleY="0" angleZ="0" scale="1.7"/>
+	<Object engName="dororo wooden box" code="117506054" yLayer="0" posX="7" posY="0" posZ="-19" angleX="0" angleY="37" angleZ="0" scale="1.3"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="1" posY="0" posZ="-20" angleX="0" angleY="63" angleZ="0" scale="1.7"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="10.8" posY="0" posZ="7" angleX="0" angleY="42" angleZ="0" scale="1.5"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="13" posY="0" posZ="7" angleX="0" angleY="30" angleZ="0" scale="1.7"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="15" posY="0" posZ="8" angleX="0" angleY="30" angleZ="0" scale="0.9"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-15.4" posY="0" posZ="10" angleX="0" angleY="9" angleZ="0" scale="0.9"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-17.305" posY="-9e-006" posZ="10" angleX="0" angleY="45" angleZ="0" scale="1.8"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="-21" posY="0" posZ="7" angleX="0" angleY="9" angleZ="0" scale="1.4"/>
+	<Object engName="giroro wooden box" code="117506052" yLayer="0" posX="9" posY="0" posZ="-15" angleX="0" angleY="73" angleZ="0" scale="1.9"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="26.19" posY="0" posZ="-2" angleX="0" angleY="0" angleZ="0" scale="1.8"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="4.97" posY="-5.3e-005" posZ="-22" angleX="0" angleY="22" angleZ="0" scale="1"/>
+	<Object engName="straw sheaf" code="117506064" yLayer="0" posX="7" posY="0" posZ="-24" angleX="0" angleY="31" angleZ="0" scale="2.1"/>
+	<Object engName="ninja flag2" code="119603205" yLayer="0" posX="17" posY="0" posZ="-1" angleX="0" angleY="20" angleZ="0" scale="1"/>
+	<Object engName="lamplight" code="119603206" yLayer="0" posX="10" posY="0" posZ="-5" angleX="0" angleY="23" angleZ="0" scale="0.7"/>
+	<Object engName="lamplight" code="119603206" yLayer="0" posX="11" posY="0" posZ="-9" angleX="0" angleY="23" angleZ="0" scale="0.7"/>
+	<Object engName="mushroom wood" code="117506065" yLayer="0" posX="-27" posY="0" posZ="-1" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ninja flag2" code="119603205" yLayer="0" posX="-2" posY="0" posZ="5" angleX="0" angleY="20" angleZ="0" scale="1"/>
+	<Object engName="turtle stone" code="119603201" yLayer="0" posX="16.19" posY="0" posZ="-7.59001" angleX="0" angleY="0" angleZ="0" scale="1.6"/>
+	<Object engName="ninja flag1" code="119603204" yLayer="0" posX="-10" posY="0" posZ="-2" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ninja flag2" code="119603205" yLayer="0" posX="-13" posY="0" posZ="-7" angleX="0" angleY="213" angleZ="0" scale="1"/>
+	<Object engName="keron dummy 2" code="119603213" yLayer="0" posX="-1.06635" posY="-6.10352e-006" posZ="-4.82641" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="keron dummy 3" code="119603214" yLayer="0" posX="3.03359" posY="-1.83105e-005" posZ="-1.82717" angleX="0" angleY="200" angleZ="0" scale="1"/>
+	<Object engName="keron dummy 4" code="119603215" yLayer="0" posX="6.30939" posY="0.0199951" posZ="-7.12416" angleX="0" angleY="300" angleZ="0" scale="1"/>
+	<Object engName="bamboo_wood_bush" code="127991824" yLayer="0" posX="7.33001" posY="0.2" posZ="18.1199" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo_wood_bush" code="127991824" yLayer="0" posX="-3" posY="-0.1" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo_wood_bush" code="127991824" yLayer="0" posX="-7" posY="-0.11" posZ="-27" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo_wood_bush" code="127991824" yLayer="0" posX="17" posY="0" posZ="-25" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo_wood_bush" code="127991824" yLayer="0" posX="-18" posY="0.2" posZ="17" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo_wood_bush" code="127991824" yLayer="0" posX="-27" posY="-0.06" posZ="2.72" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo_wood_bush" code="127991824" yLayer="0" posX="32" posY="-0.1" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo sheaf" code="119603210" yLayer="0" posX="-30" posY="-2.07" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="bamboo_wood_bush" code="127991824" yLayer="0" posX="-2" posY="-0.1" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo_wood_bush" code="127991824" yLayer="0" posX="16" posY="-0.1" posZ="-7.72" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo_wood_bush" code="127991824" yLayer="0" posX="-2" posY="-0.1" posZ="-11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ghost file="ghost.msh" />
+</Objects>
+<Materials version="2">
+  <mghost_000
+    diffuse="ghost1.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="ghost1.skl"
+/>
+<BoneAnim
+  file="Anims\ghost1.anm"
+/>
+<collision
+  file="ghost1.col"
+/>
+</Scene.XML>

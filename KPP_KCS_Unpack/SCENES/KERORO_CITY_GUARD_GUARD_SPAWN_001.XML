@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="playerSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="40" posY="1.56" posZ="-44" angleY="270" scale="1" radius="3" respawnTime="1" msgId="0"/>
+	<spawn type="playerSpawnZone" engName="Viper" code="19922945" teamId="1" spawnId="0" posX="-42.9201" posY="1.56" posZ="-47.1699" angleY="97" scale="1" radius="2" respawnTime="1" msgId="1"/>
+	<spawn type="playerSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="-27.2" posY="1.55" posZ="-60" angleY="30" scale="1" radius="2" respawnTime="1" msgId="0"/>
+	<spawn type="playerSpawnZone" engName="Viper" code="19922945" teamId="1" spawnId="0" posX="-40" posY="1.57" posZ="-5" angleY="120" scale="1" radius="2" respawnTime="1" msgId="1"/>
+	<spawn type="playerSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="1" posX="-23.3" posY="1.56" posZ="2.5" angleY="126" scale="1" radius="2" respawnTime="1" msgId="0"/>
+	<spawn type="playerSpawnZone" engName="Viper" code="19922945" teamId="1" spawnId="1" posX="37.9399" posY="1.56" posZ="1.87001" angleY="262" scale="1" radius="2" respawnTime="1" msgId="1"/>
+	<spawn type="playerSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="1" posX="-23.3" posY="1.56" posZ="2.77" angleY="99" scale="1" radius="2" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Viper" code="19922945" teamId="1" spawnId="1" posX="37.9499" posY="1.56" posZ="1.49001" angleY="271" scale="1" radius="2" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="2" posX="37.7" posY="1.56" posZ="46.6" angleY="270" scale="1" radius="2" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Viper" code="19922945" teamId="1" spawnId="2" posX="-11.6" posY="1.56" posZ="58" angleY="141" scale="1" radius="2" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="2" posX="37.99" posY="1.56" posZ="46.68" angleY="260" scale="1" radius="2" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Viper" code="19922945" teamId="1" spawnId="2" posX="-41" posY="1.56" posZ="39.8799" angleY="70" scale="1" radius="2" respawnTime="1" msgId="npc0001"/>
+	<spawn type="kerobotZone" engName="girobot_001" code="19922972" teamId="0" spawnId="3" posX="38.3" posY="1.4" posZ="-51.73" angleY="270" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="kerobotZone" engName="girobot_001" code="19922972" teamId="0" spawnId="4" posX="-19.23" posY="1.4" posZ="-24.6" angleY="0" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="kerobotZone" engName="girobot_001" code="19922972" teamId="0" spawnId="5" posX="19.8" posY="1.4" posZ="26.6" angleY="0" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="kerobotZone" engName="girobot_001" code="19922972" teamId="0" spawnId="6" posX="-35.5" posY="1.4" posZ="48.2" angleY="270" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

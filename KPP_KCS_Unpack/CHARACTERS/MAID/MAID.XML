@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <maid file="maid.msh" />
+</Objects>
+<Materials version="2">
+  <mmaid
+    diffuse="maid.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="maid.skl"
+/>
+<collision
+  file="maid.col"
+/>
+</Scene.XML>

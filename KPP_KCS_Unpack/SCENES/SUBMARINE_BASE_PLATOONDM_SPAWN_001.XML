@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="0" posX="-29.9832" posY="3.5" posZ="32.5797" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="1" posX="-33.4971" posY="2" posZ="-5.29819" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="2" posX="15" posY="0.5" posZ="31.6824" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="3" posX="29.9467" posY="3.5" posZ="-31.0369" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="4" posX="-15" posY="0.5" posZ="-31.4547" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="5" posX="33.6239" posY="2" posZ="4.74591" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="itembox" engName="defense_3" code="153092099" teamId="0" spawnId="6" posX="-5.00702" posY="0" posZ="3.20362" angleY="0" scale="0" radius="0" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="defense_3" code="153092099" teamId="0" spawnId="7" posX="0.374547" posY="0" posZ="7.84746" angleY="0" scale="0" radius="0" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="defense_3" code="153092099" teamId="0" spawnId="8" posX="5.01073" posY="0" posZ="-2.92924" angleY="0" scale="0" radius="0" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="defense_3" code="153092099" teamId="0" spawnId="9" posX="-0.261418" posY="0.019989" posZ="-7.12896" angleY="0" scale="0" radius="0" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="10" posX="-12.6943" posY="0" posZ="-0.0401245" angleY="0" scale="0" radius="0" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="11" posX="12.5648" posY="0" posZ="0.108179" angleY="0" scale="0" radius="0" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="12" posX="-7.59733" posY="0" posZ="15.0361" angleY="0" scale="0" radius="0" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="13" posX="-17.2598" posY="0" posZ="-9.69163" angleY="0" scale="0" radius="0" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="14" posX="18.2858" posY="0" posZ="8.91584" angleY="0" scale="0" radius="0" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="15" posX="7.32588" posY="0" posZ="-15.4947" angleY="0" scale="0" radius="0" respawnTime="30" msgId=""/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="39" posX="-18" posY="0" posZ="-32" angleY="90.0" scale="1.0" jumpPower="140" force="120" durationTime="3.5"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="40" posX="18" posY="0" posZ="32" angleY="270.0" scale="1.0" jumpPower="140" force="120" durationTime="3.5"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="18" posX="-32" posY="1.79" posZ="10" angleY="90" scale="1" jumpPower="200" force="180" durationTime="3.5" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="19" posX="32" posY="1.8" posZ="-10" angleY="270" scale="1" jumpPower="200" force="180" durationTime="3.5" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

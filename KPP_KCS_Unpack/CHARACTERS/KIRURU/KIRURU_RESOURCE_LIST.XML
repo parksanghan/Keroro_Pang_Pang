@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<kiruru_resource_list.xml>
+	<effects>
+		<effect name="fx_kiruru_skill_001_1.prx" />
+		<effect name="fx_kiruru_skill_001_2.prx" />
+		<effect name="fx_kiruru_skill_001_3.prx" />
+		<effect name="fx_kiruru_skill_002_1.prx" />
+		<effect name="fx_kiruru_skill_002_2.prx" />
+		<effect name="fx_kiruru_skill_002_3.prx" />
+		<effect name="fx_kiruru_skill_003_1.prx" />
+		<effect name="fx_kiruru_skill_003_2.prx" />
+		<effect name="fx_kiruru_skill_003_3.prx" />
+		<effect name="fx_kiruru_skill_003_4.prx" />
+		<effect name="fx_kiruru_skill_003_5_1.prx" />
+		<effect name="fx_kiruru_skill_003_5_2.prx" />
+		<effect name="fx_kiruru_skill_003_5_3.prx" />
+		<effect name="fx_kiruru_skill_003_6.prx" />
+		<effect name="fx_kiruru_skill_003_7.prx" />
+	</effects>
+</kiruru_resource_list.xml>

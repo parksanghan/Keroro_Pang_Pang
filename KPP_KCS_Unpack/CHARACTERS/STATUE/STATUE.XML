@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <statue file="statue.msh" />
+</Objects>
+<Materials version="2">
+  <mstatue_000
+    diffuse="statue.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="statue.skl"
+/>
+<collision
+  file="statue.col"
+/>
+</Scene.XML>

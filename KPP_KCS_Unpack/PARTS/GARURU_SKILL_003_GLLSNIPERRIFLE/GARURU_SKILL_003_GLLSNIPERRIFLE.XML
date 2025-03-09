@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <garuru_skill_003_gllsniperrifle file="garuru_skill_003_gllsniperrifle.msh" />
+</Objects>
+<Materials version="2">
+  <m01_-_Default
+    diffuse="sniper_damage_008.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="garuru_skill_003_gllsniperrifle.skl"
+/>
+<BoneAnim
+  file="Anims\garuru_skill_003_gllsniperrifle.anm"
+/>
+<collision
+  file="garuru_skill_003_gllsniperrifle.col"
+/>
+</Scene.XML>

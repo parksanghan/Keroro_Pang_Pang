@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <securobot file="securobot.msh" />
+</Objects>
+<Materials version="2">
+  <msecurobot
+    diffuse="securobot.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="securobot.skl"
+/>
+<BoneAnim
+  file="Anims\securobot.anm"
+/>
+<collision
+  file="securobot.col"
+/>
+</Scene.XML>

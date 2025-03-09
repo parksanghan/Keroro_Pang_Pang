@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <set_4Rbarracks03 file="set_4Rbarracks03.msh" />
+</Objects>
+<Materials version="2">
+  <msec_barracks03_001
+    diffuse="sec_barracks03_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="security_test_4r_metal_002.col"
+/>
+</Scene.XML>

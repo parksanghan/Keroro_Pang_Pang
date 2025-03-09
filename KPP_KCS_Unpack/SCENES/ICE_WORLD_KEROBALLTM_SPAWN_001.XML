@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="goal" engName="keroro goal" code="117506073" teamId="0" spawnId="0" posX="22.5" posY="2.5" posZ="16" angleY="180" scale="0.7" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="keroball" engName="keroball" code="117702674" teamId="0" spawnId="1" posX="0" posY="4.7" posZ="0" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="goal" engName="clone goal" code="117506074" teamId="1" spawnId="2" posX="-22.5" posY="2.5" posZ="-16" angleY="180" scale="0.7" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="3" posX="3.4" posY="2.7" posZ="-16.4" angleY="0" scale="1" radius="1" jumpPower="150" force="110" durationTime="3.5" espawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="4" posX="-3.4" posY="2.7" posZ="16.4" angleY="180" scale="1" radius="1" jumpPower="150" force="110" durationTime="3.5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="5" posX="-28" posY="10" posZ="-28" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="6" posX="-22.3983" posY="1.5" posZ="-28.0207" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="7" posX="3.31706" posY="1.5" posZ="-23.0143" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="8" posX="-24.9928" posY="1.5" posZ="-0.278676" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="9" posX="24.9135" posY="1.5" posZ="-9.31055" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="10" posX="28" posY="10" posZ="28" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="11" posX="22.2745" posY="1.5" posZ="28.0134" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="12" posX="-3.24449" posY="1.5" posZ="23.1684" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="13" posX="24.9858" posY="1.5" posZ="0.664267" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRushSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="14" posX="-24.8617" posY="1.5" posZ="9.23976" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_LobbyNPC" engName="MomBear" code="19922957" teamId="0" spawnId="15" posX="31" posY="0.874" posZ="33" angleY="215" scale="1" radius="1" respawnTime="1" msgId=""/>
+	<spawn type="obj_LobbyNPC" engName="BabyBear" code="19922956" teamId="0" spawnId="16" posX="31" posY="0.874" posZ="33" angleY="215" scale="1" radius="1" respawnTime="1" msgId=""/>
+	<spawn type="obj_LobbyNPC" engName="MomBear" code="19922957" teamId="0" spawnId="17" posX="-31" posY="0.874" posZ="-213" angleY="215" scale="1" radius="1" respawnTime="1" msgId=""/>
+	<spawn type="obj_LobbyNPC" engName="BabyBear" code="19922956" teamId="0" spawnId="18" posX="-31" posY="0.874" posZ="-213" angleY="215" scale="1" radius="1" respawnTime="1" msgId=""/>
+</SPAWN.XML>

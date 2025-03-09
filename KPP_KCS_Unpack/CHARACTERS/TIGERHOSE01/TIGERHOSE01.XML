@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tigerhose file="tigerhose.msh" />
+</Objects>
+<Materials version="2">
+  <mtigerhose
+    diffuse="tigerhose.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="tigerhose01.skl"
+/>
+<collision
+  file="tigerhose01.col"
+/>
+</Scene.XML>

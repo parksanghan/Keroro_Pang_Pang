@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pururu_body_200 file="pururu_body_200.msh" />
+</Objects>
+<Materials version="2">
+  <mpururu_body_200
+    diffuse="pururu_body_200.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Rviper_body file="Rviper_body.msh" />
+ <Rviper_head file="Rviper_head.msh" />
+</Objects>
+<Materials version="2">
+  <mRviper_body
+    diffuse="Rviper_body.dds"
+    color="149 149 149"
+  />
+  <mRviper_head
+    diffuse="Rviper_head.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Rviper.skl"
+/>
+<collision
+  file="Rviper.col"
+/>
+</Scene.XML>

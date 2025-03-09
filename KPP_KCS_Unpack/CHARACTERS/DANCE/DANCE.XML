@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <dance file="dance.msh" />
+</Objects>
+<Materials version="2">
+  <mdance
+    diffuse="dance.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Dance.skl"
+/>
+<BoneAnim
+  file="Anims\Dance.anm"
+/>
+<collision
+  file="Dance.col"
+/>
+</Scene.XML>

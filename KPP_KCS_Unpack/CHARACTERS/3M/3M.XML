@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <3m_000 file="3m_000.msh" />
+</Objects>
+<Materials version="2">
+  <m3m_000
+    diffuse="3m_000.dds"
+    color="97 97 97"
+  />
+</Materials>
+<Skeleton
+  file="3M.skl"
+/>
+<collision
+  file="3M.col"
+/>
+</Scene.XML>

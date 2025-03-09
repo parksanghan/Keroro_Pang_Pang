@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keron_set_214 file="keron_set_214.msh" />
+</Objects>
+<Materials version="2">
+  <mkeron_set_214
+    diffuse="keron_set_214.dds"
+    color="149 149 149"
+  />
+</Materials>
+<BoneAnim
+  file="Anims\keron_set_214.anm"
+/>
+</Scene.XML>

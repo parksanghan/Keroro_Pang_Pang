@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <spacetime_plant_001 file="spacetime_plant_001.msh" />
+</Objects>
+<Materials version="2">
+  <mspacetime_plant_001_01_id01
+    diffuse="spacetime_glass_nyh001.dds"
+    color="255 255 255"
+  />
+  <mspacetime_plant_001_01_id02
+    diffuse="spgroundoutline_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspacetime_plant_001_01_id03
+    diffuse="spplant_nyh001_03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="spacetime_plant_001.col"
+/>
+</Scene.XML>

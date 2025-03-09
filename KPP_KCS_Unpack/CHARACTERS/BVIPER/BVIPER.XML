@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Bviper_body file="Bviper_body.msh" />
+ <Bviper_head file="Bviper_head.msh" />
+</Objects>
+<Materials version="2">
+  <mBviper_body
+    diffuse="Bviper_body.dds"
+    color="149 149 149"
+  />
+  <mBviper_head
+    diffuse="Bviper_head.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Bviper.skl"
+/>
+<collision
+  file="Bviper.col"
+/>
+</Scene.XML>

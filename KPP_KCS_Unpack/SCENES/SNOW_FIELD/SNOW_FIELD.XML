@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pk_sphere01 file="pk_sphere01.msh" />
+ <notrans_snw_bott002 file="notrans_snw_bott002.msh" />
+ <notrans_snw_bott001 file="notrans_snw_bott001.msh" />
+ <notrans_snw_sky_01 file="notrans_snw_sky_01.msh" />
+ <notrans_snw_skyap_02 file="notrans_snw_skyap_02.msh" />
+ <notrans_snw_sun_mm file="notrans_snw_sun_mm.msh" />
+ <notrans_snw_berg03 file="notrans_snw_berg03.msh" />
+ <notrans_snw_berg file="notrans_snw_berg.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <notrans_snw_sn_01 file="notrans_snw_sn_01.msh" />
+ <snw_column01 file="snw_column01.msh" />
+ <notrans_snw_bott003 file="notrans_snw_bott003.msh" />
+ <notrans_snw_sn_02 file="notrans_snw_sn_02.msh" />
+ <snw_btrockicea01 file="snw_btrockicea01.msh" />
+ <snw_attlesimul01 file="snw_attlesimul01.msh" />
+ <snw_btrockicea file="snw_btrockicea.msh" />
+ <snw_attlesimul file="snw_attlesimul.msh" />
+ <notrans_snw_sn_mms_32 file="notrans_snw_sn_mms_32.msh" />
+ <notrans_snw_cliff04 file="notrans_snw_cliff04.msh" />
+ <notrans_snw_sn_mms_33 file="notrans_snw_sn_mms_33.msh" />
+ <notrans_snw_cliff05 file="notrans_snw_cliff05.msh" />
+ <notrans_snw_hillcin file="notrans_snw_hillcin.msh" />
+ <notrans_snw_hillcin01 file="notrans_snw_hillcin01.msh" />
+ <snw_bgtreecin02 file="snw_bgtreecin02.msh" />
+ <snw_bgtreecin03 file="snw_bgtreecin03.msh" />
+ <notrans_snw_berg04 file="notrans_snw_berg04.msh" />
+ <snw_bgtreecin04 file="snw_bgtreecin04.msh" />
+ <snw_bgtreecin05 file="snw_bgtreecin05.msh" />
+ <notrans_snw_upap_03 file="notrans_snw_upap_03.msh" />
+ <notrans_snw_groundhill_18 file="notrans_snw_groundhill_18.msh" />
+ <notrans_snw_upap_05 file="notrans_snw_upap_05.msh" />
+ <notrans_snw_groundhill_20 file="notrans_snw_groundhill_20.msh" />
+ <notrans_snw_upap_02 file="notrans_snw_upap_02.msh" />
+ <notrans_snw_groundhill_17 file="notrans_snw_groundhill_17.msh" />
+ <notrans_snw_upap_01 file="notrans_snw_upap_01.msh" />
+ <notrans_snw_groundhill_16 file="notrans_snw_groundhill_16.msh" />
+ <notrans_snw_upap_04 file="notrans_snw_upap_04.msh" />
+ <notrans_snw_groundhill_19 file="notrans_snw_groundhill_19.msh" />
+ <notrans_snw_groundhill_21 file="notrans_snw_groundhill_21.msh" />
+ <notrans_snw_groundhill_22 file="notrans_snw_groundhill_22.msh" />
+ <notrans_snw_upap_06 file="notrans_snw_upap_06.msh" />
+ <notrans_snw_groundhill_23 file="notrans_snw_groundhill_23.msh" />
+ <notrans_snw_upap_07 file="notrans_snw_upap_07.msh" />
+ <notrans_snw_groundhill_24 file="notrans_snw_groundhill_24.msh" />
+ <notrans_snw_upap_08 file="notrans_snw_upap_08.msh" />
+ <notrans_snw_groundhill_25 file="notrans_snw_groundhill_25.msh" />
+ <notrans_snw_upap_09 file="notrans_snw_upap_09.msh" />
+ <notrans_snw_upap_10 file="notrans_snw_upap_10.msh" />
+ <snw_column02 file="snw_column02.msh" />
+ <notrans_snw_upap_11 file="notrans_snw_upap_11.msh" />
+ <notrans_snw_shadow_01 file="notrans_snw_shadow_01.msh" />
+ <notrans_snw_shadow_02 file="notrans_snw_shadow_02.msh" />
+ <notrans_snw_upap_12 file="notrans_snw_upap_12.msh" />
+</Objects>
+<Materials version="2">
+  <mkcy_shadow_nyh002
+    diffuse="icw_sky_ap_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <m23_-_Default
+    diffuse="snw_base.dds"
+    color="150 150 150"
+  />
+  <mkcy_ground_nyh004
+    diffuse="snw_bottom_ms01.dds"
+    color="255 255 255"
+  />
+  <micw_sky_01
+    diffuse="icw_sky_01.dds"
+    color="255 255 255"
+  />
+  <micw_sun
+    diffuse="icw_sun.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <micw_berg
+    diffuse="icw_berg.dds"
+    color="255 255 255"
+  />
+  <mkcy_ground_nyh003
+    color="37 122 115"
+  />
+  <micw_cliffa
+    diffuse="icw_cliffa.dds"
+    color="255 255 255"
+  />
+  <micw_cliff
+    diffuse="icw_cliff.dds"
+    color="255 255 255"
+  />
+  <mkcy_column_jm
+    diffuse="snw_column.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k73
+    diffuse="snw_base02.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mStandard_3
+    diffuse="snw_btrockicea.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k0
+    diffuse="battlesimul_rock_013_1.dds"
+    color="255 255 255"
+  />
+  <msnw_hillcin
+    diffuse="snw_hillcin.dds"
+    color="255 255 255"
+  />
+  <msnw_bgtreecin
+    diffuse="snw_bgtreecin.dds"
+    color="255 255 255"
+  />
+  <mStandard_14
+    diffuse="snw_base03.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mStandard_15
+    diffuse="snw_shadow_02.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="snow_field.skl"
+/>
+<collision
+  file="snow_field.col"
+/>
+</Scene.XML>

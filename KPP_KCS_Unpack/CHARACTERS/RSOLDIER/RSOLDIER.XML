@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Rsoldier file="Rsoldier.msh" />
+ <parachute file="parachute.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k27
+    diffuse="Rsoldier.dds"
+    color="149 149 149"
+  />
+  <mparachute
+    diffuse="parachute.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Rsoldier.skl"
+/>
+<collision
+  file="Rsoldier.col"
+/>
+</Scene.XML>

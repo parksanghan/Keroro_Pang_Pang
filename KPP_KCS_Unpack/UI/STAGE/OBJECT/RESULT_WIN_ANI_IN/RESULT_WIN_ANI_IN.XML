@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+</Objects>
+<Materials version="2">
+</Materials>
+<Skeleton
+  file="result_win_ani_in.skl"
+/>
+<collision
+  file="result_win_ani_in.col"
+/>
+</Scene.XML>

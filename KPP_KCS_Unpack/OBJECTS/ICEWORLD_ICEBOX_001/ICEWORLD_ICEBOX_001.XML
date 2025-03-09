@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <iceworld_icebox_001 file="iceworld_icebox_001.msh" />
+</Objects>
+<Materials version="2">
+  <micw_ictile_ms01
+    diffuse="icw_ictile_ms01.dds"
+    color="255 255 255"
+  />
+  <micw_ictile_up_ms01
+    diffuse="icw_ictile_up_ms01.dds"
+    color="255 255 255"
+  />
+  <micw_ictile_upap_ms01
+    diffuse="icw_ictile_upap_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="iceworld_icebox_001.col"
+/>
+</Scene.XML>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2007 (http://www.altova.com) by NararaCDS (NSTORM) -->
+<Moa_face_animation.XML>
+	<!--event animation - controlled by character animation frame, up to 8 sets-->
+	<animation name="moa_idle_001" fr0="1" face0="moa_face_000" fr1="30" face1="moa_face_001" fr2="32" face2="moa_face_000" fr3="" face3="" fr4="" face4="" fr5="" face5="" fr6="" face6="" fr7="" face7="" fr8="" face8="" fr9="" face9="" fr10="" face10="" fr11="" face11="" fr12="" face12="" fr13="" face13="" fr14="" face14=""/>
+	<animation name="moa_idle_002" fr0="1" face0="moa_face_000" fr1="20" face1="moa_face_001" fr2="46" face2="moa_face_000" fr3="" face3="" fr4="" face4="" fr5="" face5="" fr6="" face6="" fr7="" face7="" fr8="" face8="" fr9="" face9="" fr10="" face10="" fr11="" face11="" fr12="" face12="" fr13="" face13="" fr14="" face14=""/>	
+</Moa_face_animation.XML>

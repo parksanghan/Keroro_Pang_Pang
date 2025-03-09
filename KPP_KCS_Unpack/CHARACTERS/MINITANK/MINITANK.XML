@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <minitank file="minitank.msh" />
+</Objects>
+<Materials version="2">
+  <mminitank
+    diffuse="minitank.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="minitank.skl"
+/>
+<BoneAnim
+  file="Anims\minitank.anm"
+/>
+<collision
+  file="minitank.col"
+/>
+</Scene.XML>

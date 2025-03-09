@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ui_c_point_l05 file="ui_c_point_l05.msh" />
+</Objects>
+<Materials version="2">
+  <mUI_gm_mark_so.psd
+    diffuse="UI_gm_mark_so_replica.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="in_gameroom_seat.skl"
+/>
+<BoneAnim
+  file="Anims\in_gameroom_seat.anm"
+/>
+<collision
+  file="in_gameroom_seat.col"
+/>
+</Scene.XML>

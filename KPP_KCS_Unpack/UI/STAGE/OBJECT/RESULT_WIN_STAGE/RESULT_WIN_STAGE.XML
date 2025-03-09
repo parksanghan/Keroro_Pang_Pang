@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <back file="back.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_19
+    diffuse="result_back.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="result_win_stage.skl"
+/>
+<collision
+  file="result_win_stage.col"
+/>
+</Scene.XML>

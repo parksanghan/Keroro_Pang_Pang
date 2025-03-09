@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keroro_city_guard_metal_003 file="keroro_city_guard_metal_003.msh" />
+</Objects>
+<Materials version="2">
+  <mkeroro_city_guard_truck_id01
+    diffuse="kcg_truck01_01.dds"
+    color="255 255 255"
+  />
+  <mkeroro_city_guard_truck_id02
+    diffuse="kcg_truck01_02.dds"
+    color="255 255 255"
+  />
+  <mkeroro_city_guard_truck_id03
+    diffuse="kcg_truck01_03.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="keroro_city_guard_metal_003.col"
+/>
+</Scene.XML>

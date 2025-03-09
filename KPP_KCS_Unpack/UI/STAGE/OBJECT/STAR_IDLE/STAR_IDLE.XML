@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <select_star file="select_star.msh" />
+ <select_sky file="select_sky.msh" />
+ <select_star04 file="select_star04.msh" />
+ <select_star05 file="select_star05.msh" />
+ <select_star06 file="select_star06.msh" />
+ <select_star07 file="select_star07.msh" />
+ <Object01 file="Object01.msh" />
+ <Object02 file="Object02.msh" />
+ <Object03 file="Object03.msh" />
+ <Object04 file="Object04.msh" />
+ <select_star08 file="select_star08.msh" />
+ <select_star09 file="select_star09.msh" />
+ <select_star10 file="select_star10.msh" />
+ <select_star11 file="select_star11.msh" />
+</Objects>
+<Materials version="2">
+  <mdororo_tree
+    diffuse="dororo_tree.dds"
+    color="255 255 255"
+  />
+  <mselect_sky
+    diffuse="select_sky.dds"
+    color="255 255 255"
+    uvAnimFile="select_sky.uva"
+  />
+</Materials>
+<Skeleton
+  file="star_idle.skl"
+/>
+<BoneAnim
+  file="Anims\star_idle.anm"
+/>
+<collision
+  file="star_idle.col"
+/>
+</Scene.XML>

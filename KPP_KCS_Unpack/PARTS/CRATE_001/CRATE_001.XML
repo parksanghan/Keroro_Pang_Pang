@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <crate_001 file="crate_001.msh" />
+</Objects>
+<Materials version="2">
+  <mcrate_001
+    diffuse="crate_001.dds"
+    color="87 87 87"
+  />
+</Materials>
+<Skeleton
+  file="crate_001.skl"
+/>
+<BoneAnim
+  file="Anims\crate_001.anm"
+/>
+<collision
+  file="crate_001.col"
+/>
+</Scene.XML>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ui_gm_plate_ms03 file="ui_gm_plate_ms03.msh" />
+ <ui_gm_plate_ms04 file="ui_gm_plate_ms04.msh" />
+ <ui_gm_plate_ms01 file="ui_gm_plate_ms01.msh" />
+ <ui_gm_plate_ms02 file="ui_gm_plate_ms02.msh" />
+</Objects>
+<Materials version="2">
+  <mlobby2_groom_mark_ms01
+    diffuse="lobby2_groom_mark_ms01.dds"
+    color="255 255 255"
+  />
+  <mlobby2_groom_mark2_ms01
+    diffuse="lobby2_groom_mark2_ms01.dds"
+    color="255 255 255"
+  />
+  <mlobby2_groom_mark3_ms01
+    diffuse="lobby2_groom_mark3_ms01.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="in_gameroom_mode_broad.skl"
+/>
+<BoneAnim
+  file="Anims\in_gameroom_mode_broad.anm"
+/>
+<collision
+  file="in_gameroom_mode_broad.col"
+/>
+</Scene.XML>

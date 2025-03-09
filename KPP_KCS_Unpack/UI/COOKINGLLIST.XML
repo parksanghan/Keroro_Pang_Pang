@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<CookiongList.XML>
+	<Cooking engName="smallcod roast"	indexNum="1"	Ingredients1="241172500"	num1="10"	Ingredients2="241172514"	num2="5"	Ingredients3="0"	num3="0"	Ingredients4="0"	num4="0"	Ingredients5="0"	num5="0"	Ingredients6="0"	num6="0"	pang="300"	code="52494356"	IimitMethod="30"	/>
+	<Cooking engName="smallhalibut roast"	indexNum="2"	Ingredients1="241172499"	num1="15"	Ingredients2="241172488"	num2="10"	Ingredients3="0"	num3="0"	Ingredients4="0"	num4="0"	Ingredients5="0"	num5="0"	Ingredients6="0"	num6="0"	pang="300"	code="52494357"	IimitMethod="30"	/>
+	<Cooking engName="ricefish roast"	indexNum="3"	Ingredients1="241172496"	num1="10"	Ingredients2="241172483"	num2="10"	Ingredients3="0"	num3="0"	Ingredients4="0"	num4="0"	Ingredients5="0"	num5="0"	Ingredients6="0"	num6="0"	pang="300"	code="52494358"	IimitMethod="30"	/>
+	<Cooking engName="saury  stirfry"	indexNum="4"	Ingredients1="241172498"	num1="10"	Ingredients2="241172485"	num2="10"	Ingredients3="0"	num3="0"	Ingredients4="0"	num4="0"	Ingredients5="0"	num5="0"	Ingredients6="0"	num6="0"	pang="300"	code="52494359"	IimitMethod="30"	/>
+	<Cooking engName="anchovy stirfry"	indexNum="5"	Ingredients1="241172497"	num1="10"	Ingredients2="241172484"	num2="10"	Ingredients3="0"	num3="0"	Ingredients4="0"	num4="0"	Ingredients5="0"	num5="0"	Ingredients6="0"	num6="0"	pang="300"	code="52494360"	IimitMethod="30"	/>
+	<Cooking engName="soy crab"	indexNum="7"	Ingredients1="241172511"	num1="15"	Ingredients2="241172502"	num2="5"	Ingredients3="241172529"	num3="3"	Ingredients4="0"	num4="0"	Ingredients5="0"	num5="0"	Ingredients6="0"	num6="0"	pang="500"	code="52559898"	IimitMethod="30"	/>
+	<Cooking engName="halibut boiled"	indexNum="8"	Ingredients1="241172486"	num1="15"	Ingredients2="241172517"	num2="5"	Ingredients3="241172529"	num3="4"	Ingredients4="0"	num4="0"	Ingredients5="0"	num5="0"	Ingredients6="0"	num6="0"	pang="500"	code="52559899"	IimitMethod="30"	/>
+	<Cooking engName="squid stirfry"	indexNum="6"	Ingredients1="241172482"	num1="15"	Ingredients2="241172501"	num2="5"	Ingredients3="241172530"	num3="4"	Ingredients4="0"	num4="0"	Ingredients5="0"	num5="0"	Ingredients6="0"	num6="0"	pang="500"	code="52559900"	IimitMethod="30"	/>
+	<Cooking engName="octopus bread"	indexNum="9"	Ingredients1="241172513"	num1="15"	Ingredients2="241172520"	num2="5"	Ingredients3="241172530"	num3="5"	Ingredients4="0"	num4="0"	Ingredients5="0"	num5="0"	Ingredients6="0"	num6="0"	pang="500"	code="52559901"	IimitMethod="30"	/>
+</CookiongList.XML>

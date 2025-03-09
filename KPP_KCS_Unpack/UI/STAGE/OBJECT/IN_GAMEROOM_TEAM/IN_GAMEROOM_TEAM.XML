@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ui_gm_centerplate_ms01 file="ui_gm_centerplate_ms01.msh" />
+ <ui_gm_centerplate_ms02 file="ui_gm_centerplate_ms02.msh" />
+ <Object01 file="Object01.msh" />
+ <Object02 file="Object02.msh" />
+</Objects>
+<Materials version="2">
+  <mlobby2_groom_cedown_ms01
+    diffuse="lobby2_groom_cedown_ms03.dds"
+    color="255 255 255"
+  />
+  <mlobby2_groom_cedown_ms02
+    diffuse="lobby2_groom_cedown_ms02.dds"
+    color="255 255 255"
+  />
+  <mmonitor01
+    diffuse="lobby2_groom_monitor_ms03.dds"
+    color="149 149 149"
+  />
+  <mmonitor02
+    diffuse="lobby2_groom_monitor_ms02.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="in_gameroom_team.skl"
+/>
+<collision
+  file="in_gameroom_team.col"
+/>
+</Scene.XML>

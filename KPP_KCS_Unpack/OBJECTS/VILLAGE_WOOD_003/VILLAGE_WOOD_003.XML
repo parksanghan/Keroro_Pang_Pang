@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <village_wood_003 file="village_wood_003.msh" />
+</Objects>
+<Materials version="2">
+  <mvil_wood_004
+    diffuse="vil_wood_003.dds"
+    color="255 255 255"
+  />
+  <mvil_wood_004a
+    diffuse="vil_wood_003a.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="village_wood_003.col"
+/>
+</Scene.XML>

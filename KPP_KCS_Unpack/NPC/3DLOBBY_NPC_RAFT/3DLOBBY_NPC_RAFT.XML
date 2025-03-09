@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <npc3_tamama_body file="npc3_tamama_body.msh" />
+ <npc3_tamama_head file="npc3_tamama_head.msh" />
+ <npc3_tamama_face file="npc3_tamama_face.msh" />
+ <npc3_dororo_face.tga file="npc3_dororo_face.tga.msh" />
+ <npc3_dororo_body file="npc3_dororo_body.msh" />
+ <npc3_giroro_body file="npc3_giroro_body.msh" />
+ <npc3_giroro_head file="npc3_giroro_head.msh" />
+ <npc3_giroro_face file="npc3_giroro_face.msh" />
+ <npc3_raft file="npc3_raft.msh" />
+ <npc3_raft_1 file="npc3_raft_1.msh" />
+ <npc3_raft_14C12900 file="npc3_raft_14C12900.msh" />
+ <npc3_giroro_body_1 file="npc3_giroro_body_1.msh" />
+ <npc3_shark file="npc3_shark.msh" />
+ <npc3_dororo_head file="npc3_dororo_head.msh" />
+</Objects>
+<Materials version="2">
+  <mnpc3_tamama_body
+    diffuse="sub_tamama_body.tga"
+    color="149 149 149"
+  />
+  <mnpc3_tamama_head
+    diffuse="sub_tamama_head.tga"
+    color="149 149 149"
+  />
+  <mnpc3_tamama_face
+    diffuse="sub_tamama_face.tga"
+    color="149 149 149"
+  />
+  <mnpc3_dororo_face
+    diffuse="sub_dororo_face.tga"
+    color="149 149 149"
+  />
+  <mnpc3_dororo_body
+    diffuse="sub_dororo_body.tga"
+    color="149 149 149"
+  />
+  <mnpc3_giroro_body
+    diffuse="sub_giroro_body.tga"
+    color="149 149 149"
+  />
+  <mnpc3_giroro_head
+    diffuse="sub_giroro_head.tga"
+    color="149 149 149"
+  />
+  <mnpc3_giroro_face
+    diffuse="sub_giroro_face.tga"
+    color="149 149 149"
+  />
+  <mnpc3_raft
+    diffuse="sub_raft.TGA"
+    color="149 149 149"
+  />
+  <mnpc3_shark
+    diffuse="sub_shark.tga"
+    color="149 149 149"
+  />
+  <mnpc3_dororo_head
+    diffuse="sub_dororo_head.tga"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="3dlobby_npc_raft.skl"
+/>
+<BoneAnim
+  file="Anims\3dlobby_npc_raft.anm"
+/>
+<collision
+  file="3dlobby_npc_raft.col"
+/>
+</Scene.XML>

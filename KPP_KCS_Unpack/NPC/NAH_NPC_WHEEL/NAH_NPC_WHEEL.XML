@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <nah_npc_wheel file="nah_npc_wheel.msh" />
+</Objects>
+<Materials version="2">
+  <mnah_nyh002
+    diffuse="nah_nyh002.tga"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="nah_npc_wheel.skl"
+/>
+<BoneAnim
+  file="Anims\nah_npc_wheel.anm"
+/>
+<collision
+  file="nah_npc_wheel.col"
+/>
+</Scene.XML>

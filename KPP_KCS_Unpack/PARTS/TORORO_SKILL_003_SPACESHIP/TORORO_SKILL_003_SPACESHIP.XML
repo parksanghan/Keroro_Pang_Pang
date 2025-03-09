@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <spaceship_02 file="spaceship_02.msh" />
+ <spaceship_01 file="spaceship_01.msh" />
+ <spaceship_04 file="spaceship_04.msh" />
+ <spaceship_05 file="spaceship_05.msh" />
+ <spaceship_06 file="spaceship_06.msh" />
+ <spaceship_03 file="spaceship_03.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k0
+    diffuse="tororo_skill_003_spaceship.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="tororo_skill_003_spaceship.skl"
+/>
+<BoneAnim
+  file="Anims\tororo_skill_003_spaceship.anm"
+/>
+<collision
+  file="tororo_skill_003_spaceship.col"
+/>
+</Scene.XML>

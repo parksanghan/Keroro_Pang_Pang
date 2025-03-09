@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kururbot_001 file="kururbot_001.msh" />
+ <kurubotbike_001 file="kurubotbike_001.msh" />
+</Objects>
+<Materials version="2">
+  <m08_-_Default
+    diffuse="kurubot_001.dds"
+    color="150 150 150"
+  />
+  <m04_-_Default
+    diffuse="kurubotbike_001.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="kurubot_001.skl"
+/>
+<collision
+  file="kurubot_001.col"
+/>
+</Scene.XML>

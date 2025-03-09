@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <taruru_face_000 file="taruru_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mtaruru_face_000
+    diffuse="taruru_face_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="taruru.skl"
+/>
+<BoneAnim
+  file="Anims\taruru.anm"
+/>
+<collision
+  file="taruru.col"
+/>
+</Scene.XML>

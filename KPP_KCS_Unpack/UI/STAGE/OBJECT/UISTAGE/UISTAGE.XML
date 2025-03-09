@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Plane01 file="Plane01.msh" />
+ <Star11 file="Star11.msh" />
+ <Circle01 file="Circle01.msh" />
+ <lobby_oj_04 file="lobby_oj_04.msh" />
+ <lobby_oj_03 file="lobby_oj_03.msh" />
+ <lobby_desk file="lobby_desk.msh" />
+ <lobby_oj_01 file="lobby_oj_01.msh" />
+ <lobby_oj_05 file="lobby_oj_05.msh" />
+ <lobby_oj_06 file="lobby_oj_06.msh" />
+ <lobby_oj_02 file="lobby_oj_02.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_21
+    diffuse="gameroom_10.dds"
+    lightmap="gameroom_10light.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k668
+    diffuse="gameroom_earth.dds"
+    color="149 149 149"
+  />
+  <mlobby_oj_04
+    diffuse="lobby_nyh004.DDS"
+    color="255 255 255"
+  />
+  <mlobby_oj_03
+    diffuse="lobby_radar_001.DDS"
+    color="255 255 255"
+  />
+  <mlobby_desk
+    diffuse="lobby_desk.DDS"
+    color="255 255 255"
+  />
+  <mlobby_oj_01
+    diffuse="lobby_nyh001.DDS"
+    color="255 255 255"
+  />
+  <mlobby_oj_05
+    diffuse="lobby_bim_guard_01.DDS"
+    color="255 255 255"
+  />
+  <mlobby_oj_06
+    diffuse="lobby_nyh006.DDS"
+    color="255 255 255"
+    uvAnimFile="lobby_oj_06.uva"
+  />
+  <mlobby_oj_02
+    diffuse="lobby_nyh002.DDS"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="uistage.skl"
+/>
+<collision
+  file="uistage.col"
+/>
+</Scene.XML>

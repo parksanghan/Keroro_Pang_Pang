@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kiruru_face_000 file="kiruru_face_000.msh" />
+ <kiruru_body_000 file="kiruru_body_000.msh" />
+ <kiruru_head_000 file="kiruru_head_000.msh" />
+ <darkkiruru_gem file="darkkiruru_gem.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k1
+    diffuse="darkkiruru_face_000.dds"
+    color="149 149 149"
+  />
+  <m03_-_Default
+    diffuse="darkkiruru_body_000.dds"
+    color="150 150 150"
+  />
+  <m02_-_Default
+    diffuse="darkkiruru_head_000.dds"
+    color="92 92 92"
+    twoSided="1"
+  />
+  <mStandard_24
+    diffuse="darkkiruru_gem.dds"
+    color="96 96 96"
+  />
+</Materials>
+<Skeleton
+  file="darkkiruru_skill_003_bigkiru.skl"
+/>
+<BoneAnim
+  file="Anims\darkkiruru_skill_003_bigkiru.anm"
+/>
+<collision
+  file="darkkiruru_skill_003_bigkiru.col"
+/>
+</Scene.XML>

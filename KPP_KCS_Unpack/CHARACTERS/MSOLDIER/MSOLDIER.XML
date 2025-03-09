@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Msoldier file="Msoldier.msh" />
+</Objects>
+<Materials version="2">
+  <mMsoldier
+    diffuse="Msoldier.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Msoldier.skl"
+/>
+<collision
+  file="Msoldier.col"
+/>
+</Scene.XML>

@@ -1,0 +1,473 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kat_shrine_cindy_06 file="kat_shrine_cindy_06.msh" />
+ <notrans_kat_glass_cindyb file="notrans_kat_glass_cindyb.msh" />
+ <notrans_kat_glass_cindya file="notrans_kat_glass_cindya.msh" />
+ <notrans_kat_glass_cindy file="notrans_kat_glass_cindy.msh" />
+ <notrans_kat_rock_cindya file="notrans_kat_rock_cindya.msh" />
+ <notrans_kat_rock_cindyb file="notrans_kat_rock_cindyb.msh" />
+ <notrans_kat_rock_cindyc file="notrans_kat_rock_cindyc.msh" />
+ <notrans_kat_centersf_jm_01 file="notrans_kat_centersf_jm_01.msh" />
+ <notrans_kat_bridge_nyh001 file="notrans_kat_bridge_nyh001.msh" />
+ <notrans_kat_bridge_nyh002 file="notrans_kat_bridge_nyh002.msh" />
+ <notrans_kat_cave_nyh001_01 file="notrans_kat_cave_nyh001_01.msh" />
+ <notrans_kat_cave_nyh001_02 file="notrans_kat_cave_nyh001_02.msh" />
+ <notrans_kat_cave_nyh001_03 file="notrans_kat_cave_nyh001_03.msh" />
+ <notrans_kat_cave_nyh001_04 file="notrans_kat_cave_nyh001_04.msh" />
+ <notrans_kat_cave_nyh001_05 file="notrans_kat_cave_nyh001_05.msh" />
+ <notrans_kat_cave_nyh002 file="notrans_kat_cave_nyh002.msh" />
+ <notrans_kat_ktwood_nyh001_01 file="notrans_kat_ktwood_nyh001_01.msh" />
+ <notrans_kat_ktwood_nyh001_02 file="notrans_kat_ktwood_nyh001_02.msh" />
+ <notrans_kat_ktwood_nyh001_03 file="notrans_kat_ktwood_nyh001_03.msh" />
+ <notrans_kat_ktwood_nyh001_04 file="notrans_kat_ktwood_nyh001_04.msh" />
+ <notrans_kat_wall_nyh001_01 file="notrans_kat_wall_nyh001_01.msh" />
+ <notrans_kat_wall_nyh001_04 file="notrans_kat_wall_nyh001_04.msh" />
+ <notrans_kat_wall_nyh001_03 file="notrans_kat_wall_nyh001_03.msh" />
+ <notrans_kat_wall_nyh001_02 file="notrans_kat_wall_nyh001_02.msh" />
+ <notrans_kat_wall_nyh003_01 file="notrans_kat_wall_nyh003_01.msh" />
+ <notrans_kat_wall_nyh003_03 file="notrans_kat_wall_nyh003_03.msh" />
+ <notrans_kat_wall_nyh003_04 file="notrans_kat_wall_nyh003_04.msh" />
+ <notrans_kat_wall_nyh003_02 file="notrans_kat_wall_nyh003_02.msh" />
+ <notrans_kat_wall_nyh004_01 file="notrans_kat_wall_nyh004_01.msh" />
+ <notrans_kat_wall_nyh004_04 file="notrans_kat_wall_nyh004_04.msh" />
+ <notrans_kat_wall_nyh004_03 file="notrans_kat_wall_nyh004_03.msh" />
+ <notrans_kat_wall_nyh004_02 file="notrans_kat_wall_nyh004_02.msh" />
+ <notrans_kat_wallshadow_nyh001_01 file="notrans_kat_wallshadow_nyh001_01.msh" />
+ <notrans_kat_wallshadow_nyh001_02 file="notrans_kat_wallshadow_nyh001_02.msh" />
+ <notrans_kat_wallshadow_nyh001_03 file="notrans_kat_wallshadow_nyh001_03.msh" />
+ <notrans_kat_wallshadow_nyh001_04 file="notrans_kat_wallshadow_nyh001_04.msh" />
+ <kat_fence_nyh001_01 file="kat_fence_nyh001_01.msh" />
+ <kat_fence_nyh001_02 file="kat_fence_nyh001_02.msh" />
+ <notrans_kat_wall_nyh002_01 file="notrans_kat_wall_nyh002_01.msh" />
+ <notrans_kat_wall_nyh002_03 file="notrans_kat_wall_nyh002_03.msh" />
+ <notrans_kat_wall_nyh002_04 file="notrans_kat_wall_nyh002_04.msh" />
+ <notrans_kat_wall_nyh002_02 file="notrans_kat_wall_nyh002_02.msh" />
+ <notrans_kat_water_nyh001 file="notrans_kat_water_nyh001.msh" />
+ <notrans_kat_water_nyh002 file="notrans_kat_water_nyh002.msh" />
+ <notrans_kat_water_nyh003 file="notrans_kat_water_nyh003.msh" />
+ <notrans_kat_water_nyh_pl file="notrans_kat_water_nyh_pl.msh" />
+ <Billboard_kat_candlelight_jm_a01 file="Billboard_kat_candlelight_jm_a01.msh" />
+ <notrans_kat_stair_nyh001 file="notrans_kat_stair_nyh001.msh" />
+ <kat_shrine_cindy_01 file="kat_shrine_cindy_01.msh" />
+ <notrans_kat_board_jm_a01 file="notrans_kat_board_jm_a01.msh" />
+ <Billboard_kat_candlelight_jm_a04 file="Billboard_kat_candlelight_jm_a04.msh" />
+ <Billboard_kat_candlelight_jm_a03 file="Billboard_kat_candlelight_jm_a03.msh" />
+ <Billboard_kat_candlelight_jm_a02 file="Billboard_kat_candlelight_jm_a02.msh" />
+ <kat_woodbridge_jm_a02 file="kat_woodbridge_jm_a02.msh" />
+ <kat_woodbridge_jm_a03 file="kat_woodbridge_jm_a03.msh" />
+ <kat_dory_stone_01 file="kat_dory_stone_01.msh" />
+ <kat_woodbridge_jm_a04 file="kat_woodbridge_jm_a04.msh" />
+ <kat_woodbridge_jm_a01 file="kat_woodbridge_jm_a01.msh" />
+ <Billboard_kat_fire_jm_a02 file="Billboard_kat_fire_jm_a02.msh" />
+ <notrans_kat_glass_cindy01 file="notrans_kat_glass_cindy01.msh" />
+ <notrans_kat_glass_cindya01 file="notrans_kat_glass_cindya01.msh" />
+ <notrans_kat_glass_cindyb01 file="notrans_kat_glass_cindyb01.msh" />
+ <notrans_kat_rock_cindyc01 file="notrans_kat_rock_cindyc01.msh" />
+ <notrans_kat_rock_cindyb01 file="notrans_kat_rock_cindyb01.msh" />
+ <notrans_kat_rock_cindya01 file="notrans_kat_rock_cindya01.msh" />
+ <notrans_kat_water_nyh_pl01 file="notrans_kat_water_nyh_pl01.msh" />
+ <notrans_kat_water_nyh_pl02 file="notrans_kat_water_nyh_pl02.msh" />
+ <notrans_kat_glass_cindya02 file="notrans_kat_glass_cindya02.msh" />
+ <notrans_kat_rock_cindyb02 file="notrans_kat_rock_cindyb02.msh" />
+ <notrans_kat_glass_cindyb02 file="notrans_kat_glass_cindyb02.msh" />
+ <notrans_kat_glass_cindy02 file="notrans_kat_glass_cindy02.msh" />
+ <notrans_kat_glass_cindya03 file="notrans_kat_glass_cindya03.msh" />
+ <notrans_kat_rock_cindyb03 file="notrans_kat_rock_cindyb03.msh" />
+ <notrans_kat_rock_cindya02 file="notrans_kat_rock_cindya02.msh" />
+ <notrans_kat_rock_cindya03 file="notrans_kat_rock_cindya03.msh" />
+ <notrans_kat_rock_cindyc02 file="notrans_kat_rock_cindyc02.msh" />
+ <notrans_kat_rock_cindya04 file="notrans_kat_rock_cindya04.msh" />
+ <notrans_kat_rock_cindyb04 file="notrans_kat_rock_cindyb04.msh" />
+ <notrans_kat_rock_cindyc03 file="notrans_kat_rock_cindyc03.msh" />
+ <notrans_kat_rock_cindya05 file="notrans_kat_rock_cindya05.msh" />
+ <notrans_kat_glass_cindy03 file="notrans_kat_glass_cindy03.msh" />
+ <notrans_kat_glass_cindys04 file="notrans_kat_glass_cindys04.msh" />
+ <notrans_kat_rock_cindyc04 file="notrans_kat_rock_cindyc04.msh" />
+ <notrans_kat_rock_cindyb05 file="notrans_kat_rock_cindyb05.msh" />
+ <notrans_kat_rock_cindyb06 file="notrans_kat_rock_cindyb06.msh" />
+ <notrans_kat_rock_cindya06 file="notrans_kat_rock_cindya06.msh" />
+ <notrans_kat_rock_cindyc05 file="notrans_kat_rock_cindyc05.msh" />
+ <notrans_kat_rock_cindyb07 file="notrans_kat_rock_cindyb07.msh" />
+ <notrans_kat_rock_cindya07 file="notrans_kat_rock_cindya07.msh" />
+ <notrans_kat_rock_cindyb08 file="notrans_kat_rock_cindyb08.msh" />
+ <notrans_kat_rock_cindya08 file="notrans_kat_rock_cindya08.msh" />
+ <notrans_kat_glass_cindya04 file="notrans_kat_glass_cindya04.msh" />
+ <notrans_kat_glass_cindyb03 file="notrans_kat_glass_cindyb03.msh" />
+ <notrans_kat_rock_cindya09 file="notrans_kat_rock_cindya09.msh" />
+ <notrans_kat_rock_cindyb09 file="notrans_kat_rock_cindyb09.msh" />
+ <notrans_kat_glass_cindyb04 file="notrans_kat_glass_cindyb04.msh" />
+ <notrans_kat_rock_cindya10 file="notrans_kat_rock_cindya10.msh" />
+ <notrans_kat_rock_cindyc06 file="notrans_kat_rock_cindyc06.msh" />
+ <notrans_kat_rock_cindyb10 file="notrans_kat_rock_cindyb10.msh" />
+ <notrans_kat_rock_cindyc07 file="notrans_kat_rock_cindyc07.msh" />
+ <notrans_kat_glass_cindy04 file="notrans_kat_glass_cindy04.msh" />
+ <notrans_kat_glass_cindya05 file="notrans_kat_glass_cindya05.msh" />
+ <notrans_kat_rock_cindyc08 file="notrans_kat_rock_cindyc08.msh" />
+ <notrans_kat_rock_cindyb11 file="notrans_kat_rock_cindyb11.msh" />
+ <notrans_kat_rock_cindya11 file="notrans_kat_rock_cindya11.msh" />
+ <notrans_kat_rock_cindyc09 file="notrans_kat_rock_cindyc09.msh" />
+ <notrans_kat_rock_cindyb12 file="notrans_kat_rock_cindyb12.msh" />
+ <notrans_kat_rock_cindyb13 file="notrans_kat_rock_cindyb13.msh" />
+ <notrans_kat_rock_cindya12 file="notrans_kat_rock_cindya12.msh" />
+ <notrans_kat_glass_cindy05 file="notrans_kat_glass_cindy05.msh" />
+ <notrans_kat_glass_cindya06 file="notrans_kat_glass_cindya06.msh" />
+ <notrans_kat_glass_cindyb05 file="notrans_kat_glass_cindyb05.msh" />
+ <notrans_kat_glass_cindysa10 file="notrans_kat_glass_cindysa10.msh" />
+ <notrans_kat_statue_cindy file="notrans_kat_statue_cindy.msh" />
+ <notrans_kat_glass_cindysc10 file="notrans_kat_glass_cindysc10.msh" />
+ <notrans_kat_glass_cindysc13 file="notrans_kat_glass_cindysc13.msh" />
+ <notrans_kat_water_nyh_pl03 file="notrans_kat_water_nyh_pl03.msh" />
+ <notrans_kat_water_nyh_pl04 file="notrans_kat_water_nyh_pl04.msh" />
+ <notrans_kat_rock_cindyb14 file="notrans_kat_rock_cindyb14.msh" />
+ <notrans_kat_rock_cindyc10 file="notrans_kat_rock_cindyc10.msh" />
+ <notrans_kat_water_nyh_pl05 file="notrans_kat_water_nyh_pl05.msh" />
+ <notrans_kat_rock_cindya13 file="notrans_kat_rock_cindya13.msh" />
+ <notrans_kat_water_nyh_pl06 file="notrans_kat_water_nyh_pl06.msh" />
+ <notrans_kat_rock_cindyb15 file="notrans_kat_rock_cindyb15.msh" />
+ <notrans_kat_water_nyh_pl07 file="notrans_kat_water_nyh_pl07.msh" />
+ <notrans_kat_rock_cindyb16 file="notrans_kat_rock_cindyb16.msh" />
+ <notrans_kat_water_nyh_pl08 file="notrans_kat_water_nyh_pl08.msh" />
+ <notrans_kat_rock_cindyc11 file="notrans_kat_rock_cindyc11.msh" />
+ <notrans_kat_rock_cindya14 file="notrans_kat_rock_cindya14.msh" />
+ <notrans_kat_water_nyh_pl09 file="notrans_kat_water_nyh_pl09.msh" />
+ <notrans_kat_rock_cindyc12 file="notrans_kat_rock_cindyc12.msh" />
+ <notrans_kat_water_nyh_pl10 file="notrans_kat_water_nyh_pl10.msh" />
+ <notrans_kat_rock_cindyc13 file="notrans_kat_rock_cindyc13.msh" />
+ <notrans_kat_water_nyh_pl11 file="notrans_kat_water_nyh_pl11.msh" />
+ <notrans_kat_rock_cindya15 file="notrans_kat_rock_cindya15.msh" />
+ <notrans_kat_water_nyh_pl12 file="notrans_kat_water_nyh_pl12.msh" />
+ <notrans_kat_rock_cindya16 file="notrans_kat_rock_cindya16.msh" />
+ <notrans_kat_water_nyh_pl13 file="notrans_kat_water_nyh_pl13.msh" />
+ <notrans_kat_rock_cindyc14 file="notrans_kat_rock_cindyc14.msh" />
+ <notrans_kat_water_nyh_pl14 file="notrans_kat_water_nyh_pl14.msh" />
+ <notrans_kat_rock_cindyb17 file="notrans_kat_rock_cindyb17.msh" />
+ <notrans_kat_water_nyh_pl15 file="notrans_kat_water_nyh_pl15.msh" />
+ <notrans_kat_rock_cindya17 file="notrans_kat_rock_cindya17.msh" />
+ <notrans_kat_water_nyh_pl16 file="notrans_kat_water_nyh_pl16.msh" />
+ <notrans_kat_water_nyh_pl17 file="notrans_kat_water_nyh_pl17.msh" />
+ <notrans_kat_rock_cindyb18 file="notrans_kat_rock_cindyb18.msh" />
+ <notrans_kat_rock_cindya18 file="notrans_kat_rock_cindya18.msh" />
+ <notrans_kat_water_nyh_pl18 file="notrans_kat_water_nyh_pl18.msh" />
+ <notrans_kat_line_ground01 file="notrans_kat_line_ground01.msh" />
+ <notrans_kat_ground_soil01 file="notrans_kat_ground_soil01.msh" />
+ <notrans_kat_ground_wall file="notrans_kat_ground_wall.msh" />
+ <notrans_kat_groundhill_jm_a01 file="notrans_kat_groundhill_jm_a01.msh" />
+ <notrans_kat_ground_soil02 file="notrans_kat_ground_soil02.msh" />
+ <notrans_kat_outline_nyh001 file="notrans_kat_outline_nyh001.msh" />
+ <notrans_kat_groundhill_jm_a02 file="notrans_kat_groundhill_jm_a02.msh" />
+ <notrans_kat_line_ground13 file="notrans_kat_line_ground13.msh" />
+ <notrans_kat_line_ground34 file="notrans_kat_line_ground34.msh" />
+ <notrans_kat_line_ground41 file="notrans_kat_line_ground41.msh" />
+ <notrans_kat_centersf_jm_sd file="notrans_kat_centersf_jm_sd.msh" />
+ <notrans_kat_water_nyh_pl23 file="notrans_kat_water_nyh_pl23.msh" />
+ <notrans_kat_water_nyh_pl24 file="notrans_kat_water_nyh_pl24.msh" />
+ <notrans_kat_shadow_circle file="notrans_kat_shadow_circle.msh" />
+ <notrans_kat_shadow_square file="notrans_kat_shadow_square.msh" />
+ <notrans_kat_shadow_square01 file="notrans_kat_shadow_square01.msh" />
+ <notrans_kat_shadow_square02 file="notrans_kat_shadow_square02.msh" />
+ <notrans_kat_shadow_square03 file="notrans_kat_shadow_square03.msh" />
+ <notrans_kat_shadow_square04 file="notrans_kat_shadow_square04.msh" />
+ <notrans_kat_shadow_square05 file="notrans_kat_shadow_square05.msh" />
+ <notrans_kat_shadow_square06 file="notrans_kat_shadow_square06.msh" />
+ <notrans_kat_shadow_circle01 file="notrans_kat_shadow_circle01.msh" />
+ <notrans_kat_shadow_circle02 file="notrans_kat_shadow_circle02.msh" />
+ <notrans_kat_shadow_circle03 file="notrans_kat_shadow_circle03.msh" />
+ <notrans_kat_shadow_circle07 file="notrans_kat_shadow_circle07.msh" />
+ <notrans_kat_shadow_circle08 file="notrans_kat_shadow_circle08.msh" />
+ <notrans_kat_shadow_circle09 file="notrans_kat_shadow_circle09.msh" />
+ <kat_column_jm_a01 file="kat_column_jm_a01.msh" />
+ <kat_stone_jm_a03 file="kat_stone_jm_a03.msh" />
+ <kat_stone_jm_a04 file="kat_stone_jm_a04.msh" />
+ <kat_stone_jm_a01 file="kat_stone_jm_a01.msh" />
+ <kat_stone_jm_a02 file="kat_stone_jm_a02.msh" />
+ <kat_shrine_cindy_ad file="kat_shrine_cindy_ad.msh" />
+ <kat_shrine_cindy_ad01 file="kat_shrine_cindy_ad01.msh" />
+ <notrans_kat_water_nyh_pl21 file="notrans_kat_water_nyh_pl21.msh" />
+ <notrans_kat_water_nyh_pl22 file="notrans_kat_water_nyh_pl22.msh" />
+ <notrans_kat_water_nyh_pl25 file="notrans_kat_water_nyh_pl25.msh" />
+ <notrans_kat_water_nyh_pl26 file="notrans_kat_water_nyh_pl26.msh" />
+ <kat_woodbridge_jm_a06 file="kat_woodbridge_jm_a06.msh" />
+ <kat_woodbridge_jm_a05 file="kat_woodbridge_jm_a05.msh" />
+ <kat_woodbridge_jm_a07 file="kat_woodbridge_jm_a07.msh" />
+ <kat_woodbridge_jm_a08 file="kat_woodbridge_jm_a08.msh" />
+ <kat_column_jm_a08 file="kat_column_jm_a08.msh" />
+ <notrans_kat_column_jm_a09 file="notrans_kat_column_jm_a09.msh" />
+ <kat_dory_05 file="kat_dory_05.msh" />
+ <kat_dory_22 file="kat_dory_22.msh" />
+ <kat_dory_24 file="kat_dory_24.msh" />
+ <kat_dory_25 file="kat_dory_25.msh" />
+ <kat_dory_26 file="kat_dory_26.msh" />
+ <kat_dory_36 file="kat_dory_36.msh" />
+ <kat_dory_37 file="kat_dory_37.msh" />
+ <kat_dory_stone_03 file="kat_dory_stone_03.msh" />
+ <kat_dory_stone_02 file="kat_dory_stone_02.msh" />
+ <kat_shrine_cindy_02 file="kat_shrine_cindy_02.msh" />
+ <kat_shrine_cindy_03 file="kat_shrine_cindy_03.msh" />
+ <kat_shrine_cindy_04 file="kat_shrine_cindy_04.msh" />
+ <kat_shrine_cindy_05 file="kat_shrine_cindy_05.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <kat_dory_stone_07 file="kat_dory_stone_07.msh" />
+ <notrans_kat_shadow_circle10 file="notrans_kat_shadow_circle10.msh" />
+ <notrans_kat_shadow_circle11 file="notrans_kat_shadow_circle11.msh" />
+ <notrans_kat_shadow_circle12 file="notrans_kat_shadow_circle12.msh" />
+ <kat_dory_39 file="kat_dory_39.msh" />
+ <kat_dory_40 file="kat_dory_40.msh" />
+ <kat_dory_42 file="kat_dory_42.msh" />
+ <kat_dory_43 file="kat_dory_43.msh" />
+ <kat_dory_44 file="kat_dory_44.msh" />
+ <kat_dory_54 file="kat_dory_54.msh" />
+ <kat_dory_55 file="kat_dory_55.msh" />
+ <kat_dory_stone_08 file="kat_dory_stone_08.msh" />
+ <kat_dory_stone_09 file="kat_dory_stone_09.msh" />
+ <Billboard_kat_candlelight_jm_a09 file="Billboard_kat_candlelight_jm_a09.msh" />
+ <Billboard_kat_candlelight_jm_a10 file="Billboard_kat_candlelight_jm_a10.msh" />
+ <Billboard_kat_candlelight_jm_a11 file="Billboard_kat_candlelight_jm_a11.msh" />
+ <Billboard_kat_candlelight_jm_a12 file="Billboard_kat_candlelight_jm_a12.msh" />
+ <kat_column_jm_a13 file="kat_column_jm_a13.msh" />
+ <kat_column_jm_a14 file="kat_column_jm_a14.msh" />
+ <notrans_kat_column_jm_a10 file="notrans_kat_column_jm_a10.msh" />
+ <Object01 file="Object01.msh" />
+ <Object02 file="Object02.msh" />
+ <notrans_kat_ground file="notrans_kat_ground.msh" />
+ <notrans_kat_tower_01 file="notrans_kat_tower_01.msh" />
+ <kat_tower_04 file="kat_tower_04.msh" />
+ <kat_tower_01 file="kat_tower_01.msh" />
+ <kat_tower_05 file="kat_tower_05.msh" />
+ <kat_tower_03 file="kat_tower_03.msh" />
+ <kat_tower_02 file="kat_tower_02.msh" />
+ <kat_tower_06 file="kat_tower_06.msh" />
+ <kat_wood_01 file="kat_wood_01.msh" />
+ <kat_wood_02 file="kat_wood_02.msh" />
+ <notrans_kat_tower_02 file="notrans_kat_tower_02.msh" />
+ <notrans_kat_tower_05 file="notrans_kat_tower_05.msh" />
+ <notrans_kat_tower_03 file="notrans_kat_tower_03.msh" />
+ <notrans_kat_tower_04 file="notrans_kat_tower_04.msh" />
+</Objects>
+<Materials version="2">
+  <mkat_shrine_cindy
+    diffuse="kat_shrine_cindy.dds"
+    color="255 255 255"
+  />
+  <mkat_glass_cindy
+    diffuse="kat_glass_cindy.dds"
+    color="255 255 255"
+  />
+  <mkat_rock_cindy
+    diffuse="kat_rock_cindy.dds"
+    color="255 255 255"
+  />
+  <mkat_centersf_jm_01
+    diffuse="kat_centersf.dds"
+    color="255 255 255"
+  />
+  <mkat_bridge_nyh001
+    diffuse="bridge_nyh001.dds"
+    color="255 255 255"
+  />
+  <mkat_bridge_nyh002
+    diffuse="bridge_nyh002.dds"
+    color="255 255 255"
+  />
+  <mkat_cave_nyh001
+    diffuse="cave_nyh001.dds"
+    color="255 255 255"
+  />
+  <mkat_cave_nyh002
+    diffuse="cave_nyh002.dds"
+    color="255 255 255"
+  />
+  <mkat_ktwood_nyh001
+    diffuse="ktwood_nyh001.dds"
+    color="255 255 255"
+  />
+  <mkat_wall_nyh001_01_id01
+    diffuse="ktwall_nyh001_01_id01.dds"
+    color="255 255 255"
+  />
+  <mkat_wall_nyh001_01_id02
+    diffuse="ktwall_nyh001_01_id02.dds"
+    color="255 255 255"
+  />
+  <mkat_wall_nyh001_04
+    diffuse="ktwall_nyh001_04.dds"
+    color="255 255 255"
+  />
+  <mkat_wall_nyh001_03
+    diffuse="ktwall_nyh001_03.dds"
+    color="255 255 255"
+  />
+  <mkat_wall_nyh001_02_id01
+    diffuse="ktwall_nyh001_02_id01.dds"
+    color="255 255 255"
+  />
+  <mkat_wall_nyh001_02_id02
+    diffuse="ktwall_nyh001_02_id02.dds"
+    color="255 255 255"
+  />
+  <mkat_wall_nyh003_03
+    diffuse="ktwall_nyh003_03.dds"
+    color="255 255 255"
+  />
+  <mkat_wall_nyh004_03
+    diffuse="ktwall_nyh004_03.dds"
+    color="255 255 255"
+  />
+  <mkat_wallshadow_nyh001
+    diffuse="wallshadow_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_fence_nyh001
+    diffuse="ktfence_nyh001.dds"
+    color="255 255 255"
+  />
+  <mkat_wall_nyh002_03
+    diffuse="ktwall_nyh002_03.dds"
+    color="255 255 255"
+  />
+  <mkat_water_nyh001
+    diffuse="ktwater_nyh001.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_water_nyh002
+    diffuse="ktwater_nyh002.dds"
+    color="255 255 255"
+    uvAnimFile="kat_water_nyh002.uva"
+  />
+  <mkat_water_nyh003
+    diffuse="ktwater_nyh003.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_water_nyh004
+    diffuse="ktwater_nyh004.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_candlelight_jm_a01
+    diffuse="kat_candlelight_jm_a01.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_stair_nyh001
+    diffuse="ktstair_nyh001.dds"
+    color="255 255 255"
+  />
+  <mkat_board_jm_a01
+    diffuse="kat_board_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mkat_woodbridge_jm_a01
+    diffuse="kat_woodbridge_jm_01.dds"
+    color="255 255 255"
+  />
+  <mkat_dory_stone
+    diffuse="kat_dory_stone.dds"
+    color="255 255 255"
+  />
+  <m16_-_Default
+    diffuse="kat_fire_jm_a01.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_statue_cindy
+    diffuse="kat_statue_cindy.dds"
+    color="255 255 255"
+  />
+  <mktgroline_nyh001
+    diffuse="ktgroline_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_ground_soil
+    diffuse="kat_ground_soil.dds"
+    color="255 255 255"
+  />
+  <mkat_ground_wall
+    diffuse="kat_ground_wall.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_groundhill_jm_a01
+    diffuse="kat_groundhill_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mkat_ground_soil_2
+    diffuse="kat_ground_soil_2.dds"
+    color="255 255 255"
+  />
+  <mktground_nyh001
+    diffuse="ktground_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_centersfalpha_jm_a01
+    diffuse="kat_centersfalpha_jm_a01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_shadow_circle
+    diffuse="kat_shadow_circle.dds"
+    color="253 253 253"
+    opacity="1"
+  />
+  <mkat_shadow_square
+    diffuse="kat_shadow_square.dds"
+    color="253 253 253"
+    opacity="1"
+  />
+  <mkat_column_jm_a01
+    diffuse="kat_column_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mkat_stone_jm_a01
+    diffuse="kat_stone_jm_a01.dds"
+    color="255 255 255"
+  />
+  <mkat_dory
+    diffuse="kat_dory.dds"
+    color="255 255 255"
+  />
+  <mkat_dorya
+    diffuse="kat_dorya.dds"
+    color="255 255 255"
+  />
+  <mkat_ground_wall01
+    diffuse="kat_ground_wall01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_ground_wall02
+    diffuse="kat_ground_wall02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_ground_wall03
+    diffuse="kat_ground_wall03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkat_ground_wall04
+    diffuse="kat_ground_wall04.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mCollision_MovingMesh
+    color="104 112 119"
+  />
+  <mkat_tower_01
+    diffuse="kat_tower_01.dds"
+    color="255 255 255"
+  />
+  <mkat_tower_02
+    diffuse="kat_tower_02.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="katpa_cave.col"
+/>
+</Scene.XML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <zirara_skill_002_web file="zirara_skill_002_web.msh" />
+</Objects>
+<Materials version="2">
+  <mzirara_body_000
+    diffuse="zirara_skill_002_web.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="zirara_skill_002_web.skl"
+/>
+<BoneAnim
+  file="Anims\zirara_skill_002_web.anm"
+/>
+<collision
+  file="zirara_skill_002_web.col"
+/>
+</Scene.XML>

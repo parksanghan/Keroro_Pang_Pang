@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <machinegun_damege_011 file="machinegun_damage_011.msh" />
+</Objects>
+<Materials version="2">
+  <mmachinegun_damege_011
+    diffuse="machinegun_damage_011.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="machinegun_damage_011.skl"
+/>
+<BoneAnim
+  file="Anims\machinegun_damage_011.anm"
+/>
+<collision
+  file="machinegun_damage_011.col"
+/>
+</Scene.XML>

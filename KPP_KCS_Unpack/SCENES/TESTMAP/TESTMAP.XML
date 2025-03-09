@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Group39 file="Group39.msh" />
+ <Group38 file="Group38.msh" />
+ <Group37 file="Group37.msh" />
+ <Group36 file="Group36.msh" />
+ <Group35 file="Group35.msh" />
+ <Group34 file="Group34.msh" />
+ <Group33 file="Group33.msh" />
+ <Group32 file="Group32.msh" />
+ <Group31 file="Group31.msh" />
+ <Group30 file="Group30.msh" />
+ <Group29 file="Group29.msh" />
+ <Group28 file="Group28.msh" />
+ <Group27 file="Group27.msh" />
+ <Group26 file="Group26.msh" />
+ <Group25 file="Group25.msh" />
+ <Group24 file="Group24.msh" />
+ <Group23 file="Group23.msh" />
+ <Group22 file="Group22.msh" />
+ <Group21 file="Group21.msh" />
+ <Group20 file="Group20.msh" />
+ <Group19 file="Group19.msh" />
+ <Group18 file="Group18.msh" />
+ <Group17 file="Group17.msh" />
+ <Group16 file="Group16.msh" />
+ <Group15 file="Group15.msh" />
+ <Group14 file="Group14.msh" />
+ <Group13 file="Group13.msh" />
+ <Group12 file="Group12.msh" />
+ <Group11 file="Group11.msh" />
+ <Group10 file="Group10.msh" />
+ <Group9 file="Group9.msh" />
+ <Group8 file="Group8.msh" />
+ <Group4 file="Group4.msh" />
+ <Group3 file="Group3.msh" />
+ <Group7 file="Group7.msh" />
+ <Group6 file="Group6.msh" />
+ <Group77 file="Group77.msh" />
+ <Group76 file="Group76.msh" />
+ <Group75 file="Group75.msh" />
+ <Group74 file="Group74.msh" />
+ <Group73 file="Group73.msh" />
+ <Group72 file="Group72.msh" />
+ <Group71 file="Group71.msh" />
+ <Group70 file="Group70.msh" />
+ <Group69 file="Group69.msh" />
+ <Group68 file="Group68.msh" />
+ <Group67 file="Group67.msh" />
+ <Group66 file="Group66.msh" />
+ <Group65 file="Group65.msh" />
+ <Group64 file="Group64.msh" />
+ <Group63 file="Group63.msh" />
+ <Group62 file="Group62.msh" />
+ <Group61 file="Group61.msh" />
+ <Group60 file="Group60.msh" />
+ <Group59 file="Group59.msh" />
+ <Group58 file="Group58.msh" />
+ <Group57 file="Group57.msh" />
+ <Group56 file="Group56.msh" />
+ <Group55 file="Group55.msh" />
+ <Group54 file="Group54.msh" />
+ <Group53 file="Group53.msh" />
+ <Group52 file="Group52.msh" />
+ <Group51 file="Group51.msh" />
+ <Group50 file="Group50.msh" />
+ <Group49 file="Group49.msh" />
+ <Group48 file="Group48.msh" />
+ <Group47 file="Group47.msh" />
+ <Group46 file="Group46.msh" />
+ <Group42 file="Group42.msh" />
+ <Group41 file="Group41.msh" />
+ <Group45 file="Group45.msh" />
+ <Group44 file="Group44.msh" />
+</Objects>
+<Materials version="2">
+  <m02_-_Default
+    color="150 150 150"
+  />
+  <mFrontCol
+    color="255 255 255"
+  />
+  <mMaterial
+    diffuse="Material.jpg"
+    color="50 63 73"
+  />
+  <mBackColo
+    color="171 176 204"
+  />
+  <mMateri03
+    diffuse="Materi03.jpg"
+    color="66 81 77"
+  />
+  <mMateri04
+    diffuse="Materi04.jpg"
+    color="123 99 71"
+  />
+  <mMateri02
+    diffuse="Materi02.jpg"
+    color="123 99 71"
+  />
+  <mMateri01
+    diffuse="Materi01.jpg"
+    color="123 99 71"
+  />
+  <mMateri11
+    diffuse="Materi11.jpg"
+    color="123 99 71"
+  />
+  <mMateri14
+    diffuse="Materi14.jpg"
+    color="66 81 77"
+  />
+  <mMateri13
+    diffuse="Materi13.jpg"
+    color="123 99 71"
+  />
+  <mMateri12
+    diffuse="Materi12.jpg"
+    color="123 99 71"
+  />
+  <mMateri05
+    diffuse="Materi05.jpg"
+    color="112 117 118"
+  />
+  <mMateri08
+    diffuse="Materi08.jpg"
+    color="81 102 120"
+  />
+  <mMateri06
+    diffuse="Materi06.jpg"
+    color="83 98 104"
+  />
+  <mMateri07
+    diffuse="Materi07.jpg"
+    color="79 88 95"
+  />
+  <mMateri09
+    diffuse="Materi09.jpg"
+    color="63 86 108"
+  />
+  <mMateri10
+    diffuse="Materi10.jpg"
+    color="123 131 136"
+  />
+</Materials>
+<collision
+  file="testmap.col"
+/>
+</Scene.XML>

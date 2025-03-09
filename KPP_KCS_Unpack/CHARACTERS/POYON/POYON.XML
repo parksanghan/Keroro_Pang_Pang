@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <poyon_face_000 file="poyon_face_000.msh" />
+ <poyon_head_000 file="poyon_head_000.msh" />
+ <poyon_body_000 file="poyon_body_000.msh" />
+ <pistol_event_008 file="pistol_event_008.msh" />
+</Objects>
+<Materials version="2">
+  <mpoyon_face_000
+    diffuse="poyon_face_000.dds"
+    color="149 149 149"
+  />
+  <mpoyon_head_000
+    diffuse="poyon_head_000.dds"
+    color="149 149 149"
+  />
+  <mpoyon_body_000
+    diffuse="poyon_body_000.dds"
+    color="149 149 149"
+  />
+  <mpistol_event_008
+  	diffuse="pistol_event_008.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Poyon.skl"
+/>
+<BoneAnim
+  file="Anims\Poyon.anm"
+/>
+<collision
+  file="Poyon.col"
+/>
+</Scene.XML>

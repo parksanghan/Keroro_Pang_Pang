@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<keroro_resource_list.xml>
+	<effects>
+		<effect name="fx_keroro_skill_001.prx" />
+		<effect name="fx_keroro_skill_004.prx" />
+		<effect name="fx_keroro_skill_004_2.prx" />
+		<effect name="fx_keroro_skill_005.prx" />
+		<effect name="fx_keroro_skill_006.prx" />
+		<effect name="fx_keroro_skill_006_2.prx" />
+		<effect name="fx_keroro_skill_009.prx" />
+		<effect name="fx_keroro_skill_010.prx" />
+		<effect name="fx_keroro_skill_010_2.prx" />
+		<effect name="fx_keroro_skill_011.prx" />
+		<effect name="fx_keroro_skill_012.prx" />
+		<effect name="fx_keroro_skill_012_2.prx" />
+		<effect name="fx_keroro_skill_018.prx" />
+		<effect name="fx_keroro_skill_019.prx" />
+		<effect name="fx_keroro_skill_020.prx" />
+		<effect name="fx_keroro_skill_021.prx" />
+		<effect name="fx_keroro_skill_022.prx" />
+		<effect name="fx_keroro_skill_023.prx" />
+	</effects>
+</keroro_resource_list.xml>

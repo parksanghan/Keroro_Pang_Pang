@@ -1,0 +1,434 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_mys_2_chair01_04 file="notrans_mys_2_chair01_04.msh" />
+ <notrans_mys_2_desk_04 file="notrans_mys_2_desk_04.msh" />
+ <mys_2_locker_02 file="mys_2_locker_02.msh" />
+ <mys_2_locker_01 file="mys_2_locker_01.msh" />
+ <notrans_mys_2_shadow01_01 file="notrans_mys_2_shadow01_01.msh" />
+ <notrans_mys_2_shadow01_02 file="notrans_mys_2_shadow01_02.msh" />
+ <notrans_mys_2_chair01_03 file="notrans_mys_2_chair01_03.msh" />
+ <notrans_mys_2_shadow01_24 file="notrans_mys_2_shadow01_24.msh" />
+ <notrans_mys_2_shadow01_23 file="notrans_mys_2_shadow01_23.msh" />
+ <notrans_mys_2_desk_03 file="notrans_mys_2_desk_03.msh" />
+ <mys_2_locker_05 file="mys_2_locker_05.msh" />
+ <notrans_mys_2_window03_01 file="notrans_mys_2_window03_01.msh" />
+ <notrans_mys_2_window03_04 file="notrans_mys_2_window03_04.msh" />
+ <notrans_mys_2_wall03_03 file="notrans_mys_2_wall03_03.msh" />
+ <mys_2_board_01 file="mys_2_board_01.msh" />
+ <mys_2_board_02 file="mys_2_board_02.msh" />
+ <mys_2_wall01_20 file="mys_2_wall01_20.msh" />
+ <notrans_mys_2_ground01 file="notrans_mys_2_ground01.msh" />
+ <notrans_mys_2_chair01_08 file="notrans_mys_2_chair01_08.msh" />
+ <notrans_mys_2_desk_01 file="notrans_mys_2_desk_01.msh" />
+ <mys_2_locker_04 file="mys_2_locker_04.msh" />
+ <notrans_mys_2_shadow01_03 file="notrans_mys_2_shadow01_03.msh" />
+ <notrans_mys_2_shadow01_04 file="notrans_mys_2_shadow01_04.msh" />
+ <notrans_mys_2_chair01_01 file="notrans_mys_2_chair01_01.msh" />
+ <notrans_mys_2_shadow01_05 file="notrans_mys_2_shadow01_05.msh" />
+ <notrans_mys_2_ground03 file="notrans_mys_2_ground03.msh" />
+ <notrans_mys_2_window03_03 file="notrans_mys_2_window03_03.msh" />
+ <notrans_mys_2_window03_02 file="notrans_mys_2_window03_02.msh" />
+ <mys_2_board_05 file="mys_2_board_05.msh" />
+ <mys_2_board_04 file="mys_2_board_04.msh" />
+ <notrans_mys_2_wall03_01 file="notrans_mys_2_wall03_01.msh" />
+ <mys_2_cabinet_03 file="mys_2_cabinet_03.msh" />
+ <notrans_mys_2_fire01_06 file="notrans_mys_2_fire01_06.msh" />
+ <notrans_mys_2_shadow03 file="notrans_mys_2_shadow03.msh" />
+ <mys_2_cabinet_01 file="mys_2_cabinet_01.msh" />
+ <mys_2_notice_01 file="mys_2_notice_01.msh" />
+ <mys_2_notice_02 file="mys_2_notice_02.msh" />
+ <notrans_mys_2_fire01_05 file="notrans_mys_2_fire01_05.msh" />
+ <mys_2_wall02_09 file="mys_2_wall02_09.msh" />
+ <notrans_mys_2_wall03_02 file="notrans_mys_2_wall03_02.msh" />
+ <notrans_mys_2_wall03_04 file="notrans_mys_2_wall03_04.msh" />
+ <mys_2_hydrant_03 file="mys_2_hydrant_03.msh" />
+ <mys_2_wall01_03 file="mys_2_wall01_03.msh" />
+ <mys_2_wall02_11 file="mys_2_wall02_11.msh" />
+ <mys_2_wall02_16 file="mys_2_wall02_16.msh" />
+ <mys_2_classplate_05 file="mys_2_classplate_05.msh" />
+ <mys_2_classplate_01 file="mys_2_classplate_01.msh" />
+ <mys_2_wall01_02 file="mys_2_wall01_02.msh" />
+ <mys_2_wall01_04 file="mys_2_wall01_04.msh" />
+ <mys_2_wall01_07 file="mys_2_wall01_07.msh" />
+ <mys_2_wall02_18 file="mys_2_wall02_18.msh" />
+ <mys_2_wall02_17 file="mys_2_wall02_17.msh" />
+ <mys_2_wall01_17 file="mys_2_wall01_17.msh" />
+ <mys_2_wall02_10 file="mys_2_wall02_10.msh" />
+ <mys_2_wall01_21 file="mys_2_wall01_21.msh" />
+ <nnotrans_mys_2_paper_01 file="nnotrans_mys_2_paper_01.msh" />
+ <nnotrans_mys_2_paper_02 file="nnotrans_mys_2_paper_02.msh" />
+ <mys_2_wall01_01 file="mys_2_wall01_01.msh" />
+ <mys_2_wall02_12 file="mys_2_wall02_12.msh" />
+ <mys_2_classplate_04 file="mys_2_classplate_04.msh" />
+ <mys_2_board_03 file="mys_2_board_03.msh" />
+ <mys_2_wall01_23 file="mys_2_wall01_23.msh" />
+ <mys_2_wall02_01 file="mys_2_wall02_01.msh" />
+ <mys_2_wall02_02 file="mys_2_wall02_02.msh" />
+ <mys_2_classplate_02 file="mys_2_classplate_02.msh" />
+ <mys_2_wall02_06 file="mys_2_wall02_06.msh" />
+ <mys_2_wall02_07 file="mys_2_wall02_07.msh" />
+ <mys_2_wall02_08 file="mys_2_wall02_08.msh" />
+ <mys_2_notice_03 file="mys_2_notice_03.msh" />
+ <mys_2_locker_03 file="mys_2_locker_03.msh" />
+ <mys_2_wall02_15 file="mys_2_wall02_15.msh" />
+ <mys_2_door02_01 file="mys_2_door02_01.msh" />
+ <mys_2_artplate file="mys_2_artplate.msh" />
+ <mys_2_wall02_14 file="mys_2_wall02_14.msh" />
+ <mys_2_wall02_13 file="mys_2_wall02_13.msh" />
+ <nnotrans_mys_2_paper_03 file="nnotrans_mys_2_paper_03.msh" />
+ <mys_2_cabinet_02 file="mys_2_cabinet_02.msh" />
+ <notrans_mys_2_fire01_01 file="notrans_mys_2_fire01_01.msh" />
+ <notrans_mys_2_desk_02 file="notrans_mys_2_desk_02.msh" />
+ <notrans_mys_2_shadow01_13 file="notrans_mys_2_shadow01_13.msh" />
+ <nnotrans_mys_2_paper_04 file="nnotrans_mys_2_paper_04.msh" />
+ <notrans_mys_2_chair01_02 file="notrans_mys_2_chair01_02.msh" />
+ <notrans_mys_2_shadow01_14 file="notrans_mys_2_shadow01_14.msh" />
+ <nnotrans_mys_2_paper_06 file="nnotrans_mys_2_paper_06.msh" />
+ <mys_2_window02_13 file="mys_2_window02_13.msh" />
+ <mys_2_window02_12 file="mys_2_window02_12.msh" />
+ <mys_2_window02_11 file="mys_2_window02_11.msh" />
+ <mys_2_window02_22 file="mys_2_window02_22.msh" />
+ <mys_2_window02_21 file="mys_2_window02_21.msh" />
+ <mys_2_window02_20 file="mys_2_window02_20.msh" />
+ <mys_2_window02_19 file="mys_2_window02_19.msh" />
+ <mys_2_window02_03 file="mys_2_window02_03.msh" />
+ <mys_2_window02_01 file="mys_2_window02_01.msh" />
+ <mys_2_window02_02 file="mys_2_window02_02.msh" />
+ <mys_2_window02_08 file="mys_2_window02_08.msh" />
+ <mys_2_window02_09 file="mys_2_window02_09.msh" />
+ <mys_2_window02_10 file="mys_2_window02_10.msh" />
+ <mys_2_window01_01 file="mys_2_window01_01.msh" />
+ <mys_2_window02_16 file="mys_2_window02_16.msh" />
+ <mys_2_window02_18 file="mys_2_window02_18.msh" />
+ <notrans_mys_2_fire01_03 file="notrans_mys_2_fire01_03.msh" />
+ <notrans_mys_2_shadow_05 file="notrans_mys_2_shadow_05.msh" />
+ <notrans_mys_2_clean_01 file="notrans_mys_2_clean_01.msh" />
+ <notrans_mys_2_ground04 file="notrans_mys_2_ground04.msh" />
+ <mys_2_partition_01 file="mys_2_partition_01.msh" />
+ <mys_2_partition_02 file="mys_2_partition_02.msh" />
+ <mys_2_partition_03 file="mys_2_partition_03.msh" />
+ <mys_2_partition_04 file="mys_2_partition_04.msh" />
+ <notrans_mys_2_toilet_02 file="notrans_mys_2_toilet_02.msh" />
+ <notrans_mys_2_shadow01_15 file="notrans_mys_2_shadow01_15.msh" />
+ <notrans_mys_2_shadow01_16 file="notrans_mys_2_shadow01_16.msh" />
+ <notrans_mys_2_shadow01_17 file="notrans_mys_2_shadow01_17.msh" />
+ <notrans_mys_2_shadow01_18 file="notrans_mys_2_shadow01_18.msh" />
+ <notrans_mys_2_toilet_01 file="notrans_mys_2_toilet_01.msh" />
+ <notrans_mys_2_toilet_03 file="notrans_mys_2_toilet_03.msh" />
+ <notrans_mys_2_hole file="notrans_mys_2_hole.msh" />
+ <notrans_mys_2_shadow_06 file="notrans_mys_2_shadow_06.msh" />
+ <notrans_mys_2_shadow_01 file="notrans_mys_2_shadow_01.msh" />
+ <notrans_mys_2_shadow_02 file="notrans_mys_2_shadow_02.msh" />
+ <notrans_mys_2_shadow_03 file="notrans_mys_2_shadow_03.msh" />
+ <notrans_mys_2_shadow_04 file="notrans_mys_2_shadow_04.msh" />
+ <notrans_mys_1_clean_02 file="notrans_mys_1_clean_02.msh" />
+ <mys_2_window02_14 file="mys_2_window02_14.msh" />
+ <mys_2_wall01_14 file="mys_2_wall01_14.msh" />
+ <notrans_mys_2_wall04_01 file="notrans_mys_2_wall04_01.msh" />
+ <mys_2_wall01_12 file="mys_2_wall01_12.msh" />
+ <mys_2_hydrant_01 file="mys_2_hydrant_01.msh" />
+ <notrans_mys_2_fire01_04 file="notrans_mys_2_fire01_04.msh" />
+ <mys_2_wcplate_01 file="mys_2_wcplate_01.msh" />
+ <mys_2_wall01_15 file="mys_2_wall01_15.msh" />
+ <mys_2_wall01_09 file="mys_2_wall01_09.msh" />
+ <mys_2_wall01_11 file="mys_2_wall01_11.msh" />
+ <notrans_mys_2_shadow_07 file="notrans_mys_2_shadow_07.msh" />
+ <notrans_mys_2_door02_02 file="notrans_mys_2_door02_02.msh" />
+ <notrans_mys_2_window01_02 file="notrans_mys_2_window01_02.msh" />
+ <notrans_mys_2_fire01_02 file="notrans_mys_2_fire01_02.msh" />
+ <notrans_mys_2_shadow01_19 file="notrans_mys_2_shadow01_19.msh" />
+ <mys_2_wall01_24 file="mys_2_wall01_24.msh" />
+ <mys_2_wall02_04 file="mys_2_wall02_04.msh" />
+ <mys_2_window02_05 file="mys_2_window02_05.msh" />
+ <mys_2_window02_04 file="mys_2_window02_04.msh" />
+ <mys_2_wall02_03 file="mys_2_wall02_03.msh" />
+ <mys_2_window02_06 file="mys_2_window02_06.msh" />
+ <mys_2_wall02_05 file="mys_2_wall02_05.msh" />
+ <mys_2_classplate_03 file="mys_2_classplate_03.msh" />
+ <mys_2_hydrant_02 file="mys_2_hydrant_02.msh" />
+ <nnotrans_mys_2_paper_05 file="nnotrans_mys_2_paper_05.msh" />
+ <mys_2_wall01_22 file="mys_2_wall01_22.msh" />
+ <mys_2_window02_07 file="mys_2_window02_07.msh" />
+ <mys_2_door01_01 file="mys_2_door01_01.msh" />
+ <notrans_mys_2_shadow01_06 file="notrans_mys_2_shadow01_06.msh" />
+ <notrans_mys_2_chair01_05 file="notrans_mys_2_chair01_05.msh" />
+ <notrans_mys_2_shadow01_07 file="notrans_mys_2_shadow01_07.msh" />
+ <notrans_mys_2_chair01_07 file="notrans_mys_2_chair01_07.msh" />
+ <notrans_mys_2_agrippa_01 file="notrans_mys_2_agrippa_01.msh" />
+ <notrans_mys_2_shadow01_08 file="notrans_mys_2_shadow01_08.msh" />
+ <notrans_dororopic_ilf file="notrans_dororopic_ilf.msh" />
+ <notrans_mys_2_chair01_06 file="notrans_mys_2_chair01_06.msh" />
+ <notrans_mys_2_shadow01_09 file="notrans_mys_2_shadow01_09.msh" />
+ <notrans_mys_2_easel_01 file="notrans_mys_2_easel_01.msh" />
+ <notrans_mys_2_easel_03 file="notrans_mys_2_easel_03.msh" />
+ <notrans_mys_2_agrippa_02 file="notrans_mys_2_agrippa_02.msh" />
+ <notrans_mys_2_shadow01_10 file="notrans_mys_2_shadow01_10.msh" />
+ <notrans_mys_2_shadow01_11 file="notrans_mys_2_shadow01_11.msh" />
+ <notrans_mys_2_easel_02 file="notrans_mys_2_easel_02.msh" />
+ <notrans_mys_2_shadow01_12 file="notrans_mys_2_shadow01_12.msh" />
+ <notrans_mys_2_waste_01 file="notrans_mys_2_waste_01.msh" />
+ <notrans_mys_2_shadow01_20 file="notrans_mys_2_shadow01_20.msh" />
+ <notrans_mys_2_waste_02 file="notrans_mys_2_waste_02.msh" />
+ <notrans_mys_2_shadow01_21 file="notrans_mys_2_shadow01_21.msh" />
+ <mys_2_wall01_05 file="mys_2_wall01_05.msh" />
+ <mys_2_window02_15 file="mys_2_window02_15.msh" />
+ <notrans_mys_2_waste_03 file="notrans_mys_2_waste_03.msh" />
+ <notrans_mys_2_shadow01_22 file="notrans_mys_2_shadow01_22.msh" />
+ <notrans_mys_2_door03 file="notrans_mys_2_door03.msh" />
+ <notrans_mys_2_window04_01 file="notrans_mys_2_window04_01.msh" />
+ <mys_2_window02_17 file="mys_2_window02_17.msh" />
+ <mys_2_wall01_06 file="mys_2_wall01_06.msh" />
+ <mys_2_wall01_08 file="mys_2_wall01_08.msh" />
+ <mys_2_wall01_10 file="mys_2_wall01_10.msh" />
+ <mys_2_wall01_13 file="mys_2_wall01_13.msh" />
+ <mys_2_wall01_16 file="mys_2_wall01_16.msh" />
+ <mys_2_wall01_18 file="mys_2_wall01_18.msh" />
+ <mys_2_wall01_19 file="mys_2_wall01_19.msh" />
+ <mystery_school_metal_001 file="mystery_school_metal_001.msh" />
+ <GAME_MonsterMoveBound file="GAME_MonsterMoveBound.msh" />
+ <GAME_MovingMesh file="GAME_MovingMesh.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <notrans_mys_2_urinal_01 file="notrans_mys_2_urinal_01.msh" />
+ <notrans_mys_2_urinal_02 file="notrans_mys_2_urinal_02.msh" />
+ <notrans_mys_2_urinal_03 file="notrans_mys_2_urinal_03.msh" />
+ <notrans_mys_2_urinal_04 file="notrans_mys_2_urinal_04.msh" />
+ <notrans_mys_2_basin_01 file="notrans_mys_2_basin_01.msh" />
+ <mys_2_artplate01 file="mys_2_artplate01.msh" />
+ <notrans_mys_2_shadow01_25 file="notrans_mys_2_shadow01_25.msh" />
+ <notrans_mys_2_desk_05 file="notrans_mys_2_desk_05.msh" />
+ <GAME_FlyingMesh file="GAME_FlyingMesh.msh" />
+ <notrans_mys_02_plant_01 file="notrans_mys_02_plant_01.msh" />
+ <notrans_mys_1_shadow_16 file="notrans_mys_1_shadow_16.msh" />
+ <notrans_mys_02_plant_02 file="notrans_mys_02_plant_02.msh" />
+ <notrans_mys_1_shadow_17 file="notrans_mys_1_shadow_17.msh" />
+ <notrans_mys_02_plant_03 file="notrans_mys_02_plant_03.msh" />
+ <notrans_mys_1_shadow_18 file="notrans_mys_1_shadow_18.msh" />
+ <notrans_mys_2_wall02_01 file="notrans_mys_2_wall02_01.msh" />
+ <notrans_mys_2_wall01_03 file="notrans_mys_2_wall01_03.msh" />
+ <notrans_mys_2_wall02_03 file="notrans_mys_2_wall02_03.msh" />
+ <notrans_mys_2_wall01_01 file="notrans_mys_2_wall01_01.msh" />
+ <notrans_mys_2_wall01_02 file="notrans_mys_2_wall01_02.msh" />
+ <notrans_mys_2_wall02_04 file="notrans_mys_2_wall02_04.msh" />
+ <notrans_mys_2_wall02_02 file="notrans_mys_2_wall02_02.msh" />
+ <notrans_mys_2_wall03_07 file="notrans_mys_2_wall03_07.msh" />
+ <notrans_mys_2_wall01_04 file="notrans_mys_2_wall01_04.msh" />
+ <notrans_mys_2_window03_06 file="notrans_mys_2_window03_06.msh" />
+ <notrans_mys_2_wall03_05 file="notrans_mys_2_wall03_05.msh" />
+ <notrans_mys_2_window03_07 file="notrans_mys_2_window03_07.msh" />
+ <notrans_mys_2_wall03_06 file="notrans_mys_2_wall03_06.msh" />
+ <notrans_mys_2_window03_05 file="notrans_mys_2_window03_05.msh" />
+ <notrans_mys_2_wall03_08 file="notrans_mys_2_wall03_08.msh" />
+ <notrans_mys_2_window03_08 file="notrans_mys_2_window03_08.msh" />
+ <notrans_mys_1_wall03_05 file="notrans_mys_1_wall03_05.msh" />
+ <notrans_mys_1_ground05 file="notrans_mys_1_ground05.msh" />
+ <notrans_mys_backgroundtree file="notrans_mys_backgroundtree.msh" />
+ <notrans_mys_sky_ap_ms03 file="notrans_mys_sky_ap_ms03.msh" />
+ <notrans_mys_sky file="notrans_mys_sky.msh" />
+ <notrans_mys_fence file="notrans_mys_fence.msh" />
+ <notrans_mys_gate file="notrans_mys_gate.msh" />
+ <notrans_mys_sky_ap_ms04 file="notrans_mys_sky_ap_ms04.msh" />
+ <notrans_mys_shell_building01 file="notrans_mys_shell_building01.msh" />
+</Objects>
+<Materials version="2">
+  <mpk_sphere
+    diffuse="vil_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mmys_1_desk
+    diffuse="mys_desk.dds"
+    color="255 255 255"
+  />
+  <mmys_2_locker
+    diffuse="mys_locker.dds"
+    color="255 255 255"
+  />
+  <mvil_shadow_square01
+    diffuse="vil_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mmys_2_window02
+    diffuse="mys_window02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mmys_2_wall01_id01
+    diffuse="mys_wall01.dds"
+    color="255 255 255"
+  />
+  <mmys_2_wall01_id02
+    diffuse="mys_wall01_01.dds"
+    color="255 255 255"
+  />
+  <mmys_2_board
+    diffuse="mys_board.dds"
+    color="255 255 255"
+  />
+  <mmys_2_ground01
+    diffuse="mys_ground01.dds"
+    color="255 255 255"
+  />
+  <mmys_2_cabinet
+    diffuse="mys_cabinet.dds"
+    color="255 255 255"
+  />
+  <mmys_2_fire01
+    diffuse="mys_fire01.dds"
+    color="255 255 255"
+  />
+  <mmys_2_shadow03
+    diffuse="mys_shadow03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mmys_2_notice_id01
+    diffuse="mys_notice_id01.dds"
+    color="255 255 255"
+  />
+  <mmys_2_notice_id02
+    diffuse="mys_notice_id02.dds"
+    color="255 255 255"
+  />
+  <mmys_2_hydrant
+    diffuse="mys_hydrant.dds"
+    color="255 255 255"
+  />
+  <mmys_2_classplate
+    diffuse="mys_classplate.dds"
+    color="255 255 255"
+  />
+  <mmys_2_paper
+    diffuse="mys_paper.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mmys_2_door
+    diffuse="mys_door.dds"
+    color="255 255 255"
+  />
+  <mmys_2_artplate
+    diffuse="mys_artplate.dds"
+    color="255 255 255"
+  />
+  <mmys_2_window01
+    diffuse="mys_window01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mmys_2_shadow
+    diffuse="mys_shadow.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mmys_2_clean
+    diffuse="mys_clean.dds"
+    color="255 255 255"
+  />
+  <mmys_2_ground04
+    diffuse="mys_ground04.dds"
+    color="255 255 255"
+  />
+  <mmys_1_partition
+    diffuse="mys_partition.dds"
+    color="255 255 255"
+  />
+  <mmys_2_toilet
+    diffuse="mys_toilet.dds"
+    color="255 255 255"
+  />
+  <mmys_2_hole
+    diffuse="mys_hole.dds"
+    color="255 255 255"
+  />
+  <mmys_2_wcplate
+    diffuse="mys_wcplate.dds"
+    color="255 255 255"
+  />
+  <mmys_2_agrippa
+    diffuse="mys_agrippa.dds"
+    color="255 255 255"
+  />
+  <mdororopic_shape
+    diffuse="dororopic_shape.dds"
+    color="255 255 255"
+  />
+  <mdororopic_ilf
+    diffuse="dororopic_ilf001.ifl"
+    color="250 250 250"
+  />
+  <mmys_2_easel
+    diffuse="mys_easel.dds"
+    color="255 255 255"
+  />
+  <mmys_2_waste
+    diffuse="mys_waste.dds"
+    color="255 255 255"
+  />
+  <mEmptyMat
+  />
+  <mmys_2_urinal
+    diffuse="mys_urinal.dds"
+    color="255 255 255"
+  />
+  <mmys_2_basin
+    diffuse="mys_basin.dds"
+    color="255 255 255"
+  />
+  <mplant
+    diffuse="mys_plant.dds"
+    color="255 255 255"
+  />
+  <mmys_2_wall02
+    diffuse="mys_groundedge_02.dds"
+    color="255 255 255"
+  />
+  <mmys_2_wall01
+    diffuse="mys_groundedge_01.dds"
+    color="255 255 255"
+  />
+  <mmys_2_window04
+    diffuse="mys_window03.dds"
+    color="255 255 255"
+  />
+  <mmys_1_ground05
+    diffuse="mys_ground05.dds"
+    color="255 255 255"
+  />
+  <mStandard_7
+    diffuse="mys_tree.dds"
+    color="149 149 149"
+  />
+  <msst_sky_ap_ms01
+    diffuse="sst_sky_ap_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="sst_sky_ap_ms01.uva"
+  />
+  <mStandard_1
+    diffuse="mys_sky_04.tga"
+    color="149 149 149"
+  />
+  <mStandard_5
+    diffuse="mys_background.dds"
+    color="149 149 149"
+  />
+  <mvilrage_metal_002_1
+    diffuse="vilrage_metal_002_1.dds"
+    color="253 253 253"
+  />
+  <mkct_shell_building
+    diffuse="kct_shell_building.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="mys_2_round.skl"
+/>
+<collision
+  file="mys_2_round.col"
+/>
+</Scene.XML>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <giroro_L_Vulcan01 file="giroro_L_Vulcan01.msh" />
+ <giroro_L_Vulcan00 file="giroro_L_Vulcan00.msh" />
+ <giroro_L_Vulcan01_0FD10B10 file="giroro_L_Vulcan01_0FD10B10.msh" />
+ <giroro_R_Vulcan00 file="giroro_R_Vulcan00.msh" />
+ <giroro_R_rocket00 file="giroro_R_rocket00.msh" />
+ <giroro_R_rocket01 file="giroro_R_rocket01.msh" />
+ <giroro_L_rocket01 file="giroro_L_rocket01.msh" />
+ <giroro_L_rocket00 file="giroro_L_rocket00.msh" />
+</Objects>
+<Materials version="2">
+  <mgiroro_skill_002_item
+    diffuse="giroro_skill_002_item.tga"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Giroro3_Attachment.skl"
+/>
+<BoneAnim
+  file="Anims\Giroro3_Attachment.anm"
+/>
+<collision
+  file="Giroro3_Attachment.col"
+/>
+</Scene.XML>

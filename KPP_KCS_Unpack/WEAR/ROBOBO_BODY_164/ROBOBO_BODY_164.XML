@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <robobo_body_164 file="robobo_body_164.msh" />
+</Objects>
+<Materials version="2">
+  <mrobobo_body_164
+    diffuse="robobo_body_164.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

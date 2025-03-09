@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <mina_head_000 file="mina_head_000.msh" />
+ <mina_body_001 file="mina_body_001.msh" />
+ <mina_face_001 file="mina_face_001.msh" />
+</Objects>
+<Materials version="2">
+  <mmina_head_000
+    diffuse="mina_head_000.dds"
+    color="0 0 0"
+  />
+  <mmina_body_001
+    diffuse="mina_body_001.dds"
+    color="96 96 96"
+  />
+  <mmina_face_001
+    diffuse="mina_face_001.dds"
+    color="86 86 86"
+  />
+</Materials>
+<Skeleton
+  file="mina_001.skl"
+/>
+<collision
+  file="mina_001.col"
+/>
+</Scene.XML>

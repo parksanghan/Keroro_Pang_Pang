@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <iplant_000 file="iplant_000.msh" />
+</Objects>
+<Materials version="2">
+  <miplant_000
+    diffuse="iplant_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="iplant_000.skl"
+/>
+<collision
+  file="iplant_000.col"
+/>
+</Scene.XML>

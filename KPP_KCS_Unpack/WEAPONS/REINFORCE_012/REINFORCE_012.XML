@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <reinforce_012 file="reinforce_012.msh" />
+</Objects>
+<Materials version="2">
+  <mreinforce_012
+    diffuse="reinforce_012.dds"
+    color="77 77 77"
+  />
+</Materials>
+<Skeleton
+  file="reinforce_012.skl"
+/>
+<collision
+  file="reinforce_012.col"
+/>
+</Scene.XML>

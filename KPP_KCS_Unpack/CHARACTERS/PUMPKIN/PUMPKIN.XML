@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pumpkin file="pumpkin.msh" />
+</Objects>
+<Materials version="2">
+  <mpumpkin_000
+    diffuse="pumpkin.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="pumpkin.skl"
+/>
+<collision
+  file="pumpkin.col"
+/>
+</Scene.XML>

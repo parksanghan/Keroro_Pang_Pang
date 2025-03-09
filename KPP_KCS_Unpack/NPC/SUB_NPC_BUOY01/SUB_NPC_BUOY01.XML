@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <sub_moored_oj_ms01 file="sub_moored_oj_ms01.msh" />
+ <sub_moored_oj_ms03 file="sub_moored_oj_ms03.msh" />
+ <smb_flag_jm_a01 file="smb_flag_jm_a01.msh" />
+ <smb_flag_jm_a02 file="smb_flag_jm_a02.msh" />
+ <smb_flag_jm_a05 file="smb_flag_jm_a05.msh" />
+</Objects>
+<Materials version="2">
+  <msub_moored_ms_a
+    diffuse="sub_moored_ms_a.tga"
+    color="255 255 255"
+  />
+  <msmb_flag_jm_a01
+    diffuse="smb_flag_jm_a01.tga"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="sub_npc_buoy01.skl"
+/>
+<BoneAnim
+  file="Anims\sub_npc_buoy01.anm"
+/>
+<collision
+  file="sub_npc_buoy01.col"
+/>
+</Scene.XML>

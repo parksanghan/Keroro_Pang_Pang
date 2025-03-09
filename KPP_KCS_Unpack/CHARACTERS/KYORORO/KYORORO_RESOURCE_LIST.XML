@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<kyororo_resource_list.xml>
+	<effects>
+		<effect name="fx_kyororo_skill_001_1.prx" />
+		<effect name="fx_kyororo_skill_001_2.prx" />
+		<effect name="fx_kyororo_skill_002_1.prx" />
+		<effect name="fx_kyororo_skill_002_2.prx" />
+		<effect name="fx_kyororo_skill_002_3.prx" />
+		<effect name="fx_kyororo_skill_002_4.prx" />
+		<effect name="fx_kyororo_skill_002_5.prx" />
+		<effect name="fx_kyororo_skill_003_1.prx" />
+		<effect name="fx_kyororo_skill_003_2.prx" />
+		<effect name="fx_kyororo_skill_003_3.prx" />
+		<effect name="fx_kyororo_skill_003_4.prx" />
+		<effect name="fx_kyororo_skill_003_5.prx" />
+		<effect name="fx_kyororo_skill_003_5_2.prx" />
+		<effect name="fx_kyororo_skill_003_6.prx" />
+	</effects>
+</kyororo_resource_list.xml>

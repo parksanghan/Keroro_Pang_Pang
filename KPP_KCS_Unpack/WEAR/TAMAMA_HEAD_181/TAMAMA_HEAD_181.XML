@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tamama_head_181 file="tamama_head_181.msh" />
+</Objects>
+<Materials version="2">
+  <mkeroro_face_000
+    diffuse="tamama_head_181.dds"
+    color="104 104 104"
+  />
+</Materials>
+</Scene.XML>

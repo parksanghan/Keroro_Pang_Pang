@@ -1,0 +1,280 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_mys_wall file="notrans_mys_wall.msh" />
+ <notrans_mys_ground_01 file="notrans_mys_ground_01.msh" />
+ <notrans_mys_backgroundtree file="notrans_mys_backgroundtree.msh" />
+ <notrans_mys_sky_ap_ms03 file="notrans_mys_sky_ap_ms03.msh" />
+ <notrans_mys_windowoutline file="notrans_mys_windowoutline.msh" />
+ <notrans_mys_windowglass file="notrans_mys_windowglass.msh" />
+ <notrans_mys_sky file="notrans_mys_sky.msh" />
+ <notrans_mys_groundedge_01 file="notrans_mys_groundedge_01.msh" />
+ <notrans_mys_groundedge_02 file="notrans_mys_groundedge_02.msh" />
+ <mys_rooftops_building_03 file="mys_rooftops_building_03.msh" />
+ <mys_pipe_04 file="mys_pipe_04.msh" />
+ <mys_rooftops_building_04 file="mys_rooftops_building_04.msh" />
+ <mys_rooftops_building_02 file="mys_rooftops_building_02.msh" />
+ <mys_pipe_01 file="mys_pipe_01.msh" />
+ <mys_rooftops_building_05 file="mys_rooftops_building_05.msh" />
+ <notrans_mys_shadow_square_01 file="notrans_mys_shadow_square_01.msh" />
+ <notrans_mys_shadow02 file="notrans_mys_shadow02.msh" />
+ <notrans_mys_shadow03 file="notrans_mys_shadow03.msh" />
+ <notrans_mys_clock file="notrans_mys_clock.msh" />
+ <mys_antena file="mys_antena.msh" />
+ <notrans_mys_stair_01 file="notrans_mys_stair_01.msh" />
+ <mys_rooftops_building_06 file="mys_rooftops_building_06.msh" />
+ <mys_watertank_01 file="mys_watertank_01.msh" />
+ <mys_rooftops_building_03_0FF9A0F0 file="mys_rooftops_building_03_0FF9A0F0.msh" />
+ <mys_rooftops_building_01 file="mys_rooftops_building_01.msh" />
+ <mys_watertank_02 file="mys_watertank_02.msh" />
+ <mys_rooftops_building_05_0FF9F8D0 file="mys_rooftops_building_05_0FF9F8D0.msh" />
+ <notrans_mys_stair_02 file="notrans_mys_stair_02.msh" />
+ <mys_rooftops_building_07 file="mys_rooftops_building_07.msh" />
+ <mys_rooftops_building_08 file="mys_rooftops_building_08.msh" />
+ <mys_rooftops_building_09 file="mys_rooftops_building_09.msh" />
+ <mys_rooftops_building_10 file="mys_rooftops_building_10.msh" />
+ <mys_rooftops_building_11 file="mys_rooftops_building_11.msh" />
+ <mys_rooftops_building_12 file="mys_rooftops_building_12.msh" />
+ <mys_rooftops_building_13 file="mys_rooftops_building_13.msh" />
+ <mys_rooftops_building_14 file="mys_rooftops_building_14.msh" />
+ <mys_pipe_02 file="mys_pipe_02.msh" />
+ <mys_pipe_03 file="mys_pipe_03.msh" />
+ <notrans_mys_fence file="notrans_mys_fence.msh" />
+ <notrans_mys_door file="notrans_mys_door.msh" />
+ <notrans_mys_shell_building file="notrans_mys_shell_building.msh" />
+ <notrans_mys_gate file="notrans_mys_gate.msh" />
+ <notrans_mys_3_paper_01 file="notrans_mys_3_paper_01.msh" />
+ <notrans_mys_3_book_13 file="notrans_mys_3_book_13.msh" />
+ <notrans_mys_3_door02 file="notrans_mys_3_door02.msh" />
+ <notrans_mys_3_window01 file="notrans_mys_3_window01.msh" />
+ <notrans_mys_2_easel_01 file="notrans_mys_2_easel_01.msh" />
+ <notrans_mys_2_shadow01 file="notrans_mys_2_shadow01.msh" />
+ <notrans_mys_3_shadow01_03 file="notrans_mys_3_shadow01_03.msh" />
+ <notrans_mys_shell_building01 file="notrans_mys_shell_building01.msh" />
+ <notrans_mys_1_table01_02 file="notrans_mys_1_table01_02.msh" />
+ <notrans_mys_2_shadow_06 file="notrans_mys_2_shadow_06.msh" />
+ <notrans_mys_2_clean_01 file="notrans_mys_2_clean_01.msh" />
+ <notrans_mys_1_clean_02 file="notrans_mys_1_clean_02.msh" />
+ <notrans_mys_2_shadow_01 file="notrans_mys_2_shadow_01.msh" />
+ <mys_2_cabinet_02 file="mys_2_cabinet_02.msh" />
+ <notrans_mys_1_shadow01_21 file="notrans_mys_1_shadow01_21.msh" />
+ <notrans_mys_1_chair01_04 file="notrans_mys_1_chair01_04.msh" />
+ <mys_1_locker_06 file="mys_1_locker_06.msh" />
+ <notrans_mys_1_chair01_05 file="notrans_mys_1_chair01_05.msh" />
+ <notrans_mys_1_shadow01_26 file="notrans_mys_1_shadow01_26.msh" />
+ <notrans_mys_1_chair01_06 file="notrans_mys_1_chair01_06.msh" />
+ <notrans_mys_1_chair02_07 file="notrans_mys_1_chair02_07.msh" />
+ <notrans_mys_1_shadow_08 file="notrans_mys_1_shadow_08.msh" />
+ <mys_1_locker_08 file="mys_1_locker_08.msh" />
+ <notrans_mys_1_chair02_10 file="notrans_mys_1_chair02_10.msh" />
+ <notrans_mys_1_shadow_11 file="notrans_mys_1_shadow_11.msh" />
+ <notrans_mys_1_desk_07 file="notrans_mys_1_desk_07.msh" />
+ <notrans_mys_1_shadow01_31 file="notrans_mys_1_shadow01_31.msh" />
+ <notrans_mys_1_desk_08 file="notrans_mys_1_desk_08.msh" />
+ <notrans_mys_1_shadow01_32 file="notrans_mys_1_shadow01_32.msh" />
+ <notrans_mys_1_table01_04 file="notrans_mys_1_table01_04.msh" />
+ <notrans_mys_1_shadow01_29 file="notrans_mys_1_shadow01_29.msh" />
+ <notrans_mys_1_shadow01_35 file="notrans_mys_1_shadow01_35.msh" />
+ <notrans_mys_1_chair01_07 file="notrans_mys_1_chair01_07.msh" />
+ <notrans_mys_1_chair02_12 file="notrans_mys_1_chair02_12.msh" />
+ <notrans_mys_1_shadow_13 file="notrans_mys_1_shadow_13.msh" />
+ <notrans_mys_1_chair02_13 file="notrans_mys_1_chair02_13.msh" />
+ <notrans_mys_1_desk_03 file="notrans_mys_1_desk_03.msh" />
+ <notrans_mys_1_shadow01_23 file="notrans_mys_1_shadow01_23.msh" />
+ <notrans_mys_1_desk_10 file="notrans_mys_1_desk_10.msh" />
+ <notrans_mys_1_shadow01_36 file="notrans_mys_1_shadow01_36.msh" />
+ <notrans_mys_1_desk_11 file="notrans_mys_1_desk_11.msh" />
+ <notrans_mys_1_shadow01_37 file="notrans_mys_1_shadow01_37.msh" />
+ <notrans_mys_1_desk_12 file="notrans_mys_1_desk_12.msh" />
+ <notrans_mys_1_waste_01 file="notrans_mys_1_waste_01.msh" />
+ <notrans_mys_1_desk_13 file="notrans_mys_1_desk_13.msh" />
+ <notrans_mys_2_easel_02 file="notrans_mys_2_easel_02.msh" />
+ <notrans_mys_2_shadow01_12 file="notrans_mys_2_shadow01_12.msh" />
+ <notrans_mys_3_shadow01_02 file="notrans_mys_3_shadow01_02.msh" />
+ <notrans_mys_1_chair02_11 file="notrans_mys_1_chair02_11.msh" />
+ <notrans_mys_1_shadow_14 file="notrans_mys_1_shadow_14.msh" />
+ <notrans_dororopic_ilf file="notrans_dororopic_ilf.msh" />
+ <notrans_mys_gradation file="notrans_mys_gradation.msh" />
+ <notrans_mys_shadow01 file="notrans_mys_shadow01.msh" />
+</Objects>
+<Materials version="2">
+  <mpk_sphere
+    diffuse="vil_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mStandard_23
+    diffuse="mys_wall02.dds"
+    color="149 149 149"
+  />
+  <mStandard_4
+    diffuse="mys_ground_01.dds"
+    color="149 149 149"
+  />
+  <mStandard_24
+    color="149 149 149"
+  />
+  <mStandard_7
+    diffuse="mys_tree.dds"
+    color="149 149 149"
+  />
+  <msst_sky_ap_ms01
+    diffuse="sst_sky_ap_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="sst_sky_ap_ms01.uva"
+  />
+  <mStandard_22
+    diffuse="mys_wall01.dds"
+    color="149 149 149"
+  />
+  <mad
+    diffuse="mys_window03.dds"
+    color="149 149 149"
+  />
+  <mStandard_1
+    diffuse="mys_sky.dds"
+    color="149 149 149"
+  />
+  <mStandard_9
+    diffuse="mys_groundedge_01.dds"
+    color="149 149 149"
+  />
+  <mStandard_10
+    diffuse="mys_groundedge_02.dds"
+    color="149 149 149"
+  />
+  <mmys_watertank
+    color="255 255 255"
+  />
+  <mStandard_15
+    diffuse="msy_rooftop_building_02.dds"
+    color="149 149 149"
+  />
+  <mStandard_19
+    diffuse="vil_shadow_square_ms02.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mStandard_21
+    diffuse="mys_shadow05.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mc
+    diffuse="mys_clock.dds"
+    color="149 149 149"
+  />
+  <mnotrans_mys_stair
+    diffuse="mys_stair.dds"
+    color="255 255 255"
+  />
+  <mmys_rooftops_building
+    diffuse="mys_rooftops_building2.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k166
+    diffuse="mys_watertank.dds"
+    color="255 255 255"
+  />
+  <mmys_rooftops_building_03
+    diffuse="mys_rooftops_building.dds"
+    color="255 255 255"
+  />
+  <mmys_rooftops_building_08
+    diffuse="mys_rooftops_building3.dds"
+    color="255 255 255"
+  />
+  <mStandard_5
+    diffuse="mys_background.dds"
+    color="149 149 149"
+  />
+  <mkct_shell_building
+    diffuse="kct_shell_building.dds"
+    color="255 255 255"
+  />
+  <mvilrage_metal_002_1
+    diffuse="vilrage_metal_002_1.dds"
+    color="253 253 253"
+  />
+  <mmys_3_paper
+    diffuse="mys_paper.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mmys_3_book
+    diffuse="mys_book.dds"
+    color="255 255 255"
+  />
+  <mmys_3_door
+    diffuse="mys_door.dds"
+    color="255 255 255"
+  />
+  <mmys_3_window01
+    diffuse="mys_window01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mmys_2_easel
+    diffuse="mys_easel.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k167
+    diffuse="vil_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mEmptyMat
+  />
+  <mmys_1_table01
+    diffuse="mys_table01.dds"
+    color="255 255 255"
+  />
+  <mmys_2_clean
+    diffuse="mys_clean.dds"
+    color="255 255 255"
+  />
+  <mmys_2_cabinet
+    diffuse="mys_cabinet.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k168
+    diffuse="mys_desk.dds"
+    color="255 255 255"
+  />
+  <mmys_1_locker
+    diffuse="mys_locker.dds"
+    color="255 255 255"
+  />
+  <mmys_1_waste
+    diffuse="mys_waste.dds"
+    color="255 255 255"
+  />
+  <mdororopic_shape
+    diffuse="dororopic_shape.dds"
+    color="255 255 255"
+  />
+  <mdororopic_ilf
+    diffuse="dororopic_ilf001.ifl"
+    color="250 250 250"
+  />
+  <mMaterial_k170
+    diffuse="mys_gradation.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mStandard_20
+    diffuse="mys_shadow04.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="mys_rooftop.skl"
+/>
+<collision
+  file="mys_rooftop.col"
+/>
+</Scene.XML>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<dororo_resource_list.xml>
+	<effects>
+		<effect name="fx_dororo_skill_001.prx" />
+		<effect name="fx_dororo_skill_002.prx" />
+		<effect name="fx_dororo_skill_003.prx" />
+		<effect name="fx_dororo_skill_004.prx" />
+		<effect name="fx_dororo_skill_005_1step.prx" />
+		<effect name="fx_dororo_skill_005_2step.prx" />
+		<effect name="fx_dororo_skill_005_3step.prx" />
+		<effect name="fx_dororo_skill_005_4step.prx" />
+		<effect name="fx_dororo_skill_005_5step.prx" />
+		<effect name="fx_dororo_skill_005_6step.prx" />
+		<effect name="fx_dororo_skill_006_1step.prx" />
+		<effect name="fx_dororo_skill_006_1step_2.prx" />
+		<effect name="fx_dororo_skill_006_2step.prx" />
+		<effect name="fx_dororo_skill_006_2step_2.prx" />
+		<effect name="fx_dororo_skill_006_3step.prx" />
+		<effect name="fx_dororo_skill_006_3step_2.prx" />
+		<effect name="fx_dororo_skill_006_4step.prx" />
+		<effect name="fx_dororo_skill_006_4step_2.prx" />
+		<effect name="fx_dororo_skill_006_5step.prx" />
+		<effect name="fx_dororo_skill_006_5step_2.prx" />
+		<effect name="fx_dororo_skill_006_6step.prx" />
+		<effect name="fx_dororo_skill_006_6step_2.prx" />
+		<effect name="fx_dororo_skill_009.prx" />
+		<effect name="fx_dororo_skill_014.prx" />
+		<effect name="fx_dororo_skill_015.prx" />
+		<effect name="fx_dororo_skill_016.prx" />
+		<effect name="fx_dororo_skill_017.prx" />
+		<effect name="fx_dororo_skill_018.prx" />
+	</effects>
+</dororo_resource_list.xml>

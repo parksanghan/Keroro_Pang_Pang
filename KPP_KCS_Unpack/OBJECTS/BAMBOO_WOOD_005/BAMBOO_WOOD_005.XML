@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <bamboo_wood_005 file="bamboo_wood_005.msh" />
+</Objects>
+<Materials version="2">
+  <mbbg_comdummy_nyh001
+    diffuse="comdummy_nyh001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="bamboo_wood_005.col"
+/>
+</Scene.XML>

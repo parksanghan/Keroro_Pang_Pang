@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <zirara_body_003 file="zirara_body_003.msh" />
+</Objects>
+<Materials version="2">
+  <mzirara_body_003
+    diffuse="zirara_body_003.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

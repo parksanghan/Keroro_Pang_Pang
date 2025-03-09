@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ckururu_skill_003_satellite file="ckururu_skill_003_satellite.msh" />
+</Objects>
+<Materials version="2">
+  <mckururu_skill_003_satellite
+    diffuse="ckururu_skill_003_satellite.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="ckururu_skill_003_satellite.skl"
+/>
+<BoneAnim
+  file="Anims\ckururu_skill_003_satellite.anm"
+/>
+<collision
+  file="ckururu_skill_003_satellite.col"
+/>
+</Scene.XML>

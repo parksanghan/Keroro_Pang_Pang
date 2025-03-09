@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <transgun_004 file="transgun_004.msh" />
+</Objects>
+<Materials version="2">
+  <msniper_damage_006
+    diffuse="transgun_004.dds"
+    color="97 97 97"
+  />
+</Materials>
+<Skeleton
+  file="transgun_004.skl"
+/>
+<BoneAnim
+  file="Anims\transgun_004.anm"
+/>
+<collision
+  file="transgun_004.col"
+/>
+</Scene.XML>

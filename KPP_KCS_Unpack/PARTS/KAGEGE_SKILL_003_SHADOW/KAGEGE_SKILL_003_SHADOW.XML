@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <shadow file="shadow.msh" />
+</Objects>
+<Materials version="2">
+  <mkagege_skill_003_shadow
+    diffuse="kagege_skill_003_shadow.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="kagege_skill_003_shadow.skl"
+/>
+<BoneAnim
+  file="Anims\kagege_skill_003_shadow.anm"
+/>
+<collision
+  file="kagege_skill_003_shadow.col"
+/>
+</Scene.XML>

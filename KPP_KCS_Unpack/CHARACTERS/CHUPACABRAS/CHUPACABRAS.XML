@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <chupacabras file="chupacabras.msh" />
+ <persinda file="persinda.msh" />
+</Objects>
+<Materials version="2">
+  <mChupacabras_000
+    diffuse="chupacabras.dds"
+    color="149 149 149"
+  />
+  <m02_-_Default
+    diffuse="persinda.dds"
+    color="75 75 75"
+  />
+</Materials>
+<Skeleton
+  file="chupacabras.skl"
+/>
+<BoneAnim
+  file="Anims\chupacabras.anm"
+/>
+<collision
+  file="chupacabras.col"
+/>
+</Scene.XML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <darkkiruru_face_000 file="darkkiruru_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mdarkkiruru_face_000
+    diffuse="darkkiruru_face_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Darkkiruru.skl"
+/>
+<collision
+  file="Darkkiruru.col"
+/>
+</Scene.XML>

@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_set_4rbottom01 file="notrans_set_4rbottom01.msh" />
+ <norans_set_4rground02_02 file="norans_set_4rground02_02.msh" />
+ <norans_set_4rground01_01 file="norans_set_4rground01_01.msh" />
+ <notrans_set_4rstair_02 file="notrans_set_4rstair_02.msh" />
+ <notrans_sec_4Rbarracks02_001 file="notrans_sec_4Rbarracks02_001.msh" />
+ <notrans_sec_4Rbarracks02_002 file="notrans_sec_4Rbarracks02_002.msh" />
+ <notrans_set_4ropendoor_02 file="notrans_set_4ropendoor_02.msh" />
+ <notrans_set_4ropendoor_01 file="notrans_set_4ropendoor_01.msh" />
+ <notrans_set_4rguide_02 file="notrans_set_4rguide_02.msh" />
+ <norans_set_4rground03_02 file="norans_set_4rground03_02.msh" />
+ <norans_set_4rground03_01 file="norans_set_4rground03_01.msh" />
+ <notrans_set_4rguide_01 file="notrans_set_4rguide_01.msh" />
+ <notrans_nah_pattern001_sm02 file="notrans_nah_pattern001_sm02.msh" />
+ <notrans_set_4rstair_01 file="notrans_set_4rstair_01.msh" />
+ <notrans_sec_4Rtrap_13 file="notrans_sec_4Rtrap_13.msh" />
+ <notrans_sec_4Rtrap_14 file="notrans_sec_4Rtrap_14.msh" />
+ <norans_set_4rground02_01 file="norans_set_4rground02_01.msh" />
+ <notrans_4Rgrass29 file="notrans_4Rgrass29.msh" />
+ <notrans_set_4Rground02_01 file="notrans_set_4Rground02_01.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k1460
+    diffuse="sec_grass01_id01.dds"
+    color="149 149 149"
+  />
+  <mStandard_5
+    diffuse="sec_stairstep02.dds"
+    color="149 149 149"
+  />
+  <mStandard_7df
+    diffuse="sec_door.dds"
+    color="149 149 149"
+  />
+  <mStandard_17
+    diffuse="nah_wall_jm.dds"
+    color="149 149 149"
+  />
+  <mStandard_4
+    diffuse="sec_ground02_03.dds"
+    color="149 149 149"
+  />
+  <msec_barracks02_001
+    diffuse="sec_barracks02_001.dds"
+    color="255 255 255"
+  />
+  <maa
+    diffuse="sec_groundguard.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k317
+    diffuse="sec_ground02_01.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k318
+    diffuse="sec_ground02_02.dds"
+    color="149 149 149"
+  />
+  <mnah_pattern001_sm001
+    diffuse="nah_pattern001_sm001.dds"
+    color="150 150 150"
+    opacity="1"
+  />
+  <mMaterial_k279
+    diffuse="sec_grass02.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k280
+    diffuse="sec_metaltrap.dds"
+    color="149 149 149"
+  />
+  <msec_grass02
+    diffuse="sec_grass01_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mStandard_4
+    diffuse="set_ground04.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="security_test_4round.col"
+/>
+</Scene.XML>

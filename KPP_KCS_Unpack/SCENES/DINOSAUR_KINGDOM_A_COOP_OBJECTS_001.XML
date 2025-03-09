@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="dinosaur_kingdom_a\dinosaur_kingdom_a.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="dinosaur_kingdom_metal_001" code="138477569" yLayer="0" posX="24.3103" posY="-2.45" posZ="-23.9201" angleX="0" angleY="110" angleZ="0" scale="1"/>
+	<Object engName="dinosaur_kingdom_metal_002" code="138477570" yLayer="0" posX="-26.7501" posY="-1.62" posZ="-20.6499" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="dinosaur_kingdom_metal_003" code="138477571" yLayer="0" posX="-88.5901" posY="1.24" posZ="-2.8" angleX="0" angleY="-9.2" angleZ="0" scale="1"/>
+</ARRANGEMENT>

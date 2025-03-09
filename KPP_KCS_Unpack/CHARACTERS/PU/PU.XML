@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pu file="pu.msh" />
+</Objects>
+<Materials version="2">
+  <m01_-_Default
+    diffuse="pu.dds"
+    color="91 91 91"
+  />
+</Materials>
+<Skeleton
+  file="pu.skl"
+/>
+<collision
+  file="pu.col"
+/>
+</Scene.XML>

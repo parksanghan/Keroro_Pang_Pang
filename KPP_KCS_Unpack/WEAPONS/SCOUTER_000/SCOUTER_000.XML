@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <scouter_001 file="scouter_001.msh" />
+</Objects>
+<Materials version="2">
+  <mscouter_001
+    diffuse="scouter_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+<collision
+  file="scouter_000.col"
+/>
+</Scene.XML>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<PangBonusList.XML>
+	<PangBonus Code="70451202"	engName="Military Look2"	pang1="2500"	pang2="9000"	pang3="0"	pang4="24000"	pang5="63000"	/>
+	<PangBonus Code="68224037"	engName="Military Look3"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68224038"	engName="Military Look4"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68224039"	engName="Military Look5"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68224040"	engName="Military Look6"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68224041"	engName="Military Look7"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68224042"	engName="Military Look8"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68289563"	engName="Military Look9"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+	<PangBonus Code="68289564"	engName="Military Look10"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+	<PangBonus Code="68289565"	engName="Military Look11"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+	<PangBonus Code="68289566"	engName="Military Look12"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+	<PangBonus Code="68289567"	engName="Military Look13"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+	<PangBonus Code="68289568"	engName="Military Look14"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+	<PangBonus Code="68224049"	engName="Military Look15"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68224050"	engName="Military Look16"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68224051"	engName="Military Look17"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68224052"	engName="Military Look18"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68224053"	engName="Military Look19"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68224054"	engName="Military Look20"	pang1="1000"	pang2="3600"	pang3="0"	pang4="9600"	pang5="29000"	/>
+	<PangBonus Code="68289575"	engName="Military Look21"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+	<PangBonus Code="68289576"	engName="Military Look22"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+	<PangBonus Code="68289577"	engName="Military Look23"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+	<PangBonus Code="68289578"	engName="Military Look24"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+	<PangBonus Code="68289579"	engName="Military Look25"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+	<PangBonus Code="68289580"	engName="Military Look26"	pang1="1500"	pang2="5400"	pang3="0"	pang4="14400"	pang5="34000"	/>
+</PangBonusList.XML>

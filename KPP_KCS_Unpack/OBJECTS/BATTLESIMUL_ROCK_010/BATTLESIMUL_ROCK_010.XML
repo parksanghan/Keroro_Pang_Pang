@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <battlesimul_rock_010 file="battlesimul_rock_010.msh" />
+</Objects>
+<Materials version="2">
+  <mbattlesimul_rock_010
+    diffuse="battlesimul_rock_010.dds"
+    color="250 250 250"
+  />
+</Materials>
+<collision
+  file="battlesimul_rock_010.col"
+/>
+</Scene.XML>

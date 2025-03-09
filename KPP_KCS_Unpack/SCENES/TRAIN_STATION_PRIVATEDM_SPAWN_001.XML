@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="1" spawnId="0" posX="29" posY="0.2" posZ="-5" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="0" spawnId="1" posX="-0.65" posY="0.18" posZ="1" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="1" spawnId="2" posX="-0.65" posY="0.18" posZ="-20" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="0" spawnId="3" posX="30" posY="0.85" posZ="14" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="1" spawnId="4" posX="-14" posY="1" posZ="-14" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="0" spawnId="5" posX="-13" posY="1" posZ="11" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="1" spawnId="6" posX="11" posY="1" posZ="12" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="0" spawnId="7" posX="-20" posY="1" posZ="-28" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>	
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="1" spawnId="8" posX="-21" posY="1" posZ="-2" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="0" spawnId="9" posX="11" posY="1" posZ="-15" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="itembox" engName="defense_3" code="153092099" teamId="0" spawnId="10" posX="11" posY="1" posZ="-4" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="11" posX="-1" posY="0.18" posZ="-8" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001"/>
+	
+	<spawn type="obj_Moving" engName="train" teamId="0" spawnId="1" posX="20.73" posY="0" posZ="170" angleY="90" fixedPosition="0" scale="1.0">
+	  <moving  objCode="145817604" posX="20.73" posY="0" posZ="-170" delayMinTime="15.0" delayMaxTime="30.0" movingSpeed="450.0"  movingSound="ef_train_pass" />
+	 </spawn>
+	 
+ 	<spawn type="obj_Moving" engName="train" teamId="0" spawnId="2" posX="-5.3" posY="0" posZ="-170" angleY="90" fixedPosition="0" scale="1.0">
+	  <moving  objCode="145817604" posX="-5.3" posY="0" posZ="170" delayMinTime="15.0" delayMaxTime="30.0" movingSpeed="450.0"  movingSound="ef_train_pass" />
+	 </spawn>	 
+</SPAWN.XML>

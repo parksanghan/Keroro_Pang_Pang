@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<darkkiruru_resource_list.xml>
+	<effects>
+		<effect name="fx_darkkiruru_skill_001_1.prx" />
+		<effect name="fx_darkkiruru_skill_001_2.prx" />
+		<effect name="fx_darkkiruru_skill_001_3.prx" />
+		<effect name="fx_darkkiruru_skill_001_4.prx" />
+		<effect name="fx_darkkiruru_skill_002_1.prx" />
+		<effect name="fx_darkkiruru_skill_002_2.prx" />
+		<effect name="fx_darkkiruru_skill_002_3.prx" />
+		<effect name="fx_darkkiruru_skill_002_4.prx" />
+		<effect name="fx_darkkiruru_skill_003_1.prx" />
+		<effect name="fx_darkkiruru_skill_003_2.prx" />
+		<effect name="fx_darkkiruru_skill_003_3.prx" />
+		<effect name="fx_darkkiruru_skill_003_4.prx" />
+		<effect name="fx_darkkiruru_skill_003_5.prx" />
+		<effect name="fx_darkkiruru_skill_003_6.prx" />
+		<effect name="fx_darkkiruru_skill_003_7.prx" />
+		<effect name="fx_darkkiruru_skill_003_8.prx" />
+		<effect name="fx_darkkiruru_skill_003_9.prx" />
+		<effect name="fx_darkkiruru_skill_003_10.prx" />
+		<effect name="fx_darkkiruru_skill_003_11.prx" />
+		<effect name="fx_darkkiruru_skill_003_star_1.prx" />
+		<effect name="fx_darkkiruru_skill_003_star_2.prx" />
+		<effect name="fx_darkkiruru_skill_003_star_3.prx" />
+		<effect name="fx_darkkiruru_skill_003_star_4.prx" />
+		<effect name="fx_darkkiruru_skill_003_star_5.prx" />
+		<effect name="fx_darkkiruru_skill_003_star_6.prx" />
+	</effects>
+</darkkiruru_resource_list.xml>

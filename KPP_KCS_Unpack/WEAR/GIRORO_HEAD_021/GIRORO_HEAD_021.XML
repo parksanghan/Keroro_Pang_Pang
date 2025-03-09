@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <giroro_head_021 file="giroro_head_021.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k1
+    diffuse="giroro_head_021.dds"
+    color="149 149 149"
+  />
+</Materials>
+<BoneAnim
+  file="Anims\giroro_head_021.anm"
+/>
+</Scene.XML>

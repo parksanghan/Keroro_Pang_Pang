@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<tororo_resource_list.xml>
+	<effects>
+		<effect name="fx_tororo_skill_001.prx" />
+		<effect name="fx_tororo_skill_002.prx" />
+		<effect name="fx_tororo_skill_002_2.prx" />
+		<effect name="fx_tororo_skill_003.prx" />
+		<effect name="fx_tororo_skill_004.prx" />
+		<effect name="fx_tororo_skill_005.prx" />
+		<effect name="fx_tororo_skill_006.prx" />
+		<effect name="fx_tororo_skill_007.prx" />
+		<effect name="fx_tororo_skill_008.prx" />
+		<effect name="fx_tororo_skill_009.prx" />
+		<effect name="fx_tororo_skill_010.prx" />
+		<effect name="fx_tororo_skill_011.prx" />
+		<effect name="fx_tororo_skill_012.prx" />
+		<effect name="fx_spaceship_left.prx" />
+		<effect name="fx_spaceship_right.prx" />
+		<effect name="fx_spaceship_back01.prx" />
+		<effect name="fx_spaceship_back02.prx" />
+		<effect name="fx_spaceship_smoke.prx" />
+	</effects>
+</tororo_resource_list.xml>

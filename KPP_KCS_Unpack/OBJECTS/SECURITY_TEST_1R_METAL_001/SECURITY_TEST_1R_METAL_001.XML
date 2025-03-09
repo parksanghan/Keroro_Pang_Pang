@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_sec_gateclose file="notrans_sec_gateclose.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_12
+    diffuse="set_checkpoint02.dds"
+    color="149 149 149"
+  />
+</Materials>
+<collision
+  file="security_test_1r_metal_001.col"
+/>
+</Scene.XML>

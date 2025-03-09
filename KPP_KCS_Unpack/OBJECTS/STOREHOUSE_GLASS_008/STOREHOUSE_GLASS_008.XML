@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <storehouse_glass_008 file="storehouse_glass_008.msh" />
+</Objects>
+<Materials version="2">
+  <mstorehouse_glass_008
+    diffuse="storehouse_glass_002.dds"
+    color="255 255 255"
+  />
+  <mstorehouse_glass_008a
+    diffuse="storehouse_glass_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="storehouse_glass_008.col"
+/>
+</Scene.XML>

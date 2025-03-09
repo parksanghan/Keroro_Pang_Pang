@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kiruru_skill_003_bigkiruru file="kiruru_skill_003_bigkiruru.msh" />
+</Objects>
+<Materials version="2">
+  <mkiruru_skill_003_bigkiruru
+    diffuse="kiruru_skill_003_bigkiruru.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="kiruru_skill_003_bigkiruru.skl"
+/>
+<BoneAnim
+  file="Anims\kiruru_skill_003_bigkiruru.anm"
+/>
+<collision
+  file="kiruru_skill_003_bigkiruru.col"
+/>
+</Scene.XML>

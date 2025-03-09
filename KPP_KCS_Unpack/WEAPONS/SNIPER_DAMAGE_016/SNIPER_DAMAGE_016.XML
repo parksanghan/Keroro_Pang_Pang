@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <sniper_damage_016 file="sniper_damage_016.msh" />
+</Objects>
+<Materials version="2">
+  <msniper_damage_014
+    diffuse="sniper_damage_016.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="sniper_damage_016.skl"
+/>
+<collision
+  file="sniper_damage_016.col"
+/>
+</Scene.XML>

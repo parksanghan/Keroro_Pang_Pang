@@ -1,0 +1,491 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ts_ad01_02 file="ts_ad01_02.msh" />
+ <ts_vendingmachine_a01 file="ts_vendingmachine_a01.msh" />
+ <notrans_ts_ground_b01 file="notrans_ts_ground_b01.msh" />
+ <notrans_ts_ground_e01 file="notrans_ts_ground_e01.msh" />
+ <notrans_ts_ground_a01 file="notrans_ts_ground_a01.msh" />
+ <notrans_ts_ground_f01 file="notrans_ts_ground_f01.msh" />
+ <notrans_ts_bench01_02 file="notrans_ts_bench01_02.msh" />
+ <notrans_ts_bench01_04 file="notrans_ts_bench01_04.msh" />
+ <ts_store01_001 file="ts_store01_001.msh" />
+ <notrans_ts_shadow_a01 file="notrans_ts_shadow_a01.msh" />
+ <ts_directionboard01_01 file="ts_directionboard01_01.msh" />
+ <ts_directionboard01_02 file="ts_directionboard01_02.msh" />
+ <notrans_ts_bench01_05 file="notrans_ts_bench01_05.msh" />
+ <ts_store01_002 file="ts_store01_002.msh" />
+ <notrans_ts_bench01_06 file="notrans_ts_bench01_06.msh" />
+ <ts_vendingmachine_a03 file="ts_vendingmachine_a03.msh" />
+ <ts_newspaper01_002 file="ts_newspaper01_002.msh" />
+ <ts_transformer01_01 file="ts_transformer01_01.msh" />
+ <notrans_ts_road02 file="notrans_ts_road02.msh" />
+ <notrans_ts_road01 file="notrans_ts_road01.msh" />
+ <notrans_ts_grass_a01 file="notrans_ts_grass_a01.msh" />
+ <notrans_ts_wall_e01 file="notrans_ts_wall_e01.msh" />
+ <ts_vendingmachine_a04 file="ts_vendingmachine_a04.msh" />
+ <notrans_ts_wall_a01 file="notrans_ts_wall_a01.msh" />
+ <notrans_ts_road03 file="notrans_ts_road03.msh" />
+ <notrans_ts_sky file="notrans_ts_sky.msh" />
+ <notrans_ts_fence_a01 file="notrans_ts_fence_a01.msh" />
+ <notrans_ts_bench01_07 file="notrans_ts_bench01_07.msh" />
+ <ts_safefence01_29 file="ts_safefence01_29.msh" />
+ <ts_container_b03 file="ts_container_b03.msh" />
+ <ts_container_b01 file="ts_container_b01.msh" />
+ <ts_container_b02 file="ts_container_b02.msh" />
+ <ts_container_a01 file="ts_container_a01.msh" />
+ <notrans_ts_drum_a03 file="notrans_ts_drum_a03.msh" />
+ <notrans_ts_drum_a01 file="notrans_ts_drum_a01.msh" />
+ <notrans_ts_rail_a01 file="notrans_ts_rail_a01.msh" />
+ <notrans_ts_ground_d01 file="notrans_ts_ground_d01.msh" />
+ <notrans_ts_ground_c01 file="notrans_ts_ground_c01.msh" />
+ <ts_fence_b10 file="ts_fence_b10.msh" />
+ <ts_safefence01_30 file="ts_safefence01_30.msh" />
+ <notrans_ts_shadow_a03 file="notrans_ts_shadow_a03.msh" />
+ <notrans_ts_bench01_03 file="notrans_ts_bench01_03.msh" />
+ <ts_fence_e01 file="ts_fence_e01.msh" />
+ <ts_fence_e06 file="ts_fence_e06.msh" />
+ <ts_fence_b01 file="ts_fence_b01.msh" />
+ <ts_streetlight_01 file="ts_streetlight_01.msh" />
+ <notrans_vil_safe_04 file="notrans_vil_safe_04.msh" />
+ <notrans_vil_safe_05 file="notrans_vil_safe_05.msh" />
+ <notrans_vil_safe_07 file="notrans_vil_safe_07.msh" />
+ <ts_streetlight_02 file="ts_streetlight_02.msh" />
+ <ts_streetlight_03 file="ts_streetlight_03.msh" />
+ <ts_streetlight_04 file="ts_streetlight_04.msh" />
+ <ts_streetlight_21 file="ts_streetlight_21.msh" />
+ <ts_streetlight_05 file="ts_streetlight_05.msh" />
+ <ts_streetlight_06 file="ts_streetlight_06.msh" />
+ <ts_streetlight_07 file="ts_streetlight_07.msh" />
+ <ts_streetlight_08 file="ts_streetlight_08.msh" />
+ <notrans_ts_shadow_c01 file="notrans_ts_shadow_c01.msh" />
+ <ts_streetlight_09 file="ts_streetlight_09.msh" />
+ <ts_streetlight_10 file="ts_streetlight_10.msh" />
+ <ts_streetlight_11 file="ts_streetlight_11.msh" />
+ <ts_streetlight_12 file="ts_streetlight_12.msh" />
+ <ts_streetlight_13 file="ts_streetlight_13.msh" />
+ <ts_streetlight_14 file="ts_streetlight_14.msh" />
+ <ts_streetlight_15 file="ts_streetlight_15.msh" />
+ <notrans_ts_shadow_c02 file="notrans_ts_shadow_c02.msh" />
+ <ts_streetlight_16 file="ts_streetlight_16.msh" />
+ <ts_streetlight_17 file="ts_streetlight_17.msh" />
+ <ts_streetlight_18 file="ts_streetlight_18.msh" />
+ <ts_streetlight_19 file="ts_streetlight_19.msh" />
+ <notrans_ts_shadow_a13 file="notrans_ts_shadow_a13.msh" />
+ <notrans_ts_shadow_a15 file="notrans_ts_shadow_a15.msh" />
+ <notrans_ts_shadow_a16 file="notrans_ts_shadow_a16.msh" />
+ <ts_streetlight_20 file="ts_streetlight_20.msh" />
+ <notrans_ts_shadow_a17 file="notrans_ts_shadow_a17.msh" />
+ <notrans_ts_shadow_a18 file="notrans_ts_shadow_a18.msh" />
+ <notrans_ts_shadow_a08 file="notrans_ts_shadow_a08.msh" />
+ <notrans_ts_shadow_a40 file="notrans_ts_shadow_a40.msh" />
+ <ts_directionboard01_03 file="ts_directionboard01_03.msh" />
+ <ts_directionboard01_04 file="ts_directionboard01_04.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <notrans_ts_grass_b03 file="notrans_ts_grass_b03.msh" />
+ <notrans_ts_grass_b01 file="notrans_ts_grass_b01.msh" />
+ <notrans_ts_grass_b04 file="notrans_ts_grass_b04.msh" />
+ <notrans_ts_wall_b01 file="notrans_ts_wall_b01.msh" />
+ <notrans_ts_grass_b06 file="notrans_ts_grass_b06.msh" />
+ <notrans_ts_grass_b05 file="notrans_ts_grass_b05.msh" />
+ <notrans_ts_grass_b02 file="notrans_ts_grass_b02.msh" />
+ <notrans_ts_grass_b07 file="notrans_ts_grass_b07.msh" />
+ <notrans_ts_grass_b08 file="notrans_ts_grass_b08.msh" />
+ <notrans_ts_wall_d01 file="notrans_ts_wall_d01.msh" />
+ <ts_safefence01_31 file="ts_safefence01_31.msh" />
+ <notrans_ts_shadow_a06 file="notrans_ts_shadow_a06.msh" />
+ <ts_safefence01_32 file="ts_safefence01_32.msh" />
+ <notrans_ts_shadow_a05 file="notrans_ts_shadow_a05.msh" />
+ <ts_safefence01_34 file="ts_safefence01_34.msh" />
+ <notrans_ts_shadow_a07 file="notrans_ts_shadow_a07.msh" />
+ <ts_fence_b24 file="ts_fence_b24.msh" />
+ <notrans_ts_wall_c01 file="notrans_ts_wall_c01.msh" />
+ <Outer_ts_line01 file="Outer_ts_line01.msh" />
+ <notrans_ts_tree_01 file="notrans_ts_tree_01.msh" />
+ <notrans_ts_shadow_a19 file="notrans_ts_shadow_a19.msh" />
+ <notrans_ts_shadow_a20 file="notrans_ts_shadow_a20.msh" />
+ <notrans_ts_grass_b09 file="notrans_ts_grass_b09.msh" />
+ <ts_ad01_03 file="ts_ad01_03.msh" />
+ <notarget_ts_line01 file="notarget_ts_line01.msh" />
+ <notarget_ts_line02 file="notarget_ts_line02.msh" />
+ <ts_roof01_01 file="ts_roof01_01.msh" />
+ <ts_roof01_02 file="ts_roof01_02.msh" />
+ <ts_roof01_03 file="ts_roof01_03.msh" />
+ <ts_roof01_04 file="ts_roof01_04.msh" />
+ <ts_roof01_05 file="ts_roof01_05.msh" />
+ <ts_roof01_06 file="ts_roof01_06.msh" />
+ <notrans_ts_shadow_a21 file="notrans_ts_shadow_a21.msh" />
+ <notrans_ts_shadow_a22 file="notrans_ts_shadow_a22.msh" />
+ <notrans_ts_shadow_a23 file="notrans_ts_shadow_a23.msh" />
+ <notrans_ts_shadow_a24 file="notrans_ts_shadow_a24.msh" />
+ <notrans_ts_shadow_a25 file="notrans_ts_shadow_a25.msh" />
+ <ts_tickets01_001 file="ts_tickets01_001.msh" />
+ <notrans_ts_shadow_a26 file="notrans_ts_shadow_a26.msh" />
+ <notrans_ts_stairs_a01 file="notrans_ts_stairs_a01.msh" />
+ <ts_tickets01_003 file="ts_tickets01_003.msh" />
+ <ts_tickets01_004 file="ts_tickets01_004.msh" />
+ <ts_vendingmachine_a02 file="ts_vendingmachine_a02.msh" />
+ <notrans_ts_shadow_a14 file="notrans_ts_shadow_a14.msh" />
+ <notrans_ts_shadow_a29 file="notrans_ts_shadow_a29.msh" />
+ <notrans_ts_shadow_a30 file="notrans_ts_shadow_a30.msh" />
+ <notrans_ts_shadow_a31 file="notrans_ts_shadow_a31.msh" />
+ <notrans_ts_shadow_a32 file="notrans_ts_shadow_a32.msh" />
+ <ts_store01_003 file="ts_store01_003.msh" />
+ <ts_store01_005 file="ts_store01_005.msh" />
+ <ts_store01_004 file="ts_store01_004.msh" />
+ <ts_telephone_a01 file="ts_telephone_a01.msh" />
+ <ts_telephone_a02 file="ts_telephone_a02.msh" />
+ <ts_telephone_a03 file="ts_telephone_a03.msh" />
+ <ts_telephone_a04 file="ts_telephone_a04.msh" />
+ <ts_telephone_a05 file="ts_telephone_a05.msh" />
+ <ts_telephone_a06 file="ts_telephone_a06.msh" />
+ <ts_telephone_a07 file="ts_telephone_a07.msh" />
+ <ts_telephone_a08 file="ts_telephone_a08.msh" />
+ <ts_telephone_a09 file="ts_telephone_a09.msh" />
+ <ts_telephone_a10 file="ts_telephone_a10.msh" />
+ <ts_telephone_a11 file="ts_telephone_a11.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_ts_fence_e01 file="notrans_ts_fence_e01.msh" />
+ <ts_wall_d05 file="ts_wall_d05.msh" />
+ <ts_wall_d06 file="ts_wall_d06.msh" />
+ <notrans_ts_grass_b10 file="notrans_ts_grass_b10.msh" />
+ <notrans_ts_shadow_a33 file="notrans_ts_shadow_a33.msh" />
+ <notrans_ts_shadow_a36 file="notrans_ts_shadow_a36.msh" />
+ <notrans_ts_safefence01_35 file="notrans_ts_safefence01_35.msh" />
+ <notrans_ts_shadow_a38 file="notrans_ts_shadow_a38.msh" />
+ <ts_transformer01_02 file="ts_transformer01_02.msh" />
+ <notrans_ts_shadow_a34 file="notrans_ts_shadow_a34.msh" />
+ <notrans_ts_shadow_a35 file="notrans_ts_shadow_a35.msh" />
+ <ts_fence_b14 file="ts_fence_b14.msh" />
+ <ts_fence_b13 file="ts_fence_b13.msh" />
+ <ts_fence_b20 file="ts_fence_b20.msh" />
+ <notrans_ts_drum_a02 file="notrans_ts_drum_a02.msh" />
+ <notrans_ts_shadow_a37 file="notrans_ts_shadow_a37.msh" />
+ <ts_safefence01_36 file="ts_safefence01_36.msh" />
+ <notrans_ts_shadow_a02 file="notrans_ts_shadow_a02.msh" />
+ <ts_tickets01_002 file="ts_tickets01_002.msh" />
+ <ts_fence_e02 file="ts_fence_e02.msh" />
+ <ts_fence_e03 file="ts_fence_e03.msh" />
+ <ts_fence_e04 file="ts_fence_e04.msh" />
+ <ts_fence_e05 file="ts_fence_e05.msh" />
+ <notrans_ts_fence_b15 file="notrans_ts_fence_b15.msh" />
+ <notrans_ts_fence_b19 file="notrans_ts_fence_b19.msh" />
+ <notrans_ts_fence_b20 file="notrans_ts_fence_b20.msh" />
+ <notrans_ts_shadow_a28 file="notrans_ts_shadow_a28.msh" />
+ <notrans_ts_shadow_a27 file="notrans_ts_shadow_a27.msh" />
+ <notrans_ts_shadow_b02 file="notrans_ts_shadow_b02.msh" />
+ <notrans_ts_shadow_b03 file="notrans_ts_shadow_b03.msh" />
+ <notrans_ts_shadow_b01 file="notrans_ts_shadow_b01.msh" />
+ <notrans_ts_shadow_a12 file="notrans_ts_shadow_a12.msh" />
+ <notrans_ts_shadow_a11 file="notrans_ts_shadow_a11.msh" />
+ <notrans_ts_shadow_b04 file="notrans_ts_shadow_b04.msh" />
+ <notrans_ts_shadow_b05 file="notrans_ts_shadow_b05.msh" />
+ <notrans_ts_shadow_b06 file="notrans_ts_shadow_b06.msh" />
+ <notrans_ts_shadow_b07 file="notrans_ts_shadow_b07.msh" />
+ <notrans_ts_fence_a02 file="notrans_ts_fence_a02.msh" />
+ <notrans_ts_fence_a03 file="notrans_ts_fence_a03.msh" />
+ <notrans_ts_fence_a04 file="notrans_ts_fence_a04.msh" />
+ <notrans_ts_rail_a02 file="notrans_ts_rail_a02.msh" />
+ <notrans_ts_rail_a03 file="notrans_ts_rail_a03.msh" />
+ <notrans_ts_rail_a04 file="notrans_ts_rail_a04.msh" />
+ <vil_signpost_nyh_01 file="vil_signpost_nyh_01.msh" />
+ <vil_signpost_nyh_02 file="vil_signpost_nyh_02.msh" />
+ <notrans_ts_shadow_b08 file="notrans_ts_shadow_b08.msh" />
+ <notrans_ts_shadow_b09 file="notrans_ts_shadow_b09.msh" />
+ <ts_train_a01 file="ts_train_a01.msh" />
+ <ts_train_a02 file="ts_train_a02.msh" />
+ <ts_train_a03 file="ts_train_a03.msh" />
+ <notrans_ts_train_a04 file="notrans_ts_train_a04.msh" />
+ <ts_container_b04 file="ts_container_b04.msh" />
+ <notrans_ts_train_a05 file="notrans_ts_train_a05.msh" />
+ <ts_safefence01_37 file="ts_safefence01_37.msh" />
+ <notrans_ts_shadow_a41 file="notrans_ts_shadow_a41.msh" />
+ <ts_fence_b17 file="ts_fence_b17.msh" />
+ <ts_wall_d04 file="ts_wall_d04.msh" />
+ <ts_wall_d07 file="ts_wall_d07.msh" />
+ <ts_wall_d08 file="ts_wall_d08.msh" />
+ <ts_wall_d09 file="ts_wall_d09.msh" />
+ <notrans_ts_bench01_08 file="notrans_ts_bench01_08.msh" />
+ <ts_newspaper01_001 file="ts_newspaper01_001.msh" />
+ <ts_icebox01_001 file="ts_icebox01_001.msh" />
+ <notrans_ts_shadow_a42 file="notrans_ts_shadow_a42.msh" />
+ <ts_fence_b02 file="ts_fence_b02.msh" />
+ <ts_fence_b03 file="ts_fence_b03.msh" />
+ <ts_fence_b04 file="ts_fence_b04.msh" />
+ <ts_fence_b05 file="ts_fence_b05.msh" />
+ <ts_fence_b06 file="ts_fence_b06.msh" />
+ <ts_fence_b07 file="ts_fence_b07.msh" />
+ <ts_fence_b08 file="ts_fence_b08.msh" />
+ <ts_fence_b09 file="ts_fence_b09.msh" />
+ <ts_fence_b11 file="ts_fence_b11.msh" />
+ <ts_fence_b12 file="ts_fence_b12.msh" />
+ <ts_fence_b15 file="ts_fence_b15.msh" />
+ <ts_fence_b16 file="ts_fence_b16.msh" />
+ <ts_fence_b18 file="ts_fence_b18.msh" />
+ <ts_fence_b19 file="ts_fence_b19.msh" />
+ <ts_fence_b21 file="ts_fence_b21.msh" />
+ <ts_fence_b22 file="ts_fence_b22.msh" />
+ <ts_fence_b26 file="ts_fence_b26.msh" />
+ <ts_fence_b27 file="ts_fence_b27.msh" />
+ <ts_fence_b28 file="ts_fence_b28.msh" />
+ <ts_fence_b29 file="ts_fence_b29.msh" />
+ <ts_fence_b30 file="ts_fence_b30.msh" />
+ <ts_fence_b31 file="ts_fence_b31.msh" />
+ <ts_fence_b32 file="ts_fence_b32.msh" />
+ <ts_fence_b33 file="ts_fence_b33.msh" />
+ <ts_fence_b34 file="ts_fence_b34.msh" />
+ <ts_fence_b35 file="ts_fence_b35.msh" />
+ <ts_fence_b36 file="ts_fence_b36.msh" />
+ <notrans_ts_fence_a08 file="notrans_ts_fence_a08.msh" />
+ <ts_fence_b37 file="ts_fence_b37.msh" />
+ <ts_fence_b38 file="ts_fence_b38.msh" />
+ <ts_fence_b39 file="ts_fence_b39.msh" />
+ <ts_fence_b40 file="ts_fence_b40.msh" />
+ <ts_fence_b41 file="ts_fence_b41.msh" />
+ <ts_fence_b42 file="ts_fence_b42.msh" />
+ <ts_fence_b43 file="ts_fence_b43.msh" />
+ <ts_fence_b44 file="ts_fence_b44.msh" />
+ <ts_fence_b45 file="ts_fence_b45.msh" />
+ <ts_fence_b46 file="ts_fence_b46.msh" />
+ <ts_fence_b47 file="ts_fence_b47.msh" />
+ <ts_fence_b48 file="ts_fence_b48.msh" />
+ <ts_fence_b49 file="ts_fence_b49.msh" />
+ <ts_fence_b50 file="ts_fence_b50.msh" />
+ <ts_fence_b51 file="ts_fence_b51.msh" />
+ <ts_fence_b52 file="ts_fence_b52.msh" />
+ <ts_fence_b53 file="ts_fence_b53.msh" />
+ <ts_fence_b54 file="ts_fence_b54.msh" />
+ <ts_fence_b55 file="ts_fence_b55.msh" />
+ <ts_fence_b56 file="ts_fence_b56.msh" />
+ <ts_fence_b57 file="ts_fence_b57.msh" />
+ <ts_fence_b58 file="ts_fence_b58.msh" />
+ <ts_fence_b59 file="ts_fence_b59.msh" />
+ <ts_fence_b60 file="ts_fence_b60.msh" />
+ <ts_fence_b61 file="ts_fence_b61.msh" />
+ <ts_fence_b62 file="ts_fence_b62.msh" />
+ <ts_fence_b63 file="ts_fence_b63.msh" />
+ <ts_fence_b64 file="ts_fence_b64.msh" />
+ <ts_fence_b65 file="ts_fence_b65.msh" />
+ <ts_fence_b66 file="ts_fence_b66.msh" />
+ <ts_fence_b67 file="ts_fence_b67.msh" />
+ <ts_fence_b68 file="ts_fence_b68.msh" />
+ <ts_fence_b69 file="ts_fence_b69.msh" />
+ <notrans_ts_shadow_a09 file="notrans_ts_shadow_a09.msh" />
+ <notrans_ts_shadow_a10 file="notrans_ts_shadow_a10.msh" />
+ <notrans_ts_ground_b02 file="notrans_ts_ground_b02.msh" />
+ <notrans_ts_ground_b03 file="notrans_ts_ground_b03.msh" />
+ <notrans_ts_ground_b04 file="notrans_ts_ground_b04.msh" />
+ <notrans_ts_ground_b05 file="notrans_ts_ground_b05.msh" />
+ <notrans_ts_ground_b06 file="notrans_ts_ground_b06.msh" />
+ <submarine_metal_018 file="submarine_metal_018.msh" />
+ <notrans_ts_shadow_a43 file="notrans_ts_shadow_a43.msh" />
+ <submarine_metal_19 file="submarine_metal_19.msh" />
+ <notrans_ts_shadow_a44 file="notrans_ts_shadow_a44.msh" />
+</Objects>
+<Materials version="2">
+  <mts_ad01_001
+    diffuse="ts_ad01_001.dds"
+    color="255 255 255"
+  />
+  <mts_vendingmachine01_001
+    diffuse="ts_vendingmachine01_001.dds"
+    color="255 255 255"
+  />
+  <mts_ground_b01
+    diffuse="con_ground02.dds"
+    color="255 255 255"
+  />
+  <mts_ground_e01
+    diffuse="ts_ground_e01.dds"
+    color="255 255 255"
+  />
+  <mts_ground_a01
+    diffuse="ts_ground_a01.dds"
+    color="255 255 255"
+  />
+  <mts_ground_f01
+    diffuse="ts_ground_f01.dds"
+    color="255 255 255"
+  />
+  <mts_bench01_001
+    diffuse="ts_bench01_001.dds"
+    color="255 255 255"
+  />
+  <mts_store01_001
+    diffuse="ts_store01_001.dds"
+    color="255 255 255"
+  />
+  <mvil_shadow_square01
+    diffuse="vil_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mts_directionboard01_01
+    diffuse="ts_directionboard01_001.dds"
+    color="255 255 255"
+  />
+  <mts_newspaper01_001
+    diffuse="ts_newspaper01_001.dds"
+    color="255 255 255"
+  />
+  <mts_transformer01_001
+    diffuse="ts_transformer01_001.dds"
+    color="255 255 255"
+  />
+  <mvil_road_ms02
+    diffuse="vil_road_ms02.dds"
+    color="255 255 255"
+  />
+  <mvil_road_ms01
+    diffuse="vil_road_ms01.dds"
+    color="255 255 255"
+  />
+  <mts_grass_a01
+    diffuse="sec_grass01_id01.dds"
+    color="255 255 255"
+  />
+  <mts_rail_a01
+    diffuse="ts_rail_a01.dds"
+    color="255 255 255"
+  />
+  <mts_wall_a01
+    diffuse="ts_wall_a01.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k84
+    diffuse="vil_road_ms04.dds"
+    color="255 255 255"
+  />
+  <mts_sky
+    diffuse="nah_sky_ms.dds"
+    color="255 255 255"
+  />
+  <mts_safefence_id01
+    diffuse="ts_safefence01_001.dds"
+    color="255 255 255"
+  />
+  <mts_safefence_id02
+    diffuse="ts_safefence02_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mcon_container_a
+    diffuse="con_container_a.dds"
+    color="255 255 255"
+  />
+  <mcon_container_b
+    diffuse="con_container_b.dds"
+    color="255 255 255"
+  />
+  <mvil_drumcin
+    diffuse="vil_drumcin.dds"
+    color="255 255 255"
+  />
+  <mts_ground_d01
+    diffuse="ts_ground_d01.dds"
+    color="255 255 255"
+  />
+  <mts_ground_c01
+    diffuse="ts_ground_c01.dds"
+    color="255 255 255"
+  />
+  <mStandard_10
+    diffuse="con_guard_01.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mvil_streetlight_ms01
+    diffuse="vil_streetlight_ms01.dds"
+    color="255 255 255"
+  />
+  <mvil_safe
+    diffuse="vil_safe.dds"
+    color="255 255 255"
+  />
+  <mvil_shadow_telepole_ms01
+    diffuse="vil_shadow_telepole_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mEmptyMat
+  />
+  <mts_grass_b02
+    diffuse="sec_grass01_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mts_wall_b01
+    diffuse="ts_wall_b01.dds"
+    color="255 255 255"
+  />
+  <mvil_mule_fence
+    diffuse="vil_mule_fence.dds"
+    color="255 255 255"
+  />
+  <mts_wall_c01
+    diffuse="ts_wall_c01.dds"
+    color="255 255 255"
+  />
+  <mts_telephone_001
+    diffuse="ts_telephone_001.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k502
+    diffuse="sec_wood01.dds"
+    color="255 255 255"
+  />
+  <mts_roof01_01
+    diffuse="ts_roof01_01.dds"
+    color="255 255 255"
+  />
+  <mts_tickets01_id01
+    diffuse="ts_tickets01_001.dds"
+    color="255 255 255"
+  />
+  <mts_tickets01_id02
+    diffuse="ts_tickets01_002.dds"
+    color="255 255 255"
+  />
+  <mts_tickets01_id03
+    diffuse="ts_tickets01_003.dds"
+    color="255 255 255"
+  />
+  <mpk_sphere
+    diffuse="vil_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mts_fence_e01
+    diffuse="ts_fence_e01.dds"
+    color="255 255 255"
+  />
+  <mvil_signpost_nyh001
+    diffuse="visignpost_nyh001.dds"
+    color="255 255 255"
+  />
+  <mts_train01_001
+    diffuse="ts_train01_001.dds"
+    color="255 255 255"
+  />
+  <mts_train01_002
+    diffuse="ts_train01_002.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k250
+    diffuse="ts_train01_003.dds"
+    color="255 255 255"
+  />
+  <mts_icebox01_001
+    diffuse="ts_icebox01_001.dds"
+    color="255 255 255"
+  />
+  <msubmarine_metal_018
+    diffuse="submarine_metal_018.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="train_station.col"
+/>
+</Scene.XML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ui_gm_ef_ms04 file="ui_gm_ef_ms04.msh" />
+ <ui_gm_ef_ms05 file="ui_gm_ef_ms05.msh" />
+ <ui_gm_ef_ms06 file="ui_gm_ef_ms06.msh" />
+ <ui_gm_ef_ms02 file="ui_gm_ef_ms02.msh" />
+ <ui_gm_ef_ms03 file="ui_gm_ef_ms03.msh" />
+ <ui_gm_ef_ms01 file="ui_gm_ef_ms01.msh" />
+</Objects>
+<Materials version="2">
+  <mlobby2_groom_ef01_ms01
+    diffuse="lobby2_groom_ef01_ms01.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="in_gameroom_deco.skl"
+/>
+<BoneAnim
+  file="Anims\in_gameroom_deco.anm"
+/>
+<collision
+  file="in_gameroom_deco.col"
+/>
+</Scene.XML>

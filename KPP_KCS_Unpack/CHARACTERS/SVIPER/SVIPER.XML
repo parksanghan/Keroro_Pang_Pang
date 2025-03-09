@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Sviper_head file="Sviper_head.msh" />
+ <Sviper_body file="Sviper_body.msh" />
+</Objects>
+<Materials version="2">
+  <mvipersniper_head
+    diffuse="Sviper_head.dds"
+    color="149 149 149"
+  />
+  <mSviper_body
+    diffuse="Sviper_body.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Sviper.skl"
+/>
+<collision
+  file="Sviper.col"
+/>
+</Scene.XML>

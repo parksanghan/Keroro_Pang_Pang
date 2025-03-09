@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pet_cat_002 file="pet_cat_002.msh" />
+</Objects>
+<Materials version="2">
+  <mpet_cat_002
+    diffuse="pet_cat_002.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="pet_cat_002.skl"
+/>
+<BoneAnim
+  file="Anims\pet_cat_002.anm"
+/>
+<collision
+  file="pet_cat_002.col"
+/>
+</Scene.XML>

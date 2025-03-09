@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="security_test_1\security_test_1.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="security_test_1r_metal_001" code="143720461" yLayer="0" posX="-110.72" posY="0.06" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="security_test_3round" code="143720455" yLayer="0" posX="0" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="security_test_3r_metal_001" code="143720449" yLayer="1" posX="-28.85" posY="0.1" posZ="-31.5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_metal_001" code="143720449" yLayer="1" posX="28.5201" posY="0.1" posZ="-31.3" angleX="0" angleY="180" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_metal_002" code="143720450" yLayer="1" posX="-22.7999" posY="0.1" posZ="-18.34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_metal_002" code="143720450" yLayer="1" posX="7.58" posY="0.1" posZ="-8.68999" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_metal_004" code="143720452" yLayer="1" posX="-3.23003" posY="0.1" posZ="-17.98" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_metal_004" code="143720452" yLayer="1" posX="23.05" posY="0.1" posZ="-9.62001" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_metal_005" code="143720453" yLayer="1" posX="11.18" posY="0.1" posZ="-23.3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_metal_004" code="143720452" yLayer="1" posX="-3.23003" posY="0.1" posZ="17.98" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_metal_002" code="143720450" yLayer="1" posX="7.58" posY="0.1" posZ="8.68999" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_metal_004" code="143720452" yLayer="1" posX="23.05" posY="0.1" posZ="9.62001" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_wood_001" code="143720454" yLayer="1" posX="32.25" posY="0.05" posZ="-7.05" angleX="0" angleY="110" angleZ="0" scale="0.9"/>
+		<Object engName="security_test_3r_wood_001" code="143720454" yLayer="1" posX="15.3" posY="0.05" posZ="-7.05" angleX="0" angleY="115" angleZ="0" scale="0.9"/>
+		<Object engName="security_test_3r_wood_001" code="143720454" yLayer="1" posX="-1.73" posY="0.05" posZ="-7.05" angleX="0" angleY="40" angleZ="0" scale="0.9"/>
+		<Object engName="security_test_3r_wood_001" code="143720454" yLayer="1" posX="-18.75" posY="0.1" posZ="-7.05" angleX="0" angleY="120" angleZ="0" scale="0.9"/>
+		<Object engName="security_test_3r_wood_001" code="143720454" yLayer="1" posX="-1.73" posY="0.05" posZ="7.05" angleX="0" angleY="20" angleZ="0" scale="0.9"/>
+		<Object engName="security_test_3r_wood_001" code="143720454" yLayer="1" posX="-18.75" posY="0.05" posZ="7.05" angleX="0" angleY="30" angleZ="0" scale="0.9"/>
+		<Object engName="security_test_3r_wood_001" code="143720454" yLayer="1" posX="15.3" posY="0.05" posZ="7.05" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+		<Object engName="security_test_3r_wood_001" code="143720454" yLayer="1" posX="32.25" posY="0.1" posZ="7.05" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+		<Object engName="security_test_3r_metal_001" code="143720449" yLayer="1" posX="-28.85" posY="0.1" posZ="31.5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_metal_002" code="143720450" yLayer="1" posX="-22.7999" posY="0.1" posZ="18.34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_metal_006" code="143720463" yLayer="1" posX="11.18" posY="0.1" posZ="23.3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+		<Object engName="security_test_3r_wood_001" code="143720454" yLayer="1" posX="-35.74" posY="0.05" posZ="-7.00998" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+		<Object engName="security_test_3r_wood_001" code="143720454" yLayer="1" posX="-35.74" posY="0.1" posZ="7.00998" angleX="0" angleY="30" angleZ="0" scale="0.9"/>
+		<Object engName="security_test_3r_metal_001" code="143720449" yLayer="1" posX="28.5201" posY="0.1" posZ="31.3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+</ARRANGEMENT>

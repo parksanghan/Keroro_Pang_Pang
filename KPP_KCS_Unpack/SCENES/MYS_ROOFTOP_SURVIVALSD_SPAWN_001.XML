@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="0" posX="0" posY="0" posZ="-5" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="1" posX="18.7" posY="0" posZ="15" angleY="180" scale="1" radius="1" respawnTime="30" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="2" posX="-18.7" posY="0" posZ="15" angleY="180" scale="1" radius="1" respawnTime="30" msgId="npc0001"/>
+	<spawn type="playerRandomSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="3" posX="-19" posY="0" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRandomSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="4" posX="-17" posY="0" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRandomSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="5" posX="-17" posY="0" posZ="27" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRandomSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="6" posX="-17" posY="0" posZ="31" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRandomSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="7" posX="-15" posY="0" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRandomSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="8" posX="17" posY="0" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRandomSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="9" posX="15" posY="0" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRandomSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="10" posX="17" posY="0" posZ="31" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRandomSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="11" posX="19" posY="0" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="playerRandomSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="12" posX="17" posY="0" posZ="27" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="13" posX="0" posY="-2.15" posZ="20" angleY="180" scale="1" jumpPower="200" force="100" durationTime="4.7" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

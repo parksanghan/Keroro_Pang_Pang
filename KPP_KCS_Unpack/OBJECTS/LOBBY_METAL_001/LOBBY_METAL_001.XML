@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <lobby_metal_001_02 file="lobby_metal_001_02.msh" />
+ <lobby_metal_001_03 file="lobby_metal_001_03.msh" />
+ <lobby_metal_001_01 file="lobby_metal_001_01.msh" />
+ <lobby_metal_001_04 file="lobby_metal_001_04.msh" />
+</Objects>
+<Materials version="2">
+  <mlobby_metal_001_02
+    diffuse="lobby_metal_001_c01.ifl"
+    color="255 255 255"
+  />
+  <mlobby_metal_001_a
+    diffuse="lobby_metal_001_a.dds"
+    color="255 255 255"
+  />
+  <mlobby_metal_001_b
+    diffuse="lobby_metal_001_b.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="lobby_metal_001.col"
+/>
+</Scene.XML>

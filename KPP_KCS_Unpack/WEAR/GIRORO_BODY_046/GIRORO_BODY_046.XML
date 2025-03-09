@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <giroro_body_046 file="giroro_body_046.msh" />
+</Objects>
+<Materials version="2">
+  <mgiroro_body_046
+    diffuse="giroro_body_046.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tchodari file="tchodari.msh" />
+</Objects>
+<Materials version="2">
+  <mtchodari
+    diffuse="tchodari.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Tchodari.skl"
+/>
+<BoneAnim
+  file="Anims\Tchodari.anm"
+/>
+<collision
+  file="Tchodari.col"
+/>
+</Scene.XML>

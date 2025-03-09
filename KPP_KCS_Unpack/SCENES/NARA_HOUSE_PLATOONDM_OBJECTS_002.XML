@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="nara_house\nara_house.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="nara_house_collision_out" code="127991809" yLayer="0" posX="0" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="nara_house_bridge" code="127991810" yLayer="0" posX="-6.70996" posY="0.03" posZ="34.64" angleX="0" angleY="-34.2001" angleZ="0" scale="1"/>
+	<Object engName="car1" code="125894659" yLayer="0" posX="30.6101" posY="4.6" posZ="-15.96" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="8" posY="1.71" posZ="21" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="14.29" posY="1.7" posZ="12.16" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="20.81" posY="1.8" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="13" posY="4.6" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="18" posY="4.6" posZ="-20" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="4" posY="1.75" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="2" posY="1.68" posZ="-9.72999" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="2" posY="1.8" posZ="-20" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="-8.15001" posY="1.71" posZ="26.7399" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="19.61" posY="1.72" posZ="19.99" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="25.11" posY="1.72" posZ="30.41" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="27.4702" posY="1.64" posZ="20.67" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="26.98" posY="1.68" posZ="11.89" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="0.689996" posY="1.8" posZ="-17.67" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="3.39004" posY="1.8" posZ="-9.67002" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="7" posY="1.8" posZ="23" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="19" posY="1.63" posZ="14.64" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="17" posY="4.58" posZ="-23.8801" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="20.5" posY="1.8" posZ="-6.32" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="23" posY="4.6" posZ="-29" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="27" posY="4.6" posZ="-21" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="29" posY="4.6" posZ="-21" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="34" posY="4.6" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="-9" posY="1.8" posZ="-23" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="-8.01002" posY="1.8" posZ="-7.90002" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="-9" posY="1.8" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="-7.03003" posY="1.8" posZ="-21.11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="-9" posY="1.8" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="nara_house_bush" code="127991811" yLayer="0" posX="4.67921" posY="1.79998" posZ="2.88116" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="nara_house_bush" code="127991811" yLayer="0" posX="5.44137" posY="1.79996" posZ="-13.5433" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="nara_house_bush" code="127991811" yLayer="0" posX="-8.49663" posY="1.79998" posZ="-18.1332" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="nara_house_bush" code="127991811" yLayer="0" posX="21.8955" posY="3.19999" posZ="37.2343" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="nara_house_bush" code="127991811" yLayer="0" posX="17.9179" posY="1.79999" posZ="2.17734" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="car2" code="125894660" yLayer="0" posX="-12.89" posY="1.87" posZ="27.34" angleX="0" angleY="-5.4" angleZ="0" scale="1"/>
+	<Object engName="car1" code="125894659" yLayer="0" posX="-1.71001" posY="1.81" posZ="1" angleX="0" angleY="-20" angleZ="0" scale="1"/>
+	<Object engName="tree_wall" code="123797509" yLayer="0" posX="-1" posY="3.15" posZ="40.35" angleX="0" angleY="35" angleZ="0" scale="1.3"/>
+	<Object engName="tree_wall" code="123797509" yLayer="0" posX="4.39999" posY="1.69" posZ="28.01" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="tree_wall" code="123797509" yLayer="0" posX="10.73" posY="1.74" posZ="16.27" angleX="0" angleY="65" angleZ="0" scale="1.2"/>
+	<Object engName="tree_wall" code="123797509" yLayer="0" posX="-2.66003" posY="3.23" posZ="16.34" angleX="0" angleY="59.8001" angleZ="0" scale="1.2"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-6.45999" posY="3" posZ="22.3" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="nara_house_bush" code="127991811" yLayer="0" posX="-1" posY="3.07" posZ="13" angleX="0" angleY="9.7" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="-6.45999" posY="3.07" posZ="23.7497" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="7" posY="1.6" posZ="31" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_wall" code="123797509" yLayer="0" posX="25" posY="1.71" posZ="25" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="rock" code="123797517" yLayer="0" posX="-7" posY="1.77" posZ="19.58" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="rock" code="123797517" yLayer="0" posX="1.29" posY="1.78" posZ="6.89" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="rock" code="123797517" yLayer="0" posX="12.1" posY="1.77" posZ="27.78" angleX="0" angleY="220" angleZ="0" scale="1.8"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="12.89" posY="1.7" posZ="22.4399" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="-14" posY="1.7" posZ="13" angleX="0" angleY="0" angleZ="0" scale="2.4"/>
+	<Object engName="street_tree" code="125894667" yLayer="0" posX="18.53" posY="1.64" posZ="28.1299" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="19" posY="1.63" posZ="26.4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="29" posY="1.68" posZ="26" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="nara_house_bush" code="127991811" yLayer="0" posX="11.5" posY="1.69998" posZ="23.7598" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tree_wall" code="123797509" yLayer="0" posX="29" posY="2" posZ="36" angleX="0" angleY="-20" angleZ="0" scale="1.6"/>
+	<Object engName="tree_4" code="123797508" yLayer="0" posX="28" posY="3.05" posZ="40" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="3_round_tree" code="125894669" yLayer="0" posX="26" posY="3.01" posZ="39" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="rock" code="123797517" yLayer="0" posX="5.59001" posY="1.79" posZ="-7" angleX="0" angleY="90" angleZ="0" scale="2.6"/>
+	<Object engName="car2" code="125894660" yLayer="0" posX="-17.79" posY="1.78" posZ="20.01" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="round_tree" code="125894668" yLayer="0" posX="-9" posY="1.73" posZ="10" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="bamboo sheaf" code="119603210" yLayer="0" posX="3.37" posY="2.99" posZ="42.9399" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-23.15" posY="3" posZ="32.81" angleX="0" angleY="0" angleZ="0" scale="1.2"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-22" posY="3" posZ="33.66" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="-18" posY="3" posZ="36" angleX="0" angleY="0" angleZ="0" scale="2.8"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="-18" posY="3" posZ="35" angleX="0" angleY="0" angleZ="0" scale="2.2"/>
+</ARRANGEMENT>

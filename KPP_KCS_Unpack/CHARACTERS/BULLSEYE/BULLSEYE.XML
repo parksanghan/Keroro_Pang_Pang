@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <bullseye file="bullseye.msh" />
+</Objects>
+<Materials version="2">
+  <mbullseye
+    diffuse="bullseye.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="bullseye.skl"
+/>
+<collision
+  file="bullseye.col"
+/>
+</Scene.XML>

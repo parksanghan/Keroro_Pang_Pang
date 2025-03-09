@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <putata_skill_003_yororo file="putata_skill_003_yororo.msh" />
+</Objects>
+<Materials version="2">
+  <mputata_skill_003_yororo
+    diffuse="putata_skill_003_yororo.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="putata_skill_003_yororo.skl"
+/>
+<BoneAnim
+  file="Anims\putata_skill_003_yororo.anm"
+/>
+<collision
+  file="putata_skill_003_yororo.col"
+/>
+</Scene.XML>

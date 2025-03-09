@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kh_missile file="kh_missile.msh" />
+</Objects>
+<Materials version="2">
+  <mkeh_misail
+    diffuse="kh_missil.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="keron_hangar_metal_004.col"
+/>
+</Scene.XML>

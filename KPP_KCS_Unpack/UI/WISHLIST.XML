@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<wishlist.xml>
+	<date startYear="2010" startMonth="08" startDay="17" endYear="2010" endMonth="09" endDay="06"/>
+	<questes>
+		<quest engName="quest1"	questtype="2"	rewardDay="1"	map="103874563"	time1="0"	 player="0"	itemDifficulty="0"	kill="0"	assist="0"	goal="0"	round="2"	win="0"	/>
+		<quest engName="quest2"	questtype="4"	rewardDay="2"	map="0"	time1="0"	 player="0"	itemDifficulty="0"	kill="0"	assist="0"	goal="0"	round="0"	win="1"	/>
+		<quest engName="quest3"	questtype="5"	rewardDay="3"	map="0"	time1="0"	 player="0"	itemDifficulty="1"	kill="0"	assist="0"	goal="0"	round="0"	win="1"	/>
+		<quest engName="quest4"	questtype="1"	rewardDay="4"	map="0"	time1="0"	 player="0"	itemDifficulty="0"	kill="4"	assist="0"	goal="0"	round="0"	win="0"	/>
+		<quest engName="quest5"	questtype="6"	rewardDay="5"	map="103874596"	time1="0"	 player="0"	itemDifficulty="0"	kill="0"	assist="0"	goal="0"	round="0"	win="1"	/>
+		<quest engName="quest6"	questtype="0"	rewardDay="6"	map="0"	time1="0"	 player="0"	itemDifficulty="0"	kill="6"	assist="0"	goal="0"	round="0"	win="3"	/>
+		<quest engName="quest7"	questtype="4"	rewardDay="7"	map="103874598"	time1="0"	 player="0"	itemDifficulty="0"	kill="0"	assist="0"	goal="0"	round="0"	win="2"	/>
+		<quest engName="quest8"	questtype="2"	rewardDay="8"	map="103874571"	time1="0"	 player="0"	itemDifficulty="0"	kill="10"	assist="0"	goal="0"	round="0"	win="0"	/>
+		<quest engName="quest9"	questtype="5"	rewardDay="9"	map="0"	time1="0"	 player="0"	itemDifficulty="2"	kill="0"	assist="0"	goal="0"	round="0"	win="1"	/>
+		<quest engName="quest10"	questtype="4"	rewardDay="10"	map="103874587"	time1="0"	 player="0"	itemDifficulty="0"	kill="0"	assist="0"	goal="0"	round="0"	win="3"	/>
+		<quest engName="quest11"	questtype="6"	rewardDay="11"	map="103874594"	time1="0"	 player="0"	itemDifficulty="0"	kill="0"	assist="0"	goal="0"	round="0"	win="1"	/>
+		<quest engName="quest12"	questtype="0"	rewardDay="12"	map="0"	time1="0"	 player="0"	itemDifficulty="0"	kill="10"	assist="0"	goal="0"	round="0"	win="4"	/>
+		<quest engName="quest13"	questtype="1"	rewardDay="13"	map="103874577"	time1="0"	 player="0"	itemDifficulty="0"	kill="0"	assist="0"	goal="0"	round="0"	win="3"	/>
+		<quest engName="quest14"	questtype="5"	rewardDay="14"	map="0"	time1="0"	 player="0"	itemDifficulty="3"	kill="0"	assist="0"	goal="0"	round="0"	win="1"	/>
+		<quest engName="quest15"	questtype="4"	rewardDay="15"	map="103874597"	time1="0"	 player="0"	itemDifficulty="0"	kill="0"	assist="0"	goal="0"	round="0"	win="4"	/>
+		<quest engName="quest16"	questtype="4"	rewardDay="16"	map="0"	time1="0"	 player="0"	itemDifficulty="0"	kill="8"	assist="0"	goal="0"	round="0"	win="4"	/>
+		<quest engName="quest17"	questtype="2"	rewardDay="17"	map="103874595"	time1="0"	 player="0"	itemDifficulty="0"	kill="0"	assist="0"	goal="0"	round="0"	win="4"	/>
+		<quest engName="quest18"	questtype="0"	rewardDay="18"	map="0"	time1="0"	 player="0"	itemDifficulty="0"	kill="10"	assist="0"	goal="0"	round="0"	win="6"	/>
+		<quest engName="quest19"	questtype="4"	rewardDay="19"	map="0"	time1="0"	 player="3"	itemDifficulty="0"	kill="10"	assist="0"	goal="0"	round="0"	win="0"	/>
+		<quest engName="quest20"	questtype="1"	rewardDay="20"	map="0"	time1="0"	 player="0"	itemDifficulty="0"	kill="0"	assist="0"	goal="0"	round="0"	win="4"	/>
+		<quest engName="quest21"	questtype="5"	rewardDay="21"	map="0"	time1="0"	 player="0"	itemDifficulty="4"	kill="0"	assist="0"	goal="0"	round="0"	win="1"	/>
+	</questes>
+	<items>
+		<items type="100"	itemCode="35981275"	/>
+		<items type="100"	itemCode="35981274"	/>
+		<items type="100"	itemCode="36046815"	/>
+		<items type="100"	itemCode="36046833"	/>
+		<items type="100"	itemCode="35784669"	/>
+		<items type="100"	itemCode="35784686"	/>
+		<items type="100"	itemCode="35915744"	/>
+		<items type="100"	itemCode="35850205"	/>
+		<items type="100"	itemCode="35850209"	/>
+		<items type="100"	itemCode="36112348"	/>
+		<items type="70"	itemCode="35784677"	/>
+		<items type="70"	itemCode="35915737"	/>
+		<items type="70"	itemCode="35784671"	/>
+		<items type="70"	itemCode="35784667"	/>
+		<items type="70"	itemCode="35719131"	/>
+		<items type="70"	itemCode="36503554"	/>
+		<items type="70"	itemCode="36177890"	/>
+		<items type="70"	itemCode="70451206"	/>
+		<items type="70"	itemCode="235929606"	/>
+		<items type="70"	itemCode="235929605"	/>
+		<items type="50"	itemCode="36503553"	/>
+		<items type="50"	itemCode="35719138"	/>
+		<items type="50"	itemCode="36177878"	/>
+		<items type="50"	itemCode="36438029"	/>
+		<items type="50"	itemCode="36438030"	/>
+		<items type="50"	itemCode="36112342"	/>
+		<items type="50"	itemCode="36112344"	/>
+		<items type="50"	itemCode="70451207"	/>
+		<items type="50"	itemCode="235929602"	/>
+		<items type="50"	itemCode="235929601"	/>
+	</items>
+</wishlist.xml>

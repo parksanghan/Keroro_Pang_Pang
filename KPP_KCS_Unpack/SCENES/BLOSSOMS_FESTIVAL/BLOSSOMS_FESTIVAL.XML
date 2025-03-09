@@ -1,0 +1,503 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_bfe_ground_nyh001 file="notrans_bfe_ground_nyh001.msh" />
+ <notrans_bfe_ground_nyh003 file="notrans_bfe_ground_nyh003.msh" />
+ <notrans_bfe_sky_nyh001 file="notrans_bfe_sky_nyh001.msh" />
+ <notrans_bfe_wall_nyh002 file="notrans_bfe_wall_nyh002.msh" />
+ <notrans_bfe_boundary_nyh001 file="notrans_bfe_boundary_nyh001.msh" />
+ <notrans_bfe_wall_nyh001 file="notrans_bfe_wall_nyh001.msh" />
+ <notrans_bfe_ground_nyh004 file="notrans_bfe_ground_nyh004.msh" />
+ <notrans_bfe_water_nyh001 file="notrans_bfe_water_nyh001.msh" />
+ <notrans_bfe_ground_nyh002 file="notrans_bfe_ground_nyh002.msh" />
+ <notrans_bfe_shadow_nyh001 file="notrans_bfe_shadow_nyh001.msh" />
+ <notrans_bfe_edfe_nyh001_01 file="notrans_bfe_edfe_nyh001_01.msh" />
+ <notrans_bfe_shadow_nyh002 file="notrans_bfe_shadow_nyh002.msh" />
+ <notrans_bfe_watershadow_nyh001 file="notrans_bfe_watershadow_nyh001.msh" />
+ <notrans_bfe_rock_nyh001 file="notrans_bfe_rock_nyh001.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_bfe_tree_nyh003 file="notrans_bfe_tree_nyh003.msh" />
+ <notrans_bfe_plant_nyh001 file="notrans_bfe_plant_nyh001.msh" />
+ <notrans_bfe_shadow_nyh003 file="notrans_bfe_shadow_nyh003.msh" />
+ <notrans_bfe_pavilion_cinb file="notrans_bfe_pavilion_cinb.msh" />
+ <notrans_bfe_pavilion_cinc file="notrans_bfe_pavilion_cinc.msh" />
+ <notrans_bfe_pavilion_cina file="notrans_bfe_pavilion_cina.msh" />
+ <bfe_display_jm file="bfe_display_jm.msh" />
+ <bfe_popatodisplay_jm file="bfe_popatodisplay_jm.msh" />
+ <bfe_pavil_tree file="bfe_pavil_tree.msh" />
+ <bfe_pavil_treecin file="bfe_pavil_treecin.msh" />
+ <notrans_bfe_pavil_wall file="notrans_bfe_pavil_wall.msh" />
+ <bfe_pavil_tree01 file="bfe_pavil_tree01.msh" />
+ <bfe_pavil_treecin01 file="bfe_pavil_treecin01.msh" />
+ <notrans_bfe_tree_nyh001 file="notrans_bfe_tree_nyh001.msh" />
+ <notrans_bfe_tree_nyh002 file="notrans_bfe_tree_nyh002.msh" />
+ <notrans_bfe_2Dtree_nyh001 file="notrans_bfe_2Dtree_nyh001.msh" />
+ <notrans_bfe_edfe_nyh001_04 file="notrans_bfe_edfe_nyh001_04.msh" />
+ <notrans_bfe_edfe_nyh001_03 file="notrans_bfe_edfe_nyh001_03.msh" />
+ <notrans_bfe_edfe_nyh001_05 file="notrans_bfe_edfe_nyh001_05.msh" />
+ <notrans_bfe_edfe_nyh001_06 file="notrans_bfe_edfe_nyh001_06.msh" />
+ <notrans_bfe_petal_nyh001_01 file="notrans_bfe_petal_nyh001_01.msh" />
+ <notrans_bfe_petal_nyh001_02 file="notrans_bfe_petal_nyh001_02.msh" />
+ <notrans_bfe_petal_nyh001_03 file="notrans_bfe_petal_nyh001_03.msh" />
+ <notrans_bfe_petal_nyh001_04 file="notrans_bfe_petal_nyh001_04.msh" />
+ <notrans_bfe_petal_nyh001_05 file="notrans_bfe_petal_nyh001_05.msh" />
+ <notrans_bfe_petal_nyh001_06 file="notrans_bfe_petal_nyh001_06.msh" />
+ <notrans_bfe_petal_nyh001_07 file="notrans_bfe_petal_nyh001_07.msh" />
+ <notrans_bfe_petal_nyh001_08 file="notrans_bfe_petal_nyh001_08.msh" />
+ <notrans_bfe_petal_nyh001_09 file="notrans_bfe_petal_nyh001_09.msh" />
+ <notrans_bfe_petal_nyh001_10 file="notrans_bfe_petal_nyh001_10.msh" />
+ <notrans_bfe_petal_nyh001_11 file="notrans_bfe_petal_nyh001_11.msh" />
+ <notrans_bfe_petal_nyh001_12 file="notrans_bfe_petal_nyh001_12.msh" />
+ <notrans_bfe_petal_nyh001_13 file="notrans_bfe_petal_nyh001_13.msh" />
+ <notrans_bfe_petal_nyh001_14 file="notrans_bfe_petal_nyh001_14.msh" />
+ <notrans_bfe_petal_nyh001_15 file="notrans_bfe_petal_nyh001_15.msh" />
+ <notrans_bfe_petal_nyh001_16 file="notrans_bfe_petal_nyh001_16.msh" />
+ <notrans_bfe_petal_nyh001_17 file="notrans_bfe_petal_nyh001_17.msh" />
+ <notrans_bfe_petal_nyh001_18 file="notrans_bfe_petal_nyh001_18.msh" />
+ <notrans_bfe_petal_nyh001_19 file="notrans_bfe_petal_nyh001_19.msh" />
+ <notrans_bfe_petal_nyh001_20 file="notrans_bfe_petal_nyh001_20.msh" />
+ <notrans_bfe_petal_nyh001_21 file="notrans_bfe_petal_nyh001_21.msh" />
+ <notrans_bfe_petal_nyh001_22 file="notrans_bfe_petal_nyh001_22.msh" />
+ <notrans_bfe_petal_nyh001_23 file="notrans_bfe_petal_nyh001_23.msh" />
+ <notrans_bfe_petal_nyh001_24 file="notrans_bfe_petal_nyh001_24.msh" />
+ <notrans_bfe_petal_nyh001_25 file="notrans_bfe_petal_nyh001_25.msh" />
+ <notrans_bfe_petal_nyh001_26 file="notrans_bfe_petal_nyh001_26.msh" />
+ <notrans_bfe_petal_nyh001_27 file="notrans_bfe_petal_nyh001_27.msh" />
+ <notrans_bfe_petal_nyh001_28 file="notrans_bfe_petal_nyh001_28.msh" />
+ <notrans_bfe_petal_nyh001_29 file="notrans_bfe_petal_nyh001_29.msh" />
+ <notrans_bfe_petal_nyh001_30 file="notrans_bfe_petal_nyh001_30.msh" />
+ <notrans_bfe_petal_nyh001_31 file="notrans_bfe_petal_nyh001_31.msh" />
+ <notrans_bfe_petal_nyh001_32 file="notrans_bfe_petal_nyh001_32.msh" />
+ <notrans_bfe_petal_nyh001_33 file="notrans_bfe_petal_nyh001_33.msh" />
+ <notrans_bfe_petal_nyh001_34 file="notrans_bfe_petal_nyh001_34.msh" />
+ <notrans_bfe_petal_nyh001_35 file="notrans_bfe_petal_nyh001_35.msh" />
+ <notrans_bfe_petal_nyh001_36 file="notrans_bfe_petal_nyh001_36.msh" />
+ <notrans_bfe_petal_nyh001_37 file="notrans_bfe_petal_nyh001_37.msh" />
+ <notrans_bfe_petal_nyh001_38 file="notrans_bfe_petal_nyh001_38.msh" />
+ <notrans_bfe_petal_nyh001_39 file="notrans_bfe_petal_nyh001_39.msh" />
+ <notrans_bfe_petal_nyh001_40 file="notrans_bfe_petal_nyh001_40.msh" />
+ <notrans_bfe_petal_nyh001_41 file="notrans_bfe_petal_nyh001_41.msh" />
+ <notrans_bfe_petal_nyh001_42 file="notrans_bfe_petal_nyh001_42.msh" />
+ <notrans_bfe_petal_nyh001_43 file="notrans_bfe_petal_nyh001_43.msh" />
+ <notrans_bfe_petal_nyh001_44 file="notrans_bfe_petal_nyh001_44.msh" />
+ <notrans_bfe_petal_nyh001_45 file="notrans_bfe_petal_nyh001_45.msh" />
+ <notrans_bfe_petal_nyh001_46 file="notrans_bfe_petal_nyh001_46.msh" />
+ <notrans_bfe_petal_nyh001_47 file="notrans_bfe_petal_nyh001_47.msh" />
+ <notrans_bfe_petal_nyh001_48 file="notrans_bfe_petal_nyh001_48.msh" />
+ <notrans_bfe_petal_nyh001_49 file="notrans_bfe_petal_nyh001_49.msh" />
+ <notrans_bfe_petal_nyh001_50 file="notrans_bfe_petal_nyh001_50.msh" />
+ <notrans_bfe_petal_nyh001_51 file="notrans_bfe_petal_nyh001_51.msh" />
+ <notrans_bfe_petal_nyh001_52 file="notrans_bfe_petal_nyh001_52.msh" />
+ <notrans_bfe_petal_nyh001_53 file="notrans_bfe_petal_nyh001_53.msh" />
+ <notrans_bfe_petal_nyh001_54 file="notrans_bfe_petal_nyh001_54.msh" />
+ <notrans_bfe_petal_nyh001_55 file="notrans_bfe_petal_nyh001_55.msh" />
+ <notrans_bfe_petal_nyh001_56 file="notrans_bfe_petal_nyh001_56.msh" />
+ <notrans_bfe_petal_nyh001_57 file="notrans_bfe_petal_nyh001_57.msh" />
+ <notrans_bfe_petal_nyh001_58 file="notrans_bfe_petal_nyh001_58.msh" />
+ <notrans_bfe_petal_nyh001_59 file="notrans_bfe_petal_nyh001_59.msh" />
+ <notrans_bfe_petal_nyh001_60 file="notrans_bfe_petal_nyh001_60.msh" />
+ <notrans_bfe_petal_nyh001_61 file="notrans_bfe_petal_nyh001_61.msh" />
+ <notrans_bfe_petal_nyh001_62 file="notrans_bfe_petal_nyh001_62.msh" />
+ <notrans_bfe_petal_nyh001_63 file="notrans_bfe_petal_nyh001_63.msh" />
+ <notrans_bfe_petal_nyh001_64 file="notrans_bfe_petal_nyh001_64.msh" />
+ <notrans_bfe_petal_nyh001_65 file="notrans_bfe_petal_nyh001_65.msh" />
+ <notrans_bfe_petal_nyh001_66 file="notrans_bfe_petal_nyh001_66.msh" />
+ <notrans_bfe_petal_nyh001_67 file="notrans_bfe_petal_nyh001_67.msh" />
+ <notrans_bfe_petal_nyh001_68 file="notrans_bfe_petal_nyh001_68.msh" />
+ <notrans_bfe_petal_nyh001_69 file="notrans_bfe_petal_nyh001_69.msh" />
+ <notrans_bfe_petal_nyh001_70 file="notrans_bfe_petal_nyh001_70.msh" />
+ <notrans_bfe_petal_nyh001_71 file="notrans_bfe_petal_nyh001_71.msh" />
+ <notrans_bfe_petal_nyh001_72 file="notrans_bfe_petal_nyh001_72.msh" />
+ <notrans_bfe_petal_nyh001_73 file="notrans_bfe_petal_nyh001_73.msh" />
+ <notrans_bfe_petal_nyh001_74 file="notrans_bfe_petal_nyh001_74.msh" />
+ <notrans_bfe_petal_nyh001_75 file="notrans_bfe_petal_nyh001_75.msh" />
+ <notrans_bfe_petal_nyh001_76 file="notrans_bfe_petal_nyh001_76.msh" />
+ <notrans_bfe_petal_nyh001_77 file="notrans_bfe_petal_nyh001_77.msh" />
+ <notrans_bfe_petal_nyh001_78 file="notrans_bfe_petal_nyh001_78.msh" />
+ <notrans_bfe_petal_nyh001_79 file="notrans_bfe_petal_nyh001_79.msh" />
+ <notrans_bfe_petal_nyh001_80 file="notrans_bfe_petal_nyh001_80.msh" />
+ <notrans_bfe_petal_nyh001_81 file="notrans_bfe_petal_nyh001_81.msh" />
+ <notrans_bfe_petal_nyh001_82 file="notrans_bfe_petal_nyh001_82.msh" />
+ <notrans_bfe_petal_nyh001_83 file="notrans_bfe_petal_nyh001_83.msh" />
+ <notrans_bfe_petal_nyh001_84 file="notrans_bfe_petal_nyh001_84.msh" />
+ <notrans_bfe_petal_nyh001_85 file="notrans_bfe_petal_nyh001_85.msh" />
+ <notrans_bfe_petal_nyh001_86 file="notrans_bfe_petal_nyh001_86.msh" />
+ <notrans_bfe_petal_nyh001_87 file="notrans_bfe_petal_nyh001_87.msh" />
+ <notrans_bfe_petal_nyh001_88 file="notrans_bfe_petal_nyh001_88.msh" />
+ <notrans_bfe_petal_nyh001_89 file="notrans_bfe_petal_nyh001_89.msh" />
+ <notrans_bfe_petal_nyh001_90 file="notrans_bfe_petal_nyh001_90.msh" />
+ <notrans_bfe_petal_nyh001_91 file="notrans_bfe_petal_nyh001_91.msh" />
+ <notrans_bfe_petal_nyh001_92 file="notrans_bfe_petal_nyh001_92.msh" />
+ <notrans_bfe_petal_nyh001_93 file="notrans_bfe_petal_nyh001_93.msh" />
+ <notrans_bfe_petal_nyh001_94 file="notrans_bfe_petal_nyh001_94.msh" />
+ <notrans_bfe_petal_nyh001_95 file="notrans_bfe_petal_nyh001_95.msh" />
+ <notrans_bfe_petal_nyh001_96 file="notrans_bfe_petal_nyh001_96.msh" />
+ <notrans_bfe_petal_nyh001_97 file="notrans_bfe_petal_nyh001_97.msh" />
+ <notrans_bfe_petal_nyh001_98 file="notrans_bfe_petal_nyh001_98.msh" />
+ <notrans_bfe_petal_nyh001_99 file="notrans_bfe_petal_nyh001_99.msh" />
+ <notrans_bfe_petal_nyh001_100 file="notrans_bfe_petal_nyh001_100.msh" />
+ <notrans_bfe_petal_nyh001_101 file="notrans_bfe_petal_nyh001_101.msh" />
+ <notrans_bfe_petal_nyh001_102 file="notrans_bfe_petal_nyh001_102.msh" />
+ <notrans_bfe_petal_nyh001_103 file="notrans_bfe_petal_nyh001_103.msh" />
+ <notrans_bfe_petal_nyh001_104 file="notrans_bfe_petal_nyh001_104.msh" />
+ <notrans_bfe_petal_nyh001_105 file="notrans_bfe_petal_nyh001_105.msh" />
+ <notrans_bfe_petal_nyh001_106 file="notrans_bfe_petal_nyh001_106.msh" />
+ <notrans_bfe_petal_nyh001_107 file="notrans_bfe_petal_nyh001_107.msh" />
+ <notrans_bfe_petal_nyh001_108 file="notrans_bfe_petal_nyh001_108.msh" />
+ <notrans_bfe_petal_nyh001_109 file="notrans_bfe_petal_nyh001_109.msh" />
+ <notrans_bfe_petal_nyh001_110 file="notrans_bfe_petal_nyh001_110.msh" />
+ <notrans_bfe_petal_nyh001_111 file="notrans_bfe_petal_nyh001_111.msh" />
+ <notrans_bfe_petal_nyh001_112 file="notrans_bfe_petal_nyh001_112.msh" />
+ <notrans_bfe_petal_nyh001_113 file="notrans_bfe_petal_nyh001_113.msh" />
+ <notrans_bfe_petal_nyh001_114 file="notrans_bfe_petal_nyh001_114.msh" />
+ <notrans_bfe_petal_nyh001_115 file="notrans_bfe_petal_nyh001_115.msh" />
+ <notrans_bfe_petal_nyh001_116 file="notrans_bfe_petal_nyh001_116.msh" />
+ <notrans_bfe_petal_nyh001_117 file="notrans_bfe_petal_nyh001_117.msh" />
+ <notrans_bfe_petal_nyh001_118 file="notrans_bfe_petal_nyh001_118.msh" />
+ <notrans_bfe_petal_nyh001_119 file="notrans_bfe_petal_nyh001_119.msh" />
+ <notrans_bfe_petal_nyh001_120 file="notrans_bfe_petal_nyh001_120.msh" />
+ <notrans_bfe_petal_nyh001_121 file="notrans_bfe_petal_nyh001_121.msh" />
+ <notrans_bfe_petal_nyh001_122 file="notrans_bfe_petal_nyh001_122.msh" />
+ <notrans_bfe_petal_nyh001_123 file="notrans_bfe_petal_nyh001_123.msh" />
+ <notrans_bfe_petal_nyh001_124 file="notrans_bfe_petal_nyh001_124.msh" />
+ <notrans_bfe_petal_nyh001_125 file="notrans_bfe_petal_nyh001_125.msh" />
+ <notrans_bfe_petal_nyh001_126 file="notrans_bfe_petal_nyh001_126.msh" />
+ <notrans_bfe_petal_nyh001_127 file="notrans_bfe_petal_nyh001_127.msh" />
+ <notrans_bfe_petal_nyh001_128 file="notrans_bfe_petal_nyh001_128.msh" />
+ <notrans_bfe_petal_nyh001_129 file="notrans_bfe_petal_nyh001_129.msh" />
+ <notrans_bfe_petal_nyh001_130 file="notrans_bfe_petal_nyh001_130.msh" />
+ <notrans_bfe_petal_nyh001_131 file="notrans_bfe_petal_nyh001_131.msh" />
+ <notrans_bfe_petal_nyh001_132 file="notrans_bfe_petal_nyh001_132.msh" />
+ <notrans_bfe_petal_nyh001_133 file="notrans_bfe_petal_nyh001_133.msh" />
+ <notrans_bfe_leaf_nyh001_01 file="notrans_bfe_leaf_nyh001_01.msh" />
+ <notrans_bfe_leaf_nyh002_01 file="notrans_bfe_leaf_nyh002_01.msh" />
+ <notrans_bfe_leaf_nyh002_02 file="notrans_bfe_leaf_nyh002_02.msh" />
+ <notrans_bfe_leaf_nyh001_02 file="notrans_bfe_leaf_nyh001_02.msh" />
+ <notrans_bfe_leaf_nyh002_03 file="notrans_bfe_leaf_nyh002_03.msh" />
+ <notrans_bfe_leaf_nyh002_04 file="notrans_bfe_leaf_nyh002_04.msh" />
+ <notrans_bfe_leaf_nyh001_03 file="notrans_bfe_leaf_nyh001_03.msh" />
+ <notrans_bfe_leaf_nyh002_05 file="notrans_bfe_leaf_nyh002_05.msh" />
+ <notrans_bfe_leaf_nyh001_04 file="notrans_bfe_leaf_nyh001_04.msh" />
+ <notrans_bfe_leaf_nyh002_06 file="notrans_bfe_leaf_nyh002_06.msh" />
+ <notrans_bfe_leaf_nyh002_08 file="notrans_bfe_leaf_nyh002_08.msh" />
+ <notrans_bfe_leaf_nyh001_05 file="notrans_bfe_leaf_nyh001_05.msh" />
+ <notrans_bfe_leaf_nyh002_09 file="notrans_bfe_leaf_nyh002_09.msh" />
+ <notrans_bfe_leaf_nyh002_10 file="notrans_bfe_leaf_nyh002_10.msh" />
+ <notrans_bfe_leaf_nyh002_11 file="notrans_bfe_leaf_nyh002_11.msh" />
+ <notrans_bfe_leaf_nyh001_06 file="notrans_bfe_leaf_nyh001_06.msh" />
+ <notrans_bfe_leaf_nyh001_07 file="notrans_bfe_leaf_nyh001_07.msh" />
+ <notrans_bfe_leaf_nyh002_12 file="notrans_bfe_leaf_nyh002_12.msh" />
+ <notrans_bfe_leaf_nyh001_08 file="notrans_bfe_leaf_nyh001_08.msh" />
+ <notrans_bfe_leaf_nyh001_09 file="notrans_bfe_leaf_nyh001_09.msh" />
+ <notrans_bfe_leaf_nyh002_13 file="notrans_bfe_leaf_nyh002_13.msh" />
+ <notrans_bfe_leaf_nyh002_14 file="notrans_bfe_leaf_nyh002_14.msh" />
+ <notrans_bfe_leaf_nyh002_15 file="notrans_bfe_leaf_nyh002_15.msh" />
+ <notrans_bfe_leaf_nyh001_10 file="notrans_bfe_leaf_nyh001_10.msh" />
+ <notrans_bfe_leaf_nyh001_11 file="notrans_bfe_leaf_nyh001_11.msh" />
+ <notrans_bfe_leaf_nyh001_12 file="notrans_bfe_leaf_nyh001_12.msh" />
+ <notrans_bfe_leaf_nyh001_13 file="notrans_bfe_leaf_nyh001_13.msh" />
+ <notrans_bfe_leaf_nyh001_14 file="notrans_bfe_leaf_nyh001_14.msh" />
+ <notrans_bfe_leaf_nyh001_15 file="notrans_bfe_leaf_nyh001_15.msh" />
+ <notrans_bfe_leaf_nyh001_16 file="notrans_bfe_leaf_nyh001_16.msh" />
+ <notrans_bfe_leaf_nyh001_17 file="notrans_bfe_leaf_nyh001_17.msh" />
+ <notrans_bfe_leaf_nyh002_16 file="notrans_bfe_leaf_nyh002_16.msh" />
+ <notrans_bfe_leaf_nyh002_17 file="notrans_bfe_leaf_nyh002_17.msh" />
+ <notrans_bfe_leaf_nyh002_18 file="notrans_bfe_leaf_nyh002_18.msh" />
+ <notrans_bfe_leaf_nyh002_19 file="notrans_bfe_leaf_nyh002_19.msh" />
+ <notrans_bfe_leaf_nyh002_20 file="notrans_bfe_leaf_nyh002_20.msh" />
+ <notrans_bfe_leaf_nyh002_21 file="notrans_bfe_leaf_nyh002_21.msh" />
+ <notrans_bfe_leaf_nyh002_22 file="notrans_bfe_leaf_nyh002_22.msh" />
+ <notrans_bfe_leaf_nyh002_23 file="notrans_bfe_leaf_nyh002_23.msh" />
+ <notrans_bfe_leaf_nyh002_24 file="notrans_bfe_leaf_nyh002_24.msh" />
+ <notrans_bfe_leaf_nyh001_18 file="notrans_bfe_leaf_nyh001_18.msh" />
+ <notrans_bfe_leaf_nyh002_25 file="notrans_bfe_leaf_nyh002_25.msh" />
+ <notrans_bfe_leaf_nyh001_19 file="notrans_bfe_leaf_nyh001_19.msh" />
+ <notrans_bfe_leaf_nyh002_26 file="notrans_bfe_leaf_nyh002_26.msh" />
+ <notrans_bfe_leaf_nyh001_20 file="notrans_bfe_leaf_nyh001_20.msh" />
+ <notrans_bfe_leaf_nyh001_21 file="notrans_bfe_leaf_nyh001_21.msh" />
+ <notrans_bfe_leaf_nyh001_22 file="notrans_bfe_leaf_nyh001_22.msh" />
+ <notrans_bfe_leaf_nyh001_23 file="notrans_bfe_leaf_nyh001_23.msh" />
+ <notrans_bfe_leaf_nyh002_27 file="notrans_bfe_leaf_nyh002_27.msh" />
+ <notrans_bfe_leaf_nyh002_28 file="notrans_bfe_leaf_nyh002_28.msh" />
+ <notrans_bfe_leaf_nyh001_24 file="notrans_bfe_leaf_nyh001_24.msh" />
+ <notrans_bfe_leaf_nyh002_29 file="notrans_bfe_leaf_nyh002_29.msh" />
+ <notrans_bfe_leaf_nyh001_25 file="notrans_bfe_leaf_nyh001_25.msh" />
+ <notrans_bfe_leaf_nyh001_26 file="notrans_bfe_leaf_nyh001_26.msh" />
+ <notrans_bfe_leaf_nyh002_30 file="notrans_bfe_leaf_nyh002_30.msh" />
+ <notrans_bfe_leaf_nyh002_31 file="notrans_bfe_leaf_nyh002_31.msh" />
+ <notrans_bfe_leaf_nyh002_32 file="notrans_bfe_leaf_nyh002_32.msh" />
+ <notrans_bfe_leaf_nyh001_27 file="notrans_bfe_leaf_nyh001_27.msh" />
+ <notrans_bfe_leaf_nyh001_28 file="notrans_bfe_leaf_nyh001_28.msh" />
+ <notrans_bfe_leaf_nyh002_33 file="notrans_bfe_leaf_nyh002_33.msh" />
+ <notrans_bfe_leaf_nyh002_34 file="notrans_bfe_leaf_nyh002_34.msh" />
+ <notrans_bfe_leaf_nyh001_29 file="notrans_bfe_leaf_nyh001_29.msh" />
+ <notrans_bfe_leaf_nyh002_35 file="notrans_bfe_leaf_nyh002_35.msh" />
+ <notrans_bfe_leaf_nyh002_36 file="notrans_bfe_leaf_nyh002_36.msh" />
+ <notrans_bfe_leaf_nyh001_30 file="notrans_bfe_leaf_nyh001_30.msh" />
+ <notrans_bfe_leaf_nyh002_37 file="notrans_bfe_leaf_nyh002_37.msh" />
+ <notrans_bfe_leaf_nyh002_38 file="notrans_bfe_leaf_nyh002_38.msh" />
+ <notrans_bfe_leaf_nyh001_31 file="notrans_bfe_leaf_nyh001_31.msh" />
+ <notrans_bfe_leaf_nyh001_32 file="notrans_bfe_leaf_nyh001_32.msh" />
+ <notrans_bfe_leaf_nyh002_39 file="notrans_bfe_leaf_nyh002_39.msh" />
+ <notrans_bfe_leaf_nyh002_40 file="notrans_bfe_leaf_nyh002_40.msh" />
+ <notrans_bfe_leaf_nyh001_33 file="notrans_bfe_leaf_nyh001_33.msh" />
+ <notrans_bfe_leaf_nyh001_34 file="notrans_bfe_leaf_nyh001_34.msh" />
+ <notrans_bfe_leaf_nyh002_41 file="notrans_bfe_leaf_nyh002_41.msh" />
+ <notrans_bfe_leaf_nyh002_42 file="notrans_bfe_leaf_nyh002_42.msh" />
+ <notrans_bfe_leaf_nyh002_43 file="notrans_bfe_leaf_nyh002_43.msh" />
+ <notrans_bfe_leaf_nyh001_35 file="notrans_bfe_leaf_nyh001_35.msh" />
+ <notrans_bfe_leaf_nyh001_36 file="notrans_bfe_leaf_nyh001_36.msh" />
+ <notrans_bfe_leaf_nyh002_44 file="notrans_bfe_leaf_nyh002_44.msh" />
+ <notrans_bfe_leaf_nyh002_45 file="notrans_bfe_leaf_nyh002_45.msh" />
+ <notrans_bfe_leaf_nyh002_46 file="notrans_bfe_leaf_nyh002_46.msh" />
+ <notrans_bfe_leaf_nyh001_37 file="notrans_bfe_leaf_nyh001_37.msh" />
+ <notrans_bfe_leaf_nyh001_38 file="notrans_bfe_leaf_nyh001_38.msh" />
+ <notrans_bfe_leaf_nyh001_39 file="notrans_bfe_leaf_nyh001_39.msh" />
+ <notrans_bfe_leaf_nyh002_47 file="notrans_bfe_leaf_nyh002_47.msh" />
+ <notrans_bfe_leaf_nyh002_48 file="notrans_bfe_leaf_nyh002_48.msh" />
+ <notrans_bfe_leaf_nyh001_40 file="notrans_bfe_leaf_nyh001_40.msh" />
+ <notrans_bfe_leaf_nyh002_49 file="notrans_bfe_leaf_nyh002_49.msh" />
+ <notrans_bfe_leaf_nyh001_41 file="notrans_bfe_leaf_nyh001_41.msh" />
+ <notrans_bfe_leaf_nyh001_42 file="notrans_bfe_leaf_nyh001_42.msh" />
+ <notrans_bfe_leaf_nyh002_50 file="notrans_bfe_leaf_nyh002_50.msh" />
+ <notrans_bfe_leaf_nyh002_51 file="notrans_bfe_leaf_nyh002_51.msh" />
+ <notrans_bfe_leaf_nyh001_43 file="notrans_bfe_leaf_nyh001_43.msh" />
+ <notrans_bfe_leaf_nyh001_44 file="notrans_bfe_leaf_nyh001_44.msh" />
+ <notrans_bfe_leaf_nyh001_45 file="notrans_bfe_leaf_nyh001_45.msh" />
+ <notrans_bfe_leaf_nyh001_46 file="notrans_bfe_leaf_nyh001_46.msh" />
+ <notrans_bfe_leaf_nyh002_52 file="notrans_bfe_leaf_nyh002_52.msh" />
+ <notrans_bfe_leaf_nyh001_47 file="notrans_bfe_leaf_nyh001_47.msh" />
+ <notrans_bfe_leaf_nyh001_48 file="notrans_bfe_leaf_nyh001_48.msh" />
+ <notrans_bfe_leaf_nyh002_53 file="notrans_bfe_leaf_nyh002_53.msh" />
+ <notrans_bfe_leaf_nyh002_54 file="notrans_bfe_leaf_nyh002_54.msh" />
+ <notrans_bfe_leaf_nyh001_49 file="notrans_bfe_leaf_nyh001_49.msh" />
+ <notrans_bfe_leaf_nyh001_50 file="notrans_bfe_leaf_nyh001_50.msh" />
+ <notrans_bfe_leaf_nyh001_51 file="notrans_bfe_leaf_nyh001_51.msh" />
+ <notrans_bfe_leaf_nyh002_55 file="notrans_bfe_leaf_nyh002_55.msh" />
+ <notrans_bfe_leaf_nyh002_56 file="notrans_bfe_leaf_nyh002_56.msh" />
+ <notrans_bfe_leaf_nyh001_52 file="notrans_bfe_leaf_nyh001_52.msh" />
+ <notrans_bfe_leaf_nyh001_53 file="notrans_bfe_leaf_nyh001_53.msh" />
+ <notrans_bfe_leaf_nyh001_54 file="notrans_bfe_leaf_nyh001_54.msh" />
+ <notrans_bfe_leaf_nyh001_55 file="notrans_bfe_leaf_nyh001_55.msh" />
+ <notrans_bfe_leaf_nyh001_56 file="notrans_bfe_leaf_nyh001_56.msh" />
+ <notrans_bfe_leaf_nyh001_57 file="notrans_bfe_leaf_nyh001_57.msh" />
+ <notrans_bfe_leaf_nyh001_58 file="notrans_bfe_leaf_nyh001_58.msh" />
+ <notrans_bfe_leaf_nyh001_59 file="notrans_bfe_leaf_nyh001_59.msh" />
+ <notrans_bfe_leaf_nyh002_57 file="notrans_bfe_leaf_nyh002_57.msh" />
+ <notrans_bfe_leaf_nyh002_58 file="notrans_bfe_leaf_nyh002_58.msh" />
+ <notrans_bfe_leaf_nyh001_60 file="notrans_bfe_leaf_nyh001_60.msh" />
+ <notrans_bfe_leaf_nyh001_61 file="notrans_bfe_leaf_nyh001_61.msh" />
+ <notrans_bfe_leaf_nyh001_62 file="notrans_bfe_leaf_nyh001_62.msh" />
+ <notrans_bfe_leaf_nyh001_63 file="notrans_bfe_leaf_nyh001_63.msh" />
+ <notrans_bfe_leaf_nyh001_64 file="notrans_bfe_leaf_nyh001_64.msh" />
+ <notrans_bfe_leaf_nyh001_65 file="notrans_bfe_leaf_nyh001_65.msh" />
+ <notrans_bfe_leaf_nyh001_66 file="notrans_bfe_leaf_nyh001_66.msh" />
+ <notrans_bfe_leaf_nyh001_67 file="notrans_bfe_leaf_nyh001_67.msh" />
+ <notrans_bfe_leaf_nyh001_68 file="notrans_bfe_leaf_nyh001_68.msh" />
+ <notrans_bfe_leaf_nyh002_59 file="notrans_bfe_leaf_nyh002_59.msh" />
+ <notrans_bfe_leaf_nyh001_69 file="notrans_bfe_leaf_nyh001_69.msh" />
+ <notrans_bfe_leaf_nyh001_70 file="notrans_bfe_leaf_nyh001_70.msh" />
+ <notrans_bfe_leaf_nyh001_71 file="notrans_bfe_leaf_nyh001_71.msh" />
+ <notrans_bfe_leaf_nyh001_72 file="notrans_bfe_leaf_nyh001_72.msh" />
+ <notrans_bfe_leaf_nyh001_73 file="notrans_bfe_leaf_nyh001_73.msh" />
+ <notrans_bfe_leaf_nyh001_74 file="notrans_bfe_leaf_nyh001_74.msh" />
+ <notrans_bfe_leaf_nyh001_75 file="notrans_bfe_leaf_nyh001_75.msh" />
+ <notrans_bfe_buildings_shapea file="notrans_bfe_buildings_shapea.msh" />
+ <notrans_bfe_leaf_nyh001_76 file="notrans_bfe_leaf_nyh001_76.msh" />
+ <bfe_stage_jm01_09 file="bfe_stage_jm01_09.msh" />
+ <notrans_bfe_stage_jm02 file="notrans_bfe_stage_jm02.msh" />
+ <notrans_bfe_stage_jm01_05 file="notrans_bfe_stage_jm01_05.msh" />
+ <notrans_bfe_stage_jm01_04 file="notrans_bfe_stage_jm01_04.msh" />
+ <bfe_stage_jm01_02 file="bfe_stage_jm01_02.msh" />
+ <bfe_stage_jm01_01 file="bfe_stage_jm01_01.msh" />
+ <bfe_stage_jm01_03 file="bfe_stage_jm01_03.msh" />
+ <bfe_stage_jm01_06 file="bfe_stage_jm01_06.msh" />
+ <bfe_stage_jm01_08 file="bfe_stage_jm01_08.msh" />
+ <bfe_stage_jm01_07 file="bfe_stage_jm01_07.msh" />
+ <bfe_stage_jm01_10 file="bfe_stage_jm01_10.msh" />
+ <notrans_bfe_edfe_nyh001_02 file="notrans_bfe_edfe_nyh001_02.msh" />
+ <notrans_bfe_edfe_nyh001_07 file="notrans_bfe_edfe_nyh001_07.msh" />
+ <notrans_bfe_edfe_nyh001_08 file="notrans_bfe_edfe_nyh001_08.msh" />
+ <notrans_bfe_edfe_nyh001_09 file="notrans_bfe_edfe_nyh001_09.msh" />
+</Objects>
+<Materials version="2">
+  <mbfe_ground_nyh001
+    diffuse="bfground_nyh001.dds"
+    color="255 255 255"
+  />
+  <mbfe_ground_nyh003
+    diffuse="bfground_nyh003.dds"
+    color="252 252 252"
+  />
+  <mbfe_sky_nyh001
+    diffuse="bfsky_nyh001.dds"
+    color="255 255 255"
+  />
+  <mbfe_wall_nyh002
+    diffuse="bfwall_nyh002.dds"
+    color="255 255 255"
+  />
+  <mbfe_boundary_nyh001
+    diffuse="bfboundary_nyh001.dds"
+    color="255 255 255"
+  />
+  <mbfe_wall_nyh001
+    diffuse="bfwall_nyh001.dds"
+    color="255 255 255"
+  />
+  <mbfe_ground_nyh004
+    diffuse="bfground_nyh004.dds"
+    color="255 255 255"
+  />
+  <mbfe_water_nyh001
+    diffuse="bfwater_nyh001.dds"
+    color="255 255 255"
+    uvAnimFile="bfe_water_nyh001.uva"
+  />
+  <mbfe_ground_nyh002
+    diffuse="bfground_nyh002.dds"
+    color="255 255 255"
+  />
+  <mbfe_shadow_nyh001
+    diffuse="bfshadow_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbfe_edge_nyh001
+    diffuse="bfedge_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbfe_shadow_nyh002
+    diffuse="bfshadow_nyh002.dds"
+    color="253 253 253"
+    opacity="1"
+  />
+  <mbfe_watershadow_nyh001
+    diffuse="bfwatershadow_nyh001.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbfe_rock_nyh001
+    diffuse="bfrock_im001.dds"
+    color="255 255 255"
+  />
+  <mbfe_petal_nyh001
+    diffuse="bfpetal_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbfe_tree_nyh003_id01
+    diffuse="bftree_nyh003_id01.dds"
+    color="255 255 255"
+  />
+  <mbfe_tree_nyh003_id02
+    diffuse="bftree_nyh003_id02.dds"
+    color="255 255 255"
+  />
+  <mbfe_plant_nyh001
+    diffuse="bfplant_nyh001.dds"
+    color="255 255 255"
+  />
+  <mbfe_shadow_nyh003
+    diffuse="bfshadow_nyh003.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbfe_pavilion_cinb
+    diffuse="bfe_pavilion_cinb.dds"
+    color="255 255 255"
+  />
+  <mbfe_pavilion_cinc
+    diffuse="bfe_pavilion_cinc.dds"
+    color="255 255 255"
+  />
+  <mbfe_pavilion_cina
+    diffuse="bfe_pavilion_cina.dds"
+    color="255 255 255"
+  />
+  <mbfe_display_jm
+    diffuse="bfe_display_jm.dds"
+    color="255 255 255"
+  />
+  <mbfe_displaysign_jm
+    diffuse="bfe_displaysign_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbfe_popatodisplay_jm
+    diffuse="bfe_popatodisplay_jm.dds"
+    color="255 255 255"
+  />
+  <mCollision_MovingMesh
+    color="126 126 126"
+  />
+  <mbfe_pavil_tree
+    diffuse="bfe_pavil_tree.dds"
+    color="255 255 255"
+  />
+  <mbfe_pavil_wall
+    diffuse="bfe_pavil_wall.dds"
+    color="255 255 255"
+  />
+  <mbfe_tree_nyh001_id01
+    diffuse="bftree_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mbfe_tree_nyh001_id02
+    diffuse="bftree_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mbfe_tree_nyh002_id01
+    diffuse="bftree_nyh002_id01.dds"
+    color="255 255 255"
+  />
+  <mbfe_tree_nyh002_id02
+    diffuse="bftree_nyh002_id02.dds"
+    color="255 255 255"
+  />
+  <mbfe_2Dtree_nyh001
+    diffuse="bf2Dtree_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbfe_leaf_nyh001
+    diffuse="bfleaf_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbfe_leaf_nyh002
+    diffuse="bfleaf_nyh002.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbfe_buildings_shapea
+    diffuse="bfe_buildings_shape.dds"
+    color="255 255 255"
+  />
+  <mbfe_stage_jm01
+    diffuse="bfe_stage_jm.dds"
+    color="255 255 255"
+  />
+  <mbfe_stage_jm01_id01
+    diffuse="bfe_stagesf_jm.dds"
+    color="255 255 255"
+  />
+  <mbfe_stage_jm01_id02
+    diffuse="bfe_stagesfside_jm.dds"
+    color="255 255 255"
+  />
+  <mbfe_stage_jm01_id03
+    diffuse="bfe_stagestar_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="blossoms_festival.skl"
+/>
+<collision
+  file="blossoms_festival.col"
+/>
+</Scene.XML>

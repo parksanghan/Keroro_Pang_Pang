@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <dinosaur_kingdom_wood_003 file="dinosaur_kingdom_wood_003.msh" />
+</Objects>
+<Materials version="2">
+  <mdinosaur_kingdom_wood_003
+    diffuse="dinosaur_kingdom_wood_003.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="dinosaur_kingdom_wood_003.col"
+/>
+</Scene.XML>

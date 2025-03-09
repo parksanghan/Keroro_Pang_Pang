@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <putata_body_120 file="putata_body_120.msh" />
+</Objects>
+<Materials version="2">
+  <mputata_body_120
+    diffuse="putata_body_120.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

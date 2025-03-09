@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <item_key file="item_key.msh" />
+</Objects>
+<Materials version="2">
+  <mitem_key
+    diffuse="item_key.tga"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="item_key.col"
+/>
+</Scene.XML>

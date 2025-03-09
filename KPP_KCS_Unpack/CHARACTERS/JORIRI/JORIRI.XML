@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <joriri_face_000 file="joriri_face_000.msh" />
+ <foot_stand file="foot_stand.msh" />
+</Objects>
+<Materials version="2">
+  <mjoriri_face_000
+    diffuse="joriri_face_000.dds"
+    color="149 149 149"
+  />
+  <mfoot_stand
+    diffuse="foot_stand.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Joriri.skl"
+/>
+<collision
+  file="Joriri.col"
+/>
+</Scene.XML>

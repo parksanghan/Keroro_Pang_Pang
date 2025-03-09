@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <umbrella file="umbrella.msh" />
+</Objects>
+<Materials version="2">
+  <mumbrella
+    diffuse="umbrella.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="keron_umbrella.skl"
+/>
+<BoneAnim
+  file="Anims\keron_umbrella.anm"
+/>
+<collision
+  file="keron_umbrella.col"
+/>
+</Scene.XML>

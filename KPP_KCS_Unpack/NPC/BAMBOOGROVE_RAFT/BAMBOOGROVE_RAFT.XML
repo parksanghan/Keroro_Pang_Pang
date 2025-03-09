@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tamama_body_000 file="tamama_body_000.msh" />
+ <tamama_head_000 file="tamama_head_000.msh" />
+ <tamama_face_000 file="tamama_face_000.msh" />
+ <dororo_head_000 file="dororo_head_000.msh" />
+ <dororo_face_000 file="dororo_face_000.msh" />
+ <dororo_body_000 file="dororo_body_000.msh" />
+ <gir_b_01 file="gir_b_01.msh" />
+ <gir_h_01 file="gir_h_01.msh" />
+ <gir_Head_01 file="gir_Head_01.msh" />
+ <bbg_raft_nyh001_01 file="bbg_raft_nyh001_01.msh" />
+ <bbg_raft_nyh001_02 file="bbg_raft_nyh001_02.msh" />
+ <bbg_raft_nyh001_05 file="bbg_raft_nyh001_05.msh" />
+ <Object02 file="Object02.msh" />
+</Objects>
+<Materials version="2">
+  <mtamama_body_000
+    diffuse="tamama_body_000.tga"
+    color="149 149 149"
+  />
+  <mtamama_head_000
+    diffuse="tamama_head_000.tga"
+    color="149 149 149"
+  />
+  <mtamama_face_000
+    diffuse="tamama_face_000.tga"
+    color="149 149 149"
+  />
+  <mdororo_head_000
+    diffuse="dororo_head_000.tga"
+    color="149 149 149"
+  />
+  <mdororo_face_001
+    diffuse="dororo_face_001.tga"
+    color="149 149 149"
+  />
+  <mStandard_3
+    diffuse="dororo_body_000.tga"
+    color="149 149 149"
+  />
+  <mgiroro_body_000
+    diffuse="giroro_body_000.tga"
+    color="149 149 149"
+  />
+  <mgiroro_head_000
+    diffuse="giroro_head_000.tga"
+    color="149 149 149"
+  />
+  <mgiroro_face_001
+    diffuse="giroro_face_001.tga"
+    color="149 149 149"
+  />
+  <mraft_nyh001
+    diffuse="raft_nyh001.TGA"
+    color="149 149 149"
+  />
+  <mMaterial_k0
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="bamboogroee_raft.skl"
+/>
+<BoneAnim
+  file="Anims\bamboogroee_raft.anm"
+/>
+<collision
+  file="bamboogroee_raft.col"
+/>
+</Scene.XML>

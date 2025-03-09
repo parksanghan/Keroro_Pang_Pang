@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keroball_wall_down_10m file="keroball_wall_down_10m.msh" />
+ <keroball_wall_pl_10m file="keroball_wall_pl_10m.msh" />
+</Objects>
+<Materials version="2">
+  <mkeroball_wall_03
+  diffuse="keroball_wall_03.dds"
+    color="255 255 255"
+  />
+  <mkeroball_wall_01
+    diffuse="keroball_wall_01.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="keroball_wall_01.uva"
+  />
+</Materials>
+<collision
+  file="keroballCollision_wall_10m.col"
+/>
+</Scene.XML>

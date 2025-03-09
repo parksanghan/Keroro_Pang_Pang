@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <godfa file="godfa.msh" />
+</Objects>
+<Materials version="2">
+  <mgodfa_000
+    diffuse="godfa.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="godfa.skl"
+/>
+<collision
+  file="godfa.col"
+/>
+</Scene.XML>

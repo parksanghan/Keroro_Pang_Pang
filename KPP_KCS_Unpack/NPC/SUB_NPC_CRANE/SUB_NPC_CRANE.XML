@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <submarine_crane02_cindy file="submarine_crane02_cindy.msh" />
+ <smb_drum_jm_b01 file="smb_drum_jm_b01.msh" />
+ <kururu_body_npc file="kururu_body_npc.msh" />
+</Objects>
+<Materials version="2">
+  <msubmarine_crane02_cindy
+    diffuse="submarine_crane_cindy.tga"
+    color="255 255 255"
+  />
+  <msmb_drum_jm_b02
+    diffuse="smb_drum_jm_b02.tga"
+    color="255 255 255"
+  />
+  <msmb_drum_jm_b01
+    diffuse="smb_drum_jm_b01.tga"
+    color="255 255 255"
+  />
+  <mkururu_body_000
+    diffuse="kururu_body_000.tga"
+    color="149 149 149"
+  />
+  <mkururu_head_000
+    diffuse="kururu_head_000.tga"
+    color="149 149 149"
+  />
+  <mkururu_face_000_000
+    diffuse="kururu_face_000_000.tga"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="sub_npc_crane.skl"
+/>
+<BoneAnim
+  file="Anims\sub_npc_crane.anm"
+/>
+<collision
+  file="sub_npc_crane.col"
+/>
+</Scene.XML>

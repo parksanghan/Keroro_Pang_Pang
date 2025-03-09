@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2007 (http://www.altova.com) by NararaCDS (NSTORM) -->
+<Hanbyul_face_000_face_animation.XML>
+	<!--event animation - controlled by character animation frame, up to 8 sets-->
+	<animation name="" fr0="" face0="" fr1="" face1="" fr2="" face2="" fr3="" face3="" fr4="" face4="" fr5="" face5="" fr6="" face6="" fr7="" face7="" fr8="" face8="" fr9="" face9="" fr10="" face10="" fr11="" face11="" fr12="" face12="" fr13="" face13="" fr14="" face14=""/>
+	<animation name="hanbyul_idle_002" fr0="1" face0="hanbyul_face_000" fr1="12" face1="hanbyul_face_001" fr2="63" face2="hanbyul_face_000" fr3="" face3="" fr4="" face4="" fr5="" face5="" fr6="" face6="" fr7="" face7="" fr8="" face8="" fr9="" face9="" fr10="" face10="" fr11="" face11="" fr12="" face12="" fr13="" face13="" fr14="" face14=""/>	
+</Hanbyul_face_000_face_animation.XML>

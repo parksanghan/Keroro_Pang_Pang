@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keroball_wall_pillar01 file="keroball_wall_pillar01.msh" />
+</Objects>
+<Materials version="2">
+  <mkeroball_wall_pillar
+    diffuse="keroball_wall_pillar.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="keroballCollision_wall_cn_ms.col"
+/>
+</Scene.XML>

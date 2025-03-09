@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <penguin file="penguin.msh" />
+</Objects>
+<Materials version="2">
+  <mpenguin
+    diffuse="penguin.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="penguin_idle_001.skl"
+/>
+<BoneAnim
+  file="Anims\penguin_idle_001.anm"
+/>
+<collision
+  file="penguin_idle_001.col"
+/>
+</Scene.XML>

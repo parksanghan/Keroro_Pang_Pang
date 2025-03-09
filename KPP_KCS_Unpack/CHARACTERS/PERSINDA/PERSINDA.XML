@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <persinda_000 file="persinda_000.msh" />
+</Objects>
+<Materials version="2">
+  <mhunter_000
+    diffuse="persinda_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="persinda.skl"
+/>
+<BoneAnim
+  file="Anims\persinda.anm"
+/>
+<collision
+  file="persinda.col"
+/>
+</Scene.XML>

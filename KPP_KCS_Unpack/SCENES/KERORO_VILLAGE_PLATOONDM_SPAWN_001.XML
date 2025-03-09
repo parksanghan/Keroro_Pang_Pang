@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="obj_JumpPad" engName="jump pad" code="117637121" teamId="0" spawnId="0" posX="11.08" posY="3" posZ="-26" angleY="0" scale="1.5" jumpPower="180" force="85" durationTime="3.8" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="1" posX="23" posY="3.2" posZ="-13.8" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="2" posX="0.23" posY="3.2" posZ="-16.84" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="3" posX="46" posY="3.5" posZ="-38" angleY="270" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="4" posX="45" posY="3.5" posZ="-15" angleY="270" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="5" posX="35" posY="3.5" posZ="-10" angleY="270" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="6" posX="-27" posY="3.5" posZ="-4" angleY="90" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="7" posX="-13" posY="3.5" posZ="-21" angleY="90" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="8" posX="-13" posY="3.5" posZ="-45" angleY="90" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

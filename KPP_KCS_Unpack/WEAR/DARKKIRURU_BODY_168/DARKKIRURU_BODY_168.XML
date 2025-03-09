@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <darkkiruru_body_168 file="darkkiruru_body_168.msh" />
+</Objects>
+<Materials version="2">
+  <mdarkkiruru_body_168
+    diffuse="darkkiruru_body_168.dds"
+    color="149 149 149"
+  />
+</Materials>
+<BoneAnim
+  file="Anims\darkkiruru_body_168.anm"
+/>
+</Scene.XML>

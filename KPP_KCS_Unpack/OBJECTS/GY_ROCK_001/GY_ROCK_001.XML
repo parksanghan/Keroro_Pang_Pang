@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <gy_rock_001 file="gy_rock_001.msh" />
+</Objects>
+<Materials version="2">
+  <mgy_rock_001
+    diffuse="gy_rock_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="gy_rock_001.col"
+/>
+</Scene.XML>

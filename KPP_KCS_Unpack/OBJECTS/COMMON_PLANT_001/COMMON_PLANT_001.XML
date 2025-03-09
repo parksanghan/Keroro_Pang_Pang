@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <common_plant_001 file="common_plant_001.msh" />
+</Objects>
+<Materials version="2">
+  <mcommon_plant_001
+    diffuse="common_plant_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="common_plant_001.col"
+/>
+</Scene.XML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <chocolate file="chocolate.msh" />
+</Objects>
+<Materials version="2">
+  <mchocolate
+    diffuse="chocolate.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Chocolate.skl"
+/>
+<BoneAnim
+  file="Anims\Chocolate.anm"
+/>
+<collision
+  file="Chocolate.col"
+/>
+</Scene.XML>

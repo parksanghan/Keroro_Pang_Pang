@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="keron" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="33" posY="2.5" posZ="24" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="space_jump pad2" code="129040390" teamId="0" spawnId="6" posX="6" posY="2" posZ="34" angleY="120" scale="1" jumpPower="150" force="150" durationTime="2.0"/>
+	<spawn type="obj_JumpPad" engName="space_jump pad2" code="129040390" teamId="0" spawnId="7" posX="-6" posY="2" posZ="-34" angleY="340" scale="1" jumpPower="200" force="150" durationTime="2.0"/>
+	<spawn type="obj_JumpPad" engName="space_jump pad2" code="129040390" teamId="0" spawnId="14" posX="5" posY="2" posZ="-10" angleY="200" scale="1" jumpPower="130" force="80" durationTime="2.0"/>
+	<spawn type="obj_JumpPad" engName="space_jump pad2" code="129040390" teamId="0" spawnId="15" posX="-4" posY="2" posZ="10" angleY="20" scale="1" jumpPower="130" force="80" durationTime="2.0"/>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="1" posX="-9" posY="2.5" posZ="-7" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="15.7854" posY="1.99999" posZ="-6.99431"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="2" posX="-9" posY="2.5" posZ="6" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="-1.60641" posY="1.99999" posZ="9.45488"/>
+		<patrol id="1" posX="10.7558" posY="1.99999" posZ="0.917787"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="3" posX="25" posY="5" posZ="-26" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="24.6104" posY="4.51022" posZ="-19.324"/>
+		<patrol id="1" posX="12.6645" posY="4.53332" posZ="-19.3451"/>
+		<patrol id="2" posX="30.7637" posY="4.51022" posZ="-19.3855"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="4" posX="6" posY="2.5" posZ="35" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="3.32057" posY="2" posZ="34.6999"/>
+		<patrol id="1" posX="-0.639641" posY="2" posZ="29.3232"/>
+		<patrol id="2" posX="-2.0173" posY="2" posZ="26.8163"/>
+		<patrol id="3" posX="-0.660566" posY="1.99999" posZ="21.2469"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="5" posX="-7" posY="2.5" posZ="-34" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="-1.7286" posY="2.02309" posZ="-35.7474"/>
+		<patrol id="1" posX="1.83721" posY="2.02309" posZ="-35.689"/>
+		<patrol id="2" posX="1.77837" posY="2.02309" posZ="-20.7956"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="6" posX="0" posY="7.15" posZ="0" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="7" posX="-12" posY="5" posZ="20" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="-12.1521" posY="4.51022" posZ="25.9402"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="8" posX="-25" posY="5" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="-25.2672" posY="4.51022" posZ="19.188"/>
+		<patrol id="1" posX="-30.2945" posY="4.51022" posZ="19.2881"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="9" posX="23" posY="2.5" posZ="0" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001">
+		<patrol id="0" posX="35.5117" posY="2" posZ="0.0743321"/>
+		<patrol id="1" posX="35.5241" posY="1.99999" posZ="7.81056"/>
+	</spawn>
+</SPAWN.XML>

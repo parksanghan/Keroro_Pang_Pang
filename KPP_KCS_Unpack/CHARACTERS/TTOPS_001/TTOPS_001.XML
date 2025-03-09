@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ttops_001 file="ttops_001.msh" />
+</Objects>
+<Materials version="2">
+  <mttops_001
+    diffuse="ttops_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="ttops_001.skl"
+/>
+<collision
+  file="ttops_001.col"
+/>
+</Scene.XML>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kh_box02 file="kh_box02.msh" />
+</Objects>
+<Materials version="2">
+  <mkr_box02_001
+    diffuse="kh_box02.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="keron_hangar_paper_002.col"
+/>
+</Scene.XML>

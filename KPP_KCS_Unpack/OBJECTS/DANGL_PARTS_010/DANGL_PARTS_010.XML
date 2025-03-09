@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <dangl_parts_010 file="dangl_parts_010.msh" />
+</Objects>
+<Materials version="2">
+  <mdangl
+    diffuse="dangl.dds"
+    color="149 149 149"
+  />
+</Materials>
+<collision
+  file="dangl_parts_010.col"
+/>
+</Scene.XML>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <set_4Rcontrolroom file="set_4Rcontrolroom.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_63
+    diffuse="sec_metalbox.dds"
+    color="149 149 149"
+  />
+</Materials>
+<collision
+  file="security_test_4r_metal_001.col"
+/>
+</Scene.XML>

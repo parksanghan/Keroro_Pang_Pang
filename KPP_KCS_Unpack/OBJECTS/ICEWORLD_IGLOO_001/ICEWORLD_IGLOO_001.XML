@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <iceworld_igloo_001 file="iceworld_igloo_001.msh" />
+</Objects>
+<Materials version="2">
+  <micw_igloo
+    diffuse="icw_igloo.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="iceworld_igloo_001.col"
+/>
+</Scene.XML>

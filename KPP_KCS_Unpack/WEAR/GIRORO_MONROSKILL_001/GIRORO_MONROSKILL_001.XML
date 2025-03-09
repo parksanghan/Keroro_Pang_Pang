@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <giroro_skill_002_monro_body_000 file="giroro_skill_002_monro_body_000.msh" />
+ <giroro_skill_002_monro_hair_000 file="giroro_skill_002_monro_hair_000.msh" />
+ <giroro_face_000 file="giroro_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mgiroro_skill_002_monro_body_000
+    diffuse="giroro_skill_002_monro_body_000.tga"
+    color="149 149 149"
+  />
+  <mgiroro_skill_002_monro_hair_000
+    diffuse="giroro_skill_002_monro_hair_000.tga"
+    color="149 149 149"
+  />
+  <mgiroro_face_013_02
+    diffuse="giroro_face_013_02.tga"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <mekeke_skill_002_doll file="mekeke_skill_002_doll.msh" />
+</Objects>
+<Materials version="2">
+  <mmekeke_skill_002_doll
+    diffuse="mekeke_skill_002_doll.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="mekeke_skill_002_doll.skl"
+/>
+<BoneAnim
+  file="Anims\mekeke_skill_002_doll.anm"
+/>
+<collision
+  file="mekeke_skill_002_doll.col"
+/>
+</Scene.XML>

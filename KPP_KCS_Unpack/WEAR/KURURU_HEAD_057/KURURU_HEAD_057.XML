@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kururu_head_057 file="kururu_head_057.msh" />
+</Objects>
+<Materials version="2">
+  <mkururu_head_057
+    diffuse="kururu_head_057.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

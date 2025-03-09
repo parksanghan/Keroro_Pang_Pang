@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="npc" engName="Viper" code="19922945" spawnId="0" posX="22" posY="3.1" posZ="-30">
+		<patrol id="0" posX="22" posY="0" posZ="-36"/>
+		<patrol id="1" posX="22" posY="0" posZ="-30"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" spawnId="1" posX="32" posY="2.06" posZ="13"/>
+	<spawn type="npc" engName="Viper" code="19922945" spawnId="2" posX="-16" posY="0.06" posZ="-2"/>
+	<spawn type="npc" engName="Viper" code="19922945" spawnId="3" posX="-32" posY="2.06" posZ="-2"/>
+	<spawn type="keron" engName="Keroro" code="18939905" spawnId="4" posX="27" posY="3" posZ="-33"/>
+	<spawn type="npc" engName="Viper" code="19922945" spawnId="5" posX="1.48347" posY="1.5" posZ="25.4985"/>
+</SPAWN.XML>

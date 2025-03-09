@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <nara_body_000 file="nara_body_000.msh" />
+ <nara_face_000 file="nara_face_000.msh" />
+ <nara_head_000 file="nara_head_000.msh" />
+</Objects>
+<Materials version="2">
+  <mnara_body_000
+    diffuse="nara_body_000.dds"
+    color="149 149 149"
+  />
+  <mnara_face_000
+    diffuse="nara_face_000.dds"
+    color="149 149 149"
+  />
+  <mnara_head_000
+    diffuse="nara_head_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="nara_T_Pose.skl"
+/>
+<collision
+  file="nara_T_Pose.col"
+/>
+</Scene.XML>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<AdvanceTrainingList.XML>
+	<advancetraninig code="251789313" engName="Special_training_01" brief="Bazooka_Traning_01" characterCode="19070977" stageCode="103874566" firstWeaponCode="36044801" secondWeaponCode="" thirdWeaponCode="" limitTime="240" super="30" ace="33" best="39" common="51" dunce="240" reward_1="0" reward_2="100" reward_3="200" reward_4="300" reward_5="400" limitLife="1"/>
+	<advancetraninig code="251789314" engName="Special_training_02" brief="Sniper_Traning_01" characterCode="19202049" stageCode="103874565" firstWeaponCode="35979265" secondWeaponCode="" thirdWeaponCode="" limitTime="240" super="24" ace="27" best="33" common="42" dunce="240" reward_1="0" reward_2="100" reward_3="200" reward_4="300" reward_5="400" limitLife="1"/>
+	<advancetraninig code="251789315" engName="Special_training_03" brief="Mine_Traning_01" characterCode="19136513" stageCode="103874561" firstWeaponCode="" secondWeaponCode="" thirdWeaponCode="36110337" limitTime="240" super="50" ace="55" best="65" common="80" dunce="240" reward_1="0" reward_2="100" reward_3="200" reward_4="300" reward_5="400" limitLife="1"/>
+</AdvanceTrainingList.XML>

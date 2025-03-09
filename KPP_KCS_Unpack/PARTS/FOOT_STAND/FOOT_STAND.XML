@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <foot_stand file="foot_stand.msh" />
+</Objects>
+<Materials version="2">
+  <mfoot_stand
+    diffuse="foot_stand.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="foot_stand.skl"
+/>
+<BoneAnim
+  file="Anims\foot_stand.anm"
+/>
+<collision
+  file="foot_stand.col"
+/>
+</Scene.XML>

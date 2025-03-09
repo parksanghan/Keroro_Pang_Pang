@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tamama_face_000 file="tamama_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mtamama_face_000
+    diffuse="tamama_face_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Tamama_000.skl"
+/>
+<collision
+  file="Tamama_000.col"
+/>
+</Scene.XML>

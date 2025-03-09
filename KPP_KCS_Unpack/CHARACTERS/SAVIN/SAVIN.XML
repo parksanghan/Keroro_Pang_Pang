@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <savin_head_000 file="savin_head_000.msh" />
+ <savin_face_000 file="savin_face_000.msh" />
+ <savin_body_000 file="savin_body_000.msh" />
+</Objects>
+<Materials version="2">
+  <msavin_head_000
+    diffuse="savin_head_000.dds"
+    color="149 149 149"
+  />
+  <msavin_face_000
+    diffuse="savin_face_000.dds"
+    color="149 149 149"
+  />
+  <msavin_body_000
+    diffuse="savin_body_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="savin_T_Pose.skl"
+/>
+<collision
+  file="Savin.col"
+/>
+</Scene.XML>

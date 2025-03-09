@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <desk file="desk.msh" />
+</Objects>
+<Materials version="2">
+  <mdesk
+    diffuse="desk.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="desk.skl"
+/>
+<BoneAnim
+  file="Anims\desk.anm"
+/>
+<collision
+  file="desk.col"
+/>
+</Scene.XML>

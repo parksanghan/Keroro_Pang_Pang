@@ -1,0 +1,286 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_inc_sky file="notrans_inc_sky.msh" />
+ <notrans_inc_ground_bottom file="notrans_inc_ground_bottom.msh" />
+ <notrans_inc_ground_edge07 file="notrans_inc_ground_edge07.msh" />
+ <notrans_inc_ground_wall02 file="notrans_inc_ground_wall02.msh" />
+ <notrans_inc_ground_edge08 file="notrans_inc_ground_edge08.msh" />
+ <notrans_inc_ground_wall03 file="notrans_inc_ground_wall03.msh" />
+ <notrans_inc_ground_edge09 file="notrans_inc_ground_edge09.msh" />
+ <notrans_inc_ground_wall05 file="notrans_inc_ground_wall05.msh" />
+ <notrans_inc_ground_edge10 file="notrans_inc_ground_edge10.msh" />
+ <notrans_inc_ground_wall04 file="notrans_inc_ground_wall04.msh" />
+ <notrans_inc_ground_stone_a file="notrans_inc_ground_stone_a.msh" />
+ <notrans_inc_ground_stone_c file="notrans_inc_ground_stone_c.msh" />
+ <notrans_inc_ground_stone_b file="notrans_inc_ground_stone_b.msh" />
+ <notrans_inc_ground_tree file="notrans_inc_ground_tree.msh" />
+ <notrans_inc_ground_tree01 file="notrans_inc_ground_tree01.msh" />
+ <notrans_inc_ground_tree02 file="notrans_inc_ground_tree02.msh" />
+ <notrans_inc_ground_tree03 file="notrans_inc_ground_tree03.msh" />
+ <notrans_inc_ground_tree04 file="notrans_inc_ground_tree04.msh" />
+ <notrans_inc_goj_bottom file="notrans_inc_goj_bottom.msh" />
+ <notrans_inc_ground_outline02 file="notrans_inc_ground_outline02.msh" />
+ <notrans_inc_ground_outline03 file="notrans_inc_ground_outline03.msh" />
+ <notrans_inc_ground_sand file="notrans_inc_ground_sand.msh" />
+ <notrans_inc_ground_edge02 file="notrans_inc_ground_edge02.msh" />
+ <notrans_inc_ground_edge06 file="notrans_inc_ground_edge06.msh" />
+ <notrans_inc_ground_edge03 file="notrans_inc_ground_edge03.msh" />
+ <notrans_inc_ground_edge04 file="notrans_inc_ground_edge04.msh" />
+ <notrans_inc_ground_edge01 file="notrans_inc_ground_edge01.msh" />
+ <notrans_inc_ground_edge05 file="notrans_inc_ground_edge05.msh" />
+ <notrans_inc_ground_wall01 file="notrans_inc_ground_wall01.msh" />
+ <notrans_inc_ground_outline file="notrans_inc_ground_outline.msh" />
+ <notrans_inc_matal_001 file="notrans_inc_matal_001.msh" />
+ <notrans_inc_rock_015 file="notrans_inc_rock_015.msh" />
+ <notrans_inc_rock_016 file="notrans_inc_rock_016.msh" />
+ <inc_wood_003 file="inc_wood_003.msh" />
+ <inc_wood_004 file="inc_wood_004.msh" />
+ <notrans_inc_rock_011 file="notrans_inc_rock_011.msh" />
+ <inc_rock_012 file="inc_rock_012.msh" />
+ <notrans_inc_rock_013 file="notrans_inc_rock_013.msh" />
+ <notrans_inc_rock_014 file="notrans_inc_rock_014.msh" />
+ <inc_wood_005 file="inc_wood_005.msh" />
+ <notrans_inc_rock_27 file="notrans_inc_rock_27.msh" />
+ <notrans_inc_rock_28 file="notrans_inc_rock_28.msh" />
+ <notrans_inc_rock_29 file="notrans_inc_rock_29.msh" />
+ <notrans_inc_rock_30 file="notrans_inc_rock_30.msh" />
+ <notrans_inc_rock_124 file="notrans_inc_rock_124.msh" />
+ <notrans_inc_rock_125 file="notrans_inc_rock_125.msh" />
+ <notrans_inc_rock_126 file="notrans_inc_rock_126.msh" />
+ <notrans_inc_rock_127 file="notrans_inc_rock_127.msh" />
+ <notrans_inc_rock_128 file="notrans_inc_rock_128.msh" />
+ <notrans_inc_rock_129 file="notrans_inc_rock_129.msh" />
+ <notrans_inc_rock_130 file="notrans_inc_rock_130.msh" />
+ <notrans_inc_rock_131 file="notrans_inc_rock_131.msh" />
+ <notrans_inc_rock_132 file="notrans_inc_rock_132.msh" />
+ <notrans_inc_rock_133 file="notrans_inc_rock_133.msh" />
+ <notrans_inc_rock_134 file="notrans_inc_rock_134.msh" />
+ <notrans_inc_rock_135 file="notrans_inc_rock_135.msh" />
+ <notrans_inc_rock_136 file="notrans_inc_rock_136.msh" />
+ <notrans_inc_rock_137 file="notrans_inc_rock_137.msh" />
+ <notrans_inc_rock_17 file="notrans_inc_rock_17.msh" />
+ <notrans_inc_rock_138 file="notrans_inc_rock_138.msh" />
+ <notrans_inc_rock_139 file="notrans_inc_rock_139.msh" />
+ <notrans_inc_rock_140 file="notrans_inc_rock_140.msh" />
+ <notrans_inc_rock_141 file="notrans_inc_rock_141.msh" />
+ <inc_rock_30 file="inc_rock_30.msh" />
+ <inc_rock_010 file="inc_rock_010.msh" />
+ <inc_rock_28 file="inc_rock_28.msh" />
+ <inc_rock_29 file="inc_rock_29.msh" />
+ <inc_rock_34 file="inc_rock_34.msh" />
+ <inc_rock_35 file="inc_rock_35.msh" />
+ <inc_rock_31 file="inc_rock_31.msh" />
+ <inc_rock_33 file="inc_rock_33.msh" />
+ <inc_rock_32 file="inc_rock_32.msh" />
+ <inc_rock_27 file="inc_rock_27.msh" />
+ <inc_rock_26 file="inc_rock_26.msh" />
+ <inc_rock_25 file="inc_rock_25.msh" />
+ <inc_rock_24 file="inc_rock_24.msh" />
+ <inc_rock_23 file="inc_rock_23.msh" />
+ <inc_rock_21 file="inc_rock_21.msh" />
+ <inc_rock_19 file="inc_rock_19.msh" />
+ <inc_rock_17 file="inc_rock_17.msh" />
+ <inc_rock_007 file="inc_rock_007.msh" />
+ <inc_rock_18 file="inc_rock_18.msh" />
+ <inc_rock_006 file="inc_rock_006.msh" />
+ <inc_rock_009 file="inc_rock_009.msh" />
+ <inc_rock_16 file="inc_rock_16.msh" />
+ <inc_rock_14 file="inc_rock_14.msh" />
+ <inc_rock_15 file="inc_rock_15.msh" />
+ <inc_rock_13 file="inc_rock_13.msh" />
+ <inc_rock_004 file="inc_rock_004.msh" />
+ <inc_rock_003 file="inc_rock_003.msh" />
+ <inc_rock_005 file="inc_rock_005.msh" />
+ <inc_rock_001 file="inc_rock_001.msh" />
+ <inc_rock_20 file="inc_rock_20.msh" />
+ <inc_rock_002 file="inc_rock_002.msh" />
+ <inc_rock_11 file="inc_rock_11.msh" />
+ <inc_rock_12 file="inc_rock_12.msh" />
+ <inc_rock_008 file="inc_rock_008.msh" />
+ <inc_rock_44 file="inc_rock_44.msh" />
+ <inc_rock_47 file="inc_rock_47.msh" />
+ <inc_rock_49 file="inc_rock_49.msh" />
+ <inc_rock_48 file="inc_rock_48.msh" />
+ <inc_rock_50 file="inc_rock_50.msh" />
+ <inc_rock_51 file="inc_rock_51.msh" />
+ <inc_rock_52 file="inc_rock_52.msh" />
+ <inc_rock_53 file="inc_rock_53.msh" />
+ <inc_rock_54 file="inc_rock_54.msh" />
+ <inc_rock_56 file="inc_rock_56.msh" />
+ <inc_rock_55 file="inc_rock_55.msh" />
+ <inc_rock_61 file="inc_rock_61.msh" />
+ <inc_rock_58 file="inc_rock_58.msh" />
+ <inc_rock_62 file="inc_rock_62.msh" />
+ <inc_rock_63 file="inc_rock_63.msh" />
+ <inc_rock_65 file="inc_rock_65.msh" />
+ <inc_rock_66 file="inc_rock_66.msh" />
+ <inc_rock_67 file="inc_rock_67.msh" />
+ <inc_rock_68 file="inc_rock_68.msh" />
+ <inc_rock_69 file="inc_rock_69.msh" />
+ <inc_rock_70 file="inc_rock_70.msh" />
+ <inc_rock_71 file="inc_rock_71.msh" />
+ <inc_rock_72 file="inc_rock_72.msh" />
+ <inc_rock_73 file="inc_rock_73.msh" />
+ <inc_rock_74 file="inc_rock_74.msh" />
+ <inc_rock_75 file="inc_rock_75.msh" />
+ <inc_rock_76 file="inc_rock_76.msh" />
+ <inc_rock_77 file="inc_rock_77.msh" />
+ <inc_rock_78 file="inc_rock_78.msh" />
+ <inc_rock_79 file="inc_rock_79.msh" />
+ <inc_rock_80 file="inc_rock_80.msh" />
+ <inc_rock_81 file="inc_rock_81.msh" />
+ <inc_rock_85 file="inc_rock_85.msh" />
+ <inc_rock_86 file="inc_rock_86.msh" />
+ <inc_rock_87 file="inc_rock_87.msh" />
+ <inc_rock_88 file="inc_rock_88.msh" />
+ <inc_rock_89 file="inc_rock_89.msh" />
+ <inc_rock_90 file="inc_rock_90.msh" />
+ <inc_rock_91 file="inc_rock_91.msh" />
+ <inc_rock_92 file="inc_rock_92.msh" />
+ <inc_rock_93 file="inc_rock_93.msh" />
+ <inc_rock_94 file="inc_rock_94.msh" />
+ <inc_rock_95 file="inc_rock_95.msh" />
+ <inc_rock_96 file="inc_rock_96.msh" />
+ <inc_rock_97 file="inc_rock_97.msh" />
+ <inc_rock_98 file="inc_rock_98.msh" />
+ <inc_rock_99 file="inc_rock_99.msh" />
+ <inc_rock_100 file="inc_rock_100.msh" />
+ <inc_rock_101 file="inc_rock_101.msh" />
+ <inc_rock_102 file="inc_rock_102.msh" />
+ <inc_rock_103 file="inc_rock_103.msh" />
+ <inc_rock_108 file="inc_rock_108.msh" />
+ <inc_rock_109 file="inc_rock_109.msh" />
+ <inc_rock_110 file="inc_rock_110.msh" />
+ <inc_rock_111 file="inc_rock_111.msh" />
+ <inc_rock_112 file="inc_rock_112.msh" />
+ <inc_rock_113 file="inc_rock_113.msh" />
+ <inc_rock_114 file="inc_rock_114.msh" />
+ <inc_rock_115 file="inc_rock_115.msh" />
+ <notrans_inc_matal_02 file="notrans_inc_matal_02.msh" />
+ <inc_rock_116 file="inc_rock_116.msh" />
+ <notrans_inc_ground02 file="notrans_inc_ground02.msh" />
+ <notrans_inc_ground01 file="notrans_inc_ground01.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <inc_wood_006 file="inc_wood_006.msh" />
+ <inc_wood_07 file="inc_wood_07.msh" />
+ <inc_wood_08 file="inc_wood_08.msh" />
+ <inc_wood_09 file="inc_wood_09.msh" />
+ <inc_wood_10 file="inc_wood_10.msh" />
+ <inc_wood_11 file="inc_wood_11.msh" />
+ <inc_wood_12 file="inc_wood_12.msh" />
+ <inc_wood_13 file="inc_wood_13.msh" />
+ <inc_wood_14 file="inc_wood_14.msh" />
+ <inc_wood_15 file="inc_wood_15.msh" />
+</Objects>
+<Materials version="2">
+  <minc_ground_earth01
+    diffuse="inc_ground_earth01.dds"
+    color="255 255 255"
+  />
+  <minc_ground_wall01
+    diffuse="inc_ground_wall01.dds"
+    lightmap="inc_ground_wall01_lm.dds"
+    color="255 255 255"
+  />
+  <minc_sky
+    diffuse="inc_sky.dds"
+    color="255 255 255"
+  />
+  <minc_ground_bottom
+    diffuse="inc_ground_bottom.dds"
+    color="255 255 255"
+  />
+  <minc_ground_earth02
+    diffuse="inc_ground_earth02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <minc_ground_stone
+    diffuse="inc_ground_stone.dds"
+    color="255 255 255"
+  />
+  <minc_goj_bottom
+    diffuse="inc_goj_bottom.dds"
+    color="255 255 255"
+  />
+  <minc_ground_sand
+    diffuse="inc_ground_sand.dds"
+    color="255 255 255"
+  />
+  <minc_matal_001
+    diffuse="inc_matal_001.dds"
+    color="248 248 248"
+  />
+  <minc_rock_015
+    diffuse="inc_rock_015.dds"
+    color="255 255 255"
+  />
+  <minc_wood_003
+    diffuse="inc_wood_003.dds"
+    color="255 255 255"
+  />
+  <minc_wood_004
+    diffuse="inc_wood_004.dds"
+    color="255 255 255"
+  />
+  <minc_rock_011_01
+    diffuse="inc_rock_011_01.dds"
+    color="255 255 255"
+  />
+  <minc_rock_011_02
+    diffuse="inc_rock_011_02.dds"
+    color="255 255 255"
+  />
+  <minc_rock_012
+    diffuse="inc_rock_012.dds"
+    color="255 255 255"
+  />
+  <minc_rock_013
+    diffuse="inc_rock_013.dds"
+    color="255 255 255"
+  />
+  <minc_wood_005
+    diffuse="inc_wood_005.dds"
+    color="255 255 255"
+  />
+  <minc_rock01_01
+    diffuse="inc_rock01_01.dds"
+    color="255 255 255"
+  />
+  <minc_rock01_02
+    diffuse="inc_rock01_02.dds"
+    color="255 255 255"
+  />
+  <minc_rock_010
+    diffuse="inc_rock01_03.dds"
+    color="255 255 255"
+  />
+  <minc_rock01_05
+    diffuse="inc_rock01_05.dds"
+    color="255 255 255"
+  />
+  <minc_rock01_04
+    diffuse="inc_rock01_04.dds"
+    color="255 255 255"
+  />
+  <minc_ground_earth02_lm
+    diffuse="inc_ground_earth01.dds"
+    lightmap="inc_ground02_lm.dds"
+    color="255 255 255"
+  />
+  <minc_ground_earth01_lm
+    diffuse="inc_ground_earth01.dds"
+    lightmap="inc_ground01_lm.dds"
+    color="255 255 255"
+  />
+  <minc_wood_006
+    diffuse="inc_Wood_006.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="inca_excavate.col"
+/>
+</Scene.XML>

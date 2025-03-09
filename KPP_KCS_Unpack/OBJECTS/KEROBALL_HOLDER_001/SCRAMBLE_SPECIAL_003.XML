@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <scramble_special_003 file="scramble_special_003.msh" />
+</Objects>
+<Materials version="2">
+  <mscramble_special_003
+    diffuse="scramble_special_003.tga"
+    color="255 255 255"
+  />
+  <mStandard_2
+    color="149 149 149"
+  />
+</Materials>
+<collision
+  file="scramble_special_003.col"
+/>
+</Scene.XML>

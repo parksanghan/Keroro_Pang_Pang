@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<l10n>
+  <game_modes>
+    <gamemode id="0" text="알 수 없음" />
+    <gamemode id="1" text="개인 섬멸전" />
+    <gamemode id="2" text="소대 섬멸전" />
+    <gamemode id="3" text="케로볼 쟁탈전" />
+    <gamemode id="4" text="전멸전" />
+    <gamemode id="5" text="협동전" />
+    <gamemode id="6" text="호위전" />
+    <gamemode id="7" text="리그전" />
+    <gamemode id="8" text="점령전" />
+    <gamemode id="9" text="공방전" />
+    <gamemode id="10" text="협력게임" />
+    <gamemode id="11" text="혼자하기" />
+    <gamemode id="12" text="연습모드" />
+    <gamemode id="13" text="튜토리얼" />
+    <gamemode id="14" text="특수훈련" />
+    <gamemode id="15" text="로비" />
+  </game_modes>
+
+  <Server_Name>
+    <servername id="0" text="알 수 없음" />
+    <servername id="1" text="케로로" />
+    <servername id="2" text="타마마" />
+    <servername id="3" text="기로로" />
+    <servername id="4" text="쿠루루" />
+    <servername id="5" text="도로로" />
+    <servername id="6" text="가루루" />
+    <servername id="7" text="푸루루" />
+    <servername id="8" text="타루루" />
+    <servername id="9" text="토로로" />
+    <servername id="10" text="조루루" />
+    <servername id="11" text="홍미나" />
+    <servername id="12" text="나라" />
+    <servername id="13" text="사빈" />
+    <servername id="14" text="폴" />
+    <servername id="15" text="설화" />
+    <servername id="16" text="강우주" />
+    <servername id="17" text="강한별" />
+    <servername id="18" text="라비" />
+    <servername id="19" text="556" />
+    <servername id="20" text="앙골모아" />
+    <servername id="21" text="바이퍼" />
+    <servername id="22" text="뇨로로" />
+  </Server_Name>
+
+  <Gaem_Server_Type>
+    <gaemservertype id="0" text="알 수 없음" />
+    <gaemservertype id="1" text="자유" />
+    <gaemservertype id="2" text="초보" />
+    <gaemservertype id="3" text="부대" />
+  </Gaem_Server_Type>
+
+  <weapon_type_name> 
+    <weapontypename id="0" text="알 수 없음" />
+    <weapontypename id="1" text="권총" />
+    <weapontypename id="2" text="자동소총" />
+    <weapontypename id="3" text="기관총" />
+    <weapontypename id="4" text="산탄총" />
+    <weapontypename id="5" text="저격총" />
+    <weapontypename id="6" text="로켓포" />
+    <weapontypename id="7" text="트랩" />
+    <weapontypename id="8" text="투척" />
+    <weapontypename id="12" text="근접무기" />
+    <weapontypename id="13" text="유탄런처" />
+  </weapon_type_name>
+  
+  <corporation_scale>
+    <corporationscale id="1" text="소대" />
+    <corporationscale id="2" text="중대" />
+    <corporationscale id="3" text="대대" />
+    <corporationscale id="4" text="연대" />
+    <corporationscale id="5" text="여단" />
+    <corporationscale id="6" text="사단" />
+    <corporationscale id="7" text="군단" />
+  </corporation_scale>
+
+  <game_cancel_reasons>
+    <reason id="1" text="게임 결과가 올바르지 않습니다." />"
+    <reason id="2" text="게임 서버와 올바르게 통신하지 못하였습니다." />"
+    <reason id="3" text="게임 동기화가 맞지 않습니다." />"
+    <reason id="4" text="게임 호스트에 아무도 접속하지 않았습니다.\n\n사용하시는 PC의 방화벽 설정을 확인하여\n해제해 제거해 주시기 바랍니다." />"
+    <reason id="5" text="게임 호스트를 설정하지 못하였습니다.\n\n사용하시는 PC의 방화벽 설정을 확인하여\n해제해 주시기 바랍니다." />"
+  </game_cancel_reasons>
+  
+  <game_level>
+    <level id="0" text="없음" />
+    <level id="1" text="매우쉬움" />
+    <level id="2" text="쉬움" />
+    <level id="3" text="보통" />
+    <level id="4" text="어려움" />
+  </game_level>
+  
+  <game_rule>
+    <level id="0" text="없음" />
+    <level id="1" text="스킬사용" />
+    <level id="2" text="3차스킬제한" />
+    <level id="3" text="스킬사용안함" />
+  </game_rule>
+  
+  <weapon_tooltip_detail_types>
+	 <weapon_tooltip_detail_type id="0" text="공격력"/>
+	 <weapon_tooltip_detail_type id="1" text="연사력"/>
+	 <weapon_tooltip_detail_type id="2" text="탄속"/>
+	 <weapon_tooltip_detail_type id="3" text="치명타"/>
+	 <weapon_tooltip_detail_type id="4" text="기절"/>
+	 <weapon_tooltip_detail_type id="5" text="공격범위"/>
+	 <weapon_tooltip_detail_type id="6" text="사거리"/>
+	 <weapon_tooltip_detail_type id="7" text="탄환수"/>
+	 <weapon_tooltip_detail_type id="8" text="설치갯수"/>
+	 <weapon_tooltip_detail_type id="9" text="설치속도"/>
+	 <weapon_tooltip_detail_type id="10" text="연속투척"/>
+  </weapon_tooltip_detail_types>
+  
+    <weapon_tooltip_detail_type_textes>
+	 <weapon_tooltip_detail_type_text id="0" text="%d ~ %d"/>
+	 <weapon_tooltip_detail_type_text id="1" text="%.2f 초"/>
+	 <weapon_tooltip_detail_type_text id="2" text="%.2f m/s"/>
+	 <weapon_tooltip_detail_type_text id="3" text="%d %%"/>
+	 <weapon_tooltip_detail_type_text id="4" text="%d %%"/>
+	 <weapon_tooltip_detail_type_text id="5" text="%.2f m"/>
+	 <weapon_tooltip_detail_type_text id="6" text="%.2f m"/>
+	 <weapon_tooltip_detail_type_text id="7" text="%d 개"/>
+	 <weapon_tooltip_detail_type_text id="8" text="%d 개"/>
+	 <weapon_tooltip_detail_type_text id="9" text="%.2f 초"/>
+	 <weapon_tooltip_detail_type_text id="10" text="%.2f 초"/>
+  </weapon_tooltip_detail_type_textes>
+  
+  <wear_tooltip_detail_types>
+	 <wear_tooltip_detail_type id="0" text="최대HP"/>
+ 	 <wear_tooltip_detail_type id="1" text="이동속도"/>
+	 <wear_tooltip_detail_type id="2" text="방어력"/>
+  </wear_tooltip_detail_types>
+
+ <pet_tooltip_detail_types>
+  <pet_tooltip_detail_type id="0" text="펫 이름"/>
+     <pet_tooltip_detail_type id="1" text="펫 타입"/>
+     <pet_tooltip_detail_type id="2" text="펫 레벨"/>
+     <pet_tooltip_detail_type id="3" text="펫 경험치"/>
+     <pet_tooltip_detail_type id="4" text="펫 포만감"/>
+  </pet_tooltip_detail_types>
+  
+  <messages>
+    <message id="error" text="오류" />
+    <message id="system_msg" text="[시스템 메시지]" />
+    <message id="not_supported" text="죄송합니다. 현재 지원되지 않는 기능입니다." />
+    
+    <message id="error_unknown" text="알 수 없는 오류가 발생하였습니다." />
+    <message id="error_invalid_resource" text="게임 실행에 필요한 리소스의 문제로 게임을 종료합니다.\n\n다시 실행 하신 후에도 같은 문제가 있다면\n클라이언트를 재 설치해 주십시오." />
+    <message id="error_audio_failed" text="이 컴퓨터에서 오디오 장치를 찾을 수 없어\n게임 진행시 소리가 나오지 않을 수 있습니다.\n\n자세한 사항은 운영자에게 문의하시기 바랍니다." />
+    <message id="error_cegui" text="게임 오류로 인하여 종료합니다.\n\n* 원인: %s\n* 파일: %s:%d" />
+    <message id="error_no_response_from_server" text="서버로부터 응답이 지연되고 있습니다.\n잠시만 기다려주세요." />
+    <message id="error_connect" text="서버에 접속하지 못하였습니다.\n잠시 후 다시 시도해 주시기 바랍니다." />
+    <message id="error_login" text="로그인에 실패하였습니다.\n계정 상태를 확인해 주시고\n게임을 다시 실행하여 주십시오." />
+    <message id="error_invalid_nickname" text="닉네임에 잘못된 문자가 포함되었습니다.\n공백 문자와 특수 문자는 사용할 수 없습니다." />
+    <message id="error_disconnected" text="서버로부터 연결이 끊어졌습니다.\n서버가 접속을 해제하였거나 서버 점검 중입니다.\n잠시 후 다시 시도하여 주십시오." />
+    <message id="error_enter_channel" text="채널이 모두 찼습니다.\n다른 채널을 이용해 주십시오." />
+    <message id="error_leave_channel" text="채널에서 퇴장할 수 없습니다.\n게임을 종료하시고 다시 실행해 주십시오." />
+    <message id="error_create_character" text="캐릭터를 생성할 수 없습니다." />
+    <message id="error_change_lobby" text="로비에 참여할 수 없습니다." />
+    <message id="error_open_gameroom" text="방을 생성할 수 없습니다.\n방 만들기 설정 내용을 재 확인해 주십시오." />
+    <message id="error_enter_gameroom" text="방에 입장할 수 없습니다.\n잠시 후 다시 시도하여 주십시오." />
+    <message id="error_leave_gameroom" text="방에서 나갈 수 없습니다.\n잠시 후 다시 시도하여 주십시오." />
+    <message id="error_set_game_rules" text="게임 규칙을 변경할 수 없습니다.\n잠시 후 다시 시도하여 주십시오." />
+    <message id="error_start_game" text="게임을 시작할 수 없습니다.\n잠시 후 다시 시도하여 주십시오." />
+    <message id="error_play_game" text="게임을 진행할 수 없습니다.\n잠시 후 다시 시도하여 주십시오." />
+    <message id="error_stop_game" text="게임을 중지할 수 없습니다.\n잠시 후 다시 시도하여 주십시오." />
+    <message id="error_cancel_game" text="게임을 취소할 수 없습니다.\n잠시 후 다시 시도하여 주십시오." />
+
+    <message id="error_p2p_open" text="네트워크 오류가 발생하여 게임을 진행할 수 없습니다.\n방화벽 설정을 확인하시고\n다시 시도해 주시기 바랍니다." />
+    <message id="error_p2p_resolve" text="네트워크 오류가 발생하여 게임을 진행할 수 없습니다.\n방화벽 설정을 확인하시고\n다시 시도해 주시기 바랍니다." />
+    <message id="error_p2p_host" text="네트워크 오류가 발생하여 게임을 진행할 수 없습니다.\n방화벽 설정을 확인하시고\n다시 시도해 주시기 바랍니다." />
+    <message id="error_p2p_connect" text="게임에 연결할 수 없습니다.\n다시 시도하시거나 다른 대기방을 이용하시기 바랍니다." />
+
+    <message id="gameroom_entered" text="[%s]님이 입장하였습니다." />
+    <message id="gameroom_left" text="[%s]님이 퇴장하였습니다." />
+
+    <message id="gameroom_invite" text="초대되었습니다." />
+    <message id="gameroom_invited" text="%d번 게임방에서 초대하였습니다.\n\n초대를 승락하시겠습니까?" />
+    
+    <message id="gameroom_search_failed" text="존재하지 않는 게임방입니다." />
+
+    <message id="gameroom_organize_limit" text="※ 주의 : 정비는 3회까지 가능합니다." />
+    <message id="gameroom_warnning_organize_after_ready" text="※ 주의 : 레디 상태에서는 정비를 할 수 없습니다." />
+    <message id="gameroom_warnning_no_weapon" text="※ 주의 : 무기를 한가지 이상 장비하고 있어야 합니다.\n※ 보조 캐릭터도 확인해 주시기 바랍니다." />
+    <message id="gameroom_warnning_open_luckybox" text="※ 주의 : 상자는 로비에서만 열 수 있습니다." />
+    <message id="gameroom_warnning_use_assemble" text="※ 주의 : 만들기는 로비에서만 가능합니다." />
+    <message id="gameroom_warnning_use_corpRename" text="※ 주의 : 부대 이름 변경 아이템은 로비에서만 사용이 가능합니다." />
+    <message id="gameroom_warnning_use_corpMarkchange" text="※ 주의 : 부대 마크 변경 아이템은 로비에서만 사용이 가능합니다." />
+    <message id="gameroom_warnning_use_nickNamechange" text="※ 주의 : 닉네임 변경 아이템은 로비에서만 사용이 가능합니다." />
+    <message id="gameroom_warnning_no_weapon_character" text="※ 주의 : 무기가 없는 캐릭터는 장착할 수 없습니다.\n※ 보조 캐릭터도 확인해 주시기 바랍니다." />
+    <message id="gameroom_warnning_no_weapon_character_start" text="※ 주의 : 게임 시작을 위해서는 캐릭터에 무기를 하나 이상 장착하여야 합니다.\n※ 보조 캐릭터도 확인해 주시기 바랍니다." />
+    <message id="gameroom_warnning_toggleflag_onOrganizingWIndow" text="※ 주의 : 정비를 마쳐야 합니다." />
+    <message id="gameroom_warnning_use_classChange" text="※ 주의 : 해당 아이템은 로비에서만 사용이 가능합니다." />
+    
+    <message id="game_canceled" text="다음과 같은 이유로 게임이 취소되었습니다:" />
+    <message id="error_game_dropped" text="게임 로딩 시간 초과로 인하여\n호스트와 접속이 해제되었습니다." />
+
+    <message id="kicked" text="강제 퇴장되었습니다." />
+    <message id="kicked_by_master" text="방장으로부터 강제 퇴장되었습니다." />
+    <message id="kicked_by_no_weapon" text="기본 무기가 없어 로비로 강제 이동하였습니다.\n내 정보에서 기본 무기를 설정해 주십시오." />
+    <message id="kicked_by_gm" text="운영자로 부터 강제 퇴장되었습니다." />
+    <message id="kicked_another_login" text="다른 유저가 동일 아이디로 접속했습니다." />
+    <message id="kicked_close_room" text="게임방이 폐쇄되었습니다." />
+    <message id="kicked_user" text="[%s]님을 강제 퇴장 시키시겠습니까?" />
+    <message id="kicked_by_Organize_Error" text="무기를 장비하지 않은 상태로 정비 3회를 초과하여 로비로 강제 퇴장되었습니다.\n※ 무기를 한가지 이상 장비하고 있어야 합니다." />
+
+    <message id="not_having_weapon" text="무기가 없습니다.\n내 정보에서 무기를 장착해 주십시오.\n※ 보조 캐릭터도 확인해 주시기 바랍니다." />
+    <message id="not_having_weapon_message" text="무기가 없으면 게임을 진행하실 수 없습니다.\n내 정보창에서 무기를 설정하시겠습니까?" />
+    <message id="not_having_weapon_message_for_gfx" text="무기가 없습니다.\n내 정보에서 무기를 장착해 주십시오.\n※ 보조 캐릭터도 확인해 주시기 바랍니다." />
+
+    <message id="loading_ui" text="퍼렁별 침략 작전 계획을 짜고 있는 중입니다..." />
+    <message id="loading_notice" text="지구 신문의 1면을 체크하고 있습니다..." />
+    <message id="loading_ui_manager" text="케로로 비밀기지 시스템 체크 중..." />
+    <message id="loading_ui_font" text="퍼렁별 글씨체를 연습 중입니다..." />
+    <message id="loading_ui_layout" text="도망친 우주부침개를 추적 중..." />
+    <message id="loading_ui_3d" text="케로로 중사가 설거지 및 집안 청소를 진행 중입니다..." />
+    <message id="loading_animations" text="퍼렁별인들의 행동 분석중..." />
+    <message id="loading_world" text="퍼렁별 구성 물질을 분석하고 있습니다..." />
+    <message id="loading_npc" text="556의 열혈 수치 기록 중..." />
+    <message id="loading_level" text="프라모델 조립 설명서를 불러오는 중..." />
+    <message id="creating_meshes" text="기로로 하사가 바주카를 닦고 있는 중입니다..." />
+    <message id="creating_level_effects" text="도로로 병장의 마음 수양 중..." />
+    <message id="creating_move_mesh" text="쿠루루 상사가 또 이상한 발명품을 준비했습니다..." />
+    <message id="creating_world_grid" text="비밀기지 구조도 불러오는 중..." />
+    <message id="updating_game_world" text="퍼렁별 오늘의 날씨 정보 불러오는 중..." />
+    <message id="loading_xml" text="쿠루루 얍샵이 전략 위성과의 연결에 성공하였습니다..." />
+    <message id="loading_items" text="프라모델과 만화책을 정리 중입니다..." />
+    <message id="loading_characters" text="강한별 분석 정보를 로딩하고 있습니다..." />
+    <message id="loading_sounds" text="댄스맨 춤을 따라하고 있습니다..." />
+    <message id="init_physx" text="쿠루루 상사의 신형 머신 움직임을 최종 체크 중입니다..." />
+    <message id="loading_misc_textures" text="프라모델의 채색이 마르기를 기다립니다..." />
+    <message id="spawning_players" text="플레이어 정보를 생성하고 있습니다..." />
+    <message id="p2p_hosting" text="게임을 준비하고 있습니다..." />
+    <message id="p2p_connecting" text="게임에 접속하고 있습니다..." />
+    <message id="creating_spawns" text="플레이어 정보를 생성하고 있습니다..." />
+    <message id="starting_game" text="게임 플레이를 준비하고 있습니다..." />
+    <message id="waiting_load" text="다른 플레이어의 로딩을 기다리고 있습니다..." />
+    <message id="waiting_start" text="다른 플레이어의 준비가 완료되기를 기다리고 있습니다..." />
+    <message id="loading_result" text="게임 결과를 준비하고 있습니다..." />
+
+    <message id="wait_spawning" text="8초 후에 부활합니다. 기다려주세요." />
+
+    <message id="weapon_item_not_fitted_mainWeapon" text="선택된 무기 슬롯에 장착 할 수 없습니다.\n주 무기 슬롯 전용의 무기입니다." />
+    <message id="weapon_item_not_fitted_subWeapon" text="선택된 무기 슬롯에 장착 할 수 없습니다.\n 보조 무기 슬롯 전용의 무기입니다." />
+    <message id="effect_item_premium_slot_disabled" text="프리미엄 슬롯이 활성화되지 않아 창작하실 수 없습니다." />
+    
+    <message id="item_military_limit" text="캐릭터의 계급이 사용하려는 아이템 계급에 만족하지 않습니다." />
+
+    <message id="game_start_timeOut" text="모두 준비 완료된 상태에서 제시간 안에\n게임을 시작하지 않아 강제 퇴장되었습니다." />
+    
+    <message id="not_find_game_make_info" text="정보를 찾을 수 없습니다."/>
+    <message id="private_game_make_info" text="제한 시간 : %d분\n목표 점수 : %d점"/>
+    <message id="platoon_game_make_info" text="제한 시간 : %d분\n목표 점수 : %d점"/>
+    <message id="keroball_game_make_info" text="제한 시간 : %d분\n목표 점수 : %d점"/>
+    <message id="survival_game_make_info" text="목표 라운드 : %d\n총 라운드 : %d"/>
+    <message id="cooperation_game_make_info" text="몬스터 체력 : %d%%"/>
+    <message id="guard_game_make_info" text="총 라운드 : 2"/>
+    
+    <message id="not_changed_game_mode" text="게임모드를 변경 할 수 없습니다.\n협동전에서 다른 모드로, 또는 다른 모드에서 협동전으로 변경 할 수 없습니다."/>
+    <message id="not_supported_game_mode" text="지원하지 않는 게임모드입니다."/>
+    <message id="usercount_over" text="현재의 인원수가 변경하려는 인원수보다 많습니다."/>
+    <message id="not_supported_map" text="현재 게임모드에서 지원하지 않는 맵입니다."/>
+    <message id="random_map_info" text="랜덤맵\n임의의 맵으로\n게임을 시작합니다."/>
+    
+    
+    <message id="myinfo_swap_invalid_catch_item" text="교체하려는 아이템이 없습니다."/>
+    <message id="myinfo_swap_same_item" text="동일한 아이템 입니다."/>
+    <message id="myinfo_swap_main_character_not_outside" text="주 캐릭터는 장착해제를 할 수 없습니다."/>
+    <message id="myinfo_swap_not_same_item_type" text="교환하려는 아이템의 타입이 다릅니다."/>
+    <message id="myinfo_swap_not_supported_item_type" text="창착 할 수 없는 슬롯타입 입니다. 아이템 타입을 확인해 주세요."/>
+    <message id="myinfo_swap_not_used_to_character" text="해당 캐릭터에게 맞지 않는 아이템입니다."/>
+    
+    
+    <message id="kit_limit_over" text="더이상 장바구니에 담을 수 없습니다."/>
+    <message id="deficit_buy_money" text="보유 금액이 부족하여 구매 할 수 없습니다."/>
+    <message id="duplication_buy_item" text="상품 구매를 완료하시고 다시 시도해 주세요."/>
+    <message id="buy_item_is_dont_have" text="구매할 상품이 없어 구매창을 닫습니다."/>
+    <message id="same_character" text="보유하고있는 캐릭터는 다시 구매 할 수 없습니다."/>
+    <message id="buy_same_character" text="같은 캐릭터는 두 개 이상 장바구니에 담을 수 없습니다."/>
+    <message id="buy_item_complete" text="%s 아이템을 구매하셨습니다. \n※주의 : 잔액 차감 표시가 늦을 경우 상점을 닫고 케로로랜드로 이동 후 다시 확인해주세요. "/>
+    <message id="buy_item_only_corp_item" text="부대 전용 아이템 입니다. 부대에 가입되어 있지 않아 구매 할 수 없습니다."/>
+    <message id="buy_item_only_commander_use" text="부대장만 구입 할 수 있는 아이템 입니다."/>
+    <message id="buy_item_expend_corp_dont_use" text="해당 아이템은 다음 규모로 확장 하실 수 없습니다.\n현재 필요한 부대확장 규모는 [%s]입니다."/>
+    
+    <message id="dont_used_not_corp_joined" text="가입된 부대가 없어 사용하실 수 없습니다."/>
+    <message id="invalid_item_id" text="유효하지 않은 아이템입니다."/>
+    <message id="same_name" text="동일한 이름으로 변경할 수 없습니다."/>
+    <message id="same_mark" text="부대 마크가 동일하여 변경할 수 없습니다."/>
+    <message id="name_length_invalid" text="3~8자로 만들어주세요."/>
+    
+    <message id="not_completion_hangul" text="조합되지 않은 한글이 포함되어 있습니다.\n자음과 모음만으로 닉네임을 구성할 수 없습니다."/>
+    <message id="not_special_characters" text="특수 문자가 포함되어 있습니다."/>
+    <message id="not_select_character" text="캐릭터를 선택해 주십시오."/>
+    <message id="nickname_min_length" text="닉네임은 3자 ~ 8자로 만들어 주십시오."/>
+    <message id="nickname_max_length" text="닉네임은 3자 ~ 8자로 만들어 주십시오."/>
+    <message id="event_nickname" text="1차 CBT 이벤트 당첨자 닉네임이므로 만드실 수 없습니다."/>
+    <message id="nickname_changed" text="닉네임을 [%s]로 변경하였습니다."/>
+    <message id="overlap_nickname" text="이미 존재하는 닉네임입니다."/>
+    
+    <message id="robobo_assembly_confirm" text="아이템을 만드시겠습니까?" />
+	<message id="robobo_assembly_complete" text="아이템이 완성되었습니다. 우편함을 확인하세요." />
+	<message id="robobo_assembly_partslack" text="조건이 부족합니다." />	
+	
+	<message id="merge_item_requested" text="가방을 정리하면 같은 소모품끼리 최대 100개까지 합쳐집니다.\n정리된 소모품은 다시 나눌 수 없습니다.\n가방을 정리하시겠습니까?" />
+    
+    <message id="readystate_dont_goto_lobby" text="준비 완료한 상태에서는\n로비로 이동 할 수 없습니다."/>
+    <message id="change_team_interval" text="팀을 바꾸신 후 3초간은 팀을 다시 바꾸실 수 없습니다."/>
+    <message id="dont_support_changedTeam" text="팀 변경이 지원되지 않는 모드입니다."/>
+    <message id="readystate_or_master_dont_changedTeam" text="방장 또는 준비 완료된 상태에서는\n팀 바꾸기를 할 수 없습니다."/>
+    <message id="full_slot_dont_changedTeam" text="방장 또는 준비 완료된 상태에서는\n팀 바꾸기를 할 수 없습니다."/>
+    <message id="is_not_room_master" text="방장이 아닙니다."/>
+    <message id="empty_user_at_slot" text="슬롯에 유저가 없습니다."/>
+    
+    <message id="dont_chat" text="도배글을 방지하기 위하여 3초이내에 3회이상 채팅 입력 시 5초간 채팅이 제한됩니다."/>
+
+    <message id="vanish_item_inGameRoom" text="[%s]이 사용되었거나 만료되었습니다.\n내정보를 확인해주세요.(※ 주의 : 일부 프리미엄 아이템의 효력은 로비에서부터 적용됩니다.)"/>
+    <message id="mount_item" text="[%s]의 사용이 만료되어 보유하고계신\n같은 아이템으로 자동 장착되었습니다."/>
+    <message id="vanish_item" text="[%s]의 사용이 만료되었습니다.\n내정보를 이용해 주시기 바랍니다."/>
+    <message id="fishingkingEvent_updateMyInfo" text="낚시왕 수집 아이템이 초기화되었습니다.\n현재 열린 내정보창이 재설정 됩니다."/>
+
+
+    <message id="no_limit" text="사용제한없음"/>
+    <message id="have_on_item_limit" text="%d일 아이템"/>
+    <message id="limit_day" text="%s/%02d/%02d 까지"/>
+    <message id="limit_match" text="%d회 남음"/>
+    <message id="limit_count" text="개수 %d"/>
+    <message id="wrong_limit" text="잘못된 제한"/>
+    <message id="limit_time" text="%d일 까지"/>
+    <message id="day" text="%d일"/>
+    <message id="match" text="%d회"/>
+    <message id="count" text="%d개"/>
+    <message id="nolimit" text="무제한"/>
+
+    <message id="pang" text="팡"/>
+    <message id="cash" text="캐쉬"/>
+    
+    <message id="Declaration_Of_Hp" text="체력(HP)"/>
+    <message id="Declaration_Of_Sp" text="스킬(SP)"/>
+    <message id="Declaration_Of_Speed" text="이동속도"/>
+    <message id="Declaration_Of_Defense" text="방어력"/>
+
+    <message id="damage" text="파워"/>
+    <message id="damage_intro" text="%d ~ %d"/>
+    <message id="delayTime" text="연사력"/>
+    <message id="delayTime_intro" text="%.2f 초"/>
+    <message id="splashRange" text="공격 범위"/>
+    <message id="splashRange_intro" text="반경 %.02f m"/>
+    <message id="velocity" text="탄속"/>
+    <message id="velocity_intro" text="%.0f m/s"/>
+    <message id="critical" text="치명타 확률"/>
+    <message id="critical_intro" text="%d %%"/>
+    <message id="stunProbability" text="기절 확률"/>
+    <message id="stunProbability_intro" text="%d %%"/>
+    <message id="shotBulletNum" text="산탄 수"/>
+    <message id="shotBulletNum_intro" text="%d 발"/>
+    <message id="setTime_Grenade" text="폭발 시간"/>
+    <message id="setTime" text="설치 시간"/>
+    <message id="setTime_intro" text="%.2f 초"/>
+    <message id="characterLimit" text="캐릭터 제한"/>
+    <message id="characterLimit_intro" text="%s 만 사용"/>
+    <message id="gradeLimit" text="계급 제한"/>
+    <message id="gradeLimit_intro" text="%s 이상"/>
+    <message id="defense" text="방탄 효과"/>
+    <message id="defense_intro" text="%d"/>
+    <message id="increaseHP" text="HP 증가"/>
+    <message id="increaseHP_intro" text="+%d"/>
+    <message id="increaseSP" text="SP 증가"/>
+    <message id="increaseSP_intro" text="+%d"/>
+    <message id="deCritical" text="피치명타 확률"/>
+    <message id="deCritical_intro" text="-%d %%"/>
+    
+    <message id="ranking_standard_day" text="매일 오전 5시 갱신"/>
+    
+    <message id="entered_beginner_channel_limit" text="초보 채널은 [%s] 계급까지만 입장 할 수 있습니다."/>
+    <message id="entered_superior_channel_limit" text="고수 채널은 계급이 [%s]이상 이고 결정타/항복이 %.1f이상 이거나,\n계급이 [%s]이상 이고 결정타/항복이 %.1f이상이어야 입장할 수 있습니다."/>
+    <message id="enterable_beginner_channer" text="초보 채널 입장이 가능한 계급입니다.\n게임에 어려움을 느끼시면 초보 채널에서 게임을 즐겨보세요."/>
+    
+    
+    <message id="military_rank_up_event_pang" text="진급 보상\n[%d] 팡을 받았습니다."/>
+    <message id="military_rank_up_event_weapon" text="진급 보상\n%s 를 받았습니다."/>
+    
+    <message id="not_add_user_mine" text="자신을 친구로 등록 할 수 없습니다."/>
+    <message id="existence_user" text="이미 등록된 친구입니다."/>
+    <message id="not_search_user" text="검색된 친구가 없습니다.\n찾기를 먼저 하신 후 친구추가해 주세요."/>
+    <message id="search_user_success" text="[%s]님을 찾았습니다. 친구추가 하실 수 있습니다."/>
+    <message id="search_user_failed" text="해당 닉네임을 찾을 수 없습니다. 해당 사용자가 오프라인이거나 생성되지 않은 사용자 입니다."/>
+    <message id="add_buddy_requested" text="[%s]님이 친구등록 요청 하셨습니다.\n접속상태를 알리고 메신저에 [%s]님을 추가 하시겠습니까?"/>
+    <message id="added_buddy_user" text="[%s]님이 친구목록에 추가 되었습니다."/>
+    <message id="cant_instant_chat" text="[%s]님은 현재 대화를 할 수 없는 상태입니다."/>
+    <message id="instant_chat_over_user_count" text="더이상 채팅 인원수를 늘릴 수 없습니다."/>
+    <message id="instant_chated_user" text="[%s]님은 현재 대화하고 있는 사용자 입니다."/>
+    <message id="instant_chated_close" text="[%s]님이 대화창을 닫으셨습니다."/>
+    
+    <message id="messenger_dont_invite_place" text="초대하기는 대기방에서만 사용할 수 있습니다."/>
+    <message id="messenger_dont_invite_same_room" text="같은 대기방에 있는 친구는 초대할 수 없습니다."/>
+    <message id="messenger_dont_invite_state" text="[%s]님은 초대할 수 없는 상태입니다."/>
+    <message id="messenger_invite_request" text="[%s]님이 %d번방으로 초대하셨습니다. 초대를 수락하시겠습니까?"/>
+
+    <message id="corporation_already_joined" text="이미 부대에 가입되어 있습니다."/>
+    <message id="corporation_create_rank_deficient" text="부대는 [%s]이상인 캐릭터를 보유하고 있어야 합니다."/>
+    <message id="corporation_create_pang_deficient" text="부대 생성시 %d팡 이상이 필요합니다."/>
+    <message id="corporation_create_not_entered_corp_name" text="부대명을 입력해 주세요."/>
+    <message id="corporation_corp_name_error" text="부대명은 한글, 영어, 숫자로 3자에서 10자이내로 입력해 주세요."/>
+    <message id="not_use_abled_text" text="사용 할 수 없는 문자가 포함되어 있습니다."/>
+    <message id="corporation_same_corp_name" text="이미 사용중인 부대명 입니다. 다른 부대명을 사용해 주세요."/>
+
+    <message id="corporation_create_success" text="[%s]부대가 생성되었습니다."/>
+
+    <message id="corporation_dont_joined_to_dont_invited" text="가입된 부대가 없어 가입요청을 할 수 없습니다."/>
+    <message id="corporation_invited_grad_deficient" text="부대 가입을 요청 할 수 있는 직급이 아닙니다. 부대 가입 요청은 부대장과 간부만 할 수 있습니다."/>
+    <message id="corporation_invited_over_member" text="부대원의 최대 인원수를 초과하여 더이상 가입요청을 할 수 없습니다."/>
+    <message id="corporation_not_entered_nick_name" text="가입 권유할 유저의 닉네임을 입력해주세요."/>
+    <message id="corporation_existence_user" text="이미 가입된 유저 입니다."/>
+    <message id="corporation_joined_success" text="[%s]부대에 가입하였습니다."/>
+    <message id="corporation_invited" text="[%s]부대 [%s]님으로 부터 가입을 권유 받았습니다. 가입하시겠습니까?"/>
+    <message id="corporation_invited_Refused" text="부대 가입 권유를 거절하였습니다."/>
+    <message id="corporation_other_joined" text="현재 다른 부대에 가입되어 부대 가입 요청을 할 수 없습니다."/>
+    <message id="corporation_invalid_data" text="유효하지 않은 값이 있어 부대 가입을 승인 할 수 없습니다."/>
+    <message id="corporation_dont_joined_to_dont_donate" text="가입된 부대가 없어 기부를 하실 수 없습니다."/>
+
+    <message id="corporation_not_enough_pang_to_donate" text="팡이 부족하여 기부 하실 수 없습니다. 현재 보유하신 팡은 %d팡 입니다."/>
+    <message id="corporation_max_limit_donate_pang" text="1회 최대 기부 금액은 %d팡입니다."/>
+    <message id="corporation_min_limit_donate_pang" text="최소 기부 금액은 %d팡입니다."/>
+    <message id="corporation_not_enough_pang_to_min_limit" text="최소 기부 금액보다 보유하신 팡이 부족합니다. 최소 기부 금액은 %d팡입니다."/>
+    <message id="corporation_donate_pang_success" text="부대에 %d팡을 기부 하셨습니다."/>
+
+    <message id="corporation_dont_joined_to_dont_secession" text="가입된 부대가 없어 부대 탈퇴를 하실 수 없습니다."/>
+    <message id="corporation_secession" text="[%s]부대를 탈퇴하시겠습니까? 기부한 관리비는 반환되지 않습니다."/>
+    <message id="corporation_commander_to_dont_secession" text="부대장은 탈퇴 할 수 업습니다.\n부대장을 다른 부대원에게 위임한 후 다시 시도해 주십시오."/>
+    <message id="corporation_secession_success" text="부대를 탈퇴하였습니다."/>
+    
+    <message id="corporation_only_commander_use" text="부대장만 사용 할 수 있습니다."/>
+    <message id="corporation_only_commander_or_officer_use" text="부대장 또는 간부만 사용 할 수 있습니다."/>
+    
+    <message id="corporation_dont_choose_member" text="선택된 부대원이 없습니다."/>
+    <message id="corporation_dont_member_upgrade_grade" text="사병만 간부로 승급 할 수 있습니다."/>
+    <message id="corporation_officer_user_limit" text="간부는 부대 당 %d명까지만 가능합니다."/>
+    
+    <message id="corporation_dont_member_downgrade_grade" text="간부만 사병로 강등 할 수 있습니다."/>
+    
+    <message id="corporation_member_mandate" text="[%s]부대원에게 부대장을 위임하시겠습니까?"/>
+    <message id="corporation_member_mandate_success" text="부대장을 위임 하였습니다. 사병급 부대원으로 강등되었습니다."/>
+    <message id="corporation_member_mandated_done" text="[%s]부대의 부대장이 되었습니다."/>
+    <message id="corporation_dont_member_mandate" text="부대장을 위임 할 수 없습니다."/>
+    
+    <message id="corporation_banish_member" text="[%s]부대원을 추방하시겠습니까?"/>
+    <message id="corporation_banish_member_success" text="[%s]부대원을 추방하였습니다."/>
+    <message id="corporation_banish_grade_higher" text="등급이 동일하거나 높은 부대원은 추방 할 수 없습니다."/>
+    <message id="corporation_banish_me" text="[%s] 부대로부터 강제 추방되었습니다."/>
+    
+    <message id="corporation_notice_max_length_over" text="공지의 최대 글자 수를 초과 하였습니다."/>
+    <message id="corporation_dissolve_member_count" text="부대 해산은 부대에 소속된 부대원이 아무도 없는 경우에만 가능합니다."/>
+    <message id="corporation_dissolve" text="[%s]부대를 해산하시겠습니까?"/>
+    <message id="corporation_dissolve_success" text="부대가 해산되었습니다."/>
+    
+    <message id="corporation_notice" text="[부대 공지]"/>
+    
+    <message id="corporation_greatest_extend_scale" text="더이상 확장할 수 없습니다."/>
+    <message id="corporation_extend_scale_limit_rank" text="부대를 [%s]로 확장하기 위해서는\n부대장의 계급이 %s 이상 되어야됩니다."/>
+    <message id="corporation_extend_scale_limit_point" text="부대를 [%s]로 확장하기 위해서는\n부대 공헌도가 %d 이상 되어야됩니다."/>
+    <message id="corporation_extend_scale_limit_pang" text="부대를 [%s]로 확장하기 위해서는\n관리비 금액이 %d 이상 되어야됩니다."/>
+    <message id="corporation_extend_scale" text="부대 확장 비용으로 %d 팡이 부대관리비로부터 소비됩니다.\n확장하시겠습니까?"/>
+    <message id="corporation_extend_scale_success" text="부대가 [%s]로 확장되었습니다."/>
+    <message id="corporation_changed_name" text="부대명이 [%s]로 변경되었습니다."/>
+    <message id="corporation_changed_mark" text="부대 마크가 변경되었습니다."/>
+
+    <message id="corporation_dont_used_for_me" text="자신에게 사용 할 수 없습니다."/>
+    
+    <message id="corporation_dont_joined" text="소속된 부대가 없습니다."/>
+    
+    <message id="new_year_item_event" text="새해 맞이 한복 아이템이 지급되었습니다.\n내정보에서 확인하세요."/>
+    <message id="new_year_pang_event" text="%d팡의 세뱃돈을 받았습니다."/>
+    
+    <message id="gift_dont_used_for_me" text="자신에게는 보낼 수 없습니다."/>
+    <message id="gift_to_user_search" text="받는사람을 찾는 중입니다. 잠시만 기다려주세요."/>
+    <message id="gift_item_complete" text="선물보내기를 완료하였습니다."/>
+    <message id="gift_received" text="[%s]님으로부터 선물을 받았습니다."/>
+    <message id="exchange_item_from_gift" text="[%s]을 수령하셨습니다.\n내정보에서 확인하세요."/>
+    
+    <message id="paper_send_complete" text="쪽지 보내기를 완료하였습니다."/>
+    <message id="paper_recieve_complete" text="쪽지를 받았습니다."/>
+	<message id="paper_send_error_ingameroom" text="대기방에서는 쪽지를 보낼수 없습니다."/>
+	<message id="paper_delete_confirm" text="선물은 저장되지 않습니다. 삭제하시겠습니까?"/>
+	<message id="paper_sendback" text="쪽지가 반송되었습니다."/>
+	<message id="gift_delete_confirm" text="쪽지를 삭제하시겠습니까?"/>
+	
+	<message id="full_postbox_warnning" text="우편함이 가득 차서 선물을 받을 수 없습니다. 우편함을 정리하세요!"/>
+	<message id="empty_papercontents_warnning" text="쪽지에 본문을 작성하지 않았습니다. 본문을 작성해주세요!"/>
+	<message id="empty_receiveuser_warnning" text="받는 사람을 입력해주세요!"/>
+	
+    <message id="dont_using_command" text="명령어를 사용할 수 없습니다."/>
+    <message id="observer_invalid_game_room_id" text="유효하지 않은 게임방 번호입니다."/>
+    
+    <message id="temp_account_dont_used" text="채험 계정으로는 사용할 수 없는 기능입니다."/>
+    
+    <message id="whisper_failed" text="[%s]님은 귓속말을 받을 수 없는 상태입니다.(%d)"/>
+    <message id="whisper_denial" text="[%s]님은 귓 말하기 설정을 거부하였습니다."/>
+    <message id="not_whisper_user_mine" text="자신에게 귓속말을 보낼 수 없습니다."/>
+    
+    <message id="gr_invalid_accountid" text="잘못된 계정 ID입니다. 다시 시도해 주세요."/>
+    <message id="gr_set_item_list_failed" text="아이템 정보 설정에 실퍠 했습니다. 다시 시도해 주세요.\n%s"/>
+    <message id="gr_set_user_info_failed" text="계정 정보 설정에 실퍠 했습니다. 다시 시도해 주세요."/>
+    <message id="gr_set_corp_info_failed" text="부대 정보 설정에 실퍠 했습니다. 다시 시도해 주세요."/>
+    <message id="gr_set_character_item_list_failed" text="캐릭터 정보 설정에 실퍠 했습니다. 다시 시도해 주세요."/>
+    <message id="gr_invalid_room_info" text="잘못된 방 정보입니다."/>
+    <message id="gr_invalid_user_info" text="잘못된 계정 정보입니다."/>
+    <message id="gr_not_found_user_info" text="유저의 계정 정보를 찾을 수 없습니다."/>
+    <message id="gr_gdms_login_failed" text="서버와의 접속이 끊어졌습니다. 게임을 다시 시작해 주세요."/>
+    
+    <message id="gr_invalid_serverid" text="잘못된 서버 정보 입니다."/>
+    <message id="gr_not_found_corp_member_id" text="부대원 정보를 찾을 수 없습니다."/>
+    
+    <message id="gr_invalid_item_info" text="아이템 정보가 잘 못 되었습니다."/>
+    
+    <message id="gr_not_enter_channel" text="입장 할 수 없는 채널 입니다."/>
+    
+    <message id="gr_excess_inventory_item" text="해당 인벤토리에 공간이 없어 구입할 수 없습니다."/>
+    
+    <message id="gr_lobby_enterd_failed" text="로비에 입장하지 못하였습니다. 다시 채널을 선택해 주세요."/>
+    
+    <message id="gr_invaild_loginTime" text="서버 시간값이 올바르지 않습니다. 게임을 다시 시작해 주세요."/>
+    
+    <message id="year_month_day" text="%d년 %d월 %d일"/>
+
+    <message id="open_LuckyBox" text="행운상자를 여시겠습니까?"/>
+    
+    <message id="open_FishingBox" text="낡은 궤짝을 여시겠습니까?"/>
+    
+    <message id="personal_dealing_requesting" text="%s님에게 거래를 요청하는 중입니다."/>
+    <message id="personal_dealing_requested" text="%s님께서 거래를\n신청하였습니다. \n받아 들이겠습니까?"/>
+    <message id="personal_dealing_cancel" text="%s님께서 거래요청을\n거절하였습니다."/>
+    <message id="personal_dealing_end" text="거래를 완료하였습니다.\n내정보에서 확인해주세요."/>
+    <message id="personal_dealing_pang_msg" text="거래창에 %d팡을 올리셨습니다."/>
+    <message id="personal_dealing_add_msg" text="거래창에 %s아이템을 %d개 올리셨습니다."/>
+    <message id="personal_dealing_remove_msg" text="거래창에 %s아이템을 내리셨습니다."/>
+    <message id="personal_dealing_change_msg" text="거래창에 %s아이템을 %d개로 수정하셨습니다."/>
+    <message id="personal_dealing_ready_msg" text="%s님이 거래를 제안하였습니다."/>
+    <message id="personal_dealing_readycancel_msg" text="%s님이 제안을 취소하였습니다."/>
+    <message id="personal_dealing_accept_msg" text="%s님이 수락을 요청하였습니다."/>
+    <message id="personal_dealing_cancel2" text="%s님이 거래를 취소하였습니다."/>
+    <message id="personal_dealing_lacked_pang" text="보유금액을 초과하였습니다."/>
+    <message id="personal_dealing_lacked_slot" text="거래 가능 아이템 갯수를 초과하였습니다."/>
+    <message id="personal_dealing_lacked_can_uncanceled" text="제안을 취소하고 다시 등록해주세요."/>
+    
+    <message id="dice_blank" text="다음 기회에........"/>
+    <message id="dice_reshooting" text="동점자가 나와 다음 재경기를 진행합니다."/>
+    
+    <message id="sale_item_requested" text="%s을(를)버리시면 폐품재활비용 %d 팡을 드립니다.\n※주의 : 한 번 버린 아이템은 되돌릴 수 없습니다.\n해당 아이템을 재활용하시겠습니까?"/>
+
+    <message id="guardMode_start_d" text="로봇을 호위하여 최종 목표 지점을 돌파하세요!!" sound_name="vc_moa_ui_001"/>
+    <message id="guardMode_destroy_d" text="로봇이 파괴되었어요! 로봇 근처로 이동하여 수리를 도우세요!" sound_name="vc_moa_ui_001_1"/>
+    <message id="guardMode_repair_d" text="로봇 주변에 아군이 많이 모일수록 수리 속도가 빨라져요!" sound_name="vc_moa_ui_001_2"/>
+    <message id="guardMode_hurryUp_d" text="서둘러요! 남은 시간 안에 목표를 돌파해야 해요!" sound_name="vc_moa_ui_001_3"/>
+    <message id="guardMode_passingPoint_d" text="잘했어요! 다음 목표까지 로봇을 호위하세요!" sound_name="vc_moa_ui_001_4"/>
+    <message id="guardMode_finish_d" text="아직 끝난 게 아니에요! 상대가 여기까지 오지 못하도록 막으세요!" sound_name="vc_moa_ui_001_5"/>
+    
+    <message id="guardMode_start_a" text="적의 로봇을 파괴하여 그들의 공격을 막아내세요!!" sound_name="vc_moa_ui_001_6"/>
+    <message id="guardMode_destroy_a" text="잘했어요! 이대로 상대가 로봇을 고치지 못하도록 시간을 끄세요!" sound_name="vc_moa_ui_001_7"/>
+    <message id="guardMode_repair_a" text="상대팀이 로봇을 수리하려 해요! 막아내세요!" sound_name="vc_moa_ui_001_8"/>
+    <message id="guardMode_hurryUp_a" text="잘하고 있어요! 물러서지 말고 조금만 더 버텨요!" sound_name="vc_moa_ui_001_9"/>
+    <message id="guardMode_passingPoint_a" text="전략상 후퇴! 이 이상 오지 못하도록 막아내세요!" sound_name="vc_moa_ui_001_10"/>
+    <message id="guardMode_finish_a" text="잘 막아냈어요! 이제 상대방보다 더 멀리 돌파해 보자구요!" sound_name="vc_moa_ui_001_11"/>
+    
+    <!--경매장 관련 메시지 -->
+    <message id="auction_warnning_register_nontradeItem" text="거래불가 아이템은 경매에 등록할 수 없습니다." />    
+    <message id="auction_warnning_register_character" text="캐릭터는 경매에 등록할 수 없습니다." />
+    <message id="auction_warnning_register_opened" text="개봉한 아이템은 경매에 등록할 수 없습니다." />
+    <message id="auction_warnning_register_equipped" text="착용중인 아이템은 경매에 등록할 수 없습니다."/>
+    <message id="auction_warnning_register_overcount" text="본인이 가지고 있는 개수보다 많이 등록할 수 없습니다."/>  
+    <message id="auction_warnning_register_confirm" text="등록이 완료되었습니다."/>
+    <message id="auction_warnning_register_failed" text="본인 물품에 입찰할 수 없습니다."/>
+    <message id="auction_warnning_register_canceled" text="경매가 취소되어 아이템을 반환합니다."/>
+    <message id="auction_warnning_register_enoughmomey" text="%d보다 큰 금액을 입력해야 합니다."/>
+    <message id="auction_warnning_register_toomuchmoney" text="즉시구매가(%d)보다 큰 금액은 입찰 할 수 없습니다."/>
+    <message id="auction_warnning_register_enoughregMoney" text="즉시금액은 입찰금액(%d)보다 큰 금액을 입력해야 합니다."/>   
+    <message id="auction_warnning_register_less_own_money" text="필요한 금액에 비해 보유 중인 팡이 부족하여 등록 할 수  없습니다." />
+    <message id="auction_warnning_searchString" text="검색어는 두글자 이상입니다."/>
+    <message id="auction_warnning_bid_confirmed" text="입찰한 물품은 내 경매탭에서 내가 입찰한 물품을 보시면 확인이 가능합니다."/>
+    <message id="auction_warnning_bid_cancel_by_register" text="경매가 취소되어 입찰금을 반환합니다."/> 
+    <message id="auction_warnning_bid_failed" text="입찰이 실패하여 경매장에서 입찰금을 반환합니다."/>
+    <message id="auction_bid_completed" text="경매장에서 물품이 도착하였습니다."/>
+    <message id="auction_bid_index_failed" text="해당 아이템이 경매장에 존재하지 않거나 판매 완료된 상품입니다."/>
+    <message id="auction_off" text="경매장에서 물품이 도착하였습니다."/>
+    <message id="auction_exception" text="경매 예외사항"/>
+    <message id="auction_buy" text="즉시 구매를 하시겠습니까?"/>
+    <message id="auction_bid" text="%d팡에 입찰을 하시겠습니까?"/>
+    <message id="auction_reg" text="보증금은 판매 실패 시 반환되지 않으며, 수수료는 최종 낙찰가의 5%를 부과합니다. 경매를 등록하시겠습니까?\n※ 주의 : 경매 물품에 입찰자가 있으면 경매 취소가 되지 않습니다."/>
+    <message id="auction_cancel" text="경매 물품에 입찰자가 있습니다. 경매 취소는 입찰자가 없는 물품만 가능합니다."/>
+    <message id="auction_duration" text="%d 시간 %d 분"/>
+    <message id="gameroom_warnning_use_sealitem" text="대기방에서 포장아이템을 쓸 수 없습니다." />
+    <message id="seal_warnning_register_character" text="캐릭터는 포장할 수 없습니다."/>
+    <message id="seal_warnning_register_nonlmtday" text="기간제 아이템만 포장할 수 있습니다." />
+    <message id="seal_warnning_register_notopened" text="개봉하지 않은 아이템은 포장 할 수 없습니다." />
+    <message id="seal_warnning_register_under2days" text="남은 기간 2일 미만의 아이템은 포장 할 수 없습니다." />
+    <message id="seal_warnning_register_equipped" text="착용중인 아이템은 포장 할 수 없습니다." />
+    <message id="seal_warnning_register_wrapCount" text="포장 가능 횟수가 남아있지 않습니다." />
+    <message id="seal_completed" text="포장이 완료되었습니다." />
+    <message id="seal_warnning_premiumItem" text="프리미엄 아이템은 포장할 수 없습니다." />
+    
+    <!--압축이  메세지-->
+    <message id="compress_warnning_maxItem" text="4개 까지만 됨." />
+    <message id="compress_warnning_maxItem2" text="4개 채워야 됨." />
+    <message id="compress_warnning_characterItem" text="캐릭터 안됨." />
+    <message id="compress_warnning_consumeItem" text="소모품 안됨." />
+    <message id="compress_warnning_usingItem" text="활성화된 아이템   안됨." />
+    <message id="compress_warnning_tradableItem" text="거래불가 아이템   안됨." />
+    <message id="compress_warnning_dayItem" text="기간제 아이템만 됨." />
+    <message id="compress_warnning_1dayItem" text="하루짜리 아이템 안됨." />
+    <message id="compress_warnning_premiumItem" text="프리미엄은 갈색상자만 됨." />
+    <message id="compress_warnning_recycleItem" text="리사이클 카드 있어야 됨." />
+    
+    <!--선물보내기  메세지-->
+    <message id="giftsend_warnning_characterItem" text="캐릭터는 선물할 수 없습니다." />
+    <message id="giftsend_warnning_tradableItem" text="거래불가 아이템은 선물할 수 없습니다." />
+    <message id="giftsend_warnning_equiped" text="착용 중인 아이템은 선물 할 수 없습니다." />
+    <message id="giftsend_warnning_opened" text="개봉한 아이템은 선물 할 수 없습니다." />
+    <message id="giftsend_warnning_nocount" text="수량을 입력해주세요." />
+    <message id="giftsend_warnning_shortagecount" text="장착한 아이템의 개수가 올바르지 않습니다." />
+    <message id="giftsend_warnning_empty" text="아이템을 장착해주세요." />
+    <message id="giftsend_warnning_request" text="%s님에게 해당 아이템을 선물하시겠습니까?"/>
+    <message id="giftsend_warnning_notsell" text="선물보내기 중에는 버리기를 할 수 없습니다."/>
+    <message id="giftsend_warnning_writeover" text="최대 글자수(30자)를 넘었습니다."/>
+    <message id="giftsend_warnning_inlobby" text="선물보내기는 로비에서만 가능합니다."/>
+    
+    <!-- 협동전 난이도 공개 설정 관련 메시지 -->
+    <message id="not_coop_level" text="아직 공개되지 않은 난이도입니다." />   
+    
+    <!--요리 메세지-->
+	<message id="cooking_warnning_notExistIngredients" text="요리 조건이 불충분 합니다." />
+    <message id="cooking_warnning_notEnoughPang" text="팡이 부족합니다." />
+	<message id="cooking_success" text="제작이 완료되었습니다. 완성된 제작품은 우편함으로 확인할 수 있습니다." /> 
+	<message id="notEnough_Gift" text="선물함에 공간이 없습니다."/>
+	<message id="cooking_weaponlimit" text="내구도: %d회"/>
+    <message id="cooking_effectlimit" text="수량: %d개"/>
+	
+    <!--탈것 메세지-->	
+	<message id="vehicle_warnning_notequip" text="탈것이 장착되어 있지 않습니다." />
+	<message id="vehicle_warnning_openbox" text="탈것 이용 중에는 상자를 열 수 없습니다. 탈것에서 내려서 이용해주세요." />
+	<message id="vehicle_warnning_putout" text="탈것 이용 중에는 탈것 아이템을 해제할 수 없습니다." />
+	
+	<!--퀘스트  메세지-->
+    <message id="quest_warnning_accept" text="퀘스트를 수락 하였습니다." />
+    <message id="quest_warnning_reqCancel" text="해당 퀘스트를 취소하겠습니까?" />
+    <message id="quest_warnning_cancel" text="퀘스트를 취소 하였습니다." />
+    <message id="quest_warnning_complete" text="보상 아이템을 획득 했습니다. 아이템은 우편을 확인해 주세요." />
+    <message id="quest_warnning_donotFirstQuest" text="선행 퀘스트를 완료해 주세요." />
+    <message id="quest_warnning_choiceItem" text="보상을 선택해 주세요." />
+    <message id="quest_warnning_questNumOver" text="더 이상 퀘스트를 받을 수 없습니다." />
+    <message id="quest_warnning_choiceitemNum" text="갯수에 맞게 보상 아이템을 선택해주세요." />
+    
+	<!--인챈트 메세지-->
+	<message id="enchant_result_success" text="인챈트를 성공하였습니다. 아이템은 인벤토리에서 확인해주세요." />
+	<message id="enchant_result_fail" text="인챈트를 실패하여 보석이 파괴되었습니다." />
+	<message id="enchant_item_repair" text="정상 수리되었습니다. 아이템은 인벤토리에서 확인해주세요." />
+	<message id="enchant_item_reset" text="아이템의 내구도가 0인 상태로 30일이 지났으므로 보석을 모두 파괴합니다." />
+	<message id="enchant_item_destroy" text="인챈트 최대 수치를 초과하여 인챈트 아이템과 보석이 파괴되었습니다." />
+	<message id="don't_enchant_item" text="잘못된 아이템입니다. 인챈트 가능한 아이템을 등록해주세요." />
+	<message id="not_jewel_item" text="잘못된 아이템입니다. 인챈트 보석 아이템을 등록해주세요." />
+	<message id="enchant_req" text="인챈트를 시도하시겠습니까? ※ 주의 : 인챈트된 보석의 갯수가 많을수록 실패 확률이 증가합니다. 실패 시 해당 보석이 파괴됩니다." />
+	<message id="lacked_enchant_pang" text="보유한 팡이 부족하여 인챈트를 할 수 없습니다." />
+	<message id="don't_repair_item" text="잘못된 아이템입니다. 인챈트 전용 아이템이며 1회 이상 사용한 아이템만 수리할 수 있습니다." />
+	<message id="don't_repair_cnt" text="수리 횟수가 남아있지 않아 수리를 할 수 없습니다."/>
+	<message id="wrong_enchant_jewel" text="해당 아이템에 인챈트 할 수 없는 보석입니다."/>
+	<message id="not_repairItem" text="수리 키트 아이템이 아닙니다." />
+	<message id="enchantableItem_first_choice" text="인챈트 할 아이템을 먼저 선택해주세요." />
+	<message id="jewel_one" text="한 번에 1개의 보석만 인챈트 할 수 있습니다." />
+	<message id="jewel_overlap" text="이미 보석이 장착된 위치입니다. 보석을 새롭게 장착하면 이미 인챈트되어 있던 보석은 사라지므로 신중하게 선택해주세요." />
+	<message id="enchant_register_equipped" text="착용중인 아이템은 수리할 수 없습니다."/>
+
+	<!--개인상점 관련 메시지 -->
+	<!--확인매세지-->	 
+	<message id="privateshop_prepare" text="판매 아이템 등록 시간은 10분이며 등록 시간을 초과하면 강제로 철수됩니다. ※ 주의 : 개인 상점 개설 후에는 등록 아이템의 수정이 불가능합니다." />
+	<message id="privateshop_warnning_open" text="아이템 판매 금액의 3%가 수수료로 지불됩니다." />
+	<message id="privateshop_close" text="개인 상점을 철수합니다." />
+	<message id="privateshop_confirm_buy" text="해당 아이템을 구입하시겠습니까?" />
+	<message id="privateshop_complete_buy" text="%s 아이템의 구입이 완료되었습니다. 인벤토리를 확인해주세요." />
+	<!--에러메세지-->
+	<message id="privateshop_warning_impossibledeal_registration" text="거래불가 아이템은 등록할 수 없습니다." />
+	<message id="privateshop_warning_equipping_registration" text="착용중인 아이템은 등록할 수 없습니다." />
+	<message id="privateshop_warning_overcount_registration" text="본인이 가지고 있는 갯수보다 많이 등록할 수 없습니다." />
+	<message id="privateshop_warning_selledmerchandise" text="해당 아이템은 이미 판매되었거나 개설자가 판매를 취소한 아이템입니다." />
+	<message id="privateshop_warning_closeshop" text="개인 상점이 철수되었습니다." />
+	<message id="privateshop_warning_lackmoney" text="보유하고 있는 팡이 부족합니다." />
+	<message id="privateshop_warning_alreadyopen" text="이미 개인 상점이 개설된 상태입니다. 중복으로 개설할 수 없습니다." />
+	<message id="privateshop_warning_emptyshopname" text="개인 상점의 제목을 입력해주세요." />
+	<message id="privateshop_warning_zeroprice_registration" text="1팡 이하로 등록할 수 없습니다." />
+	<message id="privateshop_warning_overprice_registration" text="천만팡 이상 등록할 수 없습니다." />
+	<message id="privateshop_warning_entergameroom" text="상점 개설 중에는 게임방에 입장할 수 없습니다." />
+	<message id="privateshop_warning_openluckbox" text="상점 개설 중에는 상자를 열 수 없습니다." />
+	<message id="privateshop_warning_getonsummon" text="탈 것을 탄 상태에서는 개인 상점을 개설할 수 없습니다." />
+	<message id="privateshop_warning_impossiblearea" text="개인 상점을 개설할 수 없는 지역입니다." />
+	<message id="privateshop_warning_opened_registration" text="개봉한 아이템은 등록할 수 없습니다." />
+	<message id="privateshop_warning_overlapregistrion" text="이미 아이템이 등록되어 있습니다." />
+	<message id="privateshop_complete_buyfailed" text="%s 아이템 구입에 실패하였습니다. 해당 아이템이 더 이상 개인 상점에 존재하지 않습니다." />
+	<message id="privateshop_warning_impossibledeal" text="개인 상점의 물품 등록 중에는 개인 거래가 불가능 합니다." />
+	<message id="privateshop_warning_overcountmaxslot_registration" text="아이템을 올려 놓을 수 있는 슬롯이 부족합니다." />
+	<message id="privateshop_warning_zerocount_registration" text="상점에 등록할 아이템은 한 개 이상 올려야 합니다." />
+	<message id="privateshop_warning_toocloseothershop" text="다른 상점과 너무 가까워 개인 상점을 개설할 수 없으므로 조금 떨어져서 개설해 주세요." /> 
+	<!--우편메세지-->
+	<message id="privateshop_receive_sellmoney" text="개인 상점의 물품이 판매되었습니다." />
+	<message id="privateshop_receive_merchandice" text="개인 상점을 철거하거나 개인 상점의 개설 시간이 만료되어 물품을 반환합니다." />
+	
+	<!--펫  메세지-->
+    <message id="pet_warnning_notPet" text="펫이 아닙니다." />
+    <message id="pet_warnning_noName" text="펫이 분양 전이거나 펫 이름이 없습니다." />
+    <message id="pet_warnning_notEnoughexp" text="펫의 경험치가 부족하여 진화를 할 수 없습니다." />
+    <message id="pet_warnning_notEquip" text="펫을 슬롯에 장착 해주세요." />
+    <message id="pet_warnning_usePetFood" text="펫에게 먹이를 주었습니다. 포만감:%.1f%%" />
+    <message id="pet_warnning_setPetName" text="펫이 분양 되었습니다." />
+    <message id="pet_warnning_equip" text="진화하기 위해서는 펫을 슬롯에서 해제해야 합니다." />
+    <message id="pet_warnning_inGameroom_setPetName" text="대기방에서는 펫 분양을 할 수 없습니다." />
+    <message id="pet_warnning_inGameroom_usePetFood" text="대기방에서는 펫 먹이를 줄 수 없습니다." />
+    <message id="pet_warnning_notPetEvolve" text="더 이상 펫이 진화할 수 없습니다." />
+    <message id="pet_warnning_runAway" text="굶주림을 견디지 못한 펫은 당신의 곁을 떠났습니다..." />
+    <message id="pet_warnning_Enoughexp" text="펫이 진화할 경험치가 되었습니다. 포용에게 가서 진화하세요." />
+    <message id="pet_warnning_successPetEvolve" text="펫이 진화에 성공하였습니다. 인벤토리를 확인하세요." />
+    <message id="pet_warnning_notEquipChangePetName" text="이름을 변경할 펫을 슬롯에 장착 해주세요." />
+    <message id="pet_warnning_inGameroom_changePetName" text="대기방에서는 펫 이름을 바꿀 수 없습니다." />
+    <message id="pet_warnning_changePetName" text="펫 이름이 변경되었습니다." />
+    <message id="pet_warnning_lowSatiety" text="펫이 먹이를 먹지 못해 기분이 좋지 않습니다." />
+    
+    <!--업적 메세지-->
+    <message id="achievement_warnning_getBadgeShopItem" text="훈장교환소 아이템을 획득했습니다.\n내정보를 확인해주세요." />
+    <message id="achievement_warnning_noBadgeItem" text="훈장 아이템이 없습니다." />
+    <message id="achievement_warnning_notExchangeBadgeShopItem" text="교환 가능한 훈장 개수가 부족합니다." />
+    <message id="achievement_warnning_getExchangeShopItem" text="훈장 아이템을 획득했습니다.\n내정보를 확인해주세요." />
+    <message id="achievement_warnning_lessExchangeCoincount" text="교환 가능한 동전의 개수가 부족합니다." />
+  
+    <!--리그전 메세지-->
+    <message id="leagueChannel0" text="초보채널" />
+    <message id="leagueChannel1" text="자유채널" />
+    <message id="leagueChannel2" text="부대채널" />
+    <message id="leaguegrade0" text="이등병1~병장4" />
+    <message id="leaguegrade1" text="하사1~원사4" />
+    <message id="leaguegrade2" text="소위1~총사령관" />
+    <message id="league_game_make_info" text="목표 라운드 : %d\n총 라운드 : %d"/>
+
+    <message id="error_enter_leagueMatchgameroom" text="리그전 방에는 입장할 수 없습니다. 신청을 통해 입장해주세요." />
+    <message id="league_warnning_notenterfor10sec" text="10초간 대기방에 입장하지 않아 리그전 대기표가 자동 취소되었습니다." />
+    <message id="league_warnning_fishingforstandby" text="리그전 대기 중에는 낚시를 할 수 없습니다." />
+    <message id="league_warnning_alreadystandby" text="대기열을 갱신하시겠습니까?" />
+    <message id="league_warnning_enterleaguematch" text="리그전이 열렸습니다. 입장하시겠습니까? ※ 주의 : 10초 동안 확인을 하지 않으면 대기표가 자동 취소됩니다." />
+    <message id="league_warnning_channelchange" text="리그전 대기 중에 채널을 이동하면 대기표가 자동 취소됩니다. 이동하시겠습니까?" />
+    <message id="league_warnning_invite" text="%d번 게임방에서 초대하였습니다. 초대를 승락하시겠습니까?\n입장하면 리그전 대기표가 취소됩니다." />
+    <message id="league_warnning_standby" text="리그전을 신청하였습니다.\n※ 주의 : 채널 이동 및 게임 종료 시 대기표가 자동 취소됩니다." />
+    <message id="league_warnning_cancelstandby" text="리그전 대기표를 취소하시겠습니까?" />
+    <message id="league_warnning_openprivateshop" text="리그전 대기 중에는 개인상점을 개설할 수 없습니다. 단, 개인상점 대리인 이용은 가능합니다." />
+	<message id="league_warnning_invitefriend" text="리그전에서는 친구를 초대할 수 없습니다." />
+	<message id="league_warnning_ingameroom" text="리그전 대기 중에 게임방에 입장하면 대기표가 자동 취소됩니다. 입장하시겠습니까?" />
+	<message id="league_warnning_creategameroom" text="리그전 대기 중에 게임방을 생성하면 대기표가 자동 취소됩니다. 게임방을 생성하시겠습니까?" />
+	<message id="league_warnning_inexercise" text="리그전 대기 중에 연습모드를 실행하면 대기표가 자동 취소됩니다. 실행하시겠습니까?" />
+	
+    <!--투니랜드 보상 혜택 관련-->
+    <message id="TOONIHTTP_READY_PROGRESS" text="투니랜드 케로로 팡팡 서버에 아이템 보상 데이터를 전송하시겠습니까?\n※전송 시간이 다소 걸릴 수 있습니다. 조금만 기다려주세요." />
+	<message id="TOONIHTTP_READY_PROGRESS_ITEM" text="투니랜드 신규 회원 혜택 아이템을 받으시겠습니까? 선물은 한번만 받을 수 있습니다.\n※ 전송 시간이 다소 걸릴 수 있습니다. 조금만 기다려주세요." />
+    <message id="TOONIHTTP_READY_PROGRESS_CHARACTER" text="구름 회원 보상 혜택을 받으시겠습니까? 보상 혜택은 한번만 받을 수 있습니다.\n※ 전송 시간이 다소 걸릴 수 있습니다. 조금만 기다려주세요." />
+    <message id="TOONIHTTP_PROVIDE_COMPLETE" text="투니랜드 신규 회원입니다. 구름 회원 보상 혜택은 기존 구름 회원만 받을 수 있습니다. 보상 신청은 먼저 구름 케로로 팡팡에 접속해서 진행해주세요." />
+    <message id="TOONIHTTP_NORESPONSE" text="투니랜드 케로로 팡팡 서버에서 응답이 없습니다." />
+    <message id="TOONIHTTP_FAIL_GOORMID_USED" text="이미 보상이 완료된 구름 ID입니다. 투니랜드 케로로 팡팡에 접속하여 우편함을 확인 해주세요." />
+    <message id="TOONIHTTP_FAIL_TOONIID_USED" text="이미 보상이 완료된 투니랜드 ID입니다. 투니랜드 케로로 팡팡에 접속하여 우편함을 확인 해주세요." />
+    <message id="TOONIHTTP_EXCEPTION" text="보상 데이터 전송에 실패했습니다. 다시 시도해주세요." />
+    <message id="TOONIHTTP_NOTEXIST" text="존재하지 않는 투니랜드 ID입니다. 투니랜드 계정이 없으면 투니랜드 회원 가입 후 시도해주세요." />
+    <message id="TOONIHTTP_PROVITEITEM_SUCCESS" text="보상 아이템을 획득했습니다. 화면 상단의 우편함과 인벤토리를 확인 해주세요." />
+    <message id="TOONIHTTP_NOTEQUALPASSWORD" text="비밀번호가 일치하지 않습니다. 확인 후 다시 입력해주세요." />
+    <message id="TOONIHTTP_PROVITEITEM_INFO_GOORM" text="투니랜드 케로로 팡팡 오픈 기념 보상 혜택 기간입니다. 단축키 F11을 클릭하거나 화면 상단의 쿠루루 노트 메뉴를 선택하면 투니랜드 케로로 팡팡에 캐릭터 보상 혜택을 신청할 수 있습니다." />
+    <message id="TOONIHTTP_PROVITEITEM_INFO_TOONI" text="투니랜드 케로로 팡팡 오픈 기념 신규 회원 보상 혜택 기간입니다. 단축키 F11을 클릭하거나 화면 상단의 쿠루루 노트 메뉴를 선택하여 보상을 받으세요." />
+    <message id="TOONIHTTP_TRANSFER_COMPLETED" text="보상 아이템 전송이 완료되었습니다. 게임 종료 후 투니랜드로 접속하여 주시기 바랍니다." />
+    <message id="TOONIHTTP_NOTID" text="보상 받을 투니랜드 ID 및 비밀번호를 입력 해주세요."/>  
+    <message id="TOONIHTTP_NOTPW" text="해당 ID의 비밀번호를 입력 해주세요."/>  
+    <message id="TOONIHTTP_NOTPW2" text="비밀번호를 한번 더 입력 해주세요."/>
+    <message id="TOONIHTTP_NOT_TRANSFER_ITEM" text="투니랜드 서버에 전송할 캐릭터 데이터가 존재하지 않습니다."/>
+    
+	<!--투니랜드 ID, PWD 확인-->
+	<message id="TOONIHTTP_TOONIID_SUCCESS" text="투니랜드 ID가 확인 되었습니다." />
+	<message id="TOONIHTTP_TOONIID_ERROR" text="투니랜드 ID 확인에 실패 하였습니다. 확인 후 다시 입력해주세요." />
+	<message id="TOONIHTTP_TOONIID_FAIL_WITHDRAWAL_USER" text="입력하신 ID는 투니랜드를 탈퇴한 회원입니다. 투니랜드 회원 가입 후 시도해주세요." />
+	<message id="TOONIHTTP_TOONIID_FAIL_NOT_MATCH" text="투니랜드 ID 또는 패스워드가 일치하지 않습니다. 확인 후 다시 입력해주세요." />
+	<message id="TOONIHTTP_TOONIID_FAIL_NOT_EXIST" text="존재하지 않는 투니랜드 ID입니다. 투니랜드 계정이 없으면 투니랜드 회원 가입 후 시도해주세요." />
+	<message id="TOONIHTTP_TOONIID_PARAMETER" text="잘못된 정보입니다." />
+	
+	<!--구름 ID,PWD 확인 -->
+	<message id="TOONIHTTP_GID_SUCCESS" text="구름 ID가 확인 되었습니다." />
+	<message id="TOONIHTTP_GID_ERROR" text="구름 ID 확인에 실패 하였습니다. 확인 후 다시 입력해주세요." />
+	<message id="TOONIHTTP_GID_FAIL_NOT_MATCH" text="보상 받는 아이템의 개수가 다릅니다." />
+	<message id="TOONIHTTP_GID_COMPLETE" text="이미 보상이 완료된 구름 ID입니다. 투니랜드 케로로 팡팡에 접속하여 우편함을 확인 해주세요." />
+	<message id="TOONIHTTP_GID_FAIL_PARAMETER" text="잘못된 정보입니다." />
+	<message id="TOONIHTTP_GID_FAIL_TOONIID_USED" text="이미 보상이 완료된 투니랜드 ID입니다. 투니랜드 케로로 팡팡에 접속하여 우편함을 확인 해주세요." />
+	<message id="TOONIHTTP_GID_FAIL_GOORMID_USED" text="이미 보상이 완료된 구름 ID입니다. 투니랜드 케로로 팡팡에 접속하여 우편함을 확인 해주세요." />
+	<message id="TOONIHTTP_GID_FAIL_BOTH_EXIST" text="해당 구름 ID는 이미 투니랜드 ID로 보상 준비 중입니다. 다른 투니랜드 ID로 보상 신청을 변경 하시겠습니까?" />
+	<message id="TOONIHTTP_GID_FAIL_TOONIID_COMPLETE" text="해당 투니랜드 ID는 이미 구름 ID %s로부터 보상이 완료된 계정입니다."/>	
+	<message id="TOONIHTTP_GID_FAIL_GOORMID_COMPLETE" text="해당 구름 ID는 투니랜드 ID %s에 이미 보상이 완료 되었습니다."/>
+	<message id="TOONIHTTP_GID_FAIL_NEWACCOUNT_COMPLETE" text="해당 투니랜드 ID는 이미 보상이 완료된 계정입니다."/>
+	
+	<!--보상 확인 -->
+	<message id="TOONIHTTP_COMPLETE_FAIL_NOT_EXIST" text="해당 조건이 없습니다." />
+	<message id="TOONIHTTP_COMPLETE_COMPLETE" text="아이템 지급이 완료 된 투니랜드 ID 입니다. 투니랜드 케로로 팡팡에 접속하여 내 정보 및 우편함을 확인 해주세요." />
+	<message id="TOONIHTTP_COMPLETE_DOING" text="일부 보상이 진행 중입니다. 투니랜드 케로로 팡팡에 접속하여 미지급 된 보상 아이템을 받아주세요." />
+	<message id="TOONIHTTP_COMPLETE_NOT_DOING" text="보상이 진행되지 않았습니다. 다시 시도해주세요." />
+	<message id="TOONIHTTP_COMPLETE_FAIL_PARAMETER" text="잘못된 정보입니다." />
+	
+	<!--보상 아이템 요청-->
+	<message id="TOONIHTTP_REQUEST_SUCCESS-" text="성공 (delimiter는 '|'사용) : 아이템 리스트" />
+	<message id="TOONIHTTP_REQUEST_ERROR" text="아이템 정보 저장에 실패했습니다. 다시 시도해 주세요." />
+	<message id="TOONIHTTP_REQUEST_FAIL_COMPLET" text="아이템 보상이 완료된 상태입니다. 투니랜드 케로로 팡팡에 접속하여 우편함을 확인 해주세요." />
+	<message id="TOONIHTTP_REQUEST_FAIL_NOT_MATCH" text="해당 투니랜드 ID는 보상 신청이 되지 않은 ID입니다. 먼저 구름 케로로 팡팡에 접속하여 보상 혜택 신청을 해주기기 바랍니다." />
+	<message id="TOONIHTTP_REQUEST_FAIL_PARAMETER" text=" 잘못된 정보입니다." />
+	
+	<!--보상 아이템 지급 성공-->
+	<message id="TOONIHTTP_SUCCESS_SUCCESS" text="아이템 지급이 완료 되었습니다. 내 정보의 아이템 소지함을 확인 해주세요." />
+	<message id="TOONIHTTP_SUCCESS_CHARACTER" text="투니랜드 보상 혜택 아이템 지급이 완료 되었습니다. 화면 상단의 우편함을 확인 해주세요." />
+	<message id="TOONIHTTP_SUCCESS_NOTCHARACTER" text="보상 혜택 캐릭터 아이템이 존재하지 않습니다." />
+	<message id="TOONIHTTP_SUCCESS_ERROR" text="아이템 지급에 실패했습니다. 다시 시도해 주세요." />
+	<message id="TOONIHTTP_SUCCESS_FAIL_NOT_EXIST" text="해당 아이템의 정보가 존재하지 않습니다." />
+	<message id="TOONIHTTP_SUCCESS_FAIL_PARAMETER" text="잘못된 정보입니다." />
+	<message id="TOONIHTTP_SUCCESS_FAIL_NOT_TOTAL_SUCCESS" text="일부 아이템의 지급이 실패했습니다. 다시 시도해 주세요." />
+
+	
+ </messages>
+ 
+  <!-- 참고: http://nsgw.nstorm.co.kr:3000/repositories/entry/keroro/server/trunk/include/keroro/common/ErrorCodes.h -->
+  <error_codes>
+
+    <error id="1001" text="제작 과정은 정상적으로 진행되었으나, 제작에는 실패하였습니다." />
+    <error id="2001" text="다른 곳에서의 비정상 접속이 확인되어 게임을 강제로 종료합니다." />
+    <error id="2002" text="GAME ID의 형식이 사용하는 형식과 일치하지 않습니다." />
+    <error id="2003" text="CHANNEL ID의 범위가 서버에서 제한하는 범위에서 벗어나 있습니다." />
+    <error id="2004" text="서버에서 메모리 할당 절차가 제대로 진행되지 않았습니다." />
+    <error id="2005" text="현재 GAME ID에 해당하는 데이터를 가지고 있지 않습니다.\n해당 아이디로 다시 로그인 하시기 바랍니다." />
+    <error id="2006" text="서버의 데이터 구조체에 대한 논리적인 내부 오류가 발생하였습니다." />
+    <error id="2007" text="이미 게임 방에 들어와 있는 상태입니다." />
+    <error id="2008" text="채널의 방이 모두 차 있는 상태이므로, 해당 명령을 수행할 수 없습니다." />
+    <error id="2009" text="한번에 수행할 수 있는 판 수 설정은 최소 1판 이상 5판 이하여야만 합니다." />
+    <error id="2010" text="ROOM ID를 0으로 잘못 요청하였습니다." />
+    <error id="2011" text="현재 선택된 방은 존재하지 않거나 다른 이유로 인해 접속할 수 없습니다." />
+    <error id="2012" text="현재 게임 방에 머물러 있지 않은 상태이므로 해당 행동을 할 수 없습니다." />
+    <error id="2013" text="ROOM ID가 현재 서버가 가지고 있는 정보와 일치하지 않습니다." />
+    <error id="2014" text="CHANNEL ID가 현재 서버가 가지고 있는 정보와 일치하지 않습니다." />
+    <error id="2015" text="GAME ID가 현재 서버가 가지고 있는 정보가 일치하지 않습니다." />
+    <error id="2016" text="해당 행동을 하기 전에 캐릭터를 먼저 선택해 주십시오." />
+    <error id="2017" text="이 행동이나 조작은 오직 해당 방의 방장만 진행할 수 있습니다." />
+    <error id="2018" text="대상이 같은 방에 있는 유저가 아니므로 이 조작은 취소됩니다.\n상대를 다시 확인해 주세요." />
+    <error id="2019" text="모든 플레이어가 준비 상태일 경우에만 게임 시작이 가능합니다." />
+    <error id="2020" text="게임이 이미 시작된 상태입니다." />
+    <error id="2021" text="게임이 이미 시작된 상태입니다." />
+    <error id="2022" text="해당 방에 설정된 비밀번호와 일치하지 않습니다." />
+    <error id="2023" text="그 위치에 스킬을 장착할 수 없습니다.\n해당 스킬에 맞는 슬롯 위치를 다시 확인하시기 바랍니다." />
+    <error id="2024" text="캐릭터가 이미 행동불능이 된 상황에서는 해당 행동을 실행할 수 없습니다." />
+    <error id="2025" text="현재 게임 진행중이 아니므로 해당 절차는 취소됩니다." />
+    <error id="2026" text="게임을 시작할 수 있는 최소 조건을 만족하지 못한 상태입니다.\n현재 설정된 규칙과 참여 인원 수를 다시 확인하시기 바랍니다." />
+    <error id="2027" text="해당 모드의 설정과 맞지 않는 정보입니다." />
+    <error id="2028" text="요청한 슬롯 번호가 허용된 숫자 이상입니다." />
+    <error id="2029" text="잘못된 팀플래그 입니다." />
+    <error id="2030" text="중복 로그인 되었습니다." />
+    <error id="2031" text="선택한 방에 빈 자리가 없습니다." />
+    <error id="2032" text="대상이 현재 방 안에 있지 않습니다." />
+    <error id="2033" text="피해 범위가 기준치를 초과하였습니다." />
+    <error id="2034" text="판매 방식이 미리 설정된 내용과 다릅니다." />
+    <error id="2035" text="해당 아이템이 데이터에 존재하지 않습니다." />
+    <error id="2036" text="서버 데이터와 맞지 않는 아이템 타입입니다." />
+    <error id="2037" text="서버 데이터와 맞지 않는 아이템 판매 형식입니다." />
+    <error id="2038" text="해당 아이템의 종류 및 날짜 값이 서버 데이터와 다릅니다." />
+    <error id="2039" text="인벤토리가 꽉 차 있는 상태입니다.\n최대 300개의 아이템까지만 인벤토리 내에 보유할 수 있습니다." />
+    <error id="2040" text="해당 채널의 수용 인원 한계로 접속할 수 없습니다.\n다른 채널을 선택해 주세요." />
+    <error id="2041" text="해당 아이템의 기본형(ItemID)이 정의되지 않았습니다." />
+    <error id="2042" text="이미 다른 슬롯에 장착되어 있는 아이템입니다." />
+    <error id="2043" text="이미 그 위치에 아이템이 장착되어 있습니다." />
+    <error id="2044" text="현재 지원하지 않는 기능입니다." />
+    <error id="2045" text="미 장착 상태의 아이템을 장착 해제할 수 없습니다." />
+    <error id="2046" text="서버 내부의 논리적인 오류로 인해 스킬 슬롯 정보가 잘못되었습니다." />
+    <error id="2047" text="현재 인벤토리의 아이템 정보 수신이 지연되고 있으니, 잠시 기다려 주십시오." />
+    <error id="2048" text="너무 많은 아이템을 한번에 구매할 수는 없습니다." />
+    <error id="2049" text="-" />
+    <error id="2050" text="캐릭터 슬롯이 비어 있습니다." />
+    <error id="2051" text="해당 아이템은 이미 소멸되었습니다." />
+    <error id="2052" text="0 또는 1 외에 설정되지 않은 데미지 타입이 정의되어 있습니다." />
+    <error id="2053" text="필요한 금액에 비해 보유 중인 팡이 부족하여 구매할 수 없습니다." />
+    <error id="2054" text="필요한 금액에 비해 보유 중인  Cash가 부족하여 구매할 수 없습니다." />
+    <error id="2055" text="스킬 슬롯의 쿨다운이 끝날 때까지 사용할 수 없습니다." />
+    <error id="2056" text="이미 캐릭터를 보유하고 있습니다." />
+    <error id="2057" text="기본 캐릭터는 판매할 수 없습니다." />
+    <error id="2058" text="잘못된 캐릭터 슬롯입니다. 다시 올바르게 장착을 시도해 주십시오." />
+    <error id="2059" text="현재 계급으로는 접속할 수 없는 채널입니다." />
+    <error id="2060" text="트레이닝 중이 아닙니다." />
+    <error id="2061" text="이미 트레이닝 중입니다." />
+    <error id="2062" text="현재 채널에서는 허용되지 않은 맵입니다." />
+    <error id="2063" text="경기용 채널이 아닙니다." />
+    <error id="2064" text="경기용 채널에서는 불가능한 동작입니다." />
+    <error id="2065" text="옵져버 클라이언트가 아닙니다." />
+    <error id="2066" text="옵져버 클라이언트로는 불가능한 동작입니다." />
+    <error id="2067" text="해당 모드에서는 공격이 허용되지 않습니다." />
+    <error id="2068" text="현재 점검중인 기능입니다. 불편을 드려서 죄송합니다." />
+    <error id="2069" text="해당 방은 아직 점수를  확인하는 단계가 아닙니다." />
+    <error id="2070" text="플레이어가 아직 점수를 확인하는 단계가 아닙니다." />
+    <error id="2071" text="튜토리얼이 규정보다 너무 빨리 진행되어 무효 처리됩니다." />
+    <error id="2072" text="프로토콜이 맞지 않습니다." />
+    <error id="2073" text="찜 목록이 가득 차서 추가할 수 없습니다." />
+    <error id="2074" text="해당 아이템의 데이터를 찾지 못하여 찜 목록에 추가하지 못했습니다." />
+    <error id="2075" text="찜 목록이 초기화 되지 않았습니다." />
+    <error id="2076" text="트레이닝을 수행 중입니다." />
+    <error id="2077" text="트레이닝 번호를 잘못 입력하였습니다." />
+    <error id="2078" text="트레이닝 번호가 틀립니다. Table에 없는 트레이닝 번호를 요청했습니다." />
+    <error id="2079" text="서버에 허용된 트레이닝 목록이 꽉 찼습니다. 잠시 후에 다시 시도해 주세요." />
+    <error id="2080" text="소모품 슬롯이 비어 있습니다." />
+    <error id="2081" text="잘못된 소모품 슬롯 번호입니다." />
+    <error id="2082" text="위치가 지정되지 않았습니다." />
+    <error id="2083" text="장착된 캐릭터가 일치하지 않습니다." />
+    <error id="2084" text="다음 진급보상을 위해서는 더 높은 등급이 필요합니다." />
+    <error id="2085" text="해당 요청에 필요한 아이템이 사용되지 않았습니다." />
+    <error id="2086" text="이미 모두 팔린 아이템이므로 구매할 수 없습니다." />
+    <error id="2087" text="아이템이 정상 위치에 장착되지 않았습니다." />
+    <error id="2088" text="행운상자 아이템이 아닙니다." />
+    <error id="2089" text="이 상자를 열기 위해서는 행운열쇠가 필요합니다.\n해당 아이템은 상점의 프리미엄 탭에서 판매하고 있습니다." />
+    <error id="2090" text="기본 장착 아이템의 슬롯이 비어 있습니다." />
+    <error id="2091" text="요청한 출석 정보가 없습니다." />
+    <error id="2092" text="아직 지원하지 않는 기능입니다." />
+    <error id="2093" text="이미 커플로 맺어져 있습니다." />
+    <error id="2094" text="행운상자의 당첨 아이템을 찾을 수 없습니다." />
+    <error id="2095" text="툰 구매 대기열이 가득 찼습니다. 잠시 후 다시 시도해 주세요." />
+    <error id="2096" text="현재 출석 이벤트가 진행 중이 아닙니다." />
+    <error id="2097" text="거래 대상이 없습니다." />
+    <error id="2098" text="거래 대상이 아닙니다." />
+    <error id="2099" text="거래 상대가 다른 사람과 이미 거래중입니다." />
+    <error id="2100" text="거래 대상을 임의로 변경하였습니다." />
+    <error id="2101" text="싱글 플레이용 방입니다." />
+    <error id="2102" text="싱글 플레이용 방과 멀티 플레이용 방은 서로 변경되지 않습니다.\n전환하시려면 방을 다시 만들어주세요." />
+    <error id="2103" text="대상이 거래중인 상태가 아닙니다." />
+    <error id="2104" text="대상이 거래 준비를 하지 않았습니다." />
+    <error id="2105" text="거래 목록이 일치하지 않습니다." />
+    <error id="2106" text="거래 준비를 하지 않았습니다." />
+    <error id="2107" text="거래 제시 목록이 잘못되었습니다." />
+    <error id="2108" text="준비 상태에서는 해당 행동을 할 수 없습니다." />
+    <error id="2109" text="연구소 기능이 초기화되지 않았습니다." />
+    <error id="2110" text="잘못된 랩 카운트입니다." />
+    <error id="2111" text="로비에 초대할 유저가 없습니다." />
+    <error id="2112" text="초대 메세지를 너무 자주 전송하였습니다. 잠시 후에 시도해 주세요." />
+    <error id="2113" text="랩 시간이 너무 빠릅니다." />
+    <error id="2117" text="되팔기가 불가능한 캐릭터 입니다." />
+    <error id="2119" text="이벤트 기간이 아닙니다." />
+    <error id="2120" text="진행중인 지급 이벤트가 없습니다." />    
+    <error id="2121" text="해당 캐릭터에 대한 지급 아이템은 설정되어 있지 않습니다.(GiftEventTable.csv 에 해당 캐릭터에 대한 정보가 없습니다.)" />
+    <error id="2122" text="해당 유저가 요청한 아이템 장착 조건을 갖추지 못했습니다." />    
+    <error id="2123" text="이미 사탕을 받은 상태입니다. 사탕 지급 이벤트는 계정당 한 번만 진행할 수 있습니다." />    
+    <error id="2124" text="잘못된 소원카드(WishCardEvent) 아이템 데이터입니다." />    
+    <error id="2125" text="잘못된 DoneFlag 입니다 (WishCard)" />    
+    <error id="2126" text="소원 카드 이벤트 (WishCard Event) 진행 기간이 아닙니다." />    
+    <error id="2127" text="소원 카드 이벤트 (WishCard Event) 보상 기간이 아닙니다." />    
+    <error id="2128" text="WishCard Event 보상 요청의 ItemPos가 잘못되었습니다. ( 1, 2, 3 만 가능)" />
+    <error id="2130" text="해당 아이템이 서버 데이터와 맞지 않습니다." />    
+    <error id="2135" text="이동하려는 팀의 남은 자리가 없습니다." />
+    <error id="2149" text="포장할 수 없는 아이템입니다." />    
+    <error id="2150" text="아이템 삭제를 실패하였습니다."/>
+    <error id="2151" text="포장 가능 횟수만큼 포장하여 더 이상 포장할 수 없습니다."/>  
+    <!-- 경매장 -->
+    <error id="2203" text="경매 기간 설정이 잘못되었습니다." />
+    <error id="2204" text="경매 보증금이 잘못되었습니다." />
+    <error id="2205" text="경매 아이템 인덱스 값이 잘못되었습니다." />
+    <error id="2206" text="경매 공간이 꽉 찼습니다." />
+    <error id="2207" text="입찰된 물품은 등록 취소가 불가능합니다." />
+    <error id="2208" text="경매 응찰 할 수 없는 금액입니다." />
+    <error id="2209" text="경매 응찰 할 수 있는 상품이 아닙니다." />
+    <error id="2210" text="경매 검색 방법이 잘못 되었습니다." />
+    <error id="2212" text="잘못된 경매 등록금 입니다." />
+    <error id="2213" text="잘못된 경매 즉시 구매가입니다." />
+    <error id="2216" text="갯수가 잘못되었습니다. 갯수를 재설정하세요." />
+    <error id="2217" text="경매 물품에 입찰자가 있습니다. 등록을 취소할 수 없습니다." />
+    <error id="2218" text="본인이 등록한 물품은 즉시 구매할 수 없습니다." />
+    <!-- 낚시 -->
+    <error id="2301" text="낚시대를 장착하지 않은 상태입니다." />
+    <error id="2302" text="낚시 가능 지역이 아닙니다." />
+    <error id="2303" text="낚시 보상 테이블에서 랜덤 값에 해당하는 아이템을 찾을 수 없습니다." />
+    <error id="2304" text="낚시 궤짝 아이템이 아닙니다." />
+    <error id="2305" text="낚시 궤짝 테이블에서 랜덤 값에 해당하는 아이템을 찾을 수 없습니다." />
+    <error id="2306" text="구리 열쇠 아이템이 아닙니다." />
+    <error id="2311" text="이미 낚시 중이어서 낚시를 시작할 수 없습니다." />   
+    <error id="2312" text="이미 낚시가 종료되어 낚시를 종료할 수 없습니다." />
+    <error id="2313" text="낚시 중이라서 거래를 시작 할수 없습니다." />
+    <error id="2314" text="잘못된 이벤트 플래그 입니다." />    
+    <error id="2315" text="낚시 왕 이벤트 기간이 아니어서 해당 퀘스트를 완료할 수 없습니다." />   
+    <error id="2320" text="요리법을 찾을 수 없습니다." />
+	<error id="2321" text="사용될 팡이 서버와 일치 하지 않습니다." />
+	<error id="2322" text="요리재료가 충분하지 않습니다." />
+    <!-- 개인상점 -->
+    <error id="2340" text="이미 개인 상점이 개설된 상태입니다. 개인상점은 중복으로 개설할 수 없습니다." />
+    <error id="2341" text="채널에 개설할 수 있는 허용범위를 초과하여 더 이상 개인 상점을 개설할 수 없습니다." />
+    <error id="2342" text="최대 아이템 슬롯보다 많은 아이템을 등록하여 개설할 수 없습니다." />
+    <error id="2343" text="이미 철수된 개인 상점이므로 정보를 얻을 수 없습니다." />
+    <error id="2344" text="해당 아이템은 이미 판매되었거나 개설자가 판매를 취소한 아이템입니다." />
+    <error id="2345" text="등록한 아이템이 없으므로 개인 상점 개설이 불가능합니다." />
+    <error id="2346" text="아이템 구매 시 구매 개수가 0 이므로 구매가 불가능합니다." />
+	<!-- 퀘스트 -->
+	<error id="2350" text="활성화된 퀘스트가 아닙니다." /> 
+	<error id="2351" text="해당 퀘스트의 NPC가 매치가 되지 않습니다." /> 
+	<error id="2352" text="해당 퀘스트의 기간이 아닙니다." /> 
+	<error id="2353" text="선행 퀘스트를 완료하지 않았습니다." /> 
+	<error id="2354" text="완료하지 않은 일일 퀘스트를 가지고 있습니다." /> 
+	<error id="2355" text="오늘 하루 일일 퀘스트를 완료 하였습니다." /> 
+	<error id="2356" text="해당 퀘스트의 반복 최대 개수에 도달하였습니다." /> 
+	<error id="2357" text="완료한 퀘스트입니다." /> 
+	<error id="2358" text="유저가 보유할 수 있는 퀘스트에 도달 하였습니다." /> 
+	<error id="2359" text="존재하지 않는 퀘스트입니다." /> 
+	<error id="2360" text="유저가 가지고 있는 퀘스트가 아닙니다." /> 
+	<error id="2361" text="퀘스트가 보상 가능 상태가 아닙니다." /> 
+	<error id="2362" text="해당 퀘스트를 유저가 이미 보유하고 있습니다." /> 
+	<error id="2363" text="퀘스트 보상 아이템 개수가 잘못 되었습니다." /> 
+	<error id="2364" text="퀘스트 보상 EXP가 잘못 되었습니다." /> 
+	<error id="2365" text="퀘스트 팡이 잘못 되었습니다." /> 
+	<error id="2366" text="퀘스트 수락 가능한 등급이 아닙니다." /> 
+	<error id="2367" text="퀘스트 완료 시 퀘스트 아이템이 충분하지 않습니다." />
+	<error id="2368" text="퀘스트 완료 시 보상 아이템 Value 값이 잘못되었습니다." />
+	<!-- 인챈트 -->
+	<error id="2380" text="인챈트가 불가능한 아이템입니다." /> 
+	<error id="2381" text="잘못된 아이템입니다. 인챈트 보석 아이템을 장착해주세요." /> 	
+	<error id="2382" text="유효하지 않은 보석 홈 입니다. 다시 시도해주세요." /> 	
+	<error id="2383" text="요청된 인챈트 금액과 실제 인챈트 금액이 일치하지 않습니다." /> 
+	<error id="2384" text="남은 수리 횟수가 0이므로 수리가 불가능합니다." /> 
+	<error id="2385" text="1회 이상 사용하지 않은 아이템은 수리를 할 수 없습니다." /> 
+	<error id="2386" text="인챈트 관련 정보를 찾을 수 없습니다." /> 	
+	<error id="2387" text="재료 아이템 상자가 아니므로 상자를 열 수 없습니다." /> 	
+	<error id="2388" text="인챈트 아이템 보석 홈 관련 정보를 찾을 수 없어 상자를 열 수 없습니다." /> 	
+	<error id="2389" text="파괴가 불가능한 아이템입니다." /> 	
+	<error id="2390" text="내구도가 0이거나 기간이 종료된 아이템이므로 사용할 수 없습니다. 게일에게 가서 수리하면 다시 사용할 수 있습니다." />
+	<error id="2391" text="행운 열쇠 아이템이 없어서 상자를 열 수 없습니다. 아이템 구입 후 사용해주세요." />
+	<!--펫-->
+	<error id="2401" text="유저의 펫 우리가 가득 찼습니다." />
+	<error id="2402" text="해당 펫은 이미 먹이를 먹었습니다." />
+	<error id="2403" text="분양된 펫은 3마리만 가지고 다닐수 있습니다." />
+	<error id="2404" text="펫의 포만감이 0입니다." />
+	<error id="2405" text="펫이 아직 진화를 할 수 없습니다." />
+	<error id="2406" text="이미 분양한 펫입니다." />
+	<error id="2407" text="펫 먹이를 모두 소모 하였습니다." />
+	<error id="2408" text="경험치가 부족하여 진화가 불가능 합니다." />
+	<error id="2409" text="펫 우리에서 해당 펫을 찾을 수 없습니다." />
+	<error id="2410" text="펫 이름이 이미 설정 되었습니다." />
+	<!--업적-->
+	<error id="2421" text="이미 완료한 업적입니다." />
+	<error id="2422" text="잘못된 업적 데이터입니다." />
+	<error id="2423" text="아직 획득하지 못한 칭호입니다." />
+	<error id="2424" text="훈장 및 동전이 더 필요합니다." />
+	<error id="2425" text="훈장 및 동전 개수가 아이템 교환 가격과 다릅니다." />
+	<error id="2426" text="동전이 부족하여 훈장으로 교환할 수 없습니다." />
+	<error id="2427" text="훈장으로 교환할 동전 종류와 개수가 맞지 않습니다." />
+	<!--리그전-->
+	<error id="2431" text="이미 리그전을 신청한 상태입니다." />
+	<error id="2432" text="리그전 신청 리스트가 가늑 찼습니다." />
+	<error id="2433" text="리그전 신청 정보를 찾을 수 없습니다." />
+	<error id="2434" text="리그전 신청의 소유 GameID와 유저 GameID가 맞지가 않습니다." />
+	<error id="2435" text="잘못된 리그전 상태입니다." />
+	<error id="2436" text="리그전 신청 조건이 잘못되었습니다." />
+	<error id="2437" text="리그전 게임방이 아닙니다." />
+	<!--캐릭터 강화-->
+	<error id="2440" text="해당 강화 아이템 캐릭터와 메인 캐릭터가 일치하지 않습니다. 첫번째 슬롯에 강화할 캐릭터를 장착해주세요." />
+	<error id="2441" text="선택한 캐릭터가 메인 캐릭터가 아니므로 강화할 수 없습니다." />
+	<error id="2442" text="해당 유저는 스피드 핵 사용 유저로 의심 됩니다." />
+	<error id="2443" text="전적초기화 아이템이 아닙니다." />
+	<error id="2444" text="개인상점 등록 시 아이템 인덱스가 중복되었습니다." />
+	
+	<error id="4001" text="잘못된 쿼리입니다." />
+    <error id="4002" text="DB Insert error" />
+    <error id="4003" text="DB Update Error" />
+    <error id="4004" text="DB Select Error" />
+    <error id="4005" text="디비 연결의 체크 과정에 실패했습니다." />
+    <error id="4006" text="게임 아이디 생성 한계에 도달했습니다." />
+    <error id="4007" text="캐릭터 생성 숫자 및 교정에서 문제가 발생하여, 데이터 저장에 실패했습니다." />
+    <error id="4008" text="이미 존재하는 이름입니다. 다른 이름을 선택해 주세요." />
+    <error id="4009" text="캐릭터 이름 중복 체크에 실패했습니다. 다시 시도하거나 변경해 주세요." />
+    <error id="4010" text="DB Delete Error가 발생했습니다." />
+    <error id="4011" text="DB 연결 정보 파일 읽기에 실패했습니다." />
+    <error id="4012" text="생성하고자 하는 캐릭터의 이름에 금지된 단어가 포함되어 있습니다." />
+    <error id="4013" text="최초 캐릭터 생성을 시도하는 도중 이미 생성되어 있는 캐릭터를 발견했습니다." />
+    <error id="4014" text="DB연결 또는 네트워크 문제로 인해 DB JOB이 지연되고 있습니다." />
+    <error id="4015" text="DB 중복 insert로 인한 쿼리 실패가 발생했습니다." />
+    <error id="4016" text="검색 결과가 없습니다." />
+    <error id="4017" text="기본 캐릭터 외의 캐릭터 아이디로 캐릭터 생성은 불가능합니다." />
+    <error id="4101" text="랭킹 계산에 필요한 날짜 계산에 실패하였습니다." />
+    <error id="4102" text="랭킹 타입이 잘못되었습니다." />
+    <error id="5001" text="잘못된 format의 AccountCode를 전송받아 취소됩니다." />
+    <error id="5002" text="Auth DB에 해당 AccountCode의 데이터가 없습니다." />
+    <error id="6001" text="GDMS에 이미 로그인된 정보가 있습니다." />
+    <error id="6002" text="게임서버군에 이미 접속된 정보가 존재합니다." />
+    <error id="6003" text="접속이 일정시간 제한된 유저입니다." />
+    <error id="7001" text="정상적으로 발급된 시리얼 번호가 아닙니다." />
+    <error id="7002" text="이미 다른 유저가 사용중이거나 이미 사용한 쿠폰입니다." />
+    <error id="7003" text="이미 사용한 쿠폰입니다." />
+    <error id="7004" text="크폰의 사용기간이 지나 사용할 수 없습니다." />
+    <error id="7005" text="쿠폰타입이 잘못 되었습니다." />
+    <error id="8001" text="서버에서 메모리 할당이 제대로 되지 않았습니다." />
+    <error id="8002" text="채널에 인원이 다 차 있어 접속할 수 없습니다." />
+    <error id="8003" text="채널 입장 등급과 맞지 않습니다." />
+    <error id="9001" text="메신저에 등록되지 않은 친구입니다." />
+    <error id="9002" text="친구 등록 개수가 초과하였습니다." />
+    <error id="9003" text="상대가 현재 로그인 상태가 아닙니다." />
+    <error id="9004" text="이미 친구 목록에 추가한 상태입니다." />
+    <error id="9005" text="검색한 닉네임에 해당되는 유저가 없습니다." />
+    <error id="9006" text="등록되지 않은 메일 주소입니다." />
+    <error id="9007" text="추가하려는 상대의 친구 목록이 가득 차 있습니다." />
+    <error id="9008" text="검색한 게임아이디에 해당하는 친구가 없습니다." />
+    <error id="9011" text="받는 사람의 선물함이 가득 차 있어 전송할 수 없습니다." />
+    <error id="9012" text="유효한 선물이 아닙니다." />
+    <error id="9013" text="서버내의 메모리 에러가 발생했습니다." />
+    <error id="9014" text="이미 받은 선물입니다." />
+    <error id="9015" text="이미 보낸 선물입니다." />
+    <error id="9019" text="받는 사람의 쪽지함이 가득 차 있어 전송할 수 없습니다." />
+    <error id="9051" text="이미 길드에 가입되어 있는 유저입니다.." />
+    <error id="9052" text="이미 길드 가입 신청을 한 유저입니다." />
+    <error id="9053" text="길드장이므로 길드 탈퇴가 불가능합니다." />
+    <error id="9054" text="해당 요청에 대한 권한이 없습니다." />
+    <error id="9055" text="현재 길드에 등록되어 있는 모든 길드원을 탈퇴시켜야 해산이 가능합니다." />
+    <error id="9056" text="길드 멤버가 아닙니다." />
+    <error id="9057" text="길드 확장 자금이 부족해 해당 명령을 수행할 수 없습니다." />
+    <error id="9058" text="길드 멤버가 현재 받아들일 수 있는 인원수의 한계에 도달했습니다." />
+    <error id="9059" text="현재 길드 가입 신청을 한 유저가 없습니다." />
+    <error id="9060" text="길드 가입 신청을 하지 않은 유저입니다." />
+    <error id="9061" text="길드 채팅방에 중복 입장할 수 없습니다." />
+    <error id="9062" text="요청자와 요청 상대가 같습니다." />
+    <error id="9063" text="요청한 상대가 로그아웃 상태이므로 이 작업을 수행할 수 없습니다." />
+    <error id="9064" text="길드 채팅방에 미 접속 중인 유저입니다." />
+    <error id="9065" text="길드 가입 신청 리스트가 꽉 찬 상태입니다." />
+    <error id="9066" text="길드 이름 없이 길드 생성 요청을 하였습니다." />    
+    
+    <error id="9067" text="길드장이므로 추방 할 수 없습니다." />    
+    <error id="9068" text="길드 간부는 길드 간부를 추방 할 수 없습니다." />    
+    <error id="9100" text="이미 존재하는 길드명입니다. 다른 이름을 선택해 주세요." />
+    <error id="9101" text="길드 생성시 처리 블록 번호가 잘못 되었습니다." />
+    <error id="10001" text="게임머니 결재 시간이 만료되었습니다. 재 시도해 주세요." />
+    <error id="10002" text="이미 취소된 게임머니 결재입니다." />
+    <error id="10003" text="게임머니 결재가 진행중입니다.\n완료 전까지일부 상점 기능에 제한이 있을 수 있습니다." />
+    <error id="14001" text="잘못된 쿼리입니다." />
+    <error id="14002" text="DB Insert error" />
+    <error id="14003" text="DB Update Error" />
+    <error id="14004" text="DB Select Error" />
+    <error id="14005" text="알 수 없는 이유로 디비 연결 체크에 실패했습니다." />
+    <error id="14006" text="게임아이디 생성의 한계에 도달했습니다." />
+    <error id="14007" text="캐릭터 생성 숫자 및 교정에서 문제가 발생하여, 데이터 저장에 실패했습니다." />
+    <error id="14008" text="이미 존재하는 이름입니다. 다른 이름을 선택해 주세요." />
+    <error id="14009" text="캐릭터 이름 중복 체크에 실패했습니다. 다시 시도해 주세요." />
+    <error id="14010" text="DB Delete Error" />
+    <error id="14011" text="DB 연결 정보 파일 읽기에 실패했습니다." />
+    <error id="14012" text="생성하고자 하는 캐릭터의 이름에 금지된 단어가 포함되어 있습니다." />
+    <error id="14013" text="최초 캐릭터 생성을 시도하는 도중 이미 생성되어 있는 캐릭터를 발견했습니다." />
+    <error id="14014" text="DB연결 또는 네트워크 문제로 인해 DB JOB이 지연되고 있습니다." />
+    <error id="18001" text="캐쉬 구매시 금액이 충분하지 않습니다." />
+    <error id="20001" text="게임이 현재 오픈 된 상태가 아닙니다." />
+    <error id="20002" text="AUTH키 값 입력이 실패하였습니다." />
+    <error id="20003" text="게임리스트를 받지 못했습니다." />
+    <error id="20004" text="나이 제한으로 인해 접속이 불가능합니다." />
+    
+  </error_codes>
+
+  <gameroom_titles>
+    <title text="요절복통 슈팅 케로로 팡팡!!" />
+    <title text="코믹슈팅의 절대지존 케로로 팡팡!!" />
+    <title text="즐겁게 놀아라! 케로로 팡팡!!" />
+    <title text="빨리 오세요! 입니다." />
+    <title text="아무나 들어 오라구!! 입니다." />
+    <title text="오로지 정면승부! 입니다." />
+    <title text="총알 사이 피해가리! 입니다." />
+    <title text="지금 쏘러 갑니다." />
+    <title text="팡팡에서만 생길 수 있는 일!" />
+    <title text="침략자를 위한 나라는 없다!" />
+    <title text="타마마 이등병 구하기." />
+    <title text="이보다 더 전투적일 순 없다!" />
+    <title text="침략자였던 사나이 입니다." />
+    <title text="거침없이 침략 한판 입니다." />
+    <title text="못 말리는 팡팡" />
+    <title text="무조건 쏘는 겁니다." />
+    <title text="앗싸! 대 작전 발동입니다." />
+    <title text="끝내주는 실력을 보여주마!" />
+    <title text="플레이 플레이 케로로 팡팡!!" />
+    <title text="한방에 날려 버리자!!" />
+    <title text="단단히 각오하고 오라구!" />
+    <title text="팡팡 한판 어때?" />
+    <title text="영광스런 승리를 위해 케로로 팡팡!!" />
+    <title text="반드시 이기는 한판입니다." />
+    <title text="어서 와라 작전을 시작한다!" />
+    <title text="저랑 대결하시죠!" />
+    <title text="그럼 어디 한번 대결해 볼까요?" />
+    <title text="주제에 훗~! 덤벼 보시지!!" />
+    <title text="전열을 가다듬어 출격!!" />
+    <title text="일어서라 케론인 들이여!!!" />
+    <title text="목숨까지 바칠 각오로 입장하시오!" />
+    <title text="마음대로 이 싸움에 끼어 드십쇼!!" />
+    <title text="반드시 승리하고 싶은가?" />
+    <title text="본 작전을 실행에 옮기자구!!" />
+    <title text="케론인의 전투력을 보여주마!" />
+    <title text="덤벼라 아직 멀었다!!" />
+    <title text="유능한 제군들은 언제든 환영입니다." />
+    <title text="드디어 기다리던 전투다!!" />
+    <title text="우리의 작전은 우리자신의 힘으로!!" />
+    <title text="침략작전 발동!!" />
+    <title text="영광의 승리를 위해 행동개시!!" />
+    <title text="침략작전 나도 해보자!!" />
+    <title text="퍼렁별 침략 시작이다!!!" />
+    <title text="나 혼자는 불가능해 제군들 출동!!" />
+    <title text="거참 말 많다 출격 하자구!!" />
+    <title text="입장하는 용기!! 그대가 진정한 전사다!!" />
+    <title text="수단 방법 가리지 말고 공격!!" />
+    <title text="침략 대 작전을 개시 합시다!!" />
+    <title text="통째로 점령하러 갑시다!!" />
+    <title text="백전 백승 그날을 위해 출동!!" />
+    <title text="각오하십쇼!! 절대 지지 않겠습니다." />
+    <title text="전대원 일제히 공격!!" />
+    <title text="서둘러라 공격이다!!" />
+    <title text="지는 사람이 파마 머리하기!!" />
+    <title text="봐주지 않을 겁니다." />
+    <title text="잠시 나 좀 보실까?" />
+    <title text="승승장구 침략작전 시작이다" />
+    <title text="사상 최대의 대작전." />
+    <title text="어딜 감히 덤비느냐!!" />
+    <title text="목표는 지구쟁탈 싸움이랄까?" />
+    <title text="퍼렁별 구출 대작전 시작!" />
+    <title text="자아~ 숙명의 대결이다!" />
+    <title text="헉! 하고 놀랄 작전이 시작된다!" />
+    <title text="지구침략은 포기하지 않아!!" />
+    <title text="덤벼라!!!싸워라!!이겨라!!" />
+    <title text="도전을 접수한다. 덤벼보시지!" />
+    <title text="필사의 퍼렁별 구출 대작전!!" />
+    <title text="퍼렁별 사수 대작전!" />
+    <title text="침략도 매너있게!" />
+    <title text="절체절명의 위기?!" />
+    <title text="퍼렁별 정복 방입니다." />
+    <title text="케론 스타일 슈팅 케로로 팡팡!!" />
+    <title text="팡팡! 재미를 터트리는거야!" />
+    <title text="팡팡 터지는 재미~ 케로로 팡팡!!" />
+  </gameroom_titles>
+
+  <tip_hint>
+    <tiphint text="[1],[2],[3]버튼으로 무기를 변경 합니다." />
+    <tiphint text="[4],[5],[6]버튼으로 소모성 아이템을 사용합니다." />
+    <tiphint text="[W],[A],[S],[D]버튼으로 이동합니다. 같은 방향을 2번 누르면 구릅니다." />
+    <tiphint text="[R]버튼으로 정 조준 시점으로 전환할 수 있습니다." />
+    <tiphint text="[Z].[X].[C]버튼으로 단계별로 강한 스킬을 사용합니다." />
+    <tiphint text="[Space Bar]를 누르면 점프를 합니다." />
+    <tiphint text="[마우스 왼쪽 버튼]으로 무기 공격을 합니다." />
+    <tiphint text="[마우스 휠]을 위/아래로 움직이면 확대/축소 합니다." />
+    <tiphint text="[마우스 오른쪽 버튼]을 누르고 마우스를 움직이면 화면을 회전시킵니다." />
+    <tiphint text="[TAP]버튼으로 게임의 중간 결과를 확인합니다." />
+  </tip_hint>
+
+  <advance_training_grade>
+    <grade text="달인" />
+    <grade text="고수" />
+    <grade text="중수" />
+    <grade text="하수" />
+    <grade text="초보" />
+  </advance_training_grade>
+
+  <tutorial_message>
+    <message id="step1_01" text="\n안녕하세요. <font color='#FF0000'>모아</font>에요~말하자면 자기소개?" />
+    <message id="step1_02" text="퍼렁별 침략에 앞서 일일 훈련조교 담당을 맡았답니다.\n이번 훈련은 기본적인 움직임부터 시작해서 전투 훈련으로 끝낼 예정이에요." />
+    <message id="step1_03" text="첫 번째 훈련장에서는 허수아비를 상대로 다양한 연습을 해볼 거에요\n마우스를 사용한 시점 활용과 조준, 퀵버튼이나 캐릭터 이동부터 시작해서,\n 케로로팡팡을 즐기는데 꼭 필요한 정보들만 엄선했답니다." /> 
+    
+<!-- 마우스 사용 훈련 1 -->
+
+    <message id="step1_04" text="그럼 첫 번째 훈련은 마우스를 사용해 상대를 조준하는 거에요.\n<font color='#FF0000'>마우스 오른쪽 버튼을 누른 채로</font> 빛기둥 쪽으로 화면을 돌려 보세요.\n빛기둥에 둘러쌓인 물건들은 앞으로 훈련에서 중요한 목표임을 말한답니다." />
+    <message id="step1_05" text="이 정도는 역시 간단하죠?\n<font color='#FF0000'>마우스 오른쪽 버튼</font>으로 화면을 돌려 적이 어디에 있는지 미리 알고 있다면\n어떤 상대도 놓치지 않고 공격할 수 있는 거죠. 말하자면 백전백승? " />
+    <message id="step1_06" text="그럼 화면을 움직이는 걸 한 번만 더 해볼까요?\n<font color='#FF0000'>마우스 오른쪽 버튼</font>을 꾹 누른 채로 마우스를 이리저리 움직여 보세요.\n그리고, <font color='#FF0000'>빛기둥을 정면으로 쳐다볼 수 있게</font> 화면을 돌려보세요." /> 
+    
+    <!-- 마우스 사용 훈련 2 -->
+    
+    <message id="step2_01" text="좋아요! 그럼 이번엔 목표물을 조준하는 방법을 배워보기로 해요.\n<font color='#FF0000'>마우스를 움직이면 따라 움직이는 동그란 원</font> 이 바로 <font color='#00FF00'>조준점</font> 이랍니다.\n총을 사용하면 총알이 조준점을 향해서 날아가죠." />
+    <message id="step2_02" text="자 이제 <font color='#FF0000'>빛이나는 허수아비</font>를 하나씩 <font color='#FF0000'>조준</font>해 보세요.\n조준하기까지 걸리는 시간이 짧을수록 상대보다 더 유리하겠죠?\n마우스를 움직여 <font color='#FF0000'>조준점을 허수아비에 가져다 대면 됩니다.</font>" />
+    <message id="step2_03" text="잘했어요! 바로 그런 식으로 하는 거랍니다.\n한가지 팁을 알려드리자면 <font color='#FF0000'>허수아비를 정면으로 보고 조준</font>하는 것이\n공격할 때 좀 더 정확하답니다." />
+    
+    <!-- 퀵턴 사용 훈련 -->
+    
+    <message id="step2_04" text="지금까지 마우스를 사용해서 화면을 돌리는 방법이라던가,\n적을 조준하는 훈련을 해봤는데요.\n그럼 이번에는 일반 시점일 때만 사용할 수 있는 <font color='#00FF00'>퀵턴</font>을 배워 보도록 할까요?" />
+    <message id="step2_05" text="<font color='#00FF00'>퀵턴</font>은 일반 시점에서 빠른 방향전환이 필요할 때 사용해요.\n키보드의 <font color='#FF0000'>'Q'버튼</font>을 누르면 현재 조준점이 있는 방향으로 화면이\n빠르게 회전한답니다." />
+    <message id="step2_06" text="그럼 아무 방향으로든 조준점을 이동시킨 후 퀵턴을 사용해 보세요.\n원하는 방향으로 조준점을 이동시킨 후 키보드의 <font color='#FF0000'>'Q'버튼</font>을 누르면 되요." />
+    <message id="step2_07" text="퀵턴을 사용하니 화면이 조준점 쪽으로 돌아가죠?\n그럼 키보드의 <font color='#FF0000'>'Q'버튼</font>을 눌러 퀵턴을 다시 연습해 보세요~" />
+
+     <!-- 정조준 시점 사용 훈련 -->
+     
+    <message id="step2_08" text="잘했어요. 그럼 이번에는 시점에 대해서 추가로 설명드릴께요.\n시점은 <font color='#00FF00'>일반 시점과 정조준 시점</font> 두 가지가 있는데,\n키보드의 <font color='#FF0000'>'R'버튼</font>으로 두 시점을 자유롭게 변경할 수 있어요." />
+    <message id="step2_09" text="일반 시점은 주변을 넓게 볼 수 있지만 정확한 조준이 어렵고,\n정조준 시점은 마우스의 움직임에 즉시 따라가지만 시야가 좁아요.\n또 아까 설명했던 <font color='#00FF00'>퀵턴은 일반 시점에서만 사용이 가능</font>하죠.\n필요할 때마다 두 시점을 자유롭게 변경하는 게 중요하답니다." />
+    <message id="step2_10" text="그럼 본격적으로 일반 시점과 정조준 시점을 바꿔 볼까요?\n키보드의 <font color='#FF0000'>'R'버튼</font>을 사용해 정조준 시점으로 교체해 보세요." />
+    <message id="step2_11" text="정조준 시점에서 일반 시점으로 다시 돌아오려면\n키보드의 <font color='#FF0000'>'R'버튼</font>을 누르세요." />
+    <message id="step2_12" text="이번에는 정조준 시점을 사용해 빛나는 허수아비를 바라보세요.\n일반 시점이 아니라 <font color='#FF0000'>정조준 시점에서만 완료</font> 되니 주의하세요!\n시점은 <font color='#FF0000'>'R'버튼</font>을 누르시면 전환된답니다." />
+    <message id="step2_13" text="좋아요. 전투 중에 언제라도 <font color='#FF0000'>'R'버튼</font>을 눌러서 \n 일반 시점과 정조준 시점을 변경할 수 있으니 꼭 활용하세요. \n마우스를 통한 조작 훈련을 완벽하게 익히셨네요. 축하드려요!" />
+    
+    <!-- 이동 및 구르기 훈련 -->
+     
+    <message id="step3_01" text="시점 사용법만 익히면 캐릭터를 이동하는 것은 매우 간단해요.\n키보드의 <font color='#FF0000'>'W,A,S,D'버튼</font>을 눌러 <font color='#00FF00'>앞, 왼쪽, 뒤, 오른쪽</font>으로 움직일 수 있답니다.\n그럼 캐릭터를 직접 움직여서 빛나는 허수아비로 이동해 보세요.\n허수아비가 보이지 않으면 바닥에 그려지는 <font color='#48c1ff'>파란색 화살표</font>를 따라가세요." />
+    <message id="step3_02" text="잘 했어요! 그럼 다음 허수아비로 이동해 보세요.\n키보드의 <font color='#FF0000'>'W,A,S,D'버튼</font>을 눌러 <font color='#00FF00'>앞, 왼쪽, 뒤, 오른쪽</font>으로 움직일 수 있답니다.\n허수아비가 보이지 않으면 바닥에 그려지는 <font color='#48c1ff'>파란색 화살표</font>를 따라가세요." />
+    <message id="step3_03" text="완벽해요! 전투 중에는 항상 움직이는 키를 누르고 있는 게 좋아요.\n이리저리 움직이면 아무래도 상대가 이쪽을 맞추기 힘들어지겠죠?\n대신 이쪽도 상대를 맞추기 힘들어지니, 말하자면 자업자득?" />
+    
+    <message id="step4_01" text="이번에는 빠른 이동이 필요할 때 쓰는 구르기를 해볼까요?\n<font color='#00FF00'>이동하려는 방향의 키를 두 번 연속으로 따닥!~ 하고 누르면</font> \n캐릭터가 그쪽으로 빠르게 한 번 구른답니다." />
+    <message id="step4_02" text="자, 그러면 <font color='#FF0000'>'W'버튼를 따닥 하고 빠르게 두 번 눌러서</font> 앞구르기 실시!~" />
+    <message id="step4_03" text="이번엔 <font color='#FF0000'>'S'버튼을 빠르게 두 번 눌러서</font> 뒷구르기!" />
+    <message id="step4_04" text="이 기세를 몰아  <font color='#FF0000'>'A'버튼을 빠르게 두 번 눌러서</font> 왼쪽 구르기!" />
+    <message id="step4_05" text="마지막으로 <font color='#FF0000'>'D'버튼을 빠르게 두 번 눌러 오른쪽 구르기</font> 로 마무리!" />
+    <message id="step4_06" text="구르기를 알고 나니 이제 그냥 걷기는 느린 것 같죠?\n하지만 구르는 도중에는 공격을 할 수 없다는 것을 꼭 기억하세요!\n유리한 지역에 먼저 도착하고자 할 때 쓰면 좋답니다. 말하자면 과유불급?" />
+    <message id="step4_07" text="축하드려요! 키보드를 사용한 캐릭터 이동 훈련 완전종료!\n이젠 <font color='#00FF00'>점프와 사격</font> 등에 대해서 알아볼 차례겠네요.\n발걸음도 힘차게 다음 훈련장으로 이동~!" />
+   
+    <message id="step5_01" text="케로로팡팡에서는 팡팡 튀는 전투 외에도 팡팡 튀는 <font color='#00FF00'>점프</font>도 존재해요.\n키보드의 <font color='#FF0000'>'스페이스 바'버튼</font>을 누르면 캐릭터가 점프를 하게 되죠.\n엣? 혹시 '스페이스 바'버튼을 모르신다면, <font color='#FF0000'>키보드에서 제일 긴 버튼</font>을 찾아보세요." />
+    <message id="step5_02" text="점프와 이동키를 적절하게 사용해서 <font color='#FF0000'>흰색 깃발까지 이동</font>하세요.\n아참, 정조준 시점이나 일반 시점이나 마음에 드시는 걸 사용하세요. ('R'버튼)\n키보드의 <font color='#FF0000'>'스페이스 바'버튼</font>을 한 번 누르면 캐릭터가 점프한답니다." />
+    
+  <!-- 점프 훈련 -->
+
+    <message id="step5_03" text="역시 케론인답게 점프 하나는 정말 따라올 자가 없겠어요!\n그럼 이번엔 <font color='#FF0000'>붉은색 깃발까지 점프</font>해 볼까요?\n앗! 그런데 거리가 너무 멀어서 일반 점프로는 힘들어 보이네요." />
+    <message id="step5_04" text="이럴 때 필요한 것이 바로 <font color='#FF0000'>이중 점프 아이템</font> 이에요.\n이 아이템은 공중에서 점프를 한 번 더 할 수 있게 해준답니다.\n싸우다 보면 가끔 바닥에 유용한 아이템들이 떨어져 있어요.\n맵 상에서 이런 아이템들을 챙기는 것도 승리의 지름길이죠!" />
+    <message id="step5_05" text="<font color='#FF0000'>이중점프 아이템을 먹은 후</font> 에 붉은색 깃발까지 점프하세요!\n한 번 점프한 후 기다렸다가 캐릭터가 떨어지기 시작할 때\n다시 한 번 더 눌러서 점프하면 보다 먼 거리를 뛰는 것이 가능해요.\n점프는 <font color='#FF0000'>'스페이스 바'버튼</font>을 사용하세요." />
+    <message id="step5_06" text="역시 케로로 소대원들의 점프 실력은 흠잡을 데 없이 완벽하네요!\n이 정도라면 당장 다음 훈련으로 넘어가도 될 것 같은데요?\n캐릭터를 다루는 것은 이미 수준급이니, 당장 무기 사용 훈련으로 가죠!" />
+    <message id="step5_07" text="너무 오랜만의 훈련이라 점프가 좀 어려우신 것 같네요?\n실전 전투를 하다 보면 이런 점프쯤이야 금방 익숙해지실 거에요.\n그럼 다음 훈련은 <font color='#00FF00'>사격</font>이랍니다! 마음껏 쏴 보자구요~" />
+    
+    <!-- 사격 훈련 -->
+
+    <message id="step6_01" text="한 캐릭터는 최대 세 개까지의 무기를 동시에 가질 수 있어요.\n키보드 <font color='#FF0000'>1번버튼은 주무기, 2번버튼은 보조무기, 3번버튼은 기타무기</font>랍니다.\n각 캐릭터마다 잘 사용할 수 있는 무기가 전부 틀리니 참고 바래요.\n그럼 사격 훈련을 시작해 볼까요?" />
+    <message id="step6_02" text="지금 든 무기는 케론군 무기고에서 꺼내온 <font color='#00FF00'>자동소총</font> 중 하나랍니다.\n주무기와 보조무기로 모두 사용할 수 있는 다재다능한 무기죠.\n그럼 정조준이나 일반 시점을 사용해서 <font color='#FF0000'>빛이나는 바구니</font>를 쏘세요!\n바구니는 바닥에 그려진 <font color='#48c1ff'>파란색 화살표 방향</font>에 있어요." />
+    <message id="step6_03" text="잘하셨어요! 성공적으로 목표를 파괴시켰어요.\n그럼 지체 없이 다음 종류의 무기로 가죠!" />
+    <message id="step6_04" text="주무기인 <font color='#00FF00'>로켓포</font>는 공격력이 강하고 장애물 너머의 적도 맞출 수 있어요.\n마우스를 <font color='#00FF00'>한 번만 살짝 눌렀다 떼면 직선 발사</font>, <font color='#00FF00'>꾹 누르고 있다가\n떼면 곡선 발사</font>로 다르게 나가는 게 특징이죠.\n준비 되었으면 <font color='#FF0000'>빛이나는 바구니</font>를 쏘세요. 말하자면 사격개시?" />
+    <message id="step6_05" text="<font color='#00FF00'>기관총</font>은 <font color='#00FF00'>연사력이 매우 빠르고 많은 총알을 발사하는 지원용 무기</font>에요.\n대신 총알의 속도가 느려서 먼 거리나 이동하는 적을 맞추기 어렵죠.\n어떤 상황에서 유리한 무기는 있어도, 그냥 다 좋은 무기는 없답니다.\n준비 되었으면 <font color='#FF0000'>빛이나는 바구니</font>를 쏘세요. 말하자면 사격개시?" />
+    <message id="step6_06" text="<font color='#00FF00'>저격총</font>은 먼 거리의 적을 맞출 때 적합한 주무기랍니다.\n<font color='#FF0000'>'R'버튼을 누르면 줌인</font>할 수 있고 한 번 더 누르면 줌인이 풀려요.\n줌인을 하지 않은 상태에서 쏘면 명중률이 매우 떨어지죠.\n준비 되었으면 <font color='#FF0000'>빛이나는 바구니</font>를 쏘세요. 말하자면 사격개시?" />
+    <message id="step6_07" text="<font color='#00FF00'>권총</font>은 보조무기로써 언뜻 보기엔 약하다고 생각할지 몰라요.\n하지만 평균적으로 빠른 총알 속도에다가 <font color='#FF0000'>상대를 기절 시킬 수도 있답니다</font>.\n특히 권총에 보너스가 있는 케로로나 도로로 등은 자동소총보다 나을거예요.\n준비 되었으면 <font color='#FF0000'>빛이나는 바구니</font>를 쏘세요. 말하자면 사격개시?" />
+    <message id="step6_08" text="<font color='#00FF00'>산탄총</font>은 흔히 샷건이라고 불리는 보조무기에요.\n총알이 사방으로 퍼지기 때문에 상대에 최대한 접근하는 게 중요하죠.\n소문을 듣자니 몇몇 샷건들은 퍼지는 정도가 적은 경우도 있다고 하네요? \n준비 되었으면 <font color='#FF0000'>빛이나는 바구니</font>를 쏘세요. 말하자면 사격개시?" />
+    <message id="step6_09" text="그 외에 <font color='#FF0000'>3번 버튼</font>으로 선택할 수 있는 기타무기도 있어요.\n<font color='#00FF00'>투척 무기</font>는 로켓포의 곡사와 같이 <font color='#FF0000'>마우스 왼쪽 버튼</font>눌렀다 놓으면 던져지구요.\n<font color='#00FF00'>트랩</font>은 <font color='#FF0000'>마우스 왼쪽 버튼</font>을 꾹 누르고 있으면 설치된답니다." />
+    <message id="step6_10" text="다음 훈련장에서는 간단하게 <font color='#00FF00'>필드 아이템</font>에 대해서 배워보도록 해요.\n그럼 출발!~" />
+    
+    <!-- 필드아이템 획득 훈련 -->
+    
+    <message id="step7_01" text="게임 맵에 놓여 있는 물건들 중 일부는 총으로 부술 수 있답니다.\n주로 상자를 파괴하면 나오는 아이템들은 회복제나 강화제인데요.\n예를 들어 아까 전 점프 연습에서 얻었던 이중점프도 <font color='#00FF00'>필드 아이템</font>이랍니다.\n물론 상자를 안 부숴도 그냥 생성되는 아이템들도 있으니 참고하세요." />
+    <message id="step7_02" text="그럼 여기선 간단히 아이템을 얻기 위해서 상자들을 부숴 보세요.\n아이템은 확률로 등장하기 때문에 혹시 안 나와도 포기하지 마시구요~" />
+    <message id="step7_03" text="상자를 부수니까 아이템이 나왔나요?\n확률로 등장하기 때문에 안 나와도 포기하지 마세요. 말하자면 분골쇄신?\n자, 계속해서 전진! 빛기둥으로 표시되는 상자를 계속 부숴 보세요!" />
+    <message id="step7_04" text="잘했어요! 쓸 만한 상자들을 다 부쉈네요. 말하자면 한건해결?\n아이템의 효과가 즉시가 아니라면  얻고 나서 직접 사용해야 할 때도 있어요.\n키보드의 <font color='#FF0000'>4,5,6번 버튼</font>을 사용해서 아이템들을 사용할 수 있답니다.\n상점에서도 회복제와 강화제를 파니까 참고하세요." />
+    <message id="step7_05" text="그럼 다음에는 간단하게 <font color='#00FF00'>스킬</font>을 사용해 볼까요?.\n스킬 훈련장으로 고고~고!" />
+    
+    <!-- 스킬 사용 훈련 -->
+    
+    <message id="step8_01" text="모든 케로로 소대원들은 각자만의 <font color='#00FF00'>스킬</font>을 3종류씩 가지고 있답니다.\n1차 스킬은 주로 자신과 아군을 지원하는 스킬이고 100SP를 소모해요.\n2차 스킬은 공격&지원 겸용에 200SP를 소모하고요.\n3차 스킬은 필살기로써 300SP를 소모하지만 막강한 공격력을 자랑한답니다." />
+    <message id="step8_02" text="사용법은 간단해요. 화면 아래의 <font color='#48c1ff'>푸른색 바</font>가 <font color='#00FF00'>현재 SP량</font>을 나타낸답니다.\n1차 스킬은 100SP, 2차 스킬은 200SP, 3차 스킬은 300SP이 필요해요.\n각 스킬의 효과를 극대화하기 위해서는 적절한 타이밍이 중요하답니다." />
+    <message id="step8_03" text="그럼 일단 가상으로 아군과 적군을 불러와 보겠어요.\n갑자기 다른 캐릭터들이 나타난다고 해서 너무 놀라지 마세요." />
+    <message id="step8_04" text="그러면 1차 스킬을 한 번 사용해 보세요.\n15초 이내에 키보드의 <font color='#FF0000'>'Z'버튼</font>을 눌러 1차 스킬을 한 번 사용해 보세요.\n타마마는 1차 스킬을 사용한 후 꼭 아군을 선택하세요.\n※ 15초 후에 자동으로 다음 단계로 넘어갑니다." />
+    <message id="step8_05" text="이번에는 2차 스킬을 사용해 볼까요?.\n20초 이내에 키보드의 <font color='#FF0000'>'X'버튼</font>을 눌러  2차 스킬을 한 번 사용해 보세요.\n※ 20초 후에 자동으로 다음 단계로 넘어갑니다." />
+    <message id="step8_06" text="3차 스킬은 <font color='#FF0000'>'C'버튼</font>을 눌러서 사용하고 도중에 \n<font color='#FF0000'>'W,A,S,D'버튼과 마우스</font>로 조준을 바꾸거나 이동할 수 있답니다.\n30초 이내에 키보드의 <font color='#FF0000'>'C'버튼</font>을 눌러 3차 스킬을 한 번 사용해 보세요!\n※ 30초 후에 자동으로 다음 단계로 넘어갑니다." />
+    <message id="step8_07" text="야호~! 이로써 스킬 사용 훈련을 무사히 마치셨네요!\nSP를 아껴서 필살기를 쓸 것인지, 필요할 때마다 1, 2차 스킬을 사용할 것인지는\n여러분이 적절하게 판단해서 사용하면 된답니다." />
+    
+    <!-- 케로볼 쟁탈전 훈련
+    <message id="step9_01" text="이 훈련도 슬슬 끝이 보이네요. 조금만 더 힘내죠! \n이번엔 <font color='#00FF00'>케로볼 쟁탈전에서 케로볼을 다루는 방법</font>을 소개할께요.\n맵 상에 놓여진 케로볼을 들고 자신의 골대로 가져가면 성공이죠.\n상대보다 <font color='#FF0000'>케로볼</font>을 더 많이 가져와 아군 골대에 넣으면 이긴답니다." />
+    <message id="step9_02" text="훈련 목표로 표시되는 케로볼을 찾아서 직접 들어보세요.\n케로볼이 잘 잡혀지지 않으면 <font color='#00FF00'>공 쪽으로 살짝 점프(스페이스 바)</font>하세요.\n케로볼을 들었다면 앞쪽에 있는 <font color='#FF0000'>붉은색 골대를 향해 돌진</font>하세요!" />
+    <message id="step9_03" text="아차! 여긴 상대편 골대네요. <font color='#00FF00'>골대 색상</font>을 보면 알 수 있죠.\n저 끝부분에 아군 골대가 있는데 장애물로 막혀 있어요.\n케로볼은 들고 움직일 수도 있고 <font color='#FF0000'>마우스 왼쪽 버튼</font>을 꾹 누르면 던질 수도 있답니다.\n케로볼을 던져서 자신의 골대로 이동해 보세요." />-->
+    <message id="step10_01" text="이것으로 기초 훈련 1단계 완전종료! 말하자면 작전종료?" />
+    <message id="step10_02" text="이것으로 기초 훈련 2단계 완전종료! 말하자면 작전종료?" />
+    <message id="step10_03" text="이것으로 기초 훈련 3단계 완전종료!\n케로로팡팡의 세계로 오신 걸 환영합니다! 말하자면 작전성공?" />
+    
+  </tutorial_message>
+
+  <training_title>
+    <title id="basic_training_01" text="시점 및 이동 조작" />
+    <title id="basic_training_02" text="사격과 필드아이템 활용" />
+    <title id="basic_training_03" text="스킬 사용 및 규칙 이해" />
+    
+    <title id="Special_Training_01" text="바주카 훈련 01" />
+    <title id="Special_Training_02" text="스나이퍼 훈련 01" />
+    <title id="Special_Training_03" text="지뢰 훈련 01" />
+    <title id="practice_title" text="섬멸전 모의 전투" />
+  </training_title>
+
+  <training_brief>
+    <brief id="Bazooka_Traning_01" text="바주카는 장애물 너머 먼 곳에 있는 적도 공격할 수 있는 강력한 성능의 무기이지만, 근접한 적에게는 긴 재장전 시간으로 인해 매우 취약한 단점도 가지고 있습니다." />
+    <brief id="Sniper_Traning_01" text="스나이퍼 라이플은 장거리에서 적을 정확하게 맞출 수 있는 위력을 지니고 있는 대신에 사용자의 실력에 위력이 크게 좌우되는 무기이기도 합니다." />
+    <brief id="Mine_Traning_01" text="지뢰는 적절한 위치에 설치한다면 적에게 큰 피해를 줄 수 있습니다. 상대를 지뢰가 설치된 곳으로 유인하는 방법을 익혀 보세요." />
+    
+    <brief id="basic_training_01" text="시점을 활용하고 캐릭터를 조작하는 방법을 배웁니다.\n[훈련 종료 보상 = 5000팡 지급]\n※첫 1회 훈련 완료시에만 지급됩니다." />
+    <brief id="basic_training_02" text="목표를 공격하고 필드에서 아이템을 획득하여 활용하는 방법을 배웁니다.\n[훈련 종료 보상 = 무기 세트 15일치 지급]\n※첫 1회 훈련 완료시에만 지급됩니다." />
+    <brief id="basic_training_03" text="스킬을 사용하는 방법을 배웁니다.\n[훈련 종료 보상 = 팡 및 공헌도 50% 증가 프리미엄 아이템 15일치 지급]\n※첫 1회 훈련 완료시에만 지급됩니다." />
+    <brief id="practice_brief" text="무기를 테스트할 수 있는 모의 전투입니다. 자신의 캐릭터와 무기를 가지고 바이퍼들과 자유롭게 싸울 수 있습니다." />
+  </training_brief>
+</l10n>

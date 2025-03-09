@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="bamboo_grove\bamboo_grove.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="keron dummy" code="119603212" yLayer="0" posX="-12" posY="0" posZ="1" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keron dummy 2" code="119603213" yLayer="0" posX="-18" posY="0" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keron dummy 3" code="119603214" yLayer="0" posX="-18" posY="0" posZ="-6" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="keron dummy 4" code="119603215" yLayer="0" posX="-25" posY="0" posZ="1" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-5" posY="0" posZ="2" angleX="0" angleY="-50" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-22" posY="0" posZ="-13" angleX="0" angleY="-30" angleZ="0" scale="1"/>
+	<Object engName="bamboo sheaf" code="119603210" yLayer="0" posX="-26.2612" posY="0" posZ="-14.6" angleX="0" angleY="0" angleZ="0" scale="2"/>
+	<Object engName="bamboo sheaf" code="119603210" yLayer="0" posX="-27" posY="0" posZ="-13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="23.68" posY="0" posZ="-1.18" angleX="0" angleY="-70" angleZ="0" scale="1.4"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="27.16" posY="0" posZ="5.04" angleX="0" angleY="-90" angleZ="0" scale="1.4"/>
+	<Object engName="declaration" code="119603208" yLayer="0" posX="11.34" posY="0" posZ="8.91" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="12" posY="0" posZ="-2" angleX="0" angleY="50" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="6.37999" posY="0" posZ="3.15001" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-2.89" posY="0" posZ="-12.21" angleX="0" angleY="17.2" angleZ="0" scale="1.3"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="14.75" posY="-1.21" posZ="-5" angleX="0" angleY="94.7994" angleZ="0" scale="1.4"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-7.77002" posY="-1.43" posZ="-9.07822" angleX="0" angleY="234.599" angleZ="0" scale="1.7"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="14.14" posY="-1.29" posZ="-10.84" angleX="0" angleY="94.8999" angleZ="0" scale="1.4"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="18" posY="0" posZ="13" angleX="0" angleY="220" angleZ="0" scale="1"/>
+	<Object engName="basket" code="119603207" yLayer="0" posX="11" posY="0" posZ="11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="-2" posY="0" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="1" posY="0" posZ="1" angleX="0" angleY="0" angleZ="0" scale="1.6"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="2" posY="0" posZ="1" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="0" posY="0" posZ="-1" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="11" posY="0" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1.4"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="-28" posY="-0.45" posZ="1" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="-28" posY="-0.3" posZ="-6.49001" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="-26.27" posY="-0.31" posZ="-10.68" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="-19.73" posY="-0.36" posZ="-11.26" angleX="0" angleY="-16.1" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="-24.23" posY="-0.38" posZ="9.31" angleX="0" angleY="-40" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="-15.29" posY="-0.35" posZ="12.54" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="-6.97" posY="-0.35" posZ="8.73" angleX="0" angleY="49.6" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="5" posY="0" posZ="11" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="6" posY="-0.71" posZ="11" angleX="0" angleY="120" angleZ="0" scale="1"/>
+	<Object engName="mushroom wood" code="117506065" yLayer="0" posX="14" posY="0" posZ="2" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="basket" code="119603207" yLayer="0" posX="15" posY="0" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="12.52" posY="-0.7" posZ="15.24" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="7.49001" posY="-0.7" posZ="3.43" angleX="0" angleY="40" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="13.23" posY="-0.12" posZ="-1.39" angleX="0" angleY="40" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="20.14" posY="-0.12" posZ="-2.87" angleX="0" angleY="-1.4" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="21.8501" posY="-0.12" posZ="11.87" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="26.23" posY="-0.12" posZ="5.14" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 3" code="117506068" yLayer="0" posX="25.72" posY="-0.12" posZ="-1.33" angleX="0" angleY="109" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="2.34" posY="-1.21" posZ="4.94002" angleX="0" angleY="2.2" angleZ="0" scale="1.4"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="1.33" posY="-0.789999" posZ="4.54001" angleX="0" angleY="2.8" angleZ="0" scale="1"/>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="14" posY="0" posZ="-23" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="-3.38001" posY="-0.21" posZ="-28.89" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="16" posY="-0.12" posZ="-25.85" angleX="0" angleY="-20" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="-17.7" posY="-0.12" posZ="-26.42" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="-23.11" posY="-0.12" posZ="-21.9" angleX="0" angleY="65" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="-15.3101" posY="-0.69" posZ="-14.92" angleX="0" angleY="-22" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="-5.95" posY="-0.12" posZ="0.6" angleX="0" angleY="-61.7" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="-9.19" posY="-0.12" posZ="-6.16" angleX="0" angleY="-70" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="-12.54" posY="-0.12" posZ="-9.16" angleX="0" angleY="-16.7" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="14.33" posY="-0.77" posZ="-8.06" angleX="0" angleY="96.1999" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="23" posY="0" posZ="-17" angleX="0" angleY="-96.6999" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="24.36" posY="-0.12" posZ="-17.65" angleX="0" angleY="77.4" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="3.92002" posY="-0.72" posZ="-12.17" angleX="0" angleY="6.59999" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="2.68" posY="0" posZ="-8.9" angleX="0" angleY="11.7" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="10" posY="0" posZ="-14.19" angleX="0" angleY="-180" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="16" posY="-0.12" posZ="-12.48" angleX="0" angleY="-20" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="20.77" posY="-0.12" posZ="-12.2" angleX="0" angleY="14.8999" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="14.1299" posY="-0.12" posZ="-18.38" angleX="0" angleY="85.2999" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 3" code="117506068" yLayer="0" posX="14.63" posY="-0.12" posZ="-24.8801" angleX="0" angleY="86.7001" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 1" code="117506066" yLayer="0" posX="-24.33" posY="-0.12" posZ="-19.17" angleX="0" angleY="70" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="-7.90002" posY="-0.73" posZ="-9.08998" angleX="0" angleY="56.2002" angleZ="0" scale="1"/>
+	<Object engName="keroball holder" code="117506075" yLayer="0" posX="9.43999" posY="0" posZ="-16.32" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="12" posY="0" posZ="-25" angleX="0" angleY="-30" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-1" posY="0" posZ="-27" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-1" posY="0" posZ="-25" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-1" posY="0" posZ="-23" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-1" posY="0" posZ="-21" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-1" posY="0" posZ="-19" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-1" posY="0" posZ="-17" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-1" posY="0" posZ="-15" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="-1" posY="0" posZ="-13" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="8" posY="0" posZ="-22" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="7" posY="0" posZ="-23" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="5" posY="0" posZ="-23" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="8" posY="0" posZ="-20" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="0" posY="0" posZ="-20" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="2" posY="0" posZ="-20" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="4" posY="0" posZ="-20" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="8" posY="0" posZ="-18" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="8" posY="0" posZ="-16" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="8" posY="0" posZ="-14" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="7" posY="0" posZ="-13" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="5" posY="0" posZ="-13" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="3" posY="0" posZ="-13" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="1" posY="0" posZ="-13" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="0" posY="0" posZ="-13" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="bamboo sheaf" code="119603210" yLayer="0" posX="-11" posY="0" posZ="-26" angleX="0" angleY="0" angleZ="0" scale="2"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-10" posY="0" posZ="-24" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="barricade" code="119603209" yLayer="0" posX="-10" posY="0" posZ="-21.39" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="basket" code="119603207" yLayer="0" posX="-10" posY="0" posZ="-19" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="basket" code="119603207" yLayer="0" posX="-9" posY="0" posZ="-20" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="13.68" posY="-1" posZ="-5.45999" angleX="0" angleY="50" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="13" posY="-1" posZ="-10.11" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="28" posY="0" posZ="-6" angleX="0" angleY="-40" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="32" posY="0" posZ="-8.57001" angleX="0" angleY="-15" angleZ="0" scale="1.8"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="30" posY="0" posZ="-13" angleX="0" angleY="30" angleZ="0" scale="1.4"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="31" posY="0" posZ="-16.75" angleX="0" angleY="0" angleZ="0" scale="2"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="25.9001" posY="0" posZ="-4.80002" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="26.48" posY="0" posZ="-9.07" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="10" posY="0" posZ="-7" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="1" posY="0" posZ="-1" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="wooden box" code="117506049" yLayer="1" posX="0" posY="1" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="wooden box" code="117506049" yLayer="0" posX="11" posY="0" posZ="-6" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ninja flag1" code="119603204" yLayer="0" posX="21" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ninja flag2" code="119603205" yLayer="0" posX="16" posY="0" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="14" posY="0" posZ="12" angleX="0" angleY="100" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="13.61" posY="0" posZ="9.99" angleX="0" angleY="100" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="13.24" posY="0" posZ="8" angleX="0" angleY="100" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="12.91" posY="0" posZ="6" angleX="0" angleY="100" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="12.59" posY="0" posZ="4" angleX="0" angleY="100" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="12.05" posY="0" posZ="2.09" angleX="0" angleY="110" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="11.7" posY="0" posZ="0.05" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="22" posY="0" posZ="4" angleX="0" angleY="150" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="20.14" posY="0" posZ="3" angleX="0" angleY="150" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="19" posY="0" posZ="1.49" angleX="0" angleY="110" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="18.32" posY="0" posZ="-0.35" angleX="0" angleY="110" angleZ="0" scale="1"/>
+	<Object engName="wooden_wall_2" code="123797511" yLayer="0" posX="18" posY="0" posZ="-2.34" angleX="0" angleY="90" angleZ="0" scale="1"/>
+</ARRANGEMENT>

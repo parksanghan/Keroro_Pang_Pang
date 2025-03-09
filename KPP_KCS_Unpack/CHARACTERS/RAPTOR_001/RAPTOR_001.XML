@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <raptor_001 file="raptor_001.msh" />
+</Objects>
+<Materials version="2">
+  <mraptor_001
+    diffuse="raptor_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="raptor_001.skl"
+/>
+<collision
+  file="raptor_001.col"
+/>
+</Scene.XML>

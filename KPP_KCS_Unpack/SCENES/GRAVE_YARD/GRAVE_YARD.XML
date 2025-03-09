@@ -1,0 +1,313 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_gy_shadow_circle_tree01 file="notrans_gy_shadow_circle_tree01.msh" />
+ <notrans_gy_shadow_square_tomb01_01 file="notrans_gy_shadow_square_tomb01_01.msh" />
+ <notrans_gy_plant01_01 file="notrans_gy_plant01_01.msh" />
+ <notrans_gy_flatstone01_01 file="notrans_gy_flatstone01_01.msh" />
+ <notrans_gy_shadow_circle_stone01 file="notrans_gy_shadow_circle_stone01.msh" />
+ <notrans_gy_shadow_square_rock01 file="notrans_gy_shadow_square_rock01.msh" />
+ <notrans_gy_shadow_square_tomb02_01 file="notrans_gy_shadow_square_tomb02_01.msh" />
+ <notrans_gy_wall01 file="notrans_gy_wall01.msh" />
+ <gy_rock_01 file="gy_rock_01.msh" />
+ <notrans_gy_earth01_01 file="notrans_gy_earth01_01.msh" />
+ <notrans_gy_shadow_square_fence01 file="notrans_gy_shadow_square_fence01.msh" />
+ <notrans_gy_grass01_01 file="notrans_gy_grass01_01.msh" />
+ <notrans_gy_hole01_001 file="notrans_gy_hole01_001.msh" />
+ <gy_tomb01_02 file="gy_tomb01_02.msh" />
+ <gy_tomb01_09 file="gy_tomb01_09.msh" />
+ <gy_tomb01_08 file="gy_tomb01_08.msh" />
+ <notrans_gy_fence_001 file="notrans_gy_fence_001.msh" />
+ <notrans_gy_stone01_01 file="notrans_gy_stone01_01.msh" />
+ <gy_church_window01 file="gy_church_window01.msh" />
+ <gy_church_01 file="gy_church_01.msh" />
+ <gy_tree01_01 file="gy_tree01_01.msh" />
+ <notrans_gy_coffin01_14 file="notrans_gy_coffin01_14.msh" />
+ <notrans_gy_coffin01_04 file="notrans_gy_coffin01_04.msh" />
+ <notrans_gy_coffin01_16 file="notrans_gy_coffin01_16.msh" />
+ <gy_wood_001 file="gy_wood_001.msh" />
+ <gy_wood_002 file="gy_wood_002.msh" />
+ <gy_wood_006 file="gy_wood_006.msh" />
+ <gy_wood_008 file="gy_wood_008.msh" />
+ <notrans_gy_shovel01_02 file="notrans_gy_shovel01_02.msh" />
+ <notrans_gy_shovel01_01 file="notrans_gy_shovel01_01.msh" />
+ <notrans_lob_wood_dea_01 file="notrans_lob_wood_dea_01.msh" />
+ <notrans_gy_earth01_02 file="notrans_gy_earth01_02.msh" />
+ <notrans_gy_shadow_square_church01 file="notrans_gy_shadow_square_church01.msh" />
+ <notrans_gy_sky_001 file="notrans_gy_sky_001.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <GAME_MonsterMoveBound file="GAME_MonsterMoveBound.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_gy_moon_001 file="notrans_gy_moon_001.msh" />
+ <notrans_gy_ground18 file="notrans_gy_ground18.msh" />
+ <notrans_gy_water01_001 file="notrans_gy_water01_001.msh" />
+ <notrans_gy_ground06 file="notrans_gy_ground06.msh" />
+ <notrans_gy_ground26 file="notrans_gy_ground26.msh" />
+ <notrans_gy_ground24 file="notrans_gy_ground24.msh" />
+ <notrans_gy_ground25 file="notrans_gy_ground25.msh" />
+ <notrans_gy_ground02 file="notrans_gy_ground02.msh" />
+ <notrans_gy_ground20 file="notrans_gy_ground20.msh" />
+ <notrans_gy_ground14 file="notrans_gy_ground14.msh" />
+ <notrans_gy_shadow_circle_ground02 file="notrans_gy_shadow_circle_ground02.msh" />
+ <notrans_gy_ground31 file="notrans_gy_ground31.msh" />
+ <notrans_gy_ground36 file="notrans_gy_ground36.msh" />
+ <notrans_gy_ground15 file="notrans_gy_ground15.msh" />
+ <notrans_gy_ground03 file="notrans_gy_ground03.msh" />
+ <notrans_gy_ground21 file="notrans_gy_ground21.msh" />
+ <notrans_gy_ground04 file="notrans_gy_ground04.msh" />
+ <notrans_gy_ground27 file="notrans_gy_ground27.msh" />
+ <notrans_gy_ground22 file="notrans_gy_ground22.msh" />
+ <notrans_gy_ground16 file="notrans_gy_ground16.msh" />
+ <notrans_gy_ground35 file="notrans_gy_ground35.msh" />
+ <notrans_gy_ground30 file="notrans_gy_ground30.msh" />
+ <notrans_gy_ground29 file="notrans_gy_ground29.msh" />
+ <notrans_gy_ground19 file="notrans_gy_ground19.msh" />
+ <notrans_gy_ground13 file="notrans_gy_ground13.msh" />
+ <notrans_gy_ground01 file="notrans_gy_ground01.msh" />
+ <notrans_gy_shadow_circle_ground01 file="notrans_gy_shadow_circle_ground01.msh" />
+ <notrans_gy_ground33 file="notrans_gy_ground33.msh" />
+ <notrans_gy_ground37 file="notrans_gy_ground37.msh" />
+ <notrans_gy_ground32 file="notrans_gy_ground32.msh" />
+ <notrans_gy_ground28 file="notrans_gy_ground28.msh" />
+ <notrans_gy_shadow_circle_ground03 file="notrans_gy_shadow_circle_ground03.msh" />
+ <notrans_gy_ground34 file="notrans_gy_ground34.msh" />
+ <notrans_gy_ground23 file="notrans_gy_ground23.msh" />
+ <notrans_gy_ground05 file="notrans_gy_ground05.msh" />
+ <notrans_gy_ground17 file="notrans_gy_ground17.msh" />
+ <notrans_gy_ground11 file="notrans_gy_ground11.msh" />
+ <notrans_gy_ground12 file="notrans_gy_ground12.msh" />
+ <notrans_gy_ground07 file="notrans_gy_ground07.msh" />
+ <notrans_gy_ground08 file="notrans_gy_ground08.msh" />
+ <notrans_gy_ground09 file="notrans_gy_ground09.msh" />
+ <notrans_gy_ground10 file="notrans_gy_ground10.msh" />
+ <notrans_gy_sky_02 file="notrans_gy_sky_02.msh" />
+ <notrans_gy_shadow_square_cart01 file="notrans_gy_shadow_square_cart01.msh" />
+ <gy_vine01_01 file="gy_vine01_01.msh" />
+ <gy_tomb01_01 file="gy_tomb01_01.msh" />
+ <gy_tomb01_10 file="gy_tomb01_10.msh" />
+ <gy_tomb01_07 file="gy_tomb01_07.msh" />
+ <gy_tomb01_06 file="gy_tomb01_06.msh" />
+ <gy_tomb01_05 file="gy_tomb01_05.msh" />
+ <gy_tomb01_04 file="gy_tomb01_04.msh" />
+ <notrans_gy_coffin01_12 file="notrans_gy_coffin01_12.msh" />
+ <notrans_gy_coffin01_03 file="notrans_gy_coffin01_03.msh" />
+ <notrans_gy_coffin01_01 file="notrans_gy_coffin01_01.msh" />
+ <notrans_gy_coffin01_02 file="notrans_gy_coffin01_02.msh" />
+ <notrans_gy_coffin01_06 file="notrans_gy_coffin01_06.msh" />
+ <notrans_gy_coffin01_07 file="notrans_gy_coffin01_07.msh" />
+ <gy_wood_004 file="gy_wood_004.msh" />
+ <gy_wood_003 file="gy_wood_003.msh" />
+ <gy_wood_010 file="gy_wood_010.msh" />
+ <gy_wood_005 file="gy_wood_005.msh" />
+ <gy_wood_007 file="gy_wood_007.msh" />
+ <gy_wood_009 file="gy_wood_009.msh" />
+ <gy_coffin01_10 file="gy_coffin01_10.msh" />
+ <gy_coffin01_09 file="gy_coffin01_09.msh" />
+ <gy_cart01_02 file="gy_cart01_02.msh" />
+ <notrans_gy_shovel01_03 file="notrans_gy_shovel01_03.msh" />
+ <gy_tomb01_03 file="gy_tomb01_03.msh" />
+ <gy_rock_02 file="gy_rock_02.msh" />
+ <gy_cart01_01 file="gy_cart01_01.msh" />
+ <notrans_gy_sign01_02 file="notrans_gy_sign01_02.msh" />
+ <notrans_gy_sign01_04 file="notrans_gy_sign01_04.msh" />
+ <notrans_gy_shadow_square_sign_01 file="notrans_gy_shadow_square_sign_01.msh" />
+ <notrans_gy_shadow_circle_shovel01 file="notrans_gy_shadow_circle_shovel01.msh" />
+ <notrans_gy_earth02_15 file="notrans_gy_earth02_15.msh" />
+ <notrans_gy_earth02_02 file="notrans_gy_earth02_02.msh" />
+ <notrans_gy_earth02_03 file="notrans_gy_earth02_03.msh" />
+ <notrans_gy_earth02_04 file="notrans_gy_earth02_04.msh" />
+ <notrans_gy_earth02_05 file="notrans_gy_earth02_05.msh" />
+ <notrans_gy_earth02_06 file="notrans_gy_earth02_06.msh" />
+ <notrans_gy_earth02_07 file="notrans_gy_earth02_07.msh" />
+ <notrans_gy_earth02_08 file="notrans_gy_earth02_08.msh" />
+ <notrans_gy_earth02_09 file="notrans_gy_earth02_09.msh" />
+ <notrans_gy_earth02_10 file="notrans_gy_earth02_10.msh" />
+ <notrans_gy_earth02_11 file="notrans_gy_earth02_11.msh" />
+ <notrans_gy_earth02_12 file="notrans_gy_earth02_12.msh" />
+ <notrans_gy_earth02_01 file="notrans_gy_earth02_01.msh" />
+ <notrans_gy_earth02_14 file="notrans_gy_earth02_14.msh" />
+ <notrans_gy_grass02_01 file="notrans_gy_grass02_01.msh" />
+ <notrans_gy_grass02_06 file="notrans_gy_grass02_06.msh" />
+ <notrans_gy_grass02_02 file="notrans_gy_grass02_02.msh" />
+ <notrans_gy_grass02_07 file="notrans_gy_grass02_07.msh" />
+ <notrans_gy_grass02_08 file="notrans_gy_grass02_08.msh" />
+ <notrans_gy_grass02_09 file="notrans_gy_grass02_09.msh" />
+ <notrans_gy_grass02_10 file="notrans_gy_grass02_10.msh" />
+ <notrans_gy_grass02_11 file="notrans_gy_grass02_11.msh" />
+ <notrans_gy_grass02_12 file="notrans_gy_grass02_12.msh" />
+ <notrans_gy_grass02_03 file="notrans_gy_grass02_03.msh" />
+ <notrans_gy_grass02_04 file="notrans_gy_grass02_04.msh" />
+ <notrans_gy_grass02_13 file="notrans_gy_grass02_13.msh" />
+ <notrans_gy_grass02_05 file="notrans_gy_grass02_05.msh" />
+ <notrans_gy_water02_002 file="notrans_gy_water02_002.msh" />
+ <notrans_gy_water02_001 file="notrans_gy_water02_001.msh" />
+ <notrans_gy_water02_004 file="notrans_gy_water02_004.msh" />
+ <notrans_gy_water02_005 file="notrans_gy_water02_005.msh" />
+ <notrans_gy_water02_003 file="notrans_gy_water02_003.msh" />
+ <notrans_gy_shadow_square_coffin01 file="notrans_gy_shadow_square_coffin01.msh" />
+ <notrans_gy_shadow_square_coffin02 file="notrans_gy_shadow_square_coffin02.msh" />
+ <notrans_gy_shadow_square_coffin03 file="notrans_gy_shadow_square_coffin03.msh" />
+ <notrans_gy_shadow_square_coffin04 file="notrans_gy_shadow_square_coffin04.msh" />
+ <notrans_gy_shadow_square_coffin05 file="notrans_gy_shadow_square_coffin05.msh" />
+ <notrans_gy_shadow_circle_wood01 file="notrans_gy_shadow_circle_wood01.msh" />
+ <notrans_gy_shadow_circle_wood03 file="notrans_gy_shadow_circle_wood03.msh" />
+ <notrans_gy_shadow_circle_wood04 file="notrans_gy_shadow_circle_wood04.msh" />
+ <notrans_gy_shadow_circle_wood02 file="notrans_gy_shadow_circle_wood02.msh" />
+ <notrans_gy_grass02_14 file="notrans_gy_grass02_14.msh" />
+ <notrans_gy_tomb02_03 file="notrans_gy_tomb02_03.msh" />
+ <notrans_gy_tomb02_04 file="notrans_gy_tomb02_04.msh" />
+ <notrans_gy_tomb02_01 file="notrans_gy_tomb02_01.msh" />
+ <notrans_gy_tomb02_02 file="notrans_gy_tomb02_02.msh" />
+ <gy_church_window02 file="gy_church_window02.msh" />
+ <gy_church_window03 file="gy_church_window03.msh" />
+ <gy_church_window04 file="gy_church_window04.msh" />
+ <gy_church_window05 file="gy_church_window05.msh" />
+ <gy_church_window06 file="gy_church_window06.msh" />
+ <Object01 file="Object01.msh" />
+</Objects>
+<Materials version="2">
+  <mgy_shadow_circle01
+    diffuse="gy_shadow_circle01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgy_shadow_square01
+    diffuse="gy_shadow_square01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgy_plant01_01
+    diffuse="gy_plant01_01.dds"
+    color="255 255 255"
+  />
+  <mgy_flatstone01_01
+    diffuse="gy_flatstone01_01.dds"
+    color="255 255 255"
+  />
+  <mgy_grass01_001
+    diffuse="gy_grass01_001.dds"
+    color="255 255 255"
+  />
+  <mgy_earth01_001
+    diffuse="gy_earth01_001.dds"
+    color="255 255 255"
+  />
+  <mgy_wall01_001
+    diffuse="gy_wall01_001.dds"
+    color="255 255 255"
+  />
+  <mgy_rock_001
+    diffuse="gy_rock_001.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k17626
+    diffuse="gy_hole01_001.dds"
+    color="255 255 255"
+  />
+  <mgy_tomb01_001
+    diffuse="gy_tomb01_001.dds"
+    color="255 255 255"
+  />
+  <mgy_fence_001
+    diffuse="gy_fence_001.dds"
+    color="255 255 255"
+  />
+  <mgy_stone01_01
+    diffuse="gy_stone01_01.dds"
+    color="255 255 255"
+  />
+  <mgy_window01_01
+    diffuse="gy_church_window01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgy_church_01
+    diffuse="gy_church_01.dds"
+    color="255 255 255"
+  />
+  <mgy_church_02
+    diffuse="gy_church_02.dds"
+    color="255 255 255"
+  />
+  <mgy_church_03
+    diffuse="gy_church_03.dds"
+    color="255 255 255"
+  />
+  <mgy_tree01
+    diffuse="gy_tree01.dds"
+    color="255 255 255"
+  />
+  <mgy_coffin01_001
+    diffuse="gy_coffin01_001.dds"
+    color="255 255 255"
+  />
+  <mgy_wood_001
+    diffuse="gy_wood_001.dds"
+    color="255 255 255"
+  />
+  <mgy_shovel01_001
+    diffuse="gy_shovel01_001.dds"
+    color="255 255 255"
+  />
+  <mlob_wood_dea_01
+    diffuse="lob_wood_dea_01.dds"
+    color="255 255 255"
+  />
+  <mgy_sky_001
+    diffuse="gy_sky_001.dds"
+    color="255 255 255"
+  />
+  <mgy_water01_001
+    diffuse="gy_water01_001.dds"
+    color="255 255 255"
+  />
+  <mgy_earth02_001
+    diffuse="gy_earth02_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgy_moon01_001
+    diffuse="gy_moon01_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgy_grass02_001
+    diffuse="gy_grass02_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgy_water02_001
+    diffuse="gy_water02_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgy_tomb02_001
+    diffuse="gy_tomb02_001.dds"
+    color="255 255 255"
+  />
+  <mnotrans_gy_sky_02
+    diffuse="gy_sky_002.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgy_vine01
+    diffuse="gy_vine.dds"
+    color="255 255 255"
+  />
+  <mgy_cart01
+    diffuse="gy_cart01.dds"
+    color="255 255 255"
+  />
+  <mgy_sign01_001
+    diffuse="gy_sign01_001.dds"
+    color="255 255 255"
+  />
+  <mStandard_21
+    color="27 27 27"
+  />
+</Materials>
+<collision
+  file="grave_yard.col"
+/>
+</Scene.XML>

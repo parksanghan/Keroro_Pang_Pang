@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <sumomo_skill_body file="sumomo_skill_body.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k0
+    diffuse="sumomo_skill_003_human.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="sumomo_skill_003_human.skl"
+/>
+<BoneAnim
+  file="Anims\sumomo_skill_003_human.anm"
+/>
+<collision
+  file="sumomo_skill_003_human.col"
+/>
+</Scene.XML>

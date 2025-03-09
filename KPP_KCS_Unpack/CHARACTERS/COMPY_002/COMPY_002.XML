@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <compy_002 file="compy_002.msh" />
+</Objects>
+<Materials version="2">
+  <mcompy_002
+    diffuse="compy_002.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="compy_002.skl"
+/>
+<collision
+  file="compy_002.col"
+/>
+</Scene.XML>

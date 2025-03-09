@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <nara_house_wood_001 file="nara_house_wood_001.msh" />
+</Objects>
+<Materials version="2">
+  <mnara_house_wood_001
+    diffuse="nara_house_wood_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="nara_house_wood_001.col"
+/>
+</Scene.XML>

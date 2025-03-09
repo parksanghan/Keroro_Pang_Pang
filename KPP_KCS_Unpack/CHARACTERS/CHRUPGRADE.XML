@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<chrUpgrade.XML>
+
+	<Upgrade>
+	<upgrade Name="침략 케로로"	engName="keroro_1"	code="1"	needChr="18939905"	skill1="168820737"	skill2="168820738"	skill3="168820739"	hp="250"	sp="300"	moveSpeed="3"	defense="3"	Pistol="5"	autoRifle="3"	machineGun="1"	shotGun="4"	sniperRifle="5"	roketGun="1"	trap="2"	throw="4"	melee="5"	/>
+	<upgrade Name="돌격 타마마"	engName="tamama_1"	code="2"	needChr="19005441"	skill1="168820740"	skill2="168820741"	skill3="168820742"	hp="240"	sp="300"	moveSpeed="3.1"	defense="3"	Pistol="3"	autoRifle="5"	machineGun="2"	shotGun="5"	sniperRifle="1"	roketGun="2"	trap="3"	throw="4"	melee="4"	/>
+	</Upgrade>
+	
+
+	<BonusStat>
+	<BonusStat engName="keroro"	charId="18939905"	weaponType="1"	grade="A"		delayTime="-0.12"	penetration="0"	splashRange="0"	velocity="10"	minDamage="2"	maxDamage="3"	critical="2"	stunProbability="5"	shotBulletNum="0"	aimAngle="0"	ammoCount="0"	ammoCharge="0"	reloadTime="0"	setTime="0"	/>
+	<BonusStat engName="keroro"	charId="18939905"	weaponType="3"	grade="E"		delayTime="0.03"	penetration="0"	splashRange="0"	velocity="0"	minDamage="0"	maxDamage="0"	critical="-1"	stunProbability="0"	shotBulletNum="0"	aimAngle="0.5"	ammoCount="0"	ammoCharge="0"	reloadTime="2"	setTime="0"	/>
+	<BonusStat engName="keroro"	charId="18939905"	weaponType="4"	grade="B"		delayTime="0"	penetration="0"	splashRange="0.1"	velocity="4"	minDamage="0"	maxDamage="0"	critical="1"	stunProbability="0"	shotBulletNum="1"	aimAngle="-0.5"	ammoCount="10"	ammoCharge="0"	reloadTime="0"	setTime="0"	/>
+	<BonusStat engName="keroro"	charId="18939905"	weaponType="5"	grade="A"		delayTime="-1"	penetration="0"	splashRange="0"	velocity="30"	minDamage="4"	maxDamage="10"	critical="5"	stunProbability="0"	shotBulletNum="0"	aimAngle="0"	ammoCount="0"	ammoCharge="0"	reloadTime="-0.5"	setTime="0"	/>
+	<BonusStat engName="keroro"	charId="18939905"	weaponType="6"	grade="E"		delayTime="0"	penetration="0"	splashRange="0"	velocity="-3"	minDamage="-4"	maxDamage="-6"	critical="0"	stunProbability="0"	shotBulletNum="0"	aimAngle="0"	ammoCount="0"	ammoCharge="0"	reloadTime="0"	setTime="0"	/>
+	<BonusStat engName="keroro"	charId="18939905"	weaponType="7"	grade="D"		delayTime="1"	penetration="0"	splashRange="-0.5"	velocity="0"	minDamage="0"	maxDamage="0"	critical="0"	stunProbability="0"	shotBulletNum="0"	aimAngle="0"	ammoCount="0"	ammoCharge="0"	reloadTime="0"	setTime="0.3"	/>
+	<BonusStat engName="Keroro"	charId="18939905"	weaponType="8"	grade="B"		delayTime="-1"	penetration="0"	splashRange="1"	velocity="5"	minDamage="5"	maxDamage="10"	critical="5"	stunProbability="0"	shotBulletNum="0"	aimAngle="0"	ammoCount="0"	ammoCharge="0"	reloadTime="0"	setTime="-0.3"	/>
+
+	<BonusStat engName="Tamama"	charId="19005441"	weaponType="2"	grade="A"		delayTime="-0.01"	penetration="0"	splashRange="0"	velocity="6"	minDamage="1"	maxDamage="2"	critical="2"	stunProbability="0"	shotBulletNum="0"	aimAngle="0"	ammoCount="20"	ammoCharge="0"	reloadTime="-0.5"	setTime="0"	/>
+    <BonusStat engName="Tamama"	charId="19202049"	weaponType="3"	grade="D"		delayTime="0.02"	penetration="0"	splashRange="0"	velocity="0"	minDamage="0"	maxDamage="0"	critical="-1"	stunProbability="0"	shotBulletNum="0"	aimAngle="0.2"	ammoCount="0"	ammoCharge="0"	reloadTime="0"	setTime="0"	/>
+	<BonusStat engName="Tamama"	charId="19202050"	weaponType="4"	grade="A"		delayTime="0"	penetration="0"	splashRange="0.1"	velocity="4"	minDamage="0"	maxDamage="0"	critical="1"	stunProbability="0"	shotBulletNum="2"	aimAngle="-0.5"	ammoCount="10"	ammoCharge="0"	reloadTime="0"	setTime="0"	/>
+	<BonusStat engName="Tamama"	charId="19005441"	weaponType="5"	grade="E"		delayTime="0"	penetration="0"	splashRange="0"	velocity="-30"	minDamage="-5"	maxDamage="-7"	critical="-2"	stunProbability="0"	shotBulletNum="0"	aimAngle="0"	ammoCount="0"	ammoCharge="0"	reloadTime="1"	setTime="0"	/>
+	<BonusStat engName="Tamama"	charId="19005441"	weaponType="6"	grade="D"		delayTime="0"	penetration="0"	splashRange="0"	velocity="-1"	minDamage="-2"	maxDamage="-4"	critical="0"	stunProbability="0"	shotBulletNum="0"	aimAngle="0"	ammoCount="0"	ammoCharge="0"	reloadTime="0"	setTime="0"	/>
+	<BonusStat engName="Tamama"	charId="19005441"	weaponType="8"	grade="B"		delayTime="-1"	penetration="0"	splashRange="1"	velocity="5"	minDamage="5"	maxDamage="10"	critical="5"	stunProbability="0"	shotBulletNum="0"	aimAngle="0"	ammoCount="0"	ammoCharge="0"	reloadTime="0"	setTime="-0.3"	/>
+	</BonusStat>
+	
+</chrUpgrade.XML>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<JumpFrameData.xml>
+	<JumpFrameData characterName="Keron" frame1="4" frame2="27" weaponChangeFrame="26" />
+	<JumpFrameData characterName="Tamama" frame1="4" frame2="27" weaponChangeFrame="26" />
+	<JumpFrameData characterName="Dororo" frame1="4" frame2="25" weaponChangeFrame="24" />
+</JumpFrameData.xml>

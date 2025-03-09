@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <mcviperkid_body_120 file="mcviperkid_body_120.msh" />
+</Objects>
+<Materials version="2">
+  <mmcviperkid_body_120
+    diffuse="mcviperkid_body_120.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

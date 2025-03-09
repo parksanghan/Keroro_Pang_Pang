@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<zoruru_resource_list.xml>
+	<effects>
+		<effect name="fx_zoruru_skill_001_1.prx" />
+		<effect name="fx_zoruru_skill_001_2.prx" />
+		<effect name="fx_zoruru_skill_001_3.prx" />
+		<effect name="fx_zoruru_skill_002_1.prx" />
+		<effect name="fx_zoruru_skill_002_2.prx" />
+		<effect name="fx_zoruru_skill_002_3.prx" />
+		<effect name="fx_zoruru_skill_002_4.prx" />
+		<effect name="fx_zoruru_skill_002_5.prx" />
+		<effect name="fx_zoruru_skill_003_fog.prx" />
+		<effect name="fx_zoruru_skill_003_tornado.prx" />
+		<effect name="fx_zoruru_skill_003_slash.prx" />
+		<effect name="fx_zoruru_skill_003_eye.prx" />
+		<effect name="fx_zoruru_skill_003_wall.prx" />
+		<effect name="fx_zoruru_skill_003_srtike_1.prx" />
+		<effect name="fx_zoruru_skill_003_srtike_2.prx" />
+		<effect name="fx_zoruru_skill_003_srtike_3.prx" />
+		<effect name="fx_zoruru_skill_003_srtike_4.prx" />
+		<effect name="fx_zoruru_skill_003_srtike_5.prx" />
+		<effect name="fx_zoruru_skill_003_srtike_6.prx" />
+		<effect name="fx_zoruru_skill_003_spark_1.prx" />
+		<effect name="fx_zoruru_skill_003_spark_2.prx" />
+		<effect name="fx_zoruru_skill_003_spark_3.prx" />
+		<effect name="fx_zoruru_skill_003_spark_4.prx" />
+		<effect name="fx_zoruru_skill_003_spark_5.prx" />
+		<effect name="fx_zoruru_skill_003_spark_6.prx" />
+		<effect name="fx_zoruru_skill_003_impact_1.prx" />
+		<effect name="fx_zoruru_skill_003_impact_2.prx" />
+		<effect name="fx_zoruru_skill_003_impact_3.prx" />
+		<effect name="fx_zoruru_skill_003_impact_4.prx" />
+		<effect name="fx_zoruru_skill_003_impact_5.prx" />
+		<effect name="fx_zoruru_skill_003_impact_6.prx" />
+		<effect name="fx_zoruru_skill_003_shock.prx" />
+		<effect name="fx_zoruru_skill_003_shock_2.prx" />
+	</effects>
+</zoruru_resource_list.xml>

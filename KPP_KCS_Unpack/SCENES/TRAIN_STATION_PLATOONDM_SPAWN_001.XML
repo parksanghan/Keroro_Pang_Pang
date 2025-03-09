@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="platoonZone" engName="Platoon_Clone" code="0" teamId="1" spawnId="0" posX="-21" posY="1.3" posZ="-3" angleY="90" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Platoon_Clone" code="0" teamId="1" spawnId="1" posX="-21" posY="1.3" posZ="-29" angleY="90" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Platoon_Clone" code="0" teamId="1" spawnId="2" posX="-21" posY="1.3" posZ="13" angleY="90" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="3" posX="29" posY="0.5" posZ="-5" angleY="270" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="4" posX="30" posY="1.3" posZ="-23" angleY="270" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="5" posX="30" posY="1.3" posZ="14" angleY="270" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	
+	<!--포탈 관련 데이터 정리 
+	 spawn type : 포탈의 타입 이름 (obj_Potal)	 collisionObjCode : 포탈과 캐릭터를 체크하는 컬리젼 코드( 필드 오브젝트에 등록 )		engName : 컬리젼 이름 	
+	 teamid : 포탈 팀 구분 ID(0: 케론팀만 사용 가능, 1: 바이퍼팀만 사용 가능, 2: 팀 구분 없이 모두 사용 가능		spanwId : 포탈의 스폰 아이디 다른 스폰과 별개로 사용 가능 
+
+	 potal objCode : 오브젝트를 이용한 포탈 진입 시 사용 		activeEffect1 : 입구 포탈 이펙트 		activeEffect2 : 입구 포탈 이펙트 		targetEffect : 출구 포탈 이펙트		infuenceCode : 포탈 사용 시 얻게 되는 인플런스 효과	usableCnt : 포탈 사용 인원
+ 	 min,maxActiveTime : 포탈이 열려 있는 최소, 최대 시간 		min,maxDeactiveTime : 다음 포탈이 열리는 최소 최대, 시간 
+	 syncLink 1 ~ 3 : 동시에 열 수 있는 포탈 ( 포탈의 스폰 아이디 사용 ) 		checkLink1 ~ 3 :		
+	 targetPos : 출구 포탈 위치 -->	
+	
+	
+	<spawn type="obj_Portal" collisionObjCode="117506092" engName="portal_check" teamId="2" spawnId="1" posX="-21" posY="1.15" posZ="-2" angleY="180"  fixedPosition="1"  scale="1.0">
+		<portal objCode="0" posX="0" posY="0" posZ="0" activeEffect1="fx_portal_in_001.prx" activeEffect2="fx_portal_in_002.prx" targetEffect="fx_portal_out_001.prx" influenceCode="201457766" usableCnt="5"
+		minActiveTime="10.0" maxActiveTime="10.0" minDeactiveTime="100.0" maxDeactiveTime="110.0"
+		syncLink1="0" syncLink2="0" syncLink3="0" checkLink1="2" checkLink2="0" checkLink3="0"/>
+		<targetPos posX="30" posY="1" posZ="17"/>
+		<!--targetPos posX="30" posY="1" posZ="-13"/-->
+		<targetPos posX="-0.67" posY="0.17" posZ="-0.37"/>
+	</spawn>
+	
+	<spawn type="obj_Portal" collisionObjCode="117506092" engName="portal_check" teamId="2" spawnId="2" posX="30" posY="1" posZ="-33" angleY="180"  fixedPosition="1"  scale="1.0">
+		<portal objCode="0" posX="0" posY="0" posZ="0" activeEffect1="fx_portal_in_001.prx" activeEffect2="fx_portal_in_002.prx" targetEffect="fx_portal_out_001.prx" influenceCode="201457766" usableCnt="5"
+		minActiveTime="10.0" maxActiveTime="10.0" minDeactiveTime="100.0" maxDeactiveTime="110.0"
+		syncLink1="0" syncLink2="0" syncLink3="0" checkLink1="1" checkLink2="0" checkLink3="0"/>
+		<!--targetPos posX="-21" posY="0.7" posZ="10"/-->
+		<targetPos posX="-13" posY="1" posZ="10"/>
+		<targetPos posX="-0.67" posY="0.17" posZ="-0.37"/>
+	</spawn>
+	
+	<spawn type="obj_Moving" engName="train" teamId="0" spawnId="1" posX="20.73" posY="0" posZ="170" angleY="90" fixedPosition="0" scale="1.0">
+	  <moving  objCode="145817604" posX="20.73" posY="0" posZ="-170" delayMinTime="15.0" delayMaxTime="30.0" movingSpeed="450.0"  movingSound="ef_train_pass" />
+	 </spawn>
+	 
+ 	<spawn type="obj_Moving" engName="train" teamId="0" spawnId="2" posX="-5.3" posY="0" posZ="-170" angleY="90" fixedPosition="0" scale="1.0">
+	  <moving  objCode="145817604" posX="-5.3" posY="0" posZ="170" delayMinTime="15.0" delayMaxTime="30.0" movingSpeed="450.0"  movingSound="ef_train_pass" />
+	 </spawn>	 
+</SPAWN.XML>

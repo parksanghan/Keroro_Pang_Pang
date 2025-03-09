@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="18" posY="0.7" posZ="-7" angleY="90" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="1" posX="-18" posY="0.7" posZ="12" angleY="270" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="2" posX="-4.5" posY="4.5" posZ="-10" angleY="90" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="3" posX="5" posY="4.5" posZ="-2" angleY="90" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="4" posX="-2" posY="0.7" posZ="35" angleY="0" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="5" posX="2" posY="0.7" posZ="-31" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="6" posX="6" posY="4.5" posZ="12" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="7" posX="2" posY="4.5" posZ="-10" angleY="0" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="8" posX="-4" posY="4.5" posZ="4" angleY="90" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="9" posX="-2" posY="4.5" posZ="13" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="10" posX="18" posY="4" posZ="-1" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="11" posX="-18" posY="4" posZ="5" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="12" posX="-1" posY="7.2" posZ="-18" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="13" posX="3" posY="7.2" posZ="19.57" angleY="0" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

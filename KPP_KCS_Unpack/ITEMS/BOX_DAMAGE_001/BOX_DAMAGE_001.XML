@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <box_damage_001 file="box_damage_001.msh" />
+</Objects>
+<Materials version="2">
+  <mbox_damage_001
+    diffuse="box_damage_001.tga"
+    color="149 149 149"
+  />
+</Materials>
+<collision
+  file="box_damage_001.col"
+/>
+</Scene.XML>

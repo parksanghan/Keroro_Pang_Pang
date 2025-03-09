@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <zirara_head_000 file="zirara_head_000.msh" />
+ <zirara_face_000 file="zirara_face_000.msh" />
+ <zirara_body_000 file="zirara_body_000.msh" />
+</Objects>
+<Materials version="2">
+  <mzirara_head_000
+    diffuse="zirara_head_000.dds"
+    color="149 149 149"
+  />
+  <mzirara_face_000
+    diffuse="zirara_face_000.dds"
+    color="149 149 149"
+  />
+  <mzirara_body_000
+    diffuse="zirara_body_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="zirara_dummy_002.skl"
+/>
+<BoneAnim
+  file="Anims\zirara_dummy_002.anm"
+/>
+<collision
+  file="zirara_dummy_002.col"
+/>
+</Scene.XML>

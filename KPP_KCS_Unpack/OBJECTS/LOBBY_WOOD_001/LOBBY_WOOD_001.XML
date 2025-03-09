@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <lobby_wood_001 file="lobby_wood_001.msh" />
+</Objects>
+<Materials version="2">
+  <mlobby_wood_001
+    diffuse="lobby_wood_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="lobby_wood_001.skl"
+/>
+<BoneAnim
+  file="Anims\lobby_wood_001.anm"
+/>
+<collision
+  file="lobby_wood_001.col"
+/>
+</Scene.XML>

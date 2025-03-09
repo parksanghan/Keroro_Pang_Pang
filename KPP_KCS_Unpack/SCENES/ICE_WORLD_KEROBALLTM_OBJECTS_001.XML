@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="ice_world\ice_world.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="most_big_ice_plate" code="126943241" yLayer="0" posX="25.7" posY="-4" posZ="-22.6" angleX="0" angleY="0" angleZ="0" scale="0.98"/>
+	<Object engName="most_big_ice_plate" code="126943241" yLayer="0" posX="-25.61" posY="-4" posZ="22.6" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="3.27" posY="-4" posZ="22.33" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="3.23" posY="-4" posZ="15.94" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="-9.6" posY="-4" posZ="22.4" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="-9.56" posY="-4" posZ="16" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="-3.14" posY="-4" posZ="9.5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="-9.6" posY="-4" posZ="9.5" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="3.29" posY="-4" posZ="9.5" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="9.68" posY="-4" posZ="9.5" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="-16" posY="-4" posZ="9.5" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="-16" posY="-4" posZ="3.04" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="16.14" posY="-4" posZ="3.14" angleX="0" angleY="0" angleZ="0" scale="0.98"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="16.16" posY="-4" posZ="-3.23" angleX="0" angleY="0" angleZ="0" scale="0.98"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="16.16" posY="-4" posZ="-9.60001" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="-9.5" posY="-4" posZ="-9.65" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="-3.02" posY="-4" posZ="-16.12" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="-3.02" posY="-4" posZ="-9.67" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="-3.02" posY="-4" posZ="-22.61" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="9.75" posY="-4" posZ="-22.6" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="9.75" posY="-4" posZ="-16.16" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="3.33" posY="-4" posZ="-9.6" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="9.77" posY="-4" posZ="-9.7" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_plate_1" code="126943234" yLayer="0" posX="-16" posY="-4" posZ="-3.39" angleX="0" angleY="0" angleZ="0" scale="0.99"/>
+	<Object engName="ice_pyramid" code="126943240" yLayer="0" posX="25" posY="1" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ice_pyramid" code="126943240" yLayer="0" posX="-25" posY="1" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="igloo" code="126943242" yLayer="0" posX="-12" posY="1" posZ="-22" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="igloo" code="126943242" yLayer="0" posX="12" posY="1" posZ="22" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="snow_man" code="126943243" yLayer="0" posX="-14" posY="1" posZ="-19" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="snow_man" code="126943243" yLayer="0" posX="-25" posY="1" posZ="2" angleX="0" angleY="270" angleZ="0" scale="1"/>
+	<Object engName="snow_man" code="126943243" yLayer="0" posX="25" posY="1" posZ="-2" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="snow_man" code="126943243" yLayer="0" posX="14" posY="1" posZ="19" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="snow_man" code="126943243" yLayer="0" posX="-15" posY="1" posZ="27" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="snow_man" code="126943243" yLayer="0" posX="15" posY="1" posZ="-27" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="ice_plate_5" code="126943238" yLayer="0" posX="3" posY="1" posZ="-20.3" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="ice_plate_5" code="126943238" yLayer="0" posX="-3" posY="1" posZ="20.3" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="ice_plate_3" code="126943236" yLayer="0" posX="-28" posY="1" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ice_plate_3" code="126943236" yLayer="0" posX="28" posY="1" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball holder" code="117506075" yLayer="0" posX="0" posY="4.21" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ice_slant" code="126943233" yLayer="0" posX="-22.35" posY="0.998291" posZ="-22.5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ice_slant" code="126943233" yLayer="0" posX="22.35" posY="0.999316" posZ="22.5" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="ice_plate_3" code="126943236" yLayer="0" posX="-8" posY="4.21" posZ="-3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ice_plate_3" code="126943236" yLayer="0" posX="8" posY="4.21" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ice_plate_3" code="126943236" yLayer="0" posX="8" posY="4.21" posZ="-3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ice_plate_3" code="126943236" yLayer="0" posX="-8" posY="4.21" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ice_plate_3" code="126943236" yLayer="0" posX="0" posY="4.21" posZ="-4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ice_plate_3" code="126943236" yLayer="0" posX="0" posY="4.21" posZ="4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="-22.9" posY="2.5" posZ="-13.08" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 1" code="117506066" yLayer="0" posX="-19.9" posY="2.5" posZ="-13.08" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="-19.5" posY="2.5" posZ="-15.69" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="19.5" posY="2.5" posZ="15.6" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="22.9" posY="2.5" posZ="13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 1" code="117506066" yLayer="0" posX="19.9" posY="2.5" posZ="13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="-3.3" posY="1.7" posZ="32.35" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="16.7" posY="1.7" posZ="32.35" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="2" posY="1.7" posZ="-32.35" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="22" posY="1.7" posZ="-32.35" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="31.95" posY="1.7" posZ="-22.45" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="-31.95" posY="1.7" posZ="-22.4" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="-31.95" posY="1.7" posZ="-2.5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 6" code="117506071" yLayer="0" posX="-31.95" posY="1.7" posZ="17.5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="-31.95" posY="1.7" posZ="30" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 3" code="117506068" yLayer="0" posX="28.2" posY="1.7" posZ="32.35" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 5" code="117506070" yLayer="0" posX="32.45" posY="1.7" posZ="17.7" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="32.45" posY="1.7" posZ="25.2" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="31.0299" posY="1.7" posZ="30.03" angleX="0" angleY="58" angleZ="0" scale="1.1"/>
+	<Object engName="keroball collision wall 4" code="117506069" yLayer="0" posX="-29.41" posY="1.7" posZ="-32.27" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="iceworld_collision_out" code="126943244" yLayer="0" posX="0" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

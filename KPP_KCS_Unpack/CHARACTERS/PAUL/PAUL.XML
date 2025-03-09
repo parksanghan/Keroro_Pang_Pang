@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <paul_body_000 file="paul_body_000.msh" />
+ <paul_head_000 file="paul_head_000.msh" />
+ <paul_face_000 file="paul_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mpaul_body_000
+    diffuse="paul_body_000.dds"
+    color="149 149 149"
+  />
+  <mpaul_head_000
+    diffuse="paul_head_000.dds"
+    color="149 149 149"
+  />
+  <mpaul_face_000
+    diffuse="paul_face_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="paul_T_Pose.skl"
+/>
+<collision
+  file="paul_T_Pose.col"
+/>
+</Scene.XML>

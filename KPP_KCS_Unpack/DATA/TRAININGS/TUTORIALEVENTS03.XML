@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TutorialEvents> 
+	<!-- 기초훈련 5 스킬 사용 훈련 시작-->
+	<event time="0.0" type="move_character">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="spawn_id" value="training_spawn005" />
+	</event>
+	<event time="0.0" type="change_weapon">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="weapon_name" value="TutorialGrenade" />
+	</event>
+	<event time="0.0" type="play_camera">
+		<param name="camera_name" value="tutorial_step05_camera.xml" />
+	</event>
+	<event time="2.0" type="message">
+	    <param name="message_id" value="step8_01" />
+	    <param name="sound_name" value="vc_moa_ui_010" />
+	</event>
+	<event time="6.0" type="message">
+	    <param name="message_id" value="step8_02" />
+	</event>
+	<event time="9.0" type="message">
+	    <param name="message_id" value="step8_03" />
+	    <param name="sound_name" value="vc_moa_ui_010_1" />
+	</event>
+	<event time="5.0" type="spawn_character">
+	    <param name="spawn_id" value="training_spawn016" />
+	    <param name="name" value="npc_01" />
+	    <param name="character" value="Tamama" />
+	    <param name="weapon" value="A01AutomaticRifle" />
+	    <param name="team" value="alience" />
+	</event>
+	<event time="0.0" type="spawn_character">
+	    <param name="spawn_id" value="training_spawn017" />
+	    <param name="name" value="npc_02" />
+	    <param name="character" value="Giroro" />
+	    <param name="weapon" value="A01AutomaticRifle" />
+	    <param name="team" value="alience" />
+	</event>
+	<event time="1.0" type="spawn_character">
+	    <param name="spawn_id" value="training_spawn018" />
+	    <param name="name" value="npc_03" />
+	    <param name="character" value="Kururu" />
+	    <param name="weapon" value="A01AutomaticRifle" />
+	    <param name="team" value="enemy" />
+	</event>
+	<event time="0.0" type="spawn_character">
+	    <param name="spawn_id" value="training_spawn019" />
+	    <param name="name" value="npc_03" />
+	    <param name="character" value="Dororo" />
+	    <param name="weapon" value="A01AutomaticRifle" />
+	    <param name="team" value="enemy" />
+	</event>
+	<event time="5.0" type="message">
+	    <param name="message_id" value="step8_04" />
+	    <param name="sound_name" value="vc_moa_ui_010_2" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="1" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="1" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="1" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="skill_point" value="100" />
+		<param name="condition" type="time_out" value="15"/>
+	</event>
+	<event time="5.0" type="message">
+	    <param name="message_id" value="step8_05" />
+	    <param name="sound_name" value="vc_moa_ui_010_3" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="1" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="0" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="1" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="skill_point" value="200" />
+		<param name="condition" type="time_out" value="20"/>
+	</event>
+	<event time="7.0" type="message">
+	    <param name="message_id" value="step8_06" />
+	    <param name="sound_name" value="vc_moa_ui_010_4" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="1" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="0" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="1" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="skill_point" value="300" />
+		<param name="condition" type="time_out" value="25"/>
+	</event>
+	<event time="15.0" type="message">
+	    <param name="message_id" value="step8_07" />
+	    <param name="sound_name" value="vc_moa_ui_010_5" />
+	</event>
+    <!-- 스킬 사용 훈련 종료 -->
+	<!-- 기초훈련 6 케로볼 쟁탈전 훈련
+	<event time="0.0" type="move_character">
+		<param name="character_name" value="LocalPlayer" />
+		<param name="spawn_id" value="training_spawn006" />
+	</event>
+	<event time="0.0" type="play_camera">
+		<param name="camera_name" value="tutorial_step06_camera.xml" />
+	</event>
+	<event time="6.0" type="message">
+	    <param name="message_id" value="step9_01" />
+	    <param name="sound_name" value="vc_moa_ui_011" />
+	</event>
+	<event time="6.0" type="play_effect">
+		<param name="id" value="keroball" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />	
+	</event>
+	<event time="0.0" type="message">
+	    <param name="message_id" value="step9_02" />
+	    <param name="sound_name" value="vc_moa_ui_011_1" />
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="1" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="0" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="approach_to_spawn_or_object" value="keroball"/>
+	</event>
+	<event time="0.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>
+	<event time="1.0" type="play_effect">
+		<param name="id" value="clone goal" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />	
+	</event>
+	<event time="0.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="1" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="0" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="goal_out" value=""/>
+	</event>	
+	<event time="0.0" type="destroy_effect">
+		<param name="effect_name" value="fx_keroball_owner.prx" />
+	</event>	
+	<event time="1.0" type="message">
+	    <param name="message_id" value="step9_03" />
+	    <param name="sound_name" value="vc_moa_ui_011_2" />
+	</event>
+    <event time="1.0" type="play_effect">
+		<param name="id" value="keroro goal" />
+		<param name="effect_name" value="fx_keroball_owner.prx" />	
+	</event>
+	<event time="1.0" type="tutorial_case">
+    	<param name="enable_camera_input" value="1" />
+		<param name="enable_move_input" value="1" />
+		<param name="enable_jump_input" value="1" />
+		<param name="enable_attack_input" value="1" />
+		<param name="enable_emote_input" value="0" />
+		<param name="enable_skillcast_input" value="0" />
+		<param name="enable_slotuse_input" value="0" />
+		<param name="condition" type="goal_in" value=""/>
+	</event>
+	<event time="2.0" type="message">
+	    <param name="message_id" value="step10_03" />
+	    <param name="sound_name" value="vc_moa_ui_012_2" />
+	</event>
+	<event time="5.0" type="message">
+	    <param name="message_id" value="" />
+	</event>
+	<!-- 케로볼 쟁탈전 훈련 종료  -->
+	<!-- 기초 훈련 종료  -->
+	<event time="0.0" type="play_camera">
+		<param name="camera_name" value="loadingpathlist.xml" />	
+	</event>
+</TutorialEvents>

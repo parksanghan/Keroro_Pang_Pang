@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <shrine_wood_002 file="shrine_wood_002.msh" />
+</Objects>
+<Materials version="2">
+  <mshrine_wood_004
+    diffuse="shrine_wood_004.dds"
+    color="255 255 255"
+  />
+  <mshrine_wood_002
+    diffuse="shrine_wood_002.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="shrine_wood_002.col"
+/>
+</Scene.XML>

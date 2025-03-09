@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="keron" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="-24" posY="1" posZ="9" radius="1" respawnTime="1"/>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="1" posX="-25" posY="1" posZ="-8" radius="1" respawnTime="1">
+		<patrol id="0" posX="-25.1192" posY="-6.10352e-006" posZ="-2.20623"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="2" posX="-13" posY="1" posZ="-6" radius="1" respawnTime="1">
+		<patrol id="0" posX="-17.8218" posY="0" posZ="-9.17075"/>
+		<patrol id="1" posX="-17.128" posY="0" posZ="-11.8369"/>
+		<patrol id="2" posX="-17.2901" posY="0" posZ="-9.26529"/>
+		<patrol id="3" posX="-13.9131" posY="-6.10352e-006" posZ="-6.39376"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="3" posX="-4" posY="1" posZ="-11" radius="1" respawnTime="1">
+		<patrol id="0" posX="-2.61499" posY="-6.10352e-006" posZ="-8.40753"/>
+		<patrol id="1" posX="2.85195" posY="0" posZ="-8.31126"/>
+		<patrol id="2" posX="-2.01873" posY="0" posZ="-8.50361"/>
+		<patrol id="3" posX="-3.09173" posY="0" posZ="-10.7523"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="4" posX="9" posY="1" posZ="-5" radius="1" respawnTime="1">
+		<patrol id="0" posX="7.83218" posY="-6.10352e-006" posZ="3.43069"/>
+		<patrol id="1" posX="7.25315" posY="0" posZ="-1.36524"/>
+		<patrol id="2" posX="8.42259" posY="0" posZ="-3.92621"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="5" posX="-1" posY="1" posZ="10" radius="1" respawnTime="1">
+		<patrol id="0" posX="3.76179" posY="-6.10352e-006" posZ="8.3088"/>
+		<patrol id="1" posX="3.67681" posY="0" posZ="3.21222"/>
+		<patrol id="2" posX="2.51414" posY="-6.10352e-006" posZ="7.65105"/>
+		<patrol id="3" posX="-0.49587" posY="-6.10352e-006" posZ="9.34171"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="6" posX="0" posY="1" posZ="0" radius="1" respawnTime="1">
+		<patrol id="0" posX="-6.86396" posY="-6.10352e-006" posZ="-1.66219"/>
+		<patrol id="1" posX="-4.41543" posY="0" posZ="-3.97321"/>
+		<patrol id="2" posX="-1.2992" posY="-6.10352e-006" posZ="-1.21606"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="7" posX="21" posY="1" posZ="9" radius="1" respawnTime="1">
+		<patrol id="0" posX="21.8278" posY="0" posZ="0.217099"/>
+		<patrol id="1" posX="24.1276" posY="0" posZ="2.283"/>
+		<patrol id="2" posX="23.3292" posY="-6.10352e-006" posZ="9.78333"/>
+	</spawn>
+	<spawn type="npc" engName="Viper" code="19922945" teamId="0" spawnId="8" posX="24" posY="1" posZ="-12" radius="1" respawnTime="1">
+		<patrol id="0" posX="24.005" posY="0" posZ="-2.45742"/>
+		<patrol id="1" posX="25.6295" posY="-6.10352e-006" posZ="-8.95269"/>
+		<patrol id="2" posX="24.7838" posY="0" posZ="-10.5434"/>
+	</spawn>
+	<spawn type="itembox" engName="restoration_1" code="154140673" spawnId="12" posX="-23" posY="0" posZ="0" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" spawnId="13" posX="-14" posY="0" posZ="-7" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676" spawnId="14" posX="-8" posY="0" posZ="-15" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" spawnId="15" posX="-1" posY="0" posZ="-8" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" spawnId="16" posX="12" posY="0" posZ="-13" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676" spawnId="17" posX="10" posY="0" posZ="-5" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" spawnId="18" posX="17" posY="0" posZ="-1" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" spawnId="19" posX="11" posY="0" posZ="5" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676" spawnId="20" posX="0" posY="0" posZ="7" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" spawnId="21" posX="-11" posY="0" posZ="7" respawnTime="30"/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" spawnId="24" posX="-17" posY="2.3" posZ="18" respawnTime="30"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" spawnId="25" posX="18" posY="2.3" posZ="18" respawnTime="30"/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" spawnId="26" posX="-28" posY="3" posZ="-15" respawnTime="30"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" spawnId="27" posX="18.2" posY="0" posZ="-11" respawnTime="30"/>
+	<spawn type="itembox" engName="defense_3" code="153092099" spawnId="28" posX="0" posY="0" posZ="0" respawnTime="60"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="29" posX="-23" posY="0" posZ="-11" angleY="77.0" scale="1.0" jumpPower="130" force="170" durationTime="3.3"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="30" posX="24" posY="0" posZ="12" angleY="257.5" scale="1.0" jumpPower="130" force="170" durationTime="3.3"/>
+</SPAWN.XML>

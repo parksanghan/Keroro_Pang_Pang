@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <crocodile file="crocodile.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k0
+    diffuse="crocodile.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="crocodile.skl"
+/>
+<collision
+  file="crocodile.col"
+/>
+</Scene.XML>

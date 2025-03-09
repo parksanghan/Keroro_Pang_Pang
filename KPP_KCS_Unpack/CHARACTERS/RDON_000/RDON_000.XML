@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <rdon_000 file="rdon_000.msh" />
+</Objects>
+<Materials version="2">
+  <mMaterial_k0
+    diffuse="rdon_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="rdon_000.skl"
+/>
+<collision
+  file="rdon_000.col"
+/>
+</Scene.XML>

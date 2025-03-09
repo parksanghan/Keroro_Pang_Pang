@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keroro_city_guard_house_001 file="keroro_city_guard_house_001.msh" />
+ <keroro_city_guard_sign_001 file="keroro_city_guard_sign_001.msh" />
+</Objects>
+<Materials version="2">
+  <mkcg_house01_id01
+    diffuse="kcg_house01_id01.dds"
+    color="255 255 255"
+  />
+  <mkcg_house01_id02
+    diffuse="kcg_house01_id02.dds"
+    color="255 255 255"
+  />
+  <mkcg_house01_id03
+    diffuse="kcg_house01_id03.dds"
+    color="255 255 255"
+  />
+  <mkcg_sign01
+    diffuse="kcg_sign01.dds"
+    color="101 101 101"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="keroro_city_guard_house_002.col"
+/>
+</Scene.XML>

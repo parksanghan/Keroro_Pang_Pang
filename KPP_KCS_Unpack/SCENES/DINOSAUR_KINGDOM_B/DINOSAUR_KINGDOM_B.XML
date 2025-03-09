@@ -1,0 +1,481 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_din_rock_mountain01_034 file="notrans_din_rock_mountain01_034.msh" />
+ <notrans_din_rock_mountain01_066 file="notrans_din_rock_mountain01_066.msh" />
+ <notrans_din_b_log_ar2 file="notrans_din_b_log_ar2.msh" />
+ <notrans_din_b_leaf01 file="notrans_din_b_leaf01.msh" />
+ <notrans_din_rock_mountain01_067 file="notrans_din_rock_mountain01_067.msh" />
+ <notrans_din_grass01_003 file="notrans_din_grass01_003.msh" />
+ <notrans_din_b_log_ar03 file="notrans_din_b_log_ar03.msh" />
+ <notrans_din_b_leaf02 file="notrans_din_b_leaf02.msh" />
+ <notrans_din_rock_mountain01_155 file="notrans_din_rock_mountain01_155.msh" />
+ <notrans_din_ground02_001 file="notrans_din_ground02_001.msh" />
+ <notrans_din_ground01_002 file="notrans_din_ground01_002.msh" />
+ <notrans_din_rock_mountain01_065 file="notrans_din_rock_mountain01_065.msh" />
+ <notrans_din_rock_mountain01_035 file="notrans_din_rock_mountain01_035.msh" />
+ <notrans_din_ground01_001 file="notrans_din_ground01_001.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_din_grass01_007 file="notrans_din_grass01_007.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <GAME_MonsterMoveBound file="GAME_MonsterMoveBound.msh" />
+ <GAME_MovingMesh file="GAME_MovingMesh.msh" />
+ <notrans_din_waterplant05_006 file="notrans_din_waterplant05_006.msh" />
+ <notrans_din_waterplant_33 file="notrans_din_waterplant_33.msh" />
+ <notrans_din_waterplant_37 file="notrans_din_waterplant_37.msh" />
+ <notrans_din_waterplant_38 file="notrans_din_waterplant_38.msh" />
+ <notrans_din_trunks_005 file="notrans_din_trunks_005.msh" />
+ <notrans_din_trunks_003 file="notrans_din_trunks_003.msh" />
+ <notrans_din_trunks_004 file="notrans_din_trunks_004.msh" />
+ <notrans_din_trunks_001 file="notrans_din_trunks_001.msh" />
+ <din_trunks_002 file="din_trunks_002.msh" />
+ <notrans_din_trunks_006 file="notrans_din_trunks_006.msh" />
+ <din_metal01_001 file="din_metal01_001.msh" />
+ <din_metal02_001 file="din_metal02_001.msh" />
+ <din_metal01_02 file="din_metal01_02.msh" />
+ <din_metal02_02 file="din_metal02_02.msh" />
+ <din_tree01_02 file="din_tree01_02.msh" />
+ <din_tree01_03 file="din_tree01_03.msh" />
+ <din_tree01_04 file="din_tree01_04.msh" />
+ <din_tree01_05 file="din_tree01_05.msh" />
+ <din_tree01_06 file="din_tree01_06.msh" />
+ <din_tree01_07 file="din_tree01_07.msh" />
+ <din_tree01_08 file="din_tree01_08.msh" />
+ <din_tree01_10 file="din_tree01_10.msh" />
+ <din_tree01_11 file="din_tree01_11.msh" />
+ <din_tree01_12 file="din_tree01_12.msh" />
+ <din_tree01_13 file="din_tree01_13.msh" />
+ <din_tree01_14 file="din_tree01_14.msh" />
+ <din_tree01_15 file="din_tree01_15.msh" />
+ <din_tree01_17 file="din_tree01_17.msh" />
+ <din_tree01_18 file="din_tree01_18.msh" />
+ <din_tree01_19 file="din_tree01_19.msh" />
+ <din_tree01_20 file="din_tree01_20.msh" />
+ <din_tree01_21 file="din_tree01_21.msh" />
+ <din_tree01_22 file="din_tree01_22.msh" />
+ <din_tree01_23 file="din_tree01_23.msh" />
+ <din_tree01_24 file="din_tree01_24.msh" />
+ <din_tree01_25 file="din_tree01_25.msh" />
+ <din_tree01_26 file="din_tree01_26.msh" />
+ <din_tree01_27 file="din_tree01_27.msh" />
+ <din_tree01_28 file="din_tree01_28.msh" />
+ <din_tree01_29 file="din_tree01_29.msh" />
+ <din_tree01_30 file="din_tree01_30.msh" />
+ <din_tree01_31 file="din_tree01_31.msh" />
+ <din_tree01_32 file="din_tree01_32.msh" />
+ <din_tree01_33 file="din_tree01_33.msh" />
+ <din_tree01_34 file="din_tree01_34.msh" />
+ <din_tree01_35 file="din_tree01_35.msh" />
+ <din_tree01_36 file="din_tree01_36.msh" />
+ <din_tree01_37 file="din_tree01_37.msh" />
+ <din_tree01_38 file="din_tree01_38.msh" />
+ <din_tree01_39 file="din_tree01_39.msh" />
+ <din_tree03_001 file="din_tree03_001.msh" />
+ <din_tree03_01 file="din_tree03_01.msh" />
+ <din_tree03_03 file="din_tree03_03.msh" />
+ <din_tree03_02 file="din_tree03_02.msh" />
+ <din_tree03_05 file="din_tree03_05.msh" />
+ <din_tree03_07 file="din_tree03_07.msh" />
+ <din_tree03_08 file="din_tree03_08.msh" />
+ <din_tree03_09 file="din_tree03_09.msh" />
+ <din_tree03_10 file="din_tree03_10.msh" />
+ <din_tree03_11 file="din_tree03_11.msh" />
+ <din_tree03_12 file="din_tree03_12.msh" />
+ <din_tree03_13 file="din_tree03_13.msh" />
+ <din_tree03_14 file="din_tree03_14.msh" />
+ <din_tree03_15 file="din_tree03_15.msh" />
+ <din_tree03_16 file="din_tree03_16.msh" />
+ <din_tree03_17 file="din_tree03_17.msh" />
+ <din_tree03_18 file="din_tree03_18.msh" />
+ <din_tree03_19 file="din_tree03_19.msh" />
+ <din_tree03_20 file="din_tree03_20.msh" />
+ <din_tree03_21 file="din_tree03_21.msh" />
+ <din_tree03_22 file="din_tree03_22.msh" />
+ <din_tree03_23 file="din_tree03_23.msh" />
+ <din_tree01_41 file="din_tree01_41.msh" />
+ <din_tree01_42 file="din_tree01_42.msh" />
+ <din_tree01_43 file="din_tree01_43.msh" />
+ <din_tree03_24 file="din_tree03_24.msh" />
+ <din_tree03_25 file="din_tree03_25.msh" />
+ <din_tree03_26 file="din_tree03_26.msh" />
+ <din_tree03_27 file="din_tree03_27.msh" />
+ <din_tree03_28 file="din_tree03_28.msh" />
+ <din_tree03_29 file="din_tree03_29.msh" />
+ <din_tree03_30 file="din_tree03_30.msh" />
+ <din_tree03_31 file="din_tree03_31.msh" />
+ <din_tree03_32 file="din_tree03_32.msh" />
+ <din_tree03_33 file="din_tree03_33.msh" />
+ <din_tree02_001 file="din_tree02_001.msh" />
+ <din_tree02_02 file="din_tree02_02.msh" />
+ <din_tree02_03 file="din_tree02_03.msh" />
+ <din_tree02_04 file="din_tree02_04.msh" />
+ <din_tree02_05 file="din_tree02_05.msh" />
+ <din_tree02_06 file="din_tree02_06.msh" />
+ <din_tree02_07 file="din_tree02_07.msh" />
+ <din_tree02_08 file="din_tree02_08.msh" />
+ <din_tree02_09 file="din_tree02_09.msh" />
+ <din_tree02_10 file="din_tree02_10.msh" />
+ <din_tree02_11 file="din_tree02_11.msh" />
+ <din_tree02_12 file="din_tree02_12.msh" />
+ <din_tree02_13 file="din_tree02_13.msh" />
+ <din_tree02_14 file="din_tree02_14.msh" />
+ <din_tree02_15 file="din_tree02_15.msh" />
+ <din_tree02_16 file="din_tree02_16.msh" />
+ <din_tree02_17 file="din_tree02_17.msh" />
+ <din_tree02_18 file="din_tree02_18.msh" />
+ <din_tree02_19 file="din_tree02_19.msh" />
+ <din_tree02_20 file="din_tree02_20.msh" />
+ <din_tree02_22 file="din_tree02_22.msh" />
+ <din_tree02_23 file="din_tree02_23.msh" />
+ <din_tree02_24 file="din_tree02_24.msh" />
+ <din_tree02_25 file="din_tree02_25.msh" />
+ <din_tree02_26 file="din_tree02_26.msh" />
+ <din_tree02_27 file="din_tree02_27.msh" />
+ <notrans_din_nest01_001 file="notrans_din_nest01_001.msh" />
+ <notrans_din_nest01_02 file="notrans_din_nest01_02.msh" />
+ <notrans_din_nest01_03 file="notrans_din_nest01_03.msh" />
+ <notrans_din_nest01_04 file="notrans_din_nest01_04.msh" />
+ <notrans_din_nest01_05 file="notrans_din_nest01_05.msh" />
+ <notrans_din_nest01_06 file="notrans_din_nest01_06.msh" />
+ <notrans_din_nest01_07 file="notrans_din_nest01_07.msh" />
+ <notrans_din_nest01_08 file="notrans_din_nest01_08.msh" />
+ <notrans_din_nest01_09 file="notrans_din_nest01_09.msh" />
+ <notrans_din_nest01_10 file="notrans_din_nest01_10.msh" />
+ <notrans_din_nest01_11 file="notrans_din_nest01_11.msh" />
+ <notrans_din_egg02_001 file="notrans_din_egg02_001.msh" />
+ <notrans_din_shadow_001 file="notrans_din_shadow_001.msh" />
+ <notrans_din_egg02_02 file="notrans_din_egg02_02.msh" />
+ <notrans_din_egg02_03 file="notrans_din_egg02_03.msh" />
+ <notrans_din_egg02_04 file="notrans_din_egg02_04.msh" />
+ <notrans_din_egg02_05 file="notrans_din_egg02_05.msh" />
+ <din_grass_outline01_03 file="din_grass_outline01_03.msh" />
+ <din_grass_outline01_014 file="din_grass_outline01_014.msh" />
+ <din_grass_outline01_07 file="din_grass_outline01_07.msh" />
+ <din_grass_outline01_02 file="din_grass_outline01_02.msh" />
+ <din_grass_outline01_05 file="din_grass_outline01_05.msh" />
+ <din_grass_outline01_08 file="din_grass_outline01_08.msh" />
+ <din_grass_outline01_09 file="din_grass_outline01_09.msh" />
+ <din_grass_outline01_013 file="din_grass_outline01_013.msh" />
+ <din_grass_outline01_01 file="din_grass_outline01_01.msh" />
+ <din_grass_outline01_015 file="din_grass_outline01_015.msh" />
+ <din_grass_outline01_016 file="din_grass_outline01_016.msh" />
+ <din_grass_outline01_017 file="din_grass_outline01_017.msh" />
+ <din_wall01_0031 file="din_wall01_0031.msh" />
+ <din_grass01_005 file="din_grass01_005.msh" />
+ <notrans_din_grass01_006 file="notrans_din_grass01_006.msh" />
+ <din_grass01_002 file="din_grass01_002.msh" />
+ <notrans_din_grass01_004 file="notrans_din_grass01_004.msh" />
+ <notrans_din_sky01 file="notrans_din_sky01.msh" />
+ <notrans_din_around01 file="notrans_din_around01.msh" />
+ <notrans_din_forg_001 file="notrans_din_forg_001.msh" />
+ <notrans_din_mountain_001 file="notrans_din_mountain_001.msh" />
+ <notrans_jur_rock_a12 file="notrans_jur_rock_a12.msh" />
+ <notrans_jur_rock_a14 file="notrans_jur_rock_a14.msh" />
+ <notrans_jur_rock_a20 file="notrans_jur_rock_a20.msh" />
+ <notrans_jur_rock_a21 file="notrans_jur_rock_a21.msh" />
+ <notrans_jur_rock_a27 file="notrans_jur_rock_a27.msh" />
+ <notrans_din_tree06_01 file="notrans_din_tree06_01.msh" />
+ <notrans_din_tree07_17 file="notrans_din_tree07_17.msh" />
+ <notrans_din_tree06_02 file="notrans_din_tree06_02.msh" />
+ <notrans_din_tree06_03 file="notrans_din_tree06_03.msh" />
+ <notrans_din_tree06_04 file="notrans_din_tree06_04.msh" />
+ <notrans_din_tree06_05 file="notrans_din_tree06_05.msh" />
+ <notrans_din_tree06_06 file="notrans_din_tree06_06.msh" />
+ <notrans_din_tree06_07 file="notrans_din_tree06_07.msh" />
+ <notrans_din_tree06_08 file="notrans_din_tree06_08.msh" />
+ <notrans_din_tree06_09 file="notrans_din_tree06_09.msh" />
+ <notrans_din_tree06_10 file="notrans_din_tree06_10.msh" />
+ <notrans_din_tree06_11 file="notrans_din_tree06_11.msh" />
+ <notrans_din_tree06_12 file="notrans_din_tree06_12.msh" />
+ <notrans_din_tree07_18 file="notrans_din_tree07_18.msh" />
+ <notrans_din_tree07_19 file="notrans_din_tree07_19.msh" />
+ <notrans_din_tree07_20 file="notrans_din_tree07_20.msh" />
+ <notrans_din_tree07_21 file="notrans_din_tree07_21.msh" />
+ <notrans_din_tree07_22 file="notrans_din_tree07_22.msh" />
+ <notrans_din_tree07_23 file="notrans_din_tree07_23.msh" />
+ <notrans_din_tree07_24 file="notrans_din_tree07_24.msh" />
+ <notrans_din_tree07_25 file="notrans_din_tree07_25.msh" />
+ <notrans_din_tree07_26 file="notrans_din_tree07_26.msh" />
+ <notrans_din_tree07_27 file="notrans_din_tree07_27.msh" />
+ <notrans_din_tree07_28 file="notrans_din_tree07_28.msh" />
+ <notrans_din_tree07_29 file="notrans_din_tree07_29.msh" />
+ <notrans_din_tree07_30 file="notrans_din_tree07_30.msh" />
+ <notrans_din_b_ground05 file="notrans_din_b_ground05.msh" />
+ <notrans_din_b_grass04 file="notrans_din_b_grass04.msh" />
+ <notrans_din_wall01_002 file="notrans_din_wall01_002.msh" />
+ <notrans_din_wall01_001 file="notrans_din_wall01_001.msh" />
+ <notrans_din_b_ground04 file="notrans_din_b_ground04.msh" />
+ <notrans_din_b_grass03 file="notrans_din_b_grass03.msh" />
+ <din_wall01_06 file="din_wall01_06.msh" />
+ <notrans_din_b_grass005 file="notrans_din_b_grass005.msh" />
+ <notrans_din_ground02_003 file="notrans_din_ground02_003.msh" />
+ <notrans_din_shadow_01 file="notrans_din_shadow_01.msh" />
+ <notrans_din_tree02_40 file="notrans_din_tree02_40.msh" />
+ <notrans_din_wood_01 file="notrans_din_wood_01.msh" />
+ <notrans_din_shadow_09 file="notrans_din_shadow_09.msh" />
+ <notrans_din_wood_02 file="notrans_din_wood_02.msh" />
+ <notrans_din_wood_03 file="notrans_din_wood_03.msh" />
+ <din_grass02_02 file="din_grass02_02.msh" />
+ <din_grass01_008 file="din_grass01_008.msh" />
+ <din_wall01_02 file="din_wall01_02.msh" />
+ <din_wall01_04 file="din_wall01_04.msh" />
+ <din_wall01_05 file="din_wall01_05.msh" />
+ <din_ground02_004 file="din_ground02_004.msh" />
+ <notrans_din_b_grass03_002 file="notrans_din_b_grass03_002.msh" />
+ <din_b_grass04_02 file="din_b_grass04_02.msh" />
+ <notrans_din_b_grass04_03 file="notrans_din_b_grass04_03.msh" />
+ <din_b_grass04_05 file="din_b_grass04_05.msh" />
+ <din_b_grass04_06 file="din_b_grass04_06.msh" />
+ <din_tree02_28 file="din_tree02_28.msh" />
+ <notrans_din_tree07_31 file="notrans_din_tree07_31.msh" />
+ <notrans_din_tree07_32 file="notrans_din_tree07_32.msh" />
+ <din_tree01_44 file="din_tree01_44.msh" />
+ <notrans_din_rock_mountain01_055 file="notrans_din_rock_mountain01_055.msh" />
+ <notrans_din_rock_mountain01_144 file="notrans_din_rock_mountain01_144.msh" />
+ <notrans_din_rock_mountain01_022 file="notrans_din_rock_mountain01_022.msh" />
+ <notrans_din_rock_mountain01_089 file="notrans_din_rock_mountain01_089.msh" />
+ <notrans_din_rock_mountain01_008 file="notrans_din_rock_mountain01_008.msh" />
+ <notrans_din_rock_mountain01_033 file="notrans_din_rock_mountain01_033.msh" />
+ <notrans_din_rock_mountain01_088 file="notrans_din_rock_mountain01_088.msh" />
+ <notrans_din_rock_mountain01_056 file="notrans_din_rock_mountain01_056.msh" />
+ <notrans_din_rock_mountain01_068 file="notrans_din_rock_mountain01_068.msh" />
+ <notrans_din_b_riverrock01 file="notrans_din_b_riverrock01.msh" />
+ <notrans_din_b_water_cin file="notrans_din_b_water_cin.msh" />
+ <notrans_din_rock_mountain01_002 file="notrans_din_rock_mountain01_002.msh" />
+ <notrans_din_b_watercin01 file="notrans_din_b_watercin01.msh" />
+ <din_rock_mountain01_005 file="din_rock_mountain01_005.msh" />
+ <din_rock_mountain01_001 file="din_rock_mountain01_001.msh" />
+ <din_rock_mountain01_004 file="din_rock_mountain01_004.msh" />
+ <notrans_din_rock_mountain01_007 file="notrans_din_rock_mountain01_007.msh" />
+ <notrans_din_rock_mountain01_044 file="notrans_din_rock_mountain01_044.msh" />
+ <notrans_din_rock_mountain01_063 file="notrans_din_rock_mountain01_063.msh" />
+ <notrans_din_rock_mountain01_077 file="notrans_din_rock_mountain01_077.msh" />
+ <notrans_din_rock_mountain01_157 file="notrans_din_rock_mountain01_157.msh" />
+ <notrans_din_rock_mountain01_158 file="notrans_din_rock_mountain01_158.msh" />
+ <notrans_din_shadow_tree03 file="notrans_din_shadow_tree03.msh" />
+ <notrans_din_shadow_tree02 file="notrans_din_shadow_tree02.msh" />
+ <notrans_din_shadow_010 file="notrans_din_shadow_010.msh" />
+ <notrans_din_shadow_11 file="notrans_din_shadow_11.msh" />
+ <notrans_din_shadow_12 file="notrans_din_shadow_12.msh" />
+ <din_tree01_45 file="din_tree01_45.msh" />
+ <din_tree01_46 file="din_tree01_46.msh" />
+ <din_tree01_47 file="din_tree01_47.msh" />
+ <notrans_din_wall01_004 file="notrans_din_wall01_004.msh" />
+ <din_tree03_34 file="din_tree03_34.msh" />
+ <din_tree03_35 file="din_tree03_35.msh" />
+ <din_tree03_37 file="din_tree03_37.msh" />
+ <din_wall01_07 file="din_wall01_07.msh" />
+ <notrans_din_tree07_33 file="notrans_din_tree07_33.msh" />
+ <notrans_din_tree07_34 file="notrans_din_tree07_34.msh" />
+ <notrans_din_tree07_35 file="notrans_din_tree07_35.msh" />
+ <notrans_din_clouds file="notrans_din_clouds.msh" />
+ <notrans_din_clouds01 file="notrans_din_clouds01.msh" />
+ <notrans_din_clouds02 file="notrans_din_clouds02.msh" />
+ <notrans_din_clouds03 file="notrans_din_clouds03.msh" />
+ <notrans_din_clouds04 file="notrans_din_clouds04.msh" />
+ <notrans_din_clouds05 file="notrans_din_clouds05.msh" />
+ <din_wall01_003 file="din_wall01_003.msh" />
+ <notrans_din_trunks_002 file="notrans_din_trunks_002.msh" />
+ <din_trunks_002d file="din_trunks_002d.msh" />
+ <din_trunks_002c file="din_trunks_002c.msh" />
+ <din_trunks_002b file="din_trunks_002b.msh" />
+ <din_trunks_002a file="din_trunks_002a.msh" />
+ <notrasn_din_b_rivercin file="notrasn_din_b_rivercin.msh" />
+ <notrans_din_rock_mountain01_159 file="notrans_din_rock_mountain01_159.msh" />
+ <notrans_din_water_ms file="notrans_din_water_ms.msh" />
+</Objects>
+<Materials version="2">
+  <m07_-_Default
+    diffuse="bftree_nyh001_id01.dds"
+    color="150 150 150"
+  />
+  <mStandard_3
+    diffuse="vine_log_ar2_ms.dds"
+    color="149 149 149"
+  />
+  <mStandard_4
+    diffuse="vine_log_treep_ms01.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mdin_grass05.dds
+    diffuse="din_grass05.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k40
+    diffuse="din_d_ground01.dds"
+    color="149 149 149"
+  />
+  <mjur_treecinb
+    diffuse="din_d_ground01.dds"
+    color="255 255 255"
+  />
+  <mpk_sphere
+    diffuse="pk.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <m22_-_Default
+    color="143 96 53"
+  />
+  <m13_-_Default
+    color="150 150 150"
+  />
+  <m21_-_Default
+    diffuse="din_grass05.dds"
+    color="150 150 150"
+  />
+  <mdin_waterplant
+    diffuse="din_waterplant.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mMaterial_k85
+    diffuse="din_trunks01.dds"
+    color="255 255 255"
+  />
+  <mdin_metal01
+    diffuse="din_metal01.dds"
+    color="255 255 255"
+  />
+  <mdin_tree01
+    diffuse="din_tree01.dds"
+    color="255 255 255"
+  />
+  <mdin_tree03
+    diffuse="din_tree03.dds"
+    color="255 255 255"
+  />
+  <mdin_tree02
+    diffuse="din_tree02.dds"
+    color="255 255 255"
+  />
+  <mdin_nest01
+    diffuse="din_nest01.dds"
+    color="255 255 255"
+  />
+  <mdin_egg02
+    diffuse="din_egg01.dds"
+    color="255 255 255"
+  />
+  <mdin_shadow
+    diffuse="din_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_wall01_001
+    diffuse="din_b_wall02.dds"
+    color="255 255 255"
+  />
+  <m12_-_Default
+    diffuse="din_sky01.dds"
+    color="150 150 150"
+  />
+  <mdin_around01
+    diffuse="din_around01.dds"
+    color="255 255 255"
+  />
+  <mdin_forg_001
+    diffuse="din_forg_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_mountain_001
+    diffuse="din_mountain_001.dds"
+    color="255 255 255"
+  />
+  <mjur_rock_a
+    diffuse="din_rock01.dds"
+    color="255 255 255"
+  />
+  <mjur_treecinc
+    diffuse="jur_treecinc.dds"
+    color="255 255 255"
+  />
+  <mjur_treecine
+    diffuse="jur_treecine.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_b_gr02
+    diffuse="din_d_ground02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_b_grassa
+    diffuse="din_b_grassa.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_wall01_005
+    diffuse="din_b_wall03.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k432
+    diffuse="din_b_ground02.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mdin_b_grassbcin
+    diffuse="din_grassa.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_shadow_tree
+    diffuse="din_shadow_tree.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_smp_tree_01
+    diffuse="nah_smp_tree_01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_b_riverrock
+    diffuse="din_b_riverrock001.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_b_watercin01
+    diffuse="din_b_watercin.dds"
+    color="255 255 255"
+    uvAnimFile="din_b_watercin01.uva"
+  />
+  <mdin_b_watercin02
+    diffuse="din_water_sm02.dds"
+    color="255 255 255"
+    uvAnimFile="din_b_watercin02.uva"
+  />
+  <mdin_wall01_002
+    diffuse="din_b_wall01.dds"
+    color="255 255 255"
+  />
+  <mdin_clouds
+    diffuse="din_clouds.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_b_rivercin
+    diffuse="din_b_rivercin001.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_b_watercin03
+    diffuse="din_water_sm03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mdin_b_water_cin
+    diffuse="din_water_ms001.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="dinosaur_kingdom_b.skl"
+/>
+<collision
+  file="dinosaur_kingdom_b.col"
+/>
+</Scene.XML>

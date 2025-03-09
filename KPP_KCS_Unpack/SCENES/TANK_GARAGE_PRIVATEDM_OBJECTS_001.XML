@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="tank_garage\tank_garage.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="tank_garage_glass_001" code="146866178" yLayer="0" posX="13.75" posY="2.59" posZ="18.8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tank_garage_glass_001" code="146866178" yLayer="0" posX="2.88" posY="2.59" posZ="18.8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tank_garage_glass_001" code="146866178" yLayer="0" posX="-7.98" posY="2.59" posZ="18.8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tank_garage_glass_001" code="146866178" yLayer="0" posX="31.5" posY="3.1" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tank_garage_glass_001" code="146866178" yLayer="0" posX="29.11" posY="3.1" posZ="-5.53001" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="tank_garage_glass_001" code="146866178" yLayer="0" posX="7.98" posY="2.59" posZ="-18.8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tank_garage_glass_001" code="146866178" yLayer="0" posX="-2.89" posY="2.59" posZ="-18.8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tank_garage_glass_001" code="146866178" yLayer="0" posX="-13.76" posY="2.59" posZ="-18.8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="tank_garage_glass_001" code="146866178" yLayer="0" posX="-29.11" posY="3.09" posZ="5.48001" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="tank_garage_glass_001" code="146866178" yLayer="0" posX="-31.5" posY="3.09" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="hydrant" code="120651779" yLayer="0" posX="10" posY="0.15" posZ="29.55" angleX="0" angleY="0" angleZ="0" scale="0.6"/>
+	<Object engName="hydrant" code="120651779" yLayer="0" posX="-10" posY="0.15" posZ="-29.52" angleX="0" angleY="0" angleZ="0" scale="0.6"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-33.5" posY="2.1" posZ="1.1" angleX="0" angleY="110" angleZ="0" scale="1"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="33.5" posY="2.1" posZ="-1.1" angleX="0" angleY="100" angleZ="0" scale="1"/>
+	<Object engName="small_container_1" code="120651790" yLayer="0" posX="-14.23" posY="0.08" posZ="11.59" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-15" posY="0.08" posZ="13" angleX="0" angleY="10" angleZ="0" scale="1"/>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="-26" posY="2.03" posZ="-22.5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="26" posY="2.03" posZ="22.5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="11.8" posY="0" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-11.8" posY="0.08" posZ="18" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="space_ship_fuel" code="129040386" yLayer="0" posX="1.93" posY="0.00999996" posZ="13.6" angleX="0" angleY="-20" angleZ="0" scale="0.8"/>
+	<Object engName="keroro_city_paper_001" code="133234693" yLayer="0" posX="36.4" posY="0.06" posZ="-10" angleX="0" angleY="35" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_paper_002" code="133234694" yLayer="0" posX="37" posY="0.03" posZ="-9.31999" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="-29.24" posY="0.08" posZ="22" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keron_hangar_paper_003" code="144769027" yLayer="0" posX="7.2" posY="0.01" posZ="-14" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="keron_hangar_paper_003" code="144769027" yLayer="0" posX="10" posY="2.05" posZ="19.85" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="26.0201" posY="0.01" posZ="-13.17" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_paper_002" code="133234694" yLayer="0" posX="-36" posY="0.08" posZ="21" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_paper_001" code="133234693" yLayer="0" posX="-36.7032" posY="0.03" posZ="21.78" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="-37" posY="0.04" posZ="-1.46" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_001" code="131137538" yLayer="0" posX="-36.3899" posY="0.06" posZ="-0.41" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="36.83" posY="0.06" posZ="-24.7" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_001" code="131137538" yLayer="0" posX="36" posY="0.05" posZ="-23.76" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_ship_fuel" code="129040386" yLayer="0" posX="-7.3" posY="0.03" posZ="-13.6" angleX="0" angleY="20" angleZ="0" scale="0.8"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-16" posY="2.07" posZ="-24" angleX="0" angleY="90" angleZ="0" scale="0.8"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="16.5" posY="2.07" posZ="24" angleX="0" angleY="90" angleZ="0" scale="0.8"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="15.1" posY="0.03" posZ="-12.24" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="small_container_1" code="120651790" yLayer="0" posX="16.02" posY="0.03" posZ="-11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="sec_metal_001" code="143720464" yLayer="0" posX="-3" posY="2.45" posZ="-4" angleX="0" angleY="40" angleZ="0" scale="1"/>
+	<Object engName="sec_metal_001" code="143720464" yLayer="0" posX="-2" posY="2.45" posZ="-4.42999" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="sec_metal_001" code="143720464" yLayer="0" posX="1" posY="2.45" posZ="4.5" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-37.18" posY="1.32" posZ="-7.44999" angleX="0" angleY="-4.8" angleZ="0" scale="1"/>
+	<Object engName="small_container_1" code="120651790" yLayer="0" posX="-37" posY="1.32" posZ="-6" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="small_container_2" code="120651791" yLayer="1" posX="0" posY="1.08381" posZ="0" angleX="0" angleY="7.4" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="small_container_1" code="120651790" yLayer="0" posX="-41.39" posY="1.32" posZ="-4.09" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-37.43" posY="1.32" posZ="-3.47" angleX="0" angleY="-4" angleZ="0" scale="1"/>
+</ARRANGEMENT>

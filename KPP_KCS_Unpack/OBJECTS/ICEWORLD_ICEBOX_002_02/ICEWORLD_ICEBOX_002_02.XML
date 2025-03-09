@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <iceworld_icebox_002_02 file="iceworld_icebox_002_02.msh" />
+</Objects>
+<Materials version="2">
+  <micw_wallcina_001_01
+    diffuse="icw_wallcina_001_01.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="iceworld_icebox_002_02.skl"
+/>
+<BoneAnim
+  file="Anims\iceworld_icebox_002_02.anm"
+/>
+<collision
+  file="iceworld_icebox_002_02.col"
+/>
+</Scene.XML>

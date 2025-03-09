@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <rifle_enchant_001 file="rifle_enchant_001.msh" />
+</Objects>
+<Materials version="2">
+  <mrifle_enchant_001
+    diffuse="rifle_enchant_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="rifle_enchant_001.skl"
+/>
+<collision
+  file="rifle_enchant_001.col"
+/>
+</Scene.XML>

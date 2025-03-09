@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <hanbyul_head_000 file="hanbyul_head_000.msh" />
+ <hanbyul_body_000 file="hanbyul_body_000.msh" />
+ <hanbyul_face_000 file="hanbyul_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mhanbyul_head_000
+    diffuse="hanbyul_head_000.dds"
+    color="149 149 149"
+  />
+  <mhanbyul_body_000
+    diffuse="hanbyul_body_000.dds"
+    color="149 149 149"
+  />
+  <mhanbyul_face_000
+    diffuse="hanbyul_face_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="hanbyul_T_Pose.skl"
+/>
+<collision
+  file="hanbyul.col"
+/>
+</Scene.XML>

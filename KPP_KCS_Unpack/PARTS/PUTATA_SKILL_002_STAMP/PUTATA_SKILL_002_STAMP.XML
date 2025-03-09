@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <putata_skill_002_stamp file="putata_skill_002_stamp.msh" />
+</Objects>
+<Materials version="2">
+  <mputata_skill_002_stamp
+    diffuse="putata_skill_002_stamp.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="putata_skill_002_stamp.skl"
+/>
+<collision
+  file="putata_skill_002_stamp.col"
+/>
+</Scene.XML>

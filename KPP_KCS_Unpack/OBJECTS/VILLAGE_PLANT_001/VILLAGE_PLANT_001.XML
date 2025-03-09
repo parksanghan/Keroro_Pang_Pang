@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <village_plant_001 file="village_plant_001.msh" />
+</Objects>
+<Materials version="2">
+  <mvillage_plant_001
+    diffuse="village_plant_001.dds"
+    color="255 255 255"
+  />
+  <mvillage_plantalpha_001
+    diffuse="village_plantalpha_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="village_plant_001.col"
+/>
+</Scene.XML>

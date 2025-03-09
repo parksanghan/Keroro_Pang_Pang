@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <bfe_npc_balloon_nyh001 file="bfe_npc_balloon_nyh001.msh" />
+</Objects>
+<Materials version="2">
+  <mbfe_npc_balloon_nyh001
+    diffuse="bfballon_nyh001.TGA"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="bfe_npc_balloon_nyh001.skl"
+/>
+<BoneAnim
+  file="Anims\bfe_npc_balloon_nyh001.anm"
+/>
+<collision
+  file="bfe_npc_balloon_nyh001.col"
+/>
+</Scene.XML>

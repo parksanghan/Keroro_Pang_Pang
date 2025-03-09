@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="desert_spacetime\desert_spacetime.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="stone image" code="130088964" yLayer="0" posX="21.2901" posY="2.55" posZ="0.83" angleX="0" angleY="90" angleZ="0" scale="2.5"/>
+	<Object engName="stone tower " code="130088962" yLayer="0" posX="-15.5" posY="1.95" posZ="-12.74" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="cone tower " code="130088963" yLayer="0" posX="-21.22" posY="2.55" posZ="-0.6" angleX="0" angleY="270" angleZ="0" scale="4"/>
+	<Object engName="dolmen body 1" code="130088977" yLayer="0" posX="24.9" posY="1.97" posZ="-14.7" angleX="0" angleY="-39" angleZ="0" scale="1.4"/>
+	<Object engName="dolmen body 1" code="130088977" yLayer="0" posX="-24.9" posY="1.97" posZ="14.7" angleX="0" angleY="141" angleZ="0" scale="1.4"/>
+	<Object engName="stone tower " code="130088962" yLayer="0" posX="15.5" posY="1.95" posZ="12.74" angleX="0" angleY="270" angleZ="0" scale="2"/>
+	<Object engName="stone hill 1" code="130088967" yLayer="0" posX="-16.3402" posY="1.97" posZ="-15.29" angleX="0" angleY="12.9" angleZ="0" scale="1.7"/>
+	<Object engName="stone hill 1" code="130088967" yLayer="0" posX="16.3402" posY="1.97" posZ="15.29" angleX="0" angleY="192.601" angleZ="0" scale="1.7"/>
+</ARRANGEMENT>

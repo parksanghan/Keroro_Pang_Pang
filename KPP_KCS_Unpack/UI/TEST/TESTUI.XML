@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<xml.ui>
+    <Images>
+        <texture id="0" file="1.tga" />
+        <texture id="1" file="2.tga" />
+        <texture id="2" file="3.tga" />
+        <texture id="3" file="counter.tga" />
+        <texture id="4" file="fire.tga" />
+        <texture id="5" file="mission_sucess.png" />
+        <texture id="6" file="mission_failure.png" />
+        <texture id="7" file="restart_01.tga" />
+        <texture id="8" file="restart_02.tga" />
+        <texture id="9" file="practice.png" />
+        <elm name="back_hover" id="9" x="154" y="858" w="126" h="62" />
+        <elm name="back_normal" id="9" x="154" y="791" w="126" h="62" />
+        <elm name="back_pressed" id="9" x="153" y="926" w="127" h="63" />
+        <elm name="bkg" id="9" x="0" y="0" w="1024" h="768" />
+        <elm name="miss_fail" id="6" x="0" y="0" w="512" h="330" />
+        <elm name="miss_respawn" id="8" x="2" y="7" w="508" h="100" />
+        <elm name="miss_restart" id="7" x="2" y="7" w="508" h="100" />
+        <elm name="miss_win" id="5" x="0" y="0" w="512" h="359" />
+        <elm name="n0" id="3" x="1" y="5" w="47" h="58" />
+        <elm name="n1" id="3" x="70" y="5" w="24" h="57" />
+        <elm name="n2" id="3" x="122" y="5" w="44" h="57" />
+        <elm name="n3" id="3" x="187" y="5" w="36" h="58" />
+        <elm name="n4" id="3" x="0" y="85" w="49" h="57" />
+        <elm name="n5" id="3" x="64" y="86" w="41" h="57" />
+        <elm name="n6" id="3" x="123" y="85" w="42" h="58" />
+        <elm name="n7" id="3" x="187" y="86" w="38" h="63" />
+        <elm name="n8" id="3" x="4" y="165" w="41" h="58" />
+        <elm name="n9" id="3" x="63" y="165" w="42" h="58" />
+        <elm name="nslash" id="3" x="130" y="166" w="29" h="56" />
+        <elm name="select_hover" id="9" x="300" y="800" w="179" h="170" />
+        <elm name="select_pressed" id="9" x="512" y="800" w="179" h="170" />
+        <elm name="start1" id="0" x="28" y="23" w="200" h="303" />
+        <elm name="start2" id="1" x="24" y="22" w="207" h="306" />
+        <elm name="start3" id="2" x="23" y="40" w="209" h="270" />
+        <elm name="startgo" id="4" x="4" y="117" w="504" h="277" />
+    </Images>
+    <Layer0 />
+</xml.ui>

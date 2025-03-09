@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="goal" engName="keroro goal" code="117506073" teamId="0" spawnId="0" posX="22" posY="0" posZ="0" angleY="0" scale="0.6" radius="1" respawnTime="1"/>
+	<spawn type="goal" engName="clone goal" code="117506074" teamId="1" spawnId="1" posX="-22" posY="0" posZ="0.1" angleY="0" scale="0.6" radius="1" respawnTime="1"/>
+	<spawn type="keroball" engName="keroball" code="117702674" teamId="0" spawnId="2" posX="0" posY="0.5" posZ="0" angleY="0" scale="1.0" radius="0" respawnTime="1"/>
+	<spawn type="playerSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="3" posX="-14" posY="1" posZ="0" radius="1" respawnTime="1"/>
+	<spawn type="playerSpawnZone" engName="Giroro" code="19070977" teamId="1" spawnId="4" posX="14" posY="1" posZ="0" radius="1" respawnTime="1"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="5" posX="-18" posY="1" posZ="0" radius="1" respawnTime="1"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="6" posX="-7" posY="1" posZ="8" radius="1" respawnTime="1"/>
+	<spawn type="playerRushSpawnZone" engName="Keroro" code="18939905" teamId="0" spawnId="7" posX="-7" posY="1" posZ="-8" radius="1" respawnTime="1"/>
+	<spawn type="playerRushSpawnZone" engName="Giroro" code="19070977" teamId="1" spawnId="8" posX="18" posY="1" posZ="0" radius="1" respawnTime="1"/>
+	<spawn type="playerRushSpawnZone" engName="Giroro" code="19070977" teamId="1" spawnId="9" posX="7" posY="1" posZ="8" radius="1" respawnTime="1"/>
+	<spawn type="playerRushSpawnZone" engName="Giroro" code="19070977" teamId="1" spawnId="10" posX="7" posY="1" posZ="-8" radius="1" respawnTime="1"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="11" posX="-11" posY="0" posZ="8" radius="1" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="12" posX="11" posY="0" posZ="-8" radius="1" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_2" code="154140674" teamId="0" spawnId="13" posX="22" posY="0" posZ="10" radius="1" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_2" code="154140674" teamId="0" spawnId="14" posX="-22" posY="0" posZ="-10" radius="1" respawnTime="30"/>
+	<spawn type="itembox" engName="reinforce_2" code="155189250" teamId="0" spawnId="15" posX="-22" posY="0" posZ="10" radius="1" respawnTime="45"/>
+	<spawn type="itembox" engName="reinforce_2" code="155189250" teamId="0" spawnId="16" posX="22" posY="0" posZ="-10" radius="1" respawnTime="45"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="17" posX="-11" posY="0" posZ="-8" radius="1" respawnTime="45"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="18" posX="11" posY="0" posZ="8" radius="1" respawnTime="45"/>
+	<spawn type="itembox" engName="defense_3" code="153092099" teamId="0" spawnId="19" posX="-3" posY="0" posZ="0" radius="1" respawnTime="60"/>
+	<spawn type="itembox" engName="defense_3" code="153092099" teamId="0" spawnId="20" posX="3" posY="0" posZ="0" radius="1" respawnTime="60"/>
+</SPAWN.XML>

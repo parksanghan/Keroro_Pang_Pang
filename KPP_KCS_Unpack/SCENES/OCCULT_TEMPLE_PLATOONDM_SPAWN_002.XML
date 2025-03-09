@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="platoonZone" teamId="0" spawnId="0" posX="-24" posY="0.3" posZ="10" radius="1.5"/>
+	<spawn type="platoonZone" teamId="0" spawnId="1" posX="-24" posY="0.3" posZ="0" radius="1.5"/>
+	<spawn type="platoonZone" teamId="0" spawnId="2" posX="-24" posY="0.3" posZ="-9" radius="1.5"/>
+	<spawn type="platoonZone" teamId="1" spawnId="3" posX="23" posY="0.3" posZ="10" radius="1.5"/>
+	<spawn type="platoonZone" teamId="1" spawnId="4" posX="23" posY="0.3" posZ="-1" radius="1.5"/>
+	<spawn type="platoonZone" teamId="1" spawnId="5" posX="23" posY="0.3" posZ="-11" radius="1.5"/>
+	<!-- <spawn type="itembox" engName="restoration_1" code="154140673" spawnId="0" posX="14" posY="0" posZ="7" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676" spawnId="1" posX="14" posY="0" posZ="-7" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" spawnId="2" posX="8" posY="0" posZ="12" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676" spawnId="3" posX="-8" posY="0" posZ="12" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" spawnId="4" posX="-14" posY="0" posZ="7" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676" spawnId="5" posX="-14" posY="0" posZ="-7" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" spawnId="6" posX="-8" posY="0" posZ="-12" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676" spawnId="7" posX="8" posY="0" posZ="-12" respawnTime="30"/> -->
+	<spawn type="itembox" engName="reinforce_1" code="155189249" spawnId="8" posX="0" posY="0" posZ="7" respawnTime="30"/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" spawnId="9" posX="-8" posY="0" posZ="0" respawnTime="30"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" spawnId="10" posX="0" posY="0" posZ="-7" respawnTime="30"/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" spawnId="11" posX="8" posY="0" posZ="0" respawnTime="30"/>
+	<spawn type="itembox" engName="defense_3" code="153092099" spawnId="12" posX="-3" posY="0" posZ="0" respawnTime="30"/>
+	<spawn type="itembox" engName="defense_3" code="153092099" spawnId="13" posX="3" posY="0" posZ="0" respawnTime="30"/>
+</SPAWN.XML>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="-2" posY="0.9" posZ="41" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="1" posX="-4" posY="0.9" posZ="41" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="2" posX="-6" posY="0.9" posZ="41" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="3" posX="-3" posY="0.9" posZ="39" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="4" posX="-5" posY="0.9" posZ="39" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="5" posX="4" posY="0.9" posZ="-39" angleY="0" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="6" posX="2" posY="0.9" posZ="-39" angleY="0" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="7" posX="5" posY="0.9" posZ="-41" angleY="0" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="8" posX="3" posY="0.9" posZ="-41" angleY="0" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="9" posX="1" posY="0.9" posZ="-41" angleY="0" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="itembox" engName="defense_2" code="153092098" teamId="0" spawnId="10" posX="0.3" posY="0.9" posZ="0" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001"/>
+</SPAWN.XML>

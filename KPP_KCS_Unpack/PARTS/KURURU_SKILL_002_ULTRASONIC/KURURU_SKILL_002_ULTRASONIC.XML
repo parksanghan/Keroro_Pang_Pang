@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kururu_skill_002_ultrasonic file="kururu_skill_002_ultrasonic.msh" />
+</Objects>
+<Materials version="2">
+  <mkururu_skill_002_ultrasonic
+    diffuse="kururu_skill_002_ultrasonic.tga"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="kururu_skill_002_ultrasonic.skl"
+/>
+<BoneAnim
+  file="Anims\kururu_skill_002_ultrasonic.anm"
+/>
+<collision
+  file="kururu_skill_002_ultrasonic.col"
+/>
+</Scene.XML>

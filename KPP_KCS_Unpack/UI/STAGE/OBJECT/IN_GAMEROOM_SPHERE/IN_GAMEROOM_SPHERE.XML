@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Object01 file="Object01.msh" />
+</Objects>
+<Materials version="2">
+  <mlobby2_groom_sc_ms01
+    diffuse="lobby2_groom_sc_ms01.dds"
+    color="255 255 255"
+  />
+  <mlobby2_groom_w_ms02
+    diffuse="lobby2_groom_w_ms02.dds"
+    color="255 255 255"
+  />
+  <mlobby2_groom_up_ms01
+    diffuse="lobby2_groom_up_ms01.dds"
+    color="255 255 255"
+  />
+  <mlobby2_groom_roomsign_ms01
+    diffuse="lobby2_groom_roomsign_ms01.dds"
+    color="255 255 255"
+  />
+  <mlobby2_groom_ms01
+    diffuse="lobby2_groom_ms01.dds"
+    color="255 255 255"
+  />
+  <mlobby2_groom_ms02
+    diffuse="lobby2_groom_ms02.dds"
+    color="255 255 255"
+  />
+  <mlobby2_groom_ap_ms01
+    diffuse="lobby2_groom_ap_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlobby2_groom_monitor_ms01
+    diffuse="lobby2_groom_monitor_ms01.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="in_gameroom_sphere.skl"
+/>
+<collision
+  file="in_gameroom_sphere.col"
+/>
+</Scene.XML>

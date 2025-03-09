@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <virusegg file="virusegg.msh" />
+</Objects>
+<Materials version="2">
+  <mvirusegg
+    diffuse="virusegg.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Virusegg.skl"
+/>
+<BoneAnim
+  file="Anims\Virusegg.anm"
+/>
+<collision
+  file="Virusegg.col"
+/>
+</Scene.XML>

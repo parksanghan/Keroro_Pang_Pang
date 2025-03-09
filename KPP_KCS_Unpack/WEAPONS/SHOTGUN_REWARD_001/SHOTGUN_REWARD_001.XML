@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <shotgun_reward_001 file="shotgun_reward_001.msh" />
+</Objects>
+<Materials version="2">
+  <mshotgun_reward_001
+    diffuse="shotgun_reward_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="shotgun_reward_001.skl"
+/>
+<collision
+  file="shotgun_reward_001.col"
+/>
+</Scene.XML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <install_damage_004 file="install_damage_004.msh" />
+</Objects>
+<Materials version="2">
+  <minstall_damage_004
+    diffuse="install_damage_004.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="install_damage_004.skl"
+/>
+<collision
+  file="install_damage_004.col"
+/>
+</Scene.XML>

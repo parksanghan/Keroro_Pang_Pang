@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <bk_bunker_metal_001_1 file="bk_bunker_metal_001_1.msh" />
+</Objects>
+<Materials version="2">
+  <mbk_bunker_metal_001_1_id01
+    diffuse="bk_bunker_metal_001_01_d.dds"
+    color="255 255 255"
+  />
+  <mbk_bunker_metal_001_1_id02
+    diffuse="bk_bunker_metal_001_02_d.dds"
+    color="255 255 255"
+  />
+  <mbk_bunker_metal_001_1_id03
+    diffuse="bk_bunker_metal_001_03_d.dds"
+    color="255 255 255"
+  />
+  <mbk_bunker_metal_001_1_id04
+    diffuse="bk_bunker_metal_001_04_d.dds"
+    color="255 255 255"
+  />
+  <mEmptyMat
+  />
+</Materials>
+<Skeleton
+  file="bk_bunker_metal_001_1.skl"
+/>
+<collision
+  file="bk_bunker_metal_001_1.col"
+/>
+</Scene.XML>

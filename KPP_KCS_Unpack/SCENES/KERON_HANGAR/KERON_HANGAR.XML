@@ -1,0 +1,358 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_kh_line02 file="notrans_kh_line02.msh" />
+ <notrans_kh_line01 file="notrans_kh_line01.msh" />
+ <notrans_kh_guardrail file="notrans_kh_guardrail.msh" />
+ <kh_railB_001 file="kh_railB_001.msh" />
+ <kh_railA_001 file="kh_railA_001.msh" />
+ <notrans_kh_ground03 file="notrans_kh_ground03.msh" />
+ <notrans_kh_lighting06 file="notrans_kh_lighting06.msh" />
+ <kh_repair_01 file="kh_repair_01.msh" />
+ <notrans_kh_missilebg_02 file="notrans_kh_missilebg_02.msh" />
+ <notrans_kh_missilebg_01 file="notrans_kh_missilebg_01.msh" />
+ <notrans_kh_missilebg_03 file="notrans_kh_missilebg_03.msh" />
+ <notrans_kh_missilebg_04 file="notrans_kh_missilebg_04.msh" />
+ <kh_kerobot_02 file="kh_kerobot_02.msh" />
+ <notrans_kh_ceiling_01 file="notrans_kh_ceiling_01.msh" />
+ <kh_mcSamurai file="kh_mcSamurai.msh" />
+ <kh_frameC_09 file="kh_frameC_09.msh" />
+ <kh_frameC_08 file="kh_frameC_08.msh" />
+ <kh_frameC_19 file="kh_frameC_19.msh" />
+ <kh_frameC_02 file="kh_frameC_02.msh" />
+ <kh_frameC_03 file="kh_frameC_03.msh" />
+ <kh_frameC_04 file="kh_frameC_04.msh" />
+ <kh_framebg01_02 file="kh_framebg01_02.msh" />
+ <kh_framebg01_03 file="kh_framebg01_03.msh" />
+ <kh_framebg01_04 file="kh_framebg01_04.msh" />
+ <kh_framebg01_01 file="kh_framebg01_01.msh" />
+ <notrans_kh_lighting09 file="notrans_kh_lighting09.msh" />
+ <kh_framebg_06 file="kh_framebg_06.msh" />
+ <kh_framebg_01 file="kh_framebg_01.msh" />
+ <kh_framebg_02 file="kh_framebg_02.msh" />
+ <kh_oil_01 file="kh_oil_01.msh" />
+ <kh_oil_02 file="kh_oil_02.msh" />
+ <notrans_kh_ground02 file="notrans_kh_ground02.msh" />
+ <notrans_kh_ground01 file="notrans_kh_ground01.msh" />
+ <notrans_kh_wall03 file="notrans_kh_wall03.msh" />
+ <notrans_kh_wall02 file="notrans_kh_wall02.msh" />
+ <notrans_kh_wall01 file="notrans_kh_wall01.msh" />
+ <notrans_kh_bgwall02_02 file="notrans_kh_bgwall02_02.msh" />
+ <notrans_kh_bgwall02_03 file="notrans_kh_bgwall02_03.msh" />
+ <notrans_kh_bgwall02_04 file="notrans_kh_bgwall02_04.msh" />
+ <notrans_kh_bgwall02_01 file="notrans_kh_bgwall02_01.msh" />
+ <notrans_twh_ground_nyh006_02 file="notrans_twh_ground_nyh006_02.msh" />
+ <notrans_kh_grline_01 file="notrans_kh_grline_01.msh" />
+ <kh_framebg_03 file="kh_framebg_03.msh" />
+ <kh_framebg_04 file="kh_framebg_04.msh" />
+ <kh_framebg_05 file="kh_framebg_05.msh" />
+ <notrans_line_shadows file="notrans_line_shadows.msh" />
+ <notrans_robot_shadows file="notrans_robot_shadows.msh" />
+ <kh_frameC_06 file="kh_frameC_06.msh" />
+ <kh_frameC_07 file="kh_frameC_07.msh" />
+ <kh_frameA_16 file="kh_frameA_16.msh" />
+ <kh_frameB_13 file="kh_frameB_13.msh" />
+ <kh_frameA_17 file="kh_frameA_17.msh" />
+ <kh_frameB_14 file="kh_frameB_14.msh" />
+ <kh_frameA_18 file="kh_frameA_18.msh" />
+ <kh_frameA_19 file="kh_frameA_19.msh" />
+ <kh_frameB_15 file="kh_frameB_15.msh" />
+ <kh_frameA_20 file="kh_frameA_20.msh" />
+ <kh_frameA_21 file="kh_frameA_21.msh" />
+ <kh_frameB_16 file="kh_frameB_16.msh" />
+ <kh_frameA_22 file="kh_frameA_22.msh" />
+ <kh_frameA_07 file="kh_frameA_07.msh" />
+ <kh_frameB_04 file="kh_frameB_04.msh" />
+ <kh_frameA_06 file="kh_frameA_06.msh" />
+ <kh_frameB_03 file="kh_frameB_03.msh" />
+ <kh_frameA_04 file="kh_frameA_04.msh" />
+ <kh_frameA_05 file="kh_frameA_05.msh" />
+ <kh_frameB_02 file="kh_frameB_02.msh" />
+ <kh_frameA_02 file="kh_frameA_02.msh" />
+ <kh_frameA_03 file="kh_frameA_03.msh" />
+ <kh_frameB_01 file="kh_frameB_01.msh" />
+ <kh_frameA_01 file="kh_frameA_01.msh" />
+ <kh_frameA_08 file="kh_frameA_08.msh" />
+ <kh_frameB_07 file="kh_frameB_07.msh" />
+ <kh_frameA_09 file="kh_frameA_09.msh" />
+ <kh_frameB_08 file="kh_frameB_08.msh" />
+ <kh_frameA_10 file="kh_frameA_10.msh" />
+ <kh_frameB_06 file="kh_frameB_06.msh" />
+ <kh_frameA_11 file="kh_frameA_11.msh" />
+ <kh_frameB_05 file="kh_frameB_05.msh" />
+ <kh_frameC_01 file="kh_frameC_01.msh" />
+ <kh_frameC_05 file="kh_frameC_05.msh" />
+ <kh_frameA_12 file="kh_frameA_12.msh" />
+ <kh_frameA_13 file="kh_frameA_13.msh" />
+ <kh_frameB_09 file="kh_frameB_09.msh" />
+ <kh_frameB_10 file="kh_frameB_10.msh" />
+ <kh_frameA_14 file="kh_frameA_14.msh" />
+ <kh_frameB_11 file="kh_frameB_11.msh" />
+ <kh_frameA_15 file="kh_frameA_15.msh" />
+ <kh_frameB_12 file="kh_frameB_12.msh" />
+ <kh_frameC_20 file="kh_frameC_20.msh" />
+ <kh_frameC_21 file="kh_frameC_21.msh" />
+ <kh_ladder file="kh_ladder.msh" />
+ <kh_fence01_001 file="kh_fence01_001.msh" />
+ <kh_fence01_05 file="kh_fence01_05.msh" />
+ <kh_fence01_06 file="kh_fence01_06.msh" />
+ <kh_fence01_07 file="kh_fence01_07.msh" />
+ <notrans_kh_outline file="notrans_kh_outline.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_kh_bgwall01_05 file="notrans_kh_bgwall01_05.msh" />
+ <notrans_kh_bgwall01_06 file="notrans_kh_bgwall01_06.msh" />
+ <notrans_kh_bgwall01_07 file="notrans_kh_bgwall01_07.msh" />
+ <notrans_kh_bgwall01_08 file="notrans_kh_bgwall01_08.msh" />
+ <notrans_kh_ceiling_02 file="notrans_kh_ceiling_02.msh" />
+ <notrans_kh_bgwall03_06 file="notrans_kh_bgwall03_06.msh" />
+ <kh_frameC_16 file="kh_frameC_16.msh" />
+ <kh_frameC_22 file="kh_frameC_22.msh" />
+ <notrans_kh_mark file="notrans_kh_mark.msh" />
+ <notrans_kh_bgwall03_07 file="notrans_kh_bgwall03_07.msh" />
+ <notrans_kh_bgwall03_08 file="notrans_kh_bgwall03_08.msh" />
+ <notrans_kh_bgwall03_09 file="notrans_kh_bgwall03_09.msh" />
+ <notrans_kh_bottom03 file="notrans_kh_bottom03.msh" />
+ <notrans_kh_bottom04 file="notrans_kh_bottom04.msh" />
+ <notrans_kh_bottom05 file="notrans_kh_bottom05.msh" />
+ <notrans_kh_bottom06 file="notrans_kh_bottom06.msh" />
+ <notrans_kh_bottom07 file="notrans_kh_bottom07.msh" />
+ <notrans_kh_bottom08 file="notrans_kh_bottom08.msh" />
+ <notrans_kh_number file="notrans_kh_number.msh" />
+ <notrans_kh_shadows file="notrans_kh_shadows.msh" />
+ <notrans_kh_obj_01 file="notrans_kh_obj_01.msh" />
+ <notrans_kh_obj_02 file="notrans_kh_obj_02.msh" />
+ <kh_monitor_01 file="kh_monitor_01.msh" />
+ <kh_monitor_02 file="kh_monitor_02.msh" />
+ <notrans_kr_lift01_01 file="notrans_kr_lift01_01.msh" />
+ <notrans_kr_lift01_02 file="notrans_kr_lift01_02.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_23gd
+    diffuse="kh_line_02.dds"
+    color="149 149 149"
+  />
+  <mStandard_23dfgd
+    diffuse="kh_line_01.dds"
+    color="149 149 149"
+  />
+  <mkh_rail01_001
+    diffuse="kh_rail01_001.dds"
+    color="255 255 255"
+  />
+  <mkh_rail01_002
+    diffuse="kh_rail01_002.dds"
+    color="255 255 255"
+  />
+  <mkh_rail01_003
+    diffuse="kh_rail01_003.dds"
+    color="255 255 255"
+  />
+  <mkh_rail01_004
+    diffuse="kh_rail01_004.dds"
+    color="255 255 255"
+  />
+  <mkh_rail02_001
+    diffuse="kh_rail02_001.dds"
+    color="255 255 255"
+  />
+  <mkh_rail02_002
+    diffuse="kh_rail02_002.dds"
+    color="255 255 255"
+  />
+  <mkh_rail02_003
+    diffuse="kh_rail02_003.dds"
+    color="255 255 255"
+  />
+  <mEmptyMat
+  />
+  <mkh_ground03
+    diffuse="kh_ground03.dds"
+    color="149 149 149"
+  />
+  <mStandard_22
+    diffuse="kh_lighting.dds"
+    color="149 149 149"
+  />
+  <mkeh_repair01_id01
+    diffuse="kh_repair01_id01.dds"
+    color="255 255 255"
+  />
+  <mkeh_repair01_id02
+    diffuse="kh_repair01_id02.dds"
+    color="255 255 255"
+  />
+  <mkh_missile01_001
+    diffuse="kh_missile01_01.dds"
+    color="255 255 255"
+  />
+  <mkh_missile02_001
+    diffuse="kh_missile02_01.dds"
+    color="255 255 255"
+  />
+  <mkh_missile03_003
+    diffuse="kh_missile03_03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <m01_-_Default
+    diffuse="kh_kerobot.dds"
+    color="150 150 150"
+  />
+  <m03_-_Default
+    diffuse="kh_shield.dds"
+    color="111 111 111"
+  />
+  <m02_-_Default
+    diffuse="kh_bike.dds"
+    color="150 150 150"
+  />
+  <m04_-_Default
+    diffuse="kh_gun.dds"
+    color="150 150 150"
+  />
+  <mStandard_23ceiling
+    diffuse="kh_ceiling.dds"
+    color="149 149 149"
+  />
+  <mmcSamurai
+    diffuse="kh_mcSamurai.dds"
+    color="150 150 150"
+  />
+  <mkh_frame01_001
+    diffuse="kh_frame02_001.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k251
+    diffuse="kh_frame01_003.dds"
+    color="149 149 149"
+  />
+  <mkh_framebg01_001
+    diffuse="kh_framebg.dds"
+    color="255 255 255"
+  />
+  <mStandard_211
+    diffuse="kh_light.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mMaterial_k1
+    diffuse="kh_oil01_01.dds"
+    color="255 255 255"
+  />
+  <mStandard_23gg
+    diffuse="kh_ground_d2.dds"
+    color="149 149 149"
+  />
+  <mStandard_23re
+    diffuse="kh_ground_c1.dds"
+    color="149 149 149"
+  />
+  <mnotrans_kh_wall02
+    diffuse="kh_wall05.dds"
+    color="149 149 149"
+  />
+  <mStandard_23
+    diffuse="kh_wall_a01.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k294
+    diffuse="kh_wall_a02.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k295
+    diffuse="kh_wall_a03.dds"
+    color="149 149 149"
+  />
+  <mkh_wall03_001
+    diffuse="kh_wall03_01.dds"
+    color="255 255 255"
+  />
+  <mtwh_ground_nyh006_02
+    diffuse="kh_twground_nyh006_02.dds"
+    color="255 255 255"
+  />
+  <mgrline
+    diffuse="kh_grline.dds"
+    color="149 149 149"
+  />
+  <mStandard_23SFDF
+    diffuse="kh_frame_shadows.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mkh_robot_shadows
+    diffuse="kh_robot_shadows.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mdfd
+    color="149 149 149"
+  />
+  <mkeh_ladder01
+    diffuse="kh_ladder01.dds"
+    color="255 255 255"
+  />
+  <mkh_fence01
+    diffuse="kh_fence01_001.dds"
+    color="255 255 255"
+  />
+  <mkh_fence02
+    diffuse="kh_fence02_001.dds"
+    color="255 255 255"
+  />
+  <mgddfgfd
+    diffuse="kh_wall06.dds"
+    color="149 149 149"
+  />
+  <mwall02
+    diffuse="kh_wall02.dds"
+    color="149 149 149"
+  />
+  <mkh_frameC_16
+    diffuse="kh_frameC_16.dds"
+    color="255 255 255"
+  />
+  <mkh_mark
+    diffuse="kh_mark.dds"
+    color="255 255 255"
+  />
+  <mbottom03
+    diffuse="kh_set_4rbottom03.dds"
+    color="149 149 149"
+  />
+  <mnumber
+    diffuse="kh_twnumber_nyh001.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mnotrans_kh_obj_15
+    diffuse="kh_obj_15.dds"
+    color="255 255 255"
+  />
+  <mnotrans_kh_obj_16
+    diffuse="kh_obj_16.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mkr_monitor01_002
+    diffuse="kh_monitor01_02.dds"
+    color="255 255 255"
+  />
+  <mkr_monitor01_001
+    diffuse="kh_monitor01_01.dds"
+    color="255 255 255"
+  />
+  <mkr_lift01_001
+    diffuse="kh_lift01_001.dds"
+    color="255 255 255"
+  />
+  <mkr_lift02_001
+    diffuse="kh_lift02_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="keron_hangar.col"
+/>
+</Scene.XML>

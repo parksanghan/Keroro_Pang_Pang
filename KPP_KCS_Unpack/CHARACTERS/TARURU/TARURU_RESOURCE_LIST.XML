@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<taruru_resource_list.xml>
+	<effects>
+		<effect name="fx_taruru_skill_001.prx" />
+		<effect name="fx_taruru_skill_001_2.prx" />
+		<effect name="fx_taruru_skill_002.prx" />
+		<effect name="fx_taruru_skill_003.prx" />
+		<effect name="fx_taruru_skill_004.prx" />
+		<effect name="fx_taruru_skill_004_2.prx" />
+		<effect name="fx_taruru_skill_005.prx" />
+		<effect name="fx_taruru_skill_005_2.prx" />
+		<effect name="fx_taruru_skill_006.prx" />
+		<effect name="fx_taruru_skill_007.prx" />
+		<effect name="fx_taruru_skill_008.prx" />
+		<effect name="fx_taruru_skill_009.prx" />
+		<effect name="fx_taruru_skill_010.prx" />
+		<effect name="fx_taruru_skill_011.prx" />
+		<effect name="fx_taruru_skill_012.prx" />
+		<effect name="fx_taruru_skill_013.prx" />
+		<effect name="fx_taruru_skill_014.prx" />
+		<effect name="fx_taruru_skill_015_1.prx" />
+		<effect name="fx_taruru_skill_015_2.prx" />
+		<effect name="fx_taruru_skill_015_3.prx" />
+		<effect name="fx_taruru_skill_015_4.prx" />
+		<effect name="fx_taruru_skill_016.prx" />
+	</effects>
+</taruru_resource_list.xml>

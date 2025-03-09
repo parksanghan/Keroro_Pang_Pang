@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <nobibi_body_000 file="nobibi_body_000.msh" />
+</Objects>
+<Materials version="2">
+  <mnobibi_body_000
+    diffuse="nobibi_body_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

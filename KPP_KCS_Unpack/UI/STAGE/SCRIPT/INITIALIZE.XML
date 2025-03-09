@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Ui에서 사용되는데이터를 생성한다. -->
+<state name="create">
+  <!-- Object Create -->
+  <action type="8" applyName="character_creating_in"/>
+  <action type="8" applyName="channel_selecting_alpha_out"/>
+
+  <action type="8" applyName="grenade_damage_002"/>
+  <action type="8" applyName="pistol_event_005"/>
+  <action type="8" applyName="rifle_event_001"/>
+  <action type="8" applyName="rifle_event_002"/>
+  <action type="8" applyName="rocket_event_001"/>
+  <action type="8" applyName="sniper_damage_001"/>
+
+  <action type="8" applyName="star_idle"/>
+
+  <action type="8" applyName="in_gameroom_out"/>
+  
+  <action type="8" applyName="in_gameroom_seat0"/>
+  <action type="8" applyName="in_gameroom_seat1"/>
+  <action type="8" applyName="in_gameroom_seat2"/>
+  <action type="8" applyName="in_gameroom_seat3"/>
+  <action type="8" applyName="in_gameroom_seat4"/>
+  <action type="8" applyName="in_gameroom_seat5"/>
+  <action type="8" applyName="in_gameroom_seat6"/>
+  <action type="8" applyName="in_gameroom_seat7"/>
+  <action type="8" applyName="in_gameroom_seat8"/>
+  <action type="8" applyName="in_gameroom_seat9"/>
+
+  <action type="8" applyName="in_gameroom_mode_broad"/>
+  <action type="8" applyName="in_gameroom_deco"/>
+  <action type="8" applyName="in_gameroom_spaceship"/>
+  <action type="8" applyName="in_gameroom_team"/>
+  <action type="8" applyName="in_gameroom_sphere"/>
+
+  <action type="8" applyName="game_result"/>
+
+  <action type="8" applyName="result_win_stage"/>
+  <action type="8" applyName="result_win_stage_alpha"/>
+  <action type="8" applyName="result_win_ani_in"/>
+  <action type="8" applyName="result_win_action"/>
+  <action type="8" applyName="game_result_lose_stage"/>
+  <action type="8" applyName="game_result_lose_action"/>
+
+  <!-- Character Create -->
+  <action type="9" applyName="Keroro"/>
+  <action type="9" applyName="Giroro"/>
+  <action type="9" applyName="Tamama"/>
+  <action type="9" applyName="Kururu"/>
+  <action type="9" applyName="Dororo"/>
+
+  <!-- Texture Create -->
+  <action type="10" applyName="keorn_seat0"/>
+  <action type="10" applyName="keorn_seat1"/>
+  <action type="10" applyName="keorn_seat2"/>
+  <action type="10" applyName="keorn_seat3"/>
+  <action type="10" applyName="keorn_seat4"/>
+  <action type="10" applyName="keorn_seat5"/>
+  <action type="10" applyName="keorn_seat6"/>
+  <action type="10" applyName="keorn_seat7"/>
+  <action type="10" applyName="keorn_seat8"/>
+  <action type="10" applyName="keorn_seat9"/>
+
+  <action type="10" applyName="clone_seat0"/>
+  <action type="10" applyName="clone_seat1"/>
+  <action type="10" applyName="clone_seat2"/>
+  <action type="10" applyName="clone_seat3"/>
+  <action type="10" applyName="clone_seat4"/>
+  <action type="10" applyName="clone_seat5"/>
+  <action type="10" applyName="clone_seat6"/>
+  <action type="10" applyName="clone_seat7"/>
+  <action type="10" applyName="clone_seat8"/>
+  <action type="10" applyName="clone_seat9"/>
+
+  <action type="10" applyName="private_monitor_left"/>
+  <action type="10" applyName="private_monitor_right"/>
+  <action type="10" applyName="platoon_monitor_left"/>
+  <action type="10" applyName="platoon_monitor_right"/>
+  <action type="10" applyName="private_board_panel_left"/>
+  <action type="10" applyName="private_board_panel_right"/>
+  <action type="10" applyName="platoon_board_panel_left"/>
+  <action type="10" applyName="platoon_board_panel_right"/>
+
+  <action type="10" applyName="Behind_the_ancient_temple"/>
+  <action type="10" applyName="Dororo's_bamboo_forest"/>
+  <action type="10" applyName="The_submarine_base"/>
+  <action type="10" applyName="Katpa's_cave"/>
+  <action type="10" applyName="Special_spacetime"/>
+  <action type="10" applyName="Grandma_house"/>
+  <action type="10" applyName="Vine_log"/>
+  <action type="10" applyName="Keroro_Village"/>
+  <action type="10" applyName="Ice_World"/>
+  <action type="10" applyName="nara_house"/>  
+  <action type="10" applyName="space_station"/>
+  <action type="10" applyName="kururu_cyberspace"/>  
+  <action type="10" applyName="submarine_base_sd"/>  
+  <action type="10" applyName="space_station_sd"/>
+  <action type="10" applyName="blossoms_festival"/>   
+  <action type="10" applyName="inca_excavate"/>   
+  <action type="10" applyName="keroro_city"/>   
+  <action type="10" applyName="viper_agit"/>   
+  <action type="10" applyName="pirate_ship"/> 
+  <action type="10" applyName="trader_warehouse"/>   
+  <action type="10" applyName="dinosaur_kingdom"/>   
+  <action type="10" applyName="snow_field"/>   
+  <!-- Particle Create -->
+  <action type="11" applyName="fx_spaceship_start_left"/>
+  <action type="11" applyName="fx_spaceship_start_right"/>
+  <action type="11" applyName="fx_lose_tire_left"/>
+  <action type="11" applyName="fx_lose_tire_right"/>
+  <action type="11" applyName="fx_lose_trunk"/>
+
+  <action type="11" applyName="fx_ui_burner_02"/>
+  <action type="11" applyName="fx_ui_burner_03"/>
+  <action type="11" applyName="fx_ui_stars"/>
+
+  <action type="11" applyName="fx_ui_keroro_shot"/>
+
+  <action type="11" applyName="fx_ui_tamama_kick"/>
+  <action type="11" applyName="fx_ui_tamama_shot01"/>
+
+  <action type="11" applyName="fx_ui_giroro_shot"/>
+
+  <action type="11" applyName="fx_ui_kururu_bomb"/>
+  
+  <action type="11" applyName="fx_ui_dororo_move01"/>
+  <action type="11" applyName="fx_ui_dororo_move02"/>
+  <action type="11" applyName="fx_ui_dororo_shot"/>
+
+  <action type="11" applyName="fx_lobby_keroro_rifle_003"/>
+  
+  <action type="11" applyName="fx_ui_result_earthglow"/>
+  <action type="11" applyName="fx_ui_result_paper"/>
+</state>
+<!-- Ui에서 사용되는 오브젝트를 스테이지에 붙인다. -->
+<state name="attach">
+  <action type="4" applyName="character_creating_in"/>
+  <action type="4" applyName="channel_selecting_alpha_out"/>
+
+  <action type="4" applyName="star_idle"/>
+  
+  <action type="4" applyName="in_gameroom_out"/>
+
+  <action type="4" applyName="game_result"/>
+
+  <action type="0" applyName="star_idle" actionName="star_out" actionType="3"/>
+  <action type="0" applyName="character_creating_in" actionName="channel_selecting_to_in_lobby" actionType="3"/>
+  <action type="0" applyName="channel_selecting_alpha_out" actionName="channel_selecting_alpha_out" actionType="3"/>
+</state>

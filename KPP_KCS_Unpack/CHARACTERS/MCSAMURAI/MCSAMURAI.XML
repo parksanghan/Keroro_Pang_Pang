@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <mcSamurai file="mcSamurai.msh" />
+</Objects>
+<Materials version="2">
+  <mmcSamurai
+    diffuse="mcSamurai.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="mcSamurai.skl"
+/>
+<BoneAnim
+  file="Anims\mcSamurai.anm"
+/>
+<collision
+  file="mcSamurai.col"
+/>
+</Scene.XML>

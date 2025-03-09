@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <paul file="paul.msh" />
+</Objects>
+<Materials version="2">
+  <m01_-_Default
+    diffuse="paul.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="paul02.skl"
+/>
+<BoneAnim
+  file="Anims\paul02.anm"
+/>
+<collision
+  file="paul02.col"
+/>
+</Scene.XML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <astro file="astro.msh" />
+</Objects>
+<Materials version="2">
+  <mastro
+    diffuse="kikaka_skill_002_astro.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="kikaka_skill_002_astro.skl"
+/>
+<BoneAnim
+  file="Anims\kikaka_skill_002_astro.anm"
+/>
+<collision
+  file="kikaka_skill_002_astro.col"
+/>
+</Scene.XML>

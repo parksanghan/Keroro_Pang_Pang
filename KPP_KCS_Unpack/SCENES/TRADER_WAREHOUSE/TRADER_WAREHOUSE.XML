@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_twh_ground_nyh007 file="notrans_twh_ground_nyh007.msh" />
+ <notrans_twh_ground_nyh001 file="notrans_twh_ground_nyh001.msh" />
+ <notrans_twh_outwall_nyh001 file="notrans_twh_outwall_nyh001.msh" />
+ <notrans_twh_ceiling_nyh002 file="notrans_twh_ceiling_nyh002.msh" />
+ <notrans_twh_ceiling_nyh001 file="notrans_twh_ceiling_nyh001.msh" />
+ <notrans_twh_outwall_nyh002 file="notrans_twh_outwall_nyh002.msh" />
+ <notrans_twh_number_nyh001 file="notrans_twh_number_nyh001.msh" />
+ <notrans_twh_ground_nyh002 file="notrans_twh_ground_nyh002.msh" />
+ <twh_wall_nyh002_01 file="twh_wall_nyh002_01.msh" />
+ <notrans_twh_ground_nyh006_02 file="notrans_twh_ground_nyh006_02.msh" />
+ <notrans_twh_ground_nyh009 file="notrans_twh_ground_nyh009.msh" />
+ <notrans_twh_wall_nyh001 file="notrans_twh_wall_nyh001.msh" />
+ <twh_wall_nyh002_02 file="twh_wall_nyh002_02.msh" />
+ <notrans_twh_ground_nyh008 file="notrans_twh_ground_nyh008.msh" />
+ <notrans_storehouse_metal_001_01 file="notrans_storehouse_metal_001_01.msh" />
+ <storehouse_metal_002_01 file="storehouse_metal_002_01.msh" />
+ <storehouse_metal_003_01 file="storehouse_metal_003_01.msh" />
+ <storehouse_metal_002_02 file="storehouse_metal_002_02.msh" />
+ <storehouse_metal_003_02 file="storehouse_metal_003_02.msh" />
+ <storehouse_metal_002_03 file="storehouse_metal_002_03.msh" />
+ <storehouse_metal_003_03 file="storehouse_metal_003_03.msh" />
+ <notrans_twh_ground_nyh003 file="notrans_twh_ground_nyh003.msh" />
+ <notrans_twh_ground_nyh005 file="notrans_twh_ground_nyh005.msh" />
+ <notrans_twh_shadow_nyh001 file="notrans_twh_shadow_nyh001.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_twh_ground_nyh010 file="notrans_twh_ground_nyh010.msh" />
+ <storehouse_metal_002_04 file="storehouse_metal_002_04.msh" />
+ <storehouse_metal_002_05 file="storehouse_metal_002_05.msh" />
+ <storehouse_metal_002_06 file="storehouse_metal_002_06.msh" />
+ <storehouse_metal_002_07 file="storehouse_metal_002_07.msh" />
+ <storehouse_metal_001_05 file="storehouse_metal_001_05.msh" />
+ <storehouse_metal_001_07 file="storehouse_metal_001_07.msh" />
+ <twh_wall_nyh002_04 file="twh_wall_nyh002_04.msh" />
+ <twh_wall_nyh002_03 file="twh_wall_nyh002_03.msh" />
+ <storehouse_metal_001_03 file="storehouse_metal_001_03.msh" />
+ <storehouse_metal_001_01 file="storehouse_metal_001_01.msh" />
+ <storehouse_metal_001_02 file="storehouse_metal_001_02.msh" />
+ <storehouse_metal_001_04 file="storehouse_metal_001_04.msh" />
+ <storehouse_metal_001_06 file="storehouse_metal_001_06.msh" />
+ <notrans_twh_ground_nyh006_03 file="notrans_twh_ground_nyh006_03.msh" />
+ <notrans_outline file="notrans_outline.msh" />
+</Objects>
+<Materials version="2">
+  <mtwh_ground_nyh007_id01
+    diffuse="twground_nyh007_id01.dds"
+    color="255 255 255"
+  />
+  <mtwh_ground_nyh007_id02
+    diffuse="twground_nyh007_id02.dds"
+    color="253 253 253"
+  />
+  <mtwh_ground_nyh001
+    diffuse="twground_nyh001.dds"
+    color="255 255 255"
+  />
+  <mtwh_outwall_nyh001
+    diffuse="twoutwall_nyh001.dds"
+    color="255 255 255"
+  />
+  <mtwh_ceiling_nyh002
+    diffuse="twceiling_nyh002.dds"
+    color="255 255 255"
+  />
+  <mtwh_ceiling_nyh001
+    diffuse="twceiling_nyh001.dds"
+    color="255 255 255"
+  />
+  <mtwh_outwall_nyh002
+    diffuse="twoutwall_nyh002.dds"
+    color="255 255 255"
+  />
+  <m24_-_Default
+    color="150 150 150"
+  />
+  <mtwh_number_nyh001
+    diffuse="twnumber_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mtwh_ground_nyh002
+    diffuse="twground_nyh002.dds"
+    color="255 255 255"
+  />
+  <mtwh_wall_nyh002
+    diffuse="twwall_nyh002.dds"
+    color="255 255 255"
+  />
+  <mtwh_ground_nyh006_02
+    diffuse="twground_nyh006_02.dds"
+    color="255 255 255"
+  />
+  <mtwh_ground_nyh009
+    diffuse="twground_nyh009.dds"
+    color="255 255 255"
+  />
+  <mtwh_wall_nyh001_id01
+    diffuse="twh_wall_cin.dds"
+    color="255 255 255"
+  />
+  <mtwh_wall_nyh001_id02
+    diffuse="twh_wall_cina.dds"
+    color="255 255 255"
+  />
+  <mtwh_ground_nyh008
+    diffuse="twh_ground_nhy008.dds"
+    color="255 255 255"
+  />
+  <mstorehouse_metal_001
+    diffuse="storehouse_metal_001.dds"
+    color="253 253 253"
+  />
+  <mstorehouse_metal_002
+    diffuse="storehouse_metal_002.dds"
+    color="255 255 255"
+  />
+  <mtwh_ground_nyh003_id01
+    diffuse="twh_ground_nyh003_id01.dds"
+    color="255 255 255"
+  />
+  <mtwh_ground_nyh003_id02
+    diffuse="twh_ground_nyh003_id02.dds"
+    color="255 255 255"
+  />
+  <mtwh_ground_nyh005_id01
+    diffuse="twground_nyh005_id01.dds"
+    color="255 255 255"
+  />
+  <mtwh_ground_nyh005_id02
+    diffuse="twground_nyh005_id02.dds"
+    color="255 255 255"
+  />
+  <mtwh_shadow_nyh001
+    diffuse="twshadow_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mwh_ground_nyh004_id01
+    diffuse="twh_wall_cinb.dds"
+    color="255 255 255"
+  />
+  <mwh_ground_nyh004_id02
+    diffuse="twh_wall_cinc.dds"
+    color="255 255 255"
+  />
+  <mtwh_ground_nyh006_01_id01
+    diffuse="twground_nyh006_01_id01.dds"
+    color="255 255 255"
+  />
+  <mtwh_ground_nyh006_01_id02
+    diffuse="twground_nyh006_01_id02.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="trader_warehouse.col"
+/>
+</Scene.XML>

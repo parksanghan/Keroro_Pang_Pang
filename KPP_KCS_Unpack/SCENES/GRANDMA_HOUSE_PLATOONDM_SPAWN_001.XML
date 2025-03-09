@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="0" posX="-33" posY="5.3" posZ="0" angleY="0" scale="0" radius="1.5" respawnTime="1" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="1" posX="-33" posY="5.3" posZ="23" angleY="0" scale="0" radius="1.5" respawnTime="1" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="2" posX="-33" posY="5.3" posZ="-20" angleY="0" scale="0" radius="1.5" respawnTime="1" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="3" posX="31" posY="5.3" posZ="0" angleY="0" scale="0" radius="1.5" respawnTime="1" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="4" posX="27" posY="5.3" posZ="-20" angleY="0" scale="0" radius="1.5" respawnTime="1" msgId=""/>
+	<spawn type="platoonZone" engName="Platoon_Keroro" code="0" teamId="1" spawnId="5" posX="32" posY="5.3" posZ="22" angleY="0" scale="0" radius="1.5" respawnTime="1" msgId=""/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="6" posX="4" posY="2" posZ="13" angleY="0" scale="0" radius="1" respawnTime="50" msgId=""/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="7" posX="-4" posY="2" posZ="-13" angleY="0" scale="0" radius="1" respawnTime="50" msgId=""/>
+	<spawn type="itembox" engName="reinforce_2" code="155189250" teamId="0" spawnId="8" posX="-11" posY="2" posZ="31" angleY="0" scale="0" radius="1" respawnTime="50" msgId=""/>
+	<spawn type="itembox" engName="reinforce_2" code="155189250" teamId="0" spawnId="9" posX="11" posY="2" posZ="-31" angleY="0" scale="0" radius="1" respawnTime="50" msgId=""/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="10" posX="14" posY="2" posZ="0" angleY="0" scale="0" radius="1" respawnTime="50" msgId=""/>
+	<spawn type="itembox" engName="reinforce_4" code="155189252" teamId="0" spawnId="11" posX="-14" posY="2" posZ="0" angleY="0" scale="0" radius="1" respawnTime="50" msgId=""/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="12" posX="37" posY="0" posZ="38" angleY="0" scale="0" radius="1" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="13" posX="-42" posY="0" posZ="-38" angleY="0" scale="0" radius="1" respawnTime="30" msgId=""/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="14" posX="-14" posY="3" posZ="-60" angleY="0" scale="0" radius="1" respawnTime="30" msgId=""/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="16" posX="-38.9001" posY="0" posZ="38.3" angleY="150" scale="1" jumpPower="180" force="120" durationTime="2.5" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="17" posX="-40" posY="0" posZ="-39" angleY="60" scale="1" jumpPower="180" force="120" durationTime="2.5" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="18" posX="-16" posY="3.1" posZ="-53" angleY="20" scale="1" jumpPower="200" force="250" durationTime="4.5" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="19" posX="-3" posY="3.1" posZ="-53" angleY="-20" scale="1" jumpPower="200" force="250" durationTime="4.5" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="20" posX="41" posY="0" posZ="-37" angleY="-35" scale="1" jumpPower="180" force="120" durationTime="2.5" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="21" posX="35" posY="0" posZ="37" angleY="-125" scale="1" jumpPower="180" force="120" durationTime="2.5" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="23" posX="-10" posY="2" posZ="1.5" angleY="180" scale="1" jumpPower="190" force="250" durationTime="3.5" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

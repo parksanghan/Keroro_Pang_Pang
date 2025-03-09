@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <dropship file="dropship.msh" />
+ <notrans_lob_guru_teeth_l file="notrans_lob_guru_teeth_l.msh" />
+ <notrans_lob_guru_teeth_r file="notrans_lob_guru_teeth_r.msh" />
+</Objects>
+<Materials version="2">
+  <mdropship
+    diffuse="dropship.tga"
+    color="149 149 149"
+  />
+  <mlob_guru_teeth_l
+    diffuse="lob_guru_center_ms01.tga"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="dropship_3dlobby_ani_001.skl"
+/>
+<BoneAnim
+  file="Anims\dropship_3dlobby_ani_001.anm"
+/>
+<collision
+  file="dropship_3dlobby_ani_001.col"
+/>
+</Scene.XML>

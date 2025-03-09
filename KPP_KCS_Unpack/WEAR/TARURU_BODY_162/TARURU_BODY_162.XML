@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <taruru_body_162 file="taruru_body_162.msh" />
+</Objects>
+<Materials version="2">
+  <mtaruru_body_162
+    diffuse="taruru_body_162.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

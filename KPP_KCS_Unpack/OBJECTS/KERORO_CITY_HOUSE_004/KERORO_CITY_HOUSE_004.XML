@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <keroro_city_house_004 file="keroro_city_house_004.msh" />
+ <keroro_city_house_004_02 file="keroro_city_house_004_02.msh" />
+</Objects>
+<Materials version="2">
+  <mkct_sign02_nyh
+    diffuse="kct_sign02_nyh.dds"
+    color="255 255 255"
+  />
+  <mkct_shop04_nyh_id01
+    diffuse="kct_shop04_nyh_id01.dds"
+    color="255 255 255"
+  />
+  <mkct_shop04_nyh_id02
+    diffuse="kct_shop04_nyh_id02.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="keroro_city_house_004.col"
+/>
+</Scene.XML>

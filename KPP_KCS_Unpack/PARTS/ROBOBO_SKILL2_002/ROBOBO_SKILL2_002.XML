@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <robobo_skill2_002a file="robobo_skill2_002a.msh" />
+ <robobo_skill2_002b file="robobo_skill2_002b.msh" />
+ <robobo_skill2_002c file="robobo_skill2_002c.msh" />
+</Objects>
+<Materials version="2">
+  <mrobobo_skill2_002
+    diffuse="robobo_skill2_002.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="robobo_skill2_002.skl"
+/>
+<BoneAnim
+  file="Anims\robobo_skill2_002.anm"
+/>
+<collision
+  file="robobo_skill2_002.col"
+/>
+</Scene.XML>

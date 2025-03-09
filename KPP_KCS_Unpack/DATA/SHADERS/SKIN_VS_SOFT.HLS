@@ -1,0 +1,36 @@
+#include "Common.hls"
+
+struct VS_INPUT_1
+{
+	float4	vPos		: POSITION;
+	float3	vNormal		: NORMAL;
+	float2	vUV1		: TEXCOORD0;
+};
+
+void main(VS_INPUT_1 IN,
+  out float4 	vOutPos		: POSITION,
+  #ifdef CALC_FOG
+  out float  	fOutFog		: FOG,
+  #endif
+  out float4 	vOutColor	: COLOR0,
+  out float2 	vOutUV1		: TEXCOORD0,
+  out float2 	vOutUV2		: TEXCOORD1
+)
+{
+  float4 Pos1  = IN.vPos;
+  float3 Norm1 = IN.vNormal;
+
+  // toon: extract position along normal.
+  Pos1 += float4(Norm1, 0) * vLightPos[0].x;
+
+  vOutPos    = mul(Pos1, mWVP);
+
+  vOutUV1    = IN.vUV1;
+
+  float3 NormW   = normalize(mul(IN.vNormal, mWorld));
+
+  // toon: shading
+  vOutUV2    = dot(Norm1, -vDirLightDir);
+
+  vOutColor  = vAmbientColor;
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<giroro_resource_list.xml>
+	<effects>
+		<effect name="fx_giroro_skill_001.prx" />
+		<effect name="fx_giroro_skill_002_1.prx" />
+		<effect name="fx_giroro_skill_002_2.prx" />
+		<effect name="fx_giroro_skill_002_3.prx" />
+		<effect name="fx_giroro_skill_003_1.prx" />
+		<effect name="fx_giroro_skill_003_2.prx" />
+		<effect name="fx_giroro_skill_003_3.prx" />
+		<effect name="fx_giroro_skill_004_1.prx" />
+		<effect name="fx_giroro_skill_004_2.prx" />
+		<effect name="fx_giroro_skill_004_3.prx" />
+		<effect name="fx_giroro_skill_005_1.prx" />
+		<effect name="fx_giroro_skill_005_2.prx" />
+		<effect name="fx_giroro_skill_005_3.prx" />
+		<effect name="fx_giroro_skill_006_1a.prx" />
+		<effect name="fx_giroro_skill_006_1b.prx" />
+		<effect name="fx_giroro_skill_006_2a.prx" />
+		<effect name="fx_giroro_skill_006_2b.prx" />
+		<effect name="fx_giroro_skill_006_3a.prx" />
+		<effect name="fx_giroro_skill_006_3b.prx" />
+		<effect name="fx_giroro_skill_010.prx" />
+		<effect name="fx_giroro_skill_015.prx" />
+		<effect name="fx_giroro_skill_016.prx" />
+		<effect name="fx_giroro_skill_017.prx" />
+		<effect name="fx_giroro_skill_018.prx" />
+		<effect name="fx_giroro_skill_019.prx" />
+	</effects>
+</giroro_resource_list.xml>

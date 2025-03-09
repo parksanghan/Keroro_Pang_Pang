@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<PartsList.XML>
+    <Parts engName="GiroroSkill3_RightHand" code="18939905" mesh="GiroroSkill3_RightHand" hasIndependentAnim="1" attachBoneName="Bip01_Prop1" />
+    <Parts engName="GiroroSkill3_LeftHand" code="18939906" mesh="GiroroSkill3_LeftHand" hasIndependentAnim="1" attachBoneName="Bip01_Prop2" />
+    <Parts engName="kururu_skill_003_02" code="19136513" mesh="kururu_skill_003_02" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="kururu_skill_002_ultrasonic" code="19136514" mesh="kururu_skill_002_ultrasonic" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="giroro_skill_002_monro" code="18939907" mesh="giroro_skill_002_monro" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="machinegun_damage_001" code="35848193" mesh="machinegun_damage_001" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="machinegun_damage_002" code="35848194" mesh="machinegun_damage_002" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="machinegun_special_001" code="35848195" mesh="machinegun_special_001" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="machinegun_damage_008" code="35848196" mesh="machinegun_damage_008" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="machinegun_damage_005" code="35848197" mesh="machinegun_damage_005" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="machinegun_damage_009" code="35848198" mesh="machinegun_damage_009" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="machinegun_damage_003" code="35848199" mesh="machinegun_damage_003" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />    
+    <Parts engName="machinegun_damage_007" code="35848200" mesh="machinegun_damage_007" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />        
+    <Parts engName="machinegun_damage_010" code="35848201" mesh="machinegun_damage_010" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />        
+    <Parts engName="machinegun_damage_011" code="35848202" mesh="machinegun_damage_011" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />          
+    <Parts engName="machinegun_damage_013" code="35848203" mesh="machinegun_damage_013" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="machinegun_damage_014" code="35848204" mesh="machinegun_damage_014" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="machinegun_damage_006" code="35848205" mesh="machinegun_damage_006" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />            
+    <Parts engName="machinegun_damage_015" code="35848206" mesh="machinegun_damage_015" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />            
+    <Parts engName="transgun_001" code="35848207" mesh="transgun_001" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />          
+    <Parts engName="transgun_002" code="35848208" mesh="transgun_002" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="glauncher_damage_001" code="35848209" mesh="glauncher_damage_001" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="transgun_003" code="35848210" mesh="transgun_003" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="transgun_004" code="35848211" mesh="transgun_004" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" /> 
+    <Parts engName="machinegun_damage_016" code="35848212" mesh="machinegun_damage_016" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="auto_grenade_000" code="35848213" mesh="auto_grenade_000" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="auto_rifle_000" code="35848214" mesh="auto_rifle_000" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="rocketbullet_damage_039" code="35848215" mesh="rocketbullet_damage_039" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" /> 
+    <Parts engName="auto_grenade_001" code="35848216" mesh="auto_grenade_001" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="auto_rifle_001" code="35848217" mesh="auto_rifle_001" hasIndependentAnim="1" attachBoneName="" />  
+    <Parts engName="tank" code="35848218" mesh="tank" hasIndependentAnim="1" attachBoneName="" />  
+    <Parts engName="machinegun_enchant_001" code="35848219" mesh="machinegun_enchant_001" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+    <Parts engName="machinegun_reward_001" code="35848220" mesh="machinegun_reward_001" hasIndependentAnim="1" attachBoneName="Bip01 Prop1" />
+	<Parts engName="dororo_head2" code="23819381" mesh="dororo_head2" hasIndependentAnim="0" attachBoneName="" />
+    <Parts engName="dororo_body" code="23819382" mesh="dororo_body" hasIndependentAnim="0" attachBoneName="" />
+    <Parts engName="keron_umbrella" code="23819383" mesh="keron_umbrella" hasIndependentAnim="1" attachBoneName="Bip01_Prop1" />
+    <Parts engName="missile_bullet_001" code="23819384" mesh="missile_bullet_001" hasIndependentAnim="0" attachBoneName="Bip01_Prop1" />
+    <Parts engName="tororo_skill_002_ultrasonic" code="23819385" mesh="tororo_skill_002_ultrasonic" hasIndependentAnim="1" attachBoneName="Hair_Dummy01" />
+    <Parts engName="tororo_skill_003_spaceship" code="23819386" mesh="tororo_skill_003_spaceship" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="luckybox_001" code="23819387" mesh="luckybox_001" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="garuru_skill_003_gllsniperrifle" code="23819388" mesh="garuru_skill_003_gllsniperrifle" hasIndependentAnim="1" attachBoneName="Bip01_Prop1" />
+    <Parts engName="garuru_skill_003_wing" code="23819389" mesh="garuru_skill_003_wing" hasIndependentAnim="1" attachBoneName="Bip01_Spine1" />
+    <Parts engName="luckybox_002" code="23819390" mesh="luckybox_002" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="luckybox_003" code="23819391" mesh="luckybox_003" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="pururu_skill_003_human" code="23819392" mesh="pururu_skill_003_human" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="pururu_skill_003_weapon" code="23819393" mesh="pururu_skill_003_weapon" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="sirara_skill_002_mekeke" code="23819394" mesh="sirara_skill_002_mekeke" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="sirara_skill_003" code="23819395" mesh="sirara_skill_003" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="foot_stand" code="23819396" mesh="foot_stand" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="snowman" code="23819397" mesh="snowman" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="kagege_shadow" code="23819398" mesh="kagege_skill_003_shadow" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="putata_skill_002_stamp" code="23819399" mesh="putata_skill_002_stamp" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="putata_skill_003_yororo" code="23819400" mesh="putata_skill_003_yororo" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="putata_skill_003_brush" code="23819401" mesh="putata_skill_003_brush" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="robobo_skill2_001" code="23819402" mesh="robobo_skill2_001" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="robobo_skill2_002" code="23819403" mesh="robobo_skill2_002" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="robobo_skill2_003" code="23819404" mesh="robobo_skill2_003" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="robobo_skill_002_plug" code="23819405" mesh="robobo_skill_002_plug" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="kerobot_rightarm_001" code="23819406" mesh="kerobot_rightarm_001" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="robobo_skill_003_bigrobobo" code="23819407" mesh="robobo_skill_003_bigrobobo" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="zirara_skill2_003" code="23819408" mesh="zirara_skill_002_web" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="kurubot_rightarm_001" code="23819409" mesh="kurubot_rightarm_001" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="kiruru_skill_003_bigkiruru" code="23819410" mesh="kiruru_skill_003_bigkiruru" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="kiruru_skill_003_weapon" code="23819411" mesh="kiruru_skill_003_weapon" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="darkkiruru_skill_003_baby" code="23819412" mesh="darkkiruru_skill_003_baby" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="darkkiruru_skill_003_bigkiru" code="23819413" mesh="darkkiruru_skill_003_bigkiru" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="viperkid_skill_003_mcsamurai" code="23819414" mesh="viperkid_skill_003_mcsamurai" hasIndependentAnim="1" attachBoneName="" />    
+    <Parts engName="float" code="23819415" mesh="float" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="cratebox" code="23819416" mesh="crate_001" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="mekeke_skill_002_doll" code="23819417" mesh="mekeke_skill_002_doll" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="mekeke_skill_003_doll" code="23819418" mesh="mekeke_skill_003_doll" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="sumomo_skill_003_human" code="23819419" mesh="sumomo_skill_003_human" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="vehicle_001" code="23819420" mesh="vehicle_001" hasIndependentAnim="0" attachBoneName="Bip01" />
+    <Parts engName="vehicle_002" code="23819421" mesh="vehicle_002" hasIndependentAnim="0" attachBoneName="Bip01" />
+    <Parts engName="vehicle_003" code="23819422" mesh="vehicle_003" hasIndependentAnim="0" attachBoneName="Bip01" />
+    <Parts engName="vehicle_004" code="23819423" mesh="vehicle_004" hasIndependentAnim="0" attachBoneName="Bip01" />
+    <Parts engName="girobot_rightarm_001" code="23819424" mesh="girobot_rightarm_001" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="nunwawa_skill_frozen_002" code="23819425" mesh="nunwawa_skill_frozen_002" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="vehicle_005" code="23819426" mesh="vehicle_005" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="mcViperkid_skill_003_returns" code="23819427" mesh="mcViperkid_skill_003_returns" hasIndependentAnim="1" attachBoneName="" /> 
+    <Parts engName="kikaka_skill_002_astro" code="23819428" mesh="kikaka_skill_002_astro" hasIndependentAnim="1" attachBoneName="" />  
+    <Parts engName="kikaka_skill_003_bigkikaka" code="23819429" mesh="kikaka_skill_003_bigkikaka" hasIndependentAnim="1" attachBoneName="" /> 
+    <Parts engName="luckybox_004" code="23819430" mesh="luckybox_004" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="freemarket" code="23819431" mesh="freemarket" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="kyororo_skill_003_nuyiyi" code="23819432" mesh="kyororo_skill_003_Nuyiyi" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="urere_skill_002_bag" code="23819433" mesh="urere_skill_002_bag" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="urere_skill_003" code="23819434" mesh="urere_skill_003" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="train_001" code="23819435" mesh="train_001" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="train_002" code="23819436" mesh="train_002" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="train_003" code="23819437" mesh="train_003" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="train_004" code="23819438" mesh="train_004" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="train_005" code="23819439" mesh="train_005" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="vehicle_006" code="23819440" mesh="vehicle_006" hasIndependentAnim="1" attachBoneName="Bip01" />
+    <Parts engName="ckururu_skill_002" code="23819441" mesh="ckururu_skill_002_curry" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="ckururu_skill_003" code="23819442" mesh="ckururu_skill_003_satellite" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="ckururu_skill_003_missile" code="23819443" mesh="ckururu_skill_003_missile" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="keroro_ex_skill_003" code="23819444" mesh="keroro_ex_skill_003" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="AngolMoa" code="23819445" mesh="AngolMoa" hasIndependentAnim="1" attachBoneName="" />
+    <Parts engName="nobibi_skill_003" code="23819447" mesh="nobibi_skill_003_kezbakuchiku" hasIndependentAnim="1" attachBoneName="" />
+</PartsList.XML>

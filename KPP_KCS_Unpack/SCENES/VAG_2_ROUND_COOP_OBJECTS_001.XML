@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="vag_2_round\vag_2_round.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="Vag_wall01_in_8m" code="135331849" yLayer="0" posX="13" posY="0" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_in_2m" code="135331851" yLayer="0" posX="13" posY="0" posZ="13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_side_2m" code="135331848" yLayer="0" posX="13" posY="0" posZ="15" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_in_8m" code="135331849" yLayer="0" posX="8" posY="0" posZ="8" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_in_4m" code="135331850" yLayer="0" posX="2" posY="0" posZ="8" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_side_2m" code="135331848" yLayer="0" posX="-1" posY="0" posZ="8" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_side_2m" code="135331848" yLayer="0" posX="23" posY="0" posZ="1" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_in_4m" code="135331850" yLayer="0" posX="20" posY="0" posZ="1" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_corner_4m" code="135331852" yLayer="0" posX="14" posY="0" posZ="2" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_in_2m" code="135331851" yLayer="0" posX="17" posY="0" posZ="1" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_side_2m" code="135331848" yLayer="0" posX="-9" posY="0" posZ="-9" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_side_2m" code="135331848" yLayer="0" posX="15" posY="0" posZ="-25" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_side_2m" code="135331848" yLayer="0" posX="-1" posY="0" posZ="-42" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_side_2m" code="135331848" yLayer="0" posX="-23" posY="0" posZ="-9" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_side_2m" code="135331848" yLayer="0" posX="1" posY="0" posZ="-25" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_side_2m" code="135331848" yLayer="0" posX="-15" posY="0" posZ="-42" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_in_8m" code="135331849" yLayer="0" posX="10" posY="0" posZ="-25" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_in_8m" code="135331849" yLayer="0" posX="-6" posY="0" posZ="-42" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_in_8m" code="135331849" yLayer="0" posX="-18" posY="0" posZ="-9" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_in_4m" code="135331850" yLayer="0" posX="4" posY="0" posZ="-25" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_in_4m" code="135331850" yLayer="0" posX="-12" posY="0" posZ="-42" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="Vag_wall01_in_4m" code="135331850" yLayer="0" posX="-12" posY="0" posZ="-9" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="vag_partitioncin" code="135331859" yLayer="0" posX="-11.54" posY="0" posZ="-25.52" angleX="0" angleY="180" angleZ="0" scale="1"/>
+</ARRANGEMENT>

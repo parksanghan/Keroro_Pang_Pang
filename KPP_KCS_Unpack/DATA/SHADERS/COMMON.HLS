@@ -1,0 +1,30 @@
+// common file for DX8-style rendering
+
+float4x4	mWVP		: register(c0);		// World * View * Projection
+float4x4	mWorld		: register(c4);		// World
+float4		vFog  		: register(c8);
+
+float4		vAmbientColor	: register(c9);
+float4		vDirLightDir	: register(c10);
+float4		vDirLightColor	: register(c11);
+float4		vLightPos[4]	: register(c12);
+float4		vLightColor[4]	: register(c16);
+
+struct VS_INPUT
+{
+	float4	vPos		: POSITION;
+	float3	vNormal		: NORMAL    : register(v3);
+	float2	vUV1		: TEXCOORD0 : register(v7);
+	float2	vUV2		: TEXCOORD1 : register(v8);
+        float3 	vUV3		: TEXCOORD2 : register(v9);
+        float3 	vUV4		: TEXCOORD3 : register(v10);
+};
+
+float4 CalculatePointLightVS(float3 V, float3 N, float4 vLPos, float4 vLColor)
+{
+  float3 LV     = vLPos.xyz - V.xyz;
+  float  fAtten = saturate(1.0f - length(LV) / vLPos.w);
+  float3 L      = normalize(LV);
+  float  NdotL  = dot(L, N);
+  return vLColor * saturate(NdotL) * fAtten;
+}

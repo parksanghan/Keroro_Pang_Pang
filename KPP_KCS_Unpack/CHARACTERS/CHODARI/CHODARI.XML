@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <chodari file="chodari.msh" />
+</Objects>
+<Materials version="2">
+  <mchodari
+    diffuse="chodari.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Chodari.skl"
+/>
+<BoneAnim
+  file="Anims\Chodari.anm"
+/>
+<collision
+  file="Chodari.col"
+/>
+</Scene.XML>

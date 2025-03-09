@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <sumomo_body_120 file="sumomo_body_120.msh" />
+</Objects>
+<Materials version="2">
+  <msumomo_body_120
+    diffuse="sumomo_body_120.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

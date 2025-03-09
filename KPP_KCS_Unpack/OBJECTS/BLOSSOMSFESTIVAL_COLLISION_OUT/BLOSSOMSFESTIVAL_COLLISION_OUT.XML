@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <out_box file="out_box.msh" />
+</Objects>
+<Materials version="2">
+  <mout_box
+    diffuse="collision_out.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="blossomsfestival_collision_out.col"
+/>
+</Scene.XML>

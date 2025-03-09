@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_vga_ground_3r01 file="notrans_vga_ground_3r01.msh" />
+ <notrans_vga_ground_3r_sd01 file="notrans_vga_ground_3r_sd01.msh" />
+ <notrans_vag_shadow_ba02 file="notrans_vag_shadow_ba02.msh" />
+ <notrans_vga_creation_04 file="notrans_vga_creation_04.msh" />
+ <notrans_vag_shadow_nyh003_06 file="notrans_vag_shadow_nyh003_06.msh" />
+ <notrans_vga_creation_05 file="notrans_vga_creation_05.msh" />
+ <notrans_vag_shadow_nyh003_07 file="notrans_vag_shadow_nyh003_07.msh" />
+ <notrans_vga_creation_06 file="notrans_vga_creation_06.msh" />
+ <notrans_vag_shadow_nyh003_08 file="notrans_vag_shadow_nyh003_08.msh" />
+ <notrans_vag_shadow_nyh003_11 file="notrans_vag_shadow_nyh003_11.msh" />
+ <notrans_vga_ascent_03 file="notrans_vga_ascent_03.msh" />
+ <notrans_vag_shadow_nyh003_12 file="notrans_vag_shadow_nyh003_12.msh" />
+ <notrans_vga_ascent_04 file="notrans_vga_ascent_04.msh" />
+ <notrans_vag_shadow_line2p file="notrans_vag_shadow_line2p.msh" />
+ <notrans_vag_shadow_line2p01 file="notrans_vag_shadow_line2p01.msh" />
+ <notrans_vag_shadow_line2p02 file="notrans_vag_shadow_line2p02.msh" />
+ <notrans_vag_shadow_line2p03 file="notrans_vag_shadow_line2p03.msh" />
+ <notrans_vag_shadow_line2p04 file="notrans_vag_shadow_line2p04.msh" />
+ <GAME_MovingMesh file="GAME_MovingMesh.msh" />
+ <notrans_vga_wall01_003 file="notrans_vga_wall01_003.msh" />
+ <notrans_vag_mark_nyh002 file="notrans_vag_mark_nyh002.msh" />
+ <notrans_vag_shadow_line2p05 file="notrans_vag_shadow_line2p05.msh" />
+ <notrans_vag_shadow_line2p06 file="notrans_vag_shadow_line2p06.msh" />
+ <notrans_vag_shadow_line2p07 file="notrans_vag_shadow_line2p07.msh" />
+ <notrans_vag_shadow_line2p08 file="notrans_vag_shadow_line2p08.msh" />
+ <notrans_vag_shadow_line2p09 file="notrans_vag_shadow_line2p09.msh" />
+</Objects>
+<Materials version="2">
+  <mvag_ground_nyh001_id01
+    diffuse="vaground_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mvag_ground_nyh001_id02
+    diffuse="vaground_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mvga_ground_1r_sd
+    diffuse="vaground_nyh001_id03.dds"
+    color="255 255 255"
+  />
+  <mvag_shadow_ba
+    diffuse="vashadow_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvag_creation
+    diffuse="vag_creation.dds"
+    color="255 255 255"
+  />
+  <mvag_shadow_nyh003
+    diffuse="vashadow_nyh003.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvga_ascent_01
+    diffuse="vga_ascent_01.dds"
+    color="255 255 255"
+  />
+  <mCollision_vag
+    color="76 72 130"
+  />
+  <mvag_wall01_id01
+    diffuse="vag_wall01_id01.dds"
+    color="255 255 255"
+  />
+  <mvag_wall01_id02
+    diffuse="Vag_wall01_id02.dds"
+    color="255 255 255"
+  />
+  <mvag_mark_nyh002
+    diffuse="vamark_nyh002.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="vag_3_round.col"
+/>
+</Scene.XML>

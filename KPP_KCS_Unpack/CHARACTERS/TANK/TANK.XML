@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <tank file="tank.msh" />
+</Objects>
+<Materials version="2">
+  <mtank
+    diffuse="tank.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="tank.skl"
+/>
+<BoneAnim
+  file="Anims\tank.anm"
+/>
+<collision
+  file="tank.col"
+/>
+</Scene.XML>

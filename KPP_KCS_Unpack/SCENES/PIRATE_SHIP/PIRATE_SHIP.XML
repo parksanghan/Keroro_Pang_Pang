@@ -1,0 +1,263 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_pir_sky_kn01 file="notrans_pir_sky_kn01.msh" />
+ <notrans_pir_seaground file="notrans_pir_seaground.msh" />
+ <notrans_pir_seacinb file="notrans_pir_seacinb.msh" />
+ <notrans_pir_sea_kn02 file="notrans_pir_sea_kn02.msh" />
+ <notrans_pir_fogcin05 file="notrans_pir_fogcin05.msh" />
+ <notrans_pir_islandcin01 file="notrans_pir_islandcin01.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_pir_base_02 file="notrans_pir_base_02.msh" />
+ <notrans_pir_lampcin file="notrans_pir_lampcin.msh" />
+ <notrans_pir_shadow_circle file="notrans_pir_shadow_circle.msh" />
+ <notrans_pir_chain_001 file="notrans_pir_chain_001.msh" />
+ <notrans_pir_wood02_01 file="notrans_pir_wood02_01.msh" />
+ <notrans_pir_sea_wave file="notrans_pir_sea_wave.msh" />
+ <notrans_pir_woodship_02 file="notrans_pir_woodship_02.msh" />
+ <notrans_pir__house_csy001 file="notrans_pir__house_csy001.msh" />
+ <notrans_pir_towngra file="notrans_pir_towngra.msh" />
+ <notrans_pir_tree_gr01 file="notrans_pir_tree_gr01.msh" />
+ <notrans_pir_fence_csy file="notrans_pir_fence_csy.msh" />
+ <nortrans_pir_shadow_circle file="nortrans_pir_shadow_circle.msh" />
+ <notrans_pir_wood_csy file="notrans_pir_wood_csy.msh" />
+ <notrans_pir_towngrab file="notrans_pir_towngrab.msh" />
+ <notrans_pir__house_csy file="notrans_pir__house_csy.msh" />
+ <pir_fogcina file="pir_fogcina.msh" />
+ <nortrans_pir_shadow_square file="nortrans_pir_shadow_square.msh" />
+ <notrans_pir_fogcin06 file="notrans_pir_fogcin06.msh" />
+ <notrans_pir_ferry_csy001 file="notrans_pir_ferry_csy001.msh" />
+ <notrans_pir_fogcin04 file="notrans_pir_fogcin04.msh" />
+ <notrans_pir_towngra01 file="notrans_pir_towngra01.msh" />
+ <notrans_pir__house_csy01 file="notrans_pir__house_csy01.msh" />
+ <notrans_pir_wood_csy01 file="notrans_pir_wood_csy01.msh" />
+ <notrans_pir_sea_wave03 file="notrans_pir_sea_wave03.msh" />
+ <notrans_pir_towngrab01 file="notrans_pir_towngrab01.msh" />
+ <notrans_pir_ferry_csy002 file="notrans_pir_ferry_csy002.msh" />
+ <notrans_pir_flag file="notrans_pir_flag.msh" />
+ <pir_rope02_001 file="pir_rope02_001.msh" />
+ <pir_wood01_01 file="pir_wood01_01.msh" />
+ <pir_wood01_02 file="pir_wood01_02.msh" />
+ <pir_wood01_03 file="pir_wood01_03.msh" />
+ <pir_rope02_005 file="pir_rope02_005.msh" />
+ <pir_rope02_002 file="pir_rope02_002.msh" />
+ <pir_rope02_004 file="pir_rope02_004.msh" />
+ <pir_rope02_003 file="pir_rope02_003.msh" />
+ <pir_rope01_005 file="pir_rope01_005.msh" />
+ <pir_rope01_001 file="pir_rope01_001.msh" />
+ <pir_rope01_004 file="pir_rope01_004.msh" />
+ <pir_metal_001 file="pir_metal_001.msh" />
+ <pir_rope01_006 file="pir_rope01_006.msh" />
+ <pir_rope01_003 file="pir_rope01_003.msh" />
+ <notrans_pir_sea_wave01 file="notrans_pir_sea_wave01.msh" />
+ <notrans_pir_boat_csy001 file="notrans_pir_boat_csy001.msh" />
+ <notrans_pir_rock01 file="notrans_pir_rock01.msh" />
+ <notrans_pir_base_01 file="notrans_pir_base_01.msh" />
+ <notrans_pir_base_03 file="notrans_pir_base_03.msh" />
+ <notrans_pir_fence01 file="notrans_pir_fence01.msh" />
+ <pir_rope01_002 file="pir_rope01_002.msh" />
+ <pir_rope01_007 file="pir_rope01_007.msh" />
+ <pir_rope03_07 file="pir_rope03_07.msh" />
+ <pir_rope03_04 file="pir_rope03_04.msh" />
+ <pir_rope03_03 file="pir_rope03_03.msh" />
+ <pir_rope03_02 file="pir_rope03_02.msh" />
+ <pir_rope03_06 file="pir_rope03_06.msh" />
+ <pir_rope03_01 file="pir_rope03_01.msh" />
+ <notrans_pir_brige01 file="notrans_pir_brige01.msh" />
+ <pir_rope03_08 file="pir_rope03_08.msh" />
+ <pir_rope01_008 file="pir_rope01_008.msh" />
+ <notrans_pir_brige03 file="notrans_pir_brige03.msh" />
+</Objects>
+<Materials version="2">
+  <mpir_sky_kn01
+    diffuse="pir_sky_kn01.dds"
+    color="255 255 255"
+    uvAnimFile="pir_sky_kn01.uva"
+  />
+  <mpir_seaground
+    diffuse="pir_seaground.dds"
+    color="255 255 255"
+  />
+  <mpir_seacinb
+    diffuse="pir_seacinb.dds"
+    color="255 255 255"
+  />
+  <mpir_sea_kn02
+    diffuse="pir_sea_kn02.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="pir_sea_kn02.uva"
+  />
+  <mpir_fogcin
+    diffuse="pir_fogcin.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="pir_fogcin.uva"
+  />
+  <mpir_islandcin
+    diffuse="pir_islandcin.dds"
+    color="255 255 255"
+  />
+  <mpir_shadow_user
+    diffuse="pir_shadow_user.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mpir_upstairscine
+    diffuse="pir_upstairscine.dds"
+    color="255 255 255"
+  />
+  <mpir_upstairscinc
+    diffuse="pir_upstairscinc.dds"
+    color="255 255 255"
+  />
+  <mpir_basetop
+    diffuse="pir_basetop.dds"
+    color="255 255 255"
+  />
+  <mpir_lampcin
+    diffuse="pir_lampcin.dds"
+    color="255 255 255"
+  />
+  <mpir_metal01
+    diffuse="pir_metal01.dds"
+    color="255 255 255"
+  />
+  <mpir_stair
+    diffuse="pir_stair.dds"
+    color="255 255 255"
+  />
+  <mpir_shadow_circle
+    diffuse="pir_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mpir_chain
+    diffuse="pir_chain.dds"
+    color="255 255 255"
+  />
+  <mpir_wood02
+    diffuse="pir_wood02.dds"
+    color="255 255 255"
+  />
+  <mnotrans_pir_sea_wave
+    diffuse="pir_sea_wave_01.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mpir_woodship
+    diffuse="pir_woodship.dds"
+    color="255 255 255"
+  />
+  <mpir__house_csy001
+    diffuse="pir__house_csy001.dds"
+    color="255 255 255"
+  />
+  <mpir_towngra
+    diffuse="pir_towngra.dds"
+    color="255 255 255"
+  />
+  <mpir_grandmahousetree_jm
+    diffuse="pir_grandmahousetree_jm.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k14
+    diffuse="pir_fence_csy001.dds"
+    color="255 255 255"
+  />
+  <mpir_wood_csy001
+    diffuse="pir_wood_csy001.dds"
+    color="255 255 255"
+  />
+  <mpir_towngrab
+    diffuse="pir_towngrab.dds"
+    color="255 255 255"
+  />
+  <mpir__house_csy003
+    diffuse="pir__house_csy003.dds"
+    color="255 255 255"
+  />
+  <mpir_fogcina
+    diffuse="pir_fogcina.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mpir_shadow_square
+    diffuse="pir_shadow_square.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mpir_ferry_csy001
+    diffuse="pir_ferry_csy001.dds"
+    color="255 255 255"
+  />
+  <mpir_flag
+    diffuse="pir_flag.dds"
+    color="255 255 255"
+  />
+  <mpir_rope02
+    diffuse="pir_rope02.dds"
+    color="255 255 255"
+  />
+  <mpir_wood01
+    diffuse="pir_wood01.dds"
+    color="255 255 255"
+  />
+  <mpir_rope01
+    diffuse="pir_rope01.dds"
+    color="255 255 255"
+  />
+  <mpir_metal_001
+    diffuse="pir_metal_001.dds"
+    color="255 255 255"
+  />
+  <mpir_boat_csy001
+    diffuse="pir_boat_csy001.dds"
+    color="255 255 255"
+  />
+  <mpir_rock01
+    diffuse="pir_rock01.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k474
+    color="149 149 149"
+  />
+  <mpir_base
+    diffuse="pir_base.dds"
+    color="255 255 255"
+  />
+  <mpir_basea
+    diffuse="pir_basea.dds"
+    color="255 255 255"
+  />
+  <mpir_floorcin
+    diffuse="pir_floorcin.dds"
+    color="255 255 255"
+  />
+  <mpir_fencecin
+    diffuse="pir_fencecin.dds"
+    color="255 255 255"
+  />
+  <mpir_fence01
+    diffuse="pir_fence_01.dds"
+    color="255 255 255"
+  />
+  <mpir_rope03
+    diffuse="pir_rope03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mpir_brige01
+    diffuse="pir_brige01.dds"
+    color="255 255 255"
+  />
+  <mpir_brige02
+    diffuse="pir_brige02.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="pirate_ship.col"
+/>
+</Scene.XML>

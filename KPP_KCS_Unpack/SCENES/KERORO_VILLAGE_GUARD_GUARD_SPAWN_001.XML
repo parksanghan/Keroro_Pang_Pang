@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="0" posX="48" posY="3.5" posZ="38" angleY="270" scale="1" radius="2" respawnTime="1" msgId="0"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="0" posX="-24.4" posY="3.5" posZ="45.3" angleY="90" scale="1" radius="2" respawnTime="1" msgId="1"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="0" posX="48" posY="3.5" posZ="38" angleY="180" scale="1" radius="2" respawnTime="1" msgId="0"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="0" posX="-24.4" posY="3.5" posZ="45.3" angleY="180" scale="1" radius="2" respawnTime="1" msgId="1"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="0" posX="12.11" posY="3.5" posZ="47" angleY="180" scale="1" radius="2" respawnTime="1" msgId="0"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="0" posX="-24.4" posY="3.5" posZ="45.3" angleY="180" scale="1" radius="2" respawnTime="1" msgId="1"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="1" posX="-56" posY="3.5" posZ="25" angleY="180" scale="1" radius="2" respawnTime="1" msgId="0"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="1" posX="-50" posY="3.5" posZ="-10.8" angleY="180" scale="1" radius="2" respawnTime="1" msgId="1"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="1" posX="-22" posY="3.5" posZ="-9.64" angleY="180" scale="1" radius="2" respawnTime="1" msgId="0"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="1" posX="12.14" posY="3.5" posZ="-38" angleY="180" scale="1" radius="2" respawnTime="1" msgId="1"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="0" spawnId="2" posX="-20.26" posY="3.5" posZ="-9.92" angleY="180" scale="1" radius="2" respawnTime="1" msgId="0"/>
+	<spawn type="playerSpawnZone" engName="Tamama" code="19005441" teamId="1" spawnId="2" posX="44.81" posY="3.5" posZ="-37" angleY="180" scale="1" radius="2" respawnTime="1" msgId="1"/>
+	<spawn type="kerobotZone" engName="kerobot_001" code="19922965" teamId="0" spawnId="3" posX="35.17" posY="3.2" posZ="34.6" angleY="180" scale="1" radius="1" respawnTime="1" msgId="0"/>
+	<spawn type="kerobotZone" engName="kerobot_001" code="19922965" teamId="0" spawnId="4" posX="-41" posY="3.2" posZ="28" angleY="180" scale="1" radius="1" respawnTime="1" msgId="1"/>
+	<spawn type="kerobotZone" engName="kerobot_001" code="19922965" teamId="0" spawnId="5" posX="-12.87" posY="3.2" posZ="-26" angleY="180" scale="1" radius="1" respawnTime="1" msgId="2"/>
+	<spawn type="kerobotZone" engName="kerobot_001" code="19922965" teamId="0" spawnId="6" posX="47.5" posY="3.2" posZ="-26" angleY="180" scale="1" radius="1" respawnTime="1" msgId="3"/>
+</SPAWN.XML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <rocket_damage_011 file="rocket_damage_011.msh" />
+</Objects>
+<Materials version="2">
+  <mrocket_damage_011
+    diffuse="rocket_damage_011.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="rocket_damage_011.skl"
+/>
+<collision
+  file="rocket_damage_011.col"
+/>
+</Scene.XML>

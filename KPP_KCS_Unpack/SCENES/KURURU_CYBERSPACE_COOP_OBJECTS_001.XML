@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="kururu_cyberspace\kururu_cyberspace.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="stone image" code="130088964" yLayer="0" posX="14.8201" posY="0" posZ="-14.83" angleX="0" angleY="140.1" angleZ="0" scale="2.9"/>
+</ARRANGEMENT>

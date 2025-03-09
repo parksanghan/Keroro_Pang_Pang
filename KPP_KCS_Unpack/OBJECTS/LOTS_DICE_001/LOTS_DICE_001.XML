@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <lots_dice_001 file="lots_dice_001.msh" />
+</Objects>
+<Materials version="2">
+  <mlots_dice_001
+    diffuse="lots_dice_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+<collision
+  file="lots_dice_001.col"
+/>
+</Scene.XML>

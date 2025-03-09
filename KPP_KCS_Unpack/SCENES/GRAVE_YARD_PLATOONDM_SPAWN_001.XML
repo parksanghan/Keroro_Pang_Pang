@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="21" posY="4" posZ="21" angleY="180" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="1" posX="26" posY="3" posZ="19" angleY="180" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Keroro" code="18939905" teamId="0" spawnId="2" posX="27" posY="4" posZ="14" angleY="180" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="3" posX="-26" posY="4" posZ="-14" angleY="180" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Tamama" code="19005441" teamId="1" spawnId="4" posX="-25" posY="4.23" posZ="-21" angleY="180" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	<spawn type="platoonZone" engName="Tamama" code="19005441" teamId="1" spawnId="5" posX="-28" posY="3.60999" posZ="-17.98" angleY="180" scale="1" radius="1.5" respawnTime="1" msgId="npc0001"/>
+	
+	<spawn type="obj_Monster" engName="Mtree" code="20971589" teamId="0" spawnId="0" posX="21" posY="6" posZ="0" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001" attackCode="5401" agroCode="201654275" skillCoolTime="" skillPercent1="" skillPercent2="" skillPercent3="" killPoint="0">
+		<patrol id="0" posX="20.3448" posY="5.29748" posZ="11.0599"/>
+		<patrol id="1" posX="15.8246" posY="4.88633" posZ="17.8828"/>
+		<patrol id="2" posX="7.47169" posY="5.57217" posZ="18.3973"/>
+		<patrol id="3" posX="2.92693" posY="6.4106" posZ="15.7565"/>
+		<patrol id="4" posX="-6.60207" posY="6.94821" posZ="10.2041"/>
+		<patrol id="5" posX="-8.36308" posY="6.9482" posZ="1.84764"/>
+		<patrol id="6" posX="-5.80768" posY="6.97096" posZ="-7.29763"/>
+		<patrol id="7" posX="-4.52558" posY="6.79437" posZ="-16.0439"/>
+		<patrol id="8" posX="1.12794" posY="7.62256" posZ="-20.8455"/>
+		<patrol id="9" posX="13.3005" posY="7.09119" posZ="-10.2414"/>
+		<patrol id="10" posX="20.089" posY="6.20613" posZ="-3.06556"/>
+		<patrol id="11" posX="20.8888" posY="6.01968" posZ="-0.965295"/>
+	</spawn>
+	<spawn type="obj_Monster" engName="Mtree" code="20971589" teamId="0" spawnId="0" posX="-19" posY="6" posZ="4" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001" attackCode="5401" agroCode="201654275" skillCoolTime="" skillPercent1="" skillPercent2="" skillPercent3="" killPoint="0">
+		<patrol id="0" posX="-20.4394" posY="5.2067" posZ="-3.01688"/>
+		<patrol id="1" posX="-18.2633" posY="5.32775" posZ="-12.5578"/>
+		<patrol id="2" posX="-13.2124" posY="5.75061" posZ="-18.8561"/>
+		<patrol id="3" posX="-5.92628" posY="6.78659" posZ="-17.9757"/>
+		<patrol id="4" posX="-0.130656" posY="6.94837" posZ="-8.74994"/>
+		<patrol id="5" posX="5.99009" posY="6.99505" posZ="-4.4727"/>
+		<patrol id="6" posX="5.75547" posY="6.9482" posZ="5.4136"/>
+		<patrol id="7" posX="2.24089" posY="6.39989" posZ="16.2755"/>
+		<patrol id="8" posX="-4.52793" posY="6.32715" posZ="17.9066"/>
+		<patrol id="9" posX="-10.9312" posY="6.13951" posZ="14.2384"/>
+		<patrol id="10" posX="-12.7909" posY="6.58671" posZ="6.6204"/>
+		<patrol id="11" posX="-17.5334" posY="6.21921" posZ="4.50196"/>
+	</spawn>
+</SPAWN.XML>

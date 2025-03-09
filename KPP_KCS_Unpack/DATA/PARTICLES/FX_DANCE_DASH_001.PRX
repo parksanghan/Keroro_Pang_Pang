@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<XML.Root>
+    <r3dParticle>
+        <Texture value="cloud_alpha1.dds" />
+        <XDiv value="1" />
+        <YDiv value="1" />
+        <BlendMode value="0" />
+        <EmitTime value="1.000000" />
+        <EmitterType value="0" />
+        <EmitVector x="0.000000" y="0.000000" z="0.000000" />
+        <EmitRadius value="5.000000" />
+        <Direction x="0.000000" y="1.000000" z="0.000000" />
+        <GlobalScale value="1.000000" />
+        <HaveDistortionTexture value="0" />
+        <DistortionTexture value="Distort.dds" />
+        <numEmitters value="2" />
+        <emitter Name="Fire00">
+            <StartFrame value="0" />
+            <NumFrames value="1" />
+            <FrameRate value="30.000000" />
+            <UVSpeed value="0.000000" />
+            <StartTime value="0.500000" />
+            <EndTime value="0.900000" />
+            <QuadType value="0" />
+            <bInheritDirection value="0" />
+            <bDirectionOriented value="0" />
+            <bUseParentMatrix value="1" />
+            <bSingleParticle value="0" />
+            <bRandomDirection value="0" />
+            <RandomVector x="1.000000" y="1.000000" z="1.000000" />
+            <LifeTime value="0.600000" />
+            <NumPerSec value="20" />
+            <Size value="8.000000" />
+            <RayWidth value="10.000000" />
+            <Velocity value="0.000000" />
+            <Weight value="5.000000" />
+            <Spin value="25.200001" />
+            <LifeRand value="0.000000" />
+            <SizeVar value="0.260000" />
+            <VelocityVar value="0.000000" />
+            <WeightVar value="0.035000" />
+            <SpinVar value="1.000000" />
+            <MotionRandVar x="0.000000" y="0.000000" z="0.000000" />
+            <MotionRand x="0.000000" y="0.000000" z="0.000000" />
+            <BornPosRand x="0.000000" y="0.000000" z="0.000000" />
+            <DirectionRand x="1.000000" y="1.000000" z="1.000000" />
+            <EmmiterOffset x="0.000000" y="1.000000" z="0.000000" />
+            <ColorOverLife num="2">
+                <grad time="0.000000" v0="172.125000" v1="133.875000" v2="87.129997" />
+                <grad time="1.000000" v0="255.000000" v1="255.000000" v2="214.625000" />
+            </ColorOverLife>
+            <OpacityOverLife num="4">
+                <grad time="0.000000" v0="255.000000" v1="0.000000" v2="0.000000" />
+                <grad time="0.178571" v0="131.947678" v1="0.000000" v2="0.000000" />
+                <grad time="0.507143" v0="45.959309" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+            </OpacityOverLife>
+            <SizeOverLife num="4">
+                <grad time="0.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+                <grad time="0.078571" v0="0.346154" v1="0.000000" v2="0.000000" />
+                <grad time="0.271429" v0="0.634615" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="1.000000" v1="0.000000" v2="0.000000" />
+            </SizeOverLife>
+            <VelocityOverLife num="2">
+                <grad time="0.000000" v0="0.182692" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+            </VelocityOverLife>
+            <WeightOverLife num="2">
+                <grad time="0.000000" v0="0.000000" v1="1.000000" v2="1.000000" />
+                <grad time="1.000000" v0="-1.000000" v1="1.000000" v2="1.000000" />
+            </WeightOverLife>
+            <SpinOverLife num="2">
+                <grad time="0.000000" v0="1.000000" v1="1.000000" v2="1.000000" />
+                <grad time="1.000000" v0="30.000000" v1="1.000000" v2="1.000000" />
+            </SpinOverLife>
+            <BindWeightOverLife num="2">
+                <grad time="0.000000" v0="0.000000" v1="1.000000" v2="1.000000" />
+                <grad time="1.000000" v0="0.000000" v1="1.000000" v2="1.000000" />
+            </BindWeightOverLife>
+            <AngleXOverLife num="2">
+                <grad time="0.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+            </AngleXOverLife>
+            <AngleYOverLife num="2">
+                <grad time="0.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+            </AngleYOverLife>
+            <AngleZOverLife num="2">
+                <grad time="0.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+            </AngleZOverLife>
+            <bUseAxisOff value="0" />
+        </emitter>
+        <emitter Name="slot_1">
+            <StartFrame value="0" />
+            <NumFrames value="1" />
+            <FrameRate value="30.000000" />
+            <UVSpeed value="0.000000" />
+            <StartTime value="0.520000" />
+            <EndTime value="0.900000" />
+            <QuadType value="0" />
+            <bInheritDirection value="0" />
+            <bDirectionOriented value="0" />
+            <bUseParentMatrix value="1" />
+            <bSingleParticle value="0" />
+            <bRandomDirection value="0" />
+            <RandomVector x="1.000000" y="1.000000" z="1.000000" />
+            <LifeTime value="0.500000" />
+            <NumPerSec value="51" />
+            <Size value="8.000000" />
+            <RayWidth value="10.000000" />
+            <Velocity value="0.000000" />
+            <Weight value="5.000000" />
+            <Spin value="25.200001" />
+            <LifeRand value="0.000000" />
+            <SizeVar value="0.190000" />
+            <VelocityVar value="0.000000" />
+            <WeightVar value="0.035000" />
+            <SpinVar value="1.000000" />
+            <MotionRandVar x="0.000000" y="0.000000" z="0.000000" />
+            <MotionRand x="0.000000" y="0.000000" z="0.000000" />
+            <BornPosRand x="0.000000" y="1.000000" z="0.000000" />
+            <DirectionRand x="1.000000" y="1.000000" z="1.000000" />
+            <EmmiterOffset x="0.000000" y="1.000000" z="0.000000" />
+            <ColorOverLife num="2">
+                <grad time="0.000000" v0="116.875000" v1="95.625000" v2="72.250000" />
+                <grad time="1.000000" v0="255.000000" v1="255.000000" v2="191.250000" />
+            </ColorOverLife>
+            <OpacityOverLife num="4">
+                <grad time="0.000000" v0="255.000000" v1="0.000000" v2="0.000000" />
+                <grad time="0.192857" v0="128.982559" v1="0.000000" v2="0.000000" />
+                <grad time="0.542857" v0="34.098839" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+            </OpacityOverLife>
+            <SizeOverLife num="5">
+                <grad time="0.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+                <grad time="0.092857" v0="0.442308" v1="0.000000" v2="0.000000" />
+                <grad time="0.207143" v0="0.711538" v1="0.000000" v2="0.000000" />
+                <grad time="0.414286" v0="0.865385" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="1.000000" v1="0.000000" v2="0.000000" />
+            </SizeOverLife>
+            <VelocityOverLife num="2">
+                <grad time="0.000000" v0="1.000000" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+            </VelocityOverLife>
+            <WeightOverLife num="2">
+                <grad time="0.000000" v0="0.000000" v1="1.000000" v2="1.000000" />
+                <grad time="1.000000" v0="-1.000000" v1="1.000000" v2="1.000000" />
+            </WeightOverLife>
+            <SpinOverLife num="2">
+                <grad time="0.000000" v0="1.000000" v1="1.000000" v2="1.000000" />
+                <grad time="1.000000" v0="45.000000" v1="1.000000" v2="1.000000" />
+            </SpinOverLife>
+            <BindWeightOverLife num="2">
+                <grad time="0.000000" v0="0.000000" v1="1.000000" v2="1.000000" />
+                <grad time="1.000000" v0="0.000000" v1="1.000000" v2="1.000000" />
+            </BindWeightOverLife>
+            <AngleXOverLife num="2">
+                <grad time="0.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+            </AngleXOverLife>
+            <AngleYOverLife num="2">
+                <grad time="0.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+            </AngleYOverLife>
+            <AngleZOverLife num="2">
+                <grad time="0.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+                <grad time="1.000000" v0="0.000000" v1="0.000000" v2="0.000000" />
+            </AngleZOverLife>
+            <bUseAxisOff value="0" />
+        </emitter>
+    </r3dParticle>
+</XML.Root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="0" posX="-39" posY="0.3" posZ="1" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="1" posX="39" posY="0.3" posZ="26" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="2" posX="-7.5" posY="0.3" posZ="-27.5" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="3" posX="5" posY="0.3" posZ="27.5" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="4" posX="-13.5" posY="2.06" posZ="-21.8" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="5" posX="-39.5" posY="0.3" posZ="-25" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="6" posX="39" posY="0.3" posZ="0.34" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="7" posX="-32" posY="0.3" posZ="-20" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="8" posX="32" posY="0.3" posZ="20" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="9" posX="13.5" posY="2.1" posZ="21.8" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="10" posX="39" posY="0.3" posZ="-8" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+	<spawn type="privateZone" engName="Platoon_Keroro" code="0" teamId="0" spawnId="11" posX="-39" posY="0.3" posZ="8" angleY="0" scale="0" radius="1.5" respawnTime="0" msgId=""/>
+</SPAWN.XML>

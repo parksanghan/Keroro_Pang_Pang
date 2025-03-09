@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <occult_rock_016 file="occult_rock_016.msh" />
+</Objects>
+<Materials version="2">
+  <moccult_rock_016
+    diffuse="occult_rock_016.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="occult_rock_016.col"
+/>
+</Scene.XML>

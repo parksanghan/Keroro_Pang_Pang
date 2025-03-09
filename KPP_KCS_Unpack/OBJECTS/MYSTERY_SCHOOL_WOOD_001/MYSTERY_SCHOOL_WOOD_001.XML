@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <mystery_school_wood_001_01 file="mystery_school_wood_001_01.msh" />
+ <mystery_school_wood_001_02 file="mystery_school_wood_001_02.msh" />
+</Objects>
+<Materials version="2">
+  <mmys_wood01
+    diffuse="mys_door.dds"
+    color="255 255 255"
+  />
+  <mmys_wood02
+    diffuse="mys_window01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<collision
+  file="mystery_school_wood_001.col"
+/>
+</Scene.XML>

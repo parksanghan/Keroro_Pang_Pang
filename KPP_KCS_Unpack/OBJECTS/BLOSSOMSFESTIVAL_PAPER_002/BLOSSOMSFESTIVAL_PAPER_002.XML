@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <blossomsfestival_paper_002 file="blossomsfestival_paper_002.msh" />
+</Objects>
+<Materials version="2">
+  <mblossomsfestival_paper_002
+    diffuse="blossomsfestival_paper_002.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="blossomsfestival_paper_002.col"
+/>
+</Scene.XML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <putata_face_000 file="putata_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mputata_face_000
+    diffuse="putata_face_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Putata.skl"
+/>
+<collision
+  file="Putata.col"
+/>
+</Scene.XML>

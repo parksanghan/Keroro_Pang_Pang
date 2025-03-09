@@ -1,0 +1,401 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_bk_sky file="notrans_bk_sky.msh" />
+ <notrans_kbk_ground_01 file="notrans_kbk_ground_01.msh" />
+ <notrans_bk_wall_01 file="notrans_bk_wall_01.msh" />
+ <notrans_kbk_wall01_03 file="notrans_kbk_wall01_03.msh" />
+ <notrans_bk_grass01 file="notrans_bk_grass01.msh" />
+ <notrans_kbk_fence01_01 file="notrans_kbk_fence01_01.msh" />
+ <notrans_kbk_fence01_04 file="notrans_kbk_fence01_04.msh" />
+ <notrans_kbk_fence01_02 file="notrans_kbk_fence01_02.msh" />
+ <notrans_kbk_fence01_03 file="notrans_kbk_fence01_03.msh" />
+ <notrans_bk_ground01_02 file="notrans_bk_ground01_02.msh" />
+ <notrans_kbk_wall01_02 file="notrans_kbk_wall01_02.msh" />
+ <notrans_kbk_fragment01_02 file="notrans_kbk_fragment01_02.msh" />
+ <notrans_bk_wood_csy01 file="notrans_bk_wood_csy01.msh" />
+ <notrans_bk_woodcin02_02 file="notrans_bk_woodcin02_02.msh" />
+ <notrans_bk_woodcin02_03 file="notrans_bk_woodcin02_03.msh" />
+ <notrans_bk_woodcin02_01 file="notrans_bk_woodcin02_01.msh" />
+ <notrans_bk_wood_csy02 file="notrans_bk_wood_csy02.msh" />
+ <notrans_bk_wood_csy03 file="notrans_bk_wood_csy03.msh" />
+ <notrans_kbk_rockcin_b01 file="notrans_kbk_rockcin_b01.msh" />
+ <notrans_kbk_rockcin_b02 file="notrans_kbk_rockcin_b02.msh" />
+ <notrans_kbk_rockcin_a01 file="notrans_kbk_rockcin_a01.msh" />
+ <notrans_kbk_rockcin_a02 file="notrans_kbk_rockcin_a02.msh" />
+ <notrans_kbk_rockcin_b03 file="notrans_kbk_rockcin_b03.msh" />
+ <notrans_kbk_rockcin_b04 file="notrans_kbk_rockcin_b04.msh" />
+ <notrans_kbk_rockcin_a03 file="notrans_kbk_rockcin_a03.msh" />
+ <notrans_kbk_rockcin_a04 file="notrans_kbk_rockcin_a04.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <kbk_ground04_01 file="kbk_ground04_01.msh" />
+ <notrans_kbk_shadows01_01 file="notrans_kbk_shadows01_01.msh" />
+ <notrans_kbk_shadows_08 file="notrans_kbk_shadows_08.msh" />
+ <notrans_kbk_shadows_09 file="notrans_kbk_shadows_09.msh" />
+ <notrans_kbk_shadows02_01 file="notrans_kbk_shadows02_01.msh" />
+ <kbk_bunkercin file="kbk_bunkercin.msh" />
+ <kbk_militent file="kbk_militent.msh" />
+ <notrans_kbk_propviper_03 file="notrans_kbk_propviper_03.msh" />
+ <notrans_kbk_propkeroro_03 file="notrans_kbk_propkeroro_03.msh" />
+ <notrans_kbk_fence03_01 file="notrans_kbk_fence03_01.msh" />
+ <kbk_fence2_04 file="kbk_fence2_04.msh" />
+ <kbk_guard01_01 file="kbk_guard01_01.msh" />
+ <kbk_guard02 file="kbk_guard02.msh" />
+ <kbk_tranch_01 file="kbk_tranch_01.msh" />
+ <notrans_bk_sandbag_01 file="notrans_bk_sandbag_01.msh" />
+ <kbk_fence2_01 file="kbk_fence2_01.msh" />
+ <kbk_fence2_02 file="kbk_fence2_02.msh" />
+ <kbk_guard01_02 file="kbk_guard01_02.msh" />
+ <kbk_guard01_03 file="kbk_guard01_03.msh" />
+ <notrans_bk_sandbag_02 file="notrans_bk_sandbag_02.msh" />
+ <notrans_bk_sandbag_03 file="notrans_bk_sandbag_03.msh" />
+ <notrans_kbk_fence04 file="notrans_kbk_fence04.msh" />
+ <notrans_kbk_fence03_03 file="notrans_kbk_fence03_03.msh" />
+ <kbk_tranch_02 file="kbk_tranch_02.msh" />
+ <notrans_kbk_shadows02_02 file="notrans_kbk_shadows02_02.msh" />
+ <notrans_kbk_grassa01_01 file="notrans_kbk_grassa01_01.msh" />
+ <notrans_kbk_grassa01_02 file="notrans_kbk_grassa01_02.msh" />
+ <notrans_kbk_grassa01_03 file="notrans_kbk_grassa01_03.msh" />
+ <notrans_kbk_grassa01_04 file="notrans_kbk_grassa01_04.msh" />
+ <notrans_kbk_grassa01_05 file="notrans_kbk_grassa01_05.msh" />
+ <notrans_kbk_grassa01_06 file="notrans_kbk_grassa01_06.msh" />
+ <notrans_kbk_grassa01_07 file="notrans_kbk_grassa01_07.msh" />
+ <notrans_bk_ground_03 file="notrans_bk_ground_03.msh" />
+ <notrans_bk_wall01_04 file="notrans_bk_wall01_04.msh" />
+ <kbk_ground04_02 file="kbk_ground04_02.msh" />
+ <kbk_ground04_03 file="kbk_ground04_03.msh" />
+ <kbk_ground04_04 file="kbk_ground04_04.msh" />
+ <kbk_ground04_05 file="kbk_ground04_05.msh" />
+ <notrans_kbk_grassa01_08 file="notrans_kbk_grassa01_08.msh" />
+ <notrans_kbk_grassa01_09 file="notrans_kbk_grassa01_09.msh" />
+ <notrans_kbk_grassa01_10 file="notrans_kbk_grassa01_10.msh" />
+ <notrans_kbk_grassa01_11 file="notrans_kbk_grassa01_11.msh" />
+ <notrans_kbk_edge_01 file="notrans_kbk_edge_01.msh" />
+ <notrans_kbk_guard01_04 file="notrans_kbk_guard01_04.msh" />
+ <kbk_fence2_03 file="kbk_fence2_03.msh" />
+ <notrans_kbk_fragment01_01 file="notrans_kbk_fragment01_01.msh" />
+ <kbk_fence05_02 file="kbk_fence05_02.msh" />
+ <kbk_fence05_01 file="kbk_fence05_01.msh" />
+ <notrans_kbk_shadowsq_01 file="notrans_kbk_shadowsq_01.msh" />
+ <notrans_kbk_shadowsq_02 file="notrans_kbk_shadowsq_02.msh" />
+ <notrans_kbk_ground_bottom file="notrans_kbk_ground_bottom.msh" />
+ <notrans_bk_mountain_nyh02 file="notrans_bk_mountain_nyh02.msh" />
+ <notrans_kbk_fragment02_02 file="notrans_kbk_fragment02_02.msh" />
+ <notrans_kbk_fragment02_01 file="notrans_kbk_fragment02_01.msh" />
+ <notrans_kbk_fragment04_02 file="notrans_kbk_fragment04_02.msh" />
+ <notrans_kbk_fragment02_03 file="notrans_kbk_fragment02_03.msh" />
+ <notrans_kbk_fragment04_01 file="notrans_kbk_fragment04_01.msh" />
+ <notrans_kbk_propviper_02 file="notrans_kbk_propviper_02.msh" />
+ <notrans_kbk_propviper_01 file="notrans_kbk_propviper_01.msh" />
+ <notrans_kbk_propkeroro_02 file="notrans_kbk_propkeroro_02.msh" />
+ <notrans_kbk_propkeroro_01 file="notrans_kbk_propkeroro_01.msh" />
+ <notrans_kbk_tree2_m01 file="notrans_kbk_tree2_m01.msh" />
+ <notrans_kbk_tree2_m02 file="notrans_kbk_tree2_m02.msh" />
+ <notrans_kbk_tree2_m03 file="notrans_kbk_tree2_m03.msh" />
+ <notrans_kbk_tree2_m04 file="notrans_kbk_tree2_m04.msh" />
+ <notrans_kbk_tree2_m05 file="notrans_kbk_tree2_m05.msh" />
+ <notrans_kbk_tree2_m06 file="notrans_kbk_tree2_m06.msh" />
+ <notrans_kbk_tree2_m07 file="notrans_kbk_tree2_m07.msh" />
+ <notrans_kbk_tree2_m08 file="notrans_kbk_tree2_m08.msh" />
+ <notrans_kbk_tree2_m09 file="notrans_kbk_tree2_m09.msh" />
+ <notrans_kbk_tree2_m10 file="notrans_kbk_tree2_m10.msh" />
+ <notrans_kbk_tree2_m11 file="notrans_kbk_tree2_m11.msh" />
+ <notrans_kbk_tree2_m12 file="notrans_kbk_tree2_m12.msh" />
+ <notrans_kbk_tree2_m13 file="notrans_kbk_tree2_m13.msh" />
+ <notrans_kbk_tree2_m14 file="notrans_kbk_tree2_m14.msh" />
+ <notrans_kbk_tree2_m15 file="notrans_kbk_tree2_m15.msh" />
+ <notrans_kbk_tree2_m16 file="notrans_kbk_tree2_m16.msh" />
+ <notrans_kbk_tree2_m17 file="notrans_kbk_tree2_m17.msh" />
+ <notrans_kbk_tree2_m18 file="notrans_kbk_tree2_m18.msh" />
+ <notrans_kbk_tree2_m19 file="notrans_kbk_tree2_m19.msh" />
+ <notrans_kbk_tree2_m20 file="notrans_kbk_tree2_m20.msh" />
+ <notrans_kbk_tree2_m21 file="notrans_kbk_tree2_m21.msh" />
+ <notrans_kbk_tree2_m22 file="notrans_kbk_tree2_m22.msh" />
+ <notrans_kbk_tree2_m23 file="notrans_kbk_tree2_m23.msh" />
+ <notrans_kbk_tree2_m24 file="notrans_kbk_tree2_m24.msh" />
+ <notrans_kbk_tree2_m25 file="notrans_kbk_tree2_m25.msh" />
+ <notrans_kbk_tree2_m26 file="notrans_kbk_tree2_m26.msh" />
+ <notrans_kbk_tree2_m27 file="notrans_kbk_tree2_m27.msh" />
+ <notrans_kbk_tree2_m28 file="notrans_kbk_tree2_m28.msh" />
+ <notrans_kbk_tree2_m29 file="notrans_kbk_tree2_m29.msh" />
+ <notrans_kbk_tree2_m30 file="notrans_kbk_tree2_m30.msh" />
+ <notrans_kbk_tree2_m31 file="notrans_kbk_tree2_m31.msh" />
+ <notrans_kbk_tree2_m32 file="notrans_kbk_tree2_m32.msh" />
+ <notrans_kbk_tree2_m33 file="notrans_kbk_tree2_m33.msh" />
+ <notrans_kbk_tree2_m34 file="notrans_kbk_tree2_m34.msh" />
+ <notrans_kbk_tree2_m35 file="notrans_kbk_tree2_m35.msh" />
+ <notrans_kbk_tree2_m36 file="notrans_kbk_tree2_m36.msh" />
+ <notrans_kbk_tree2_m37 file="notrans_kbk_tree2_m37.msh" />
+ <notrans_kbk_tree2_m38 file="notrans_kbk_tree2_m38.msh" />
+ <notrans_kbk_tree2_m39 file="notrans_kbk_tree2_m39.msh" />
+ <notrans_kbk_tree2_m40 file="notrans_kbk_tree2_m40.msh" />
+ <notrans_kbk_tree2_m41 file="notrans_kbk_tree2_m41.msh" />
+ <notrans_kbk_tree2_m42 file="notrans_kbk_tree2_m42.msh" />
+ <notrans_kbk_tree2_m43 file="notrans_kbk_tree2_m43.msh" />
+ <notrans_kbk_tree2_m44 file="notrans_kbk_tree2_m44.msh" />
+ <notrans_kbk_tree2_m45 file="notrans_kbk_tree2_m45.msh" />
+ <notrans_kbk_tree2_m46 file="notrans_kbk_tree2_m46.msh" />
+ <notrans_kbk_tree2_m47 file="notrans_kbk_tree2_m47.msh" />
+ <notrans_kbk_tree2_m48 file="notrans_kbk_tree2_m48.msh" />
+ <notrans_kbk_tree2_m49 file="notrans_kbk_tree2_m49.msh" />
+ <notrans_kbk_tree2_m50 file="notrans_kbk_tree2_m50.msh" />
+ <notrans_kbk_tree2_m51 file="notrans_kbk_tree2_m51.msh" />
+ <notrans_kbk_tree2_m52 file="notrans_kbk_tree2_m52.msh" />
+ <notrans_kbk_tree2_m53 file="notrans_kbk_tree2_m53.msh" />
+ <notrans_kbk_tree2_m54 file="notrans_kbk_tree2_m54.msh" />
+ <notrans_kbk_tree2_m55 file="notrans_kbk_tree2_m55.msh" />
+ <notrans_kbk_tree2_m56 file="notrans_kbk_tree2_m56.msh" />
+ <notrans_kbk_tree2_m57 file="notrans_kbk_tree2_m57.msh" />
+ <notrans_kbk_tree2_m58 file="notrans_kbk_tree2_m58.msh" />
+ <notrans_kbk_tree2_m59 file="notrans_kbk_tree2_m59.msh" />
+ <notrans_kbk_tree2_m60 file="notrans_kbk_tree2_m60.msh" />
+ <notrans_kbk_tree2_m61 file="notrans_kbk_tree2_m61.msh" />
+ <notrans_kbk_tree2_m62 file="notrans_kbk_tree2_m62.msh" />
+ <notrans_kbk_tree2_m63 file="notrans_kbk_tree2_m63.msh" />
+ <notrans_kbk_tree2_m64 file="notrans_kbk_tree2_m64.msh" />
+ <notrans_kbk_tree2_m65 file="notrans_kbk_tree2_m65.msh" />
+ <notrans_kbk_tree2_m66 file="notrans_kbk_tree2_m66.msh" />
+ <notrans_kbk_tree2_m67 file="notrans_kbk_tree2_m67.msh" />
+ <notrans_kbk_tree2_m68 file="notrans_kbk_tree2_m68.msh" />
+ <notrans_kbk_tree2_m69 file="notrans_kbk_tree2_m69.msh" />
+ <notrans_kbk_tree2_m70 file="notrans_kbk_tree2_m70.msh" />
+ <notrans_kbk_tree2_m71 file="notrans_kbk_tree2_m71.msh" />
+ <notrans_kbk_tree2_m72 file="notrans_kbk_tree2_m72.msh" />
+ <notrans_kbk_tree2_m73 file="notrans_kbk_tree2_m73.msh" />
+ <notrans_kbk_tree2_m74 file="notrans_kbk_tree2_m74.msh" />
+ <notrans_kbk_tree2_m75 file="notrans_kbk_tree2_m75.msh" />
+ <notrans_kbk_tree2_m76 file="notrans_kbk_tree2_m76.msh" />
+ <notrans_kbk_tree2_m77 file="notrans_kbk_tree2_m77.msh" />
+ <notrans_kbk_tree2_m78 file="notrans_kbk_tree2_m78.msh" />
+ <notrans_kbk_tree2_m79 file="notrans_kbk_tree2_m79.msh" />
+ <notrans_kbk_tree2_m80 file="notrans_kbk_tree2_m80.msh" />
+ <notrans_kbk_tree2_m81 file="notrans_kbk_tree2_m81.msh" />
+ <notrans_kbk_tree2_m82 file="notrans_kbk_tree2_m82.msh" />
+ <notrans_kbk_tree2_m83 file="notrans_kbk_tree2_m83.msh" />
+ <notrans_kbk_tree2_m84 file="notrans_kbk_tree2_m84.msh" />
+ <notrans_kbk_tree2_m85 file="notrans_kbk_tree2_m85.msh" />
+ <notrans_kbk_tree2_m86 file="notrans_kbk_tree2_m86.msh" />
+ <notrans_kbk_tree2_m87 file="notrans_kbk_tree2_m87.msh" />
+ <notrans_kbk_tree2_m88 file="notrans_kbk_tree2_m88.msh" />
+ <notrans_kbk_tree2_m89 file="notrans_kbk_tree2_m89.msh" />
+ <notrans_kbk_tree2_m90 file="notrans_kbk_tree2_m90.msh" />
+ <notrans_kbk_tree2_m91 file="notrans_kbk_tree2_m91.msh" />
+ <notrans_kbk_tree2_m92 file="notrans_kbk_tree2_m92.msh" />
+ <notrans_kbk_tree2_m93 file="notrans_kbk_tree2_m93.msh" />
+ <notrans_kbk_tree2_m94 file="notrans_kbk_tree2_m94.msh" />
+ <notrans_kbk_tree2_m95 file="notrans_kbk_tree2_m95.msh" />
+ <notrans_kbk_tree2_m96 file="notrans_kbk_tree2_m96.msh" />
+ <notrans_kbk_tree2_m97 file="notrans_kbk_tree2_m97.msh" />
+ <notrans_kbk_tree2_m98 file="notrans_kbk_tree2_m98.msh" />
+ <notrans_kbk_tree2_m99 file="notrans_kbk_tree2_m99.msh" />
+ <notrans_kbk_tree2_m100 file="notrans_kbk_tree2_m100.msh" />
+ <notrans_kbk_tree2_m101 file="notrans_kbk_tree2_m101.msh" />
+ <notrans_kbk_tree2_m102 file="notrans_kbk_tree2_m102.msh" />
+ <notrans_kbk_tree2_m103 file="notrans_kbk_tree2_m103.msh" />
+ <notrans_kbk_tree2_m104 file="notrans_kbk_tree2_m104.msh" />
+ <notrans_kbk_tree2_m105 file="notrans_kbk_tree2_m105.msh" />
+ <notrans_kbk_tree2_m106 file="notrans_kbk_tree2_m106.msh" />
+ <notrans_kbk_tree2_m107 file="notrans_kbk_tree2_m107.msh" />
+ <notrans_kbk_tree2_m108 file="notrans_kbk_tree2_m108.msh" />
+ <notrans_kbk_tree2_m109 file="notrans_kbk_tree2_m109.msh" />
+ <notrans_kbk_tree2_m110 file="notrans_kbk_tree2_m110.msh" />
+ <notrans_kbk_tree2_m111 file="notrans_kbk_tree2_m111.msh" />
+ <notrans_kbk_tree2_m112 file="notrans_kbk_tree2_m112.msh" />
+ <notrans_kbk_tree2_m113 file="notrans_kbk_tree2_m113.msh" />
+ <notrans_kbk_tree2_m114 file="notrans_kbk_tree2_m114.msh" />
+ <notrans_kbk_tree2_m115 file="notrans_kbk_tree2_m115.msh" />
+ <notrans_kbk_fence03_02 file="notrans_kbk_fence03_02.msh" />
+ <notrans_kbk_tree2_m116 file="notrans_kbk_tree2_m116.msh" />
+ <notrans_kbk_maple_01 file="notrans_kbk_maple_01.msh" />
+ <notrans_kbk_maple_02 file="notrans_kbk_maple_02.msh" />
+ <notrans_kbk_maple_03 file="notrans_kbk_maple_03.msh" />
+ <notrans_kbk_maple_04 file="notrans_kbk_maple_04.msh" />
+ <notrans_kbk_maple_05 file="notrans_kbk_maple_05.msh" />
+ <notrans_kbk_maple_06 file="notrans_kbk_maple_06.msh" />
+ <notrans_kbk_maple_07 file="notrans_kbk_maple_07.msh" />
+ <notrans_kbk_maple_08 file="notrans_kbk_maple_08.msh" />
+ <notrans_kbk_maple_09 file="notrans_kbk_maple_09.msh" />
+ <notrans_kbk_maple_10 file="notrans_kbk_maple_10.msh" />
+ <notrans_kbk_maple_11 file="notrans_kbk_maple_11.msh" />
+ <notrans_bk_wood_csy04 file="notrans_bk_wood_csy04.msh" />
+</Objects>
+<Materials version="2">
+  <mbk_shadows02
+    diffuse="kbk_shadow_02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mCollision
+    color="44 144 68"
+  />
+  <mStandard_10
+    diffuse="sub_sky_kn01.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k0
+    diffuse="kbk_ground_01.dds"
+    color="149 149 149"
+  />
+  <mStandard_5
+    diffuse="kbk_wall01.dds"
+    color="149 149 149"
+  />
+  <mdd
+    diffuse="kbk_grass_01.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k1
+    diffuse="kbk_fence01.dds"
+    color="255 255 255"
+  />
+  <mStandard_19
+    diffuse="kbk_fragment01.dds"
+    color="149 149 149"
+  />
+  <mpir_wood_csy001
+    diffuse="pir_wood_csy001.dds"
+    color="255 255 255"
+  />
+  <mspk_woodcin
+    diffuse="kbk_woodcin.dds"
+    color="255 255 255"
+  />
+  <mgdm_rockcin_b
+    diffuse="gdm_rockcin_b.dds"
+    color="255 255 255"
+  />
+  <mgdm_rockcin_a
+    diffuse="gdm_rockcin_a.dds"
+    color="255 255 255"
+  />
+  <maaa
+    diffuse="kbk_ground04.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mbk_shadows
+    diffuse="kbk_shadow_01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mStandard_12
+    diffuse="kbk_shadow_03.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mshadows_04
+    diffuse="kbk_shadow_04.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mbunkercin
+    diffuse="kbk_bunkercin.dds"
+    color="255 255 255"
+  />
+  <mbunkercingrbox
+    diffuse="kbk_cingrbox.dds"
+    color="255 255 255"
+  />
+  <mmilitent
+    diffuse="kbk_militent.dds"
+    color="149 149 149"
+  />
+  <mmilitentbox
+    diffuse="kbk_militentbox.dds"
+    color="149 149 149"
+  />
+  <mbk_prop_viper
+    diffuse="kbk_prop_viper.dds"
+    color="255 255 255"
+  />
+  <mbk_prop_keroro
+    diffuse="kbk_prop_keroro.dds"
+    color="255 255 255"
+  />
+  <mStandard_6
+    diffuse="kbk_fence03.dds"
+    color="149 149 149"
+  />
+  <mbk_fence2
+    diffuse="kbk_fence02.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k62
+    diffuse="kbk_guard01.dds"
+    color="255 255 255"
+  />
+  <mbk_guard2
+    diffuse="kbk_guard02.dds"
+    color="255 255 255"
+  />
+  <mbunker_tranch_01_id01
+    diffuse="kbk_tranch_01_id01.dds"
+    color="255 255 255"
+  />
+  <mbunker_tranch_01_id02
+    diffuse="kbk_tranch_01_id02.dds"
+    color="255 255 255"
+  />
+  <mbk_fence1
+    diffuse="kbk_sandbag.dds"
+    color="255 255 255"
+  />
+  <mStandard_17
+    diffuse="kbk_fence04.dds"
+    color="149 149 149"
+  />
+  <mStandard_15
+    diffuse="kbk_grassa.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mkcy_edge_nyh001
+    diffuse="kcedge_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mStandard_21
+    diffuse="kbk_fence05.dds"
+    color="149 149 149"
+  />
+  <mStandard_24
+    diffuse="kbk_shadow_square.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mspk_tree002_sm
+    diffuse="kbk_ground_bottom.dds"
+    color="255 255 255"
+  />
+  <mnah_mountain_nyh001
+    diffuse="kbk_namountain_nyh001.dds"
+    color="255 255 255"
+  />
+  <mbk_fence4
+    diffuse="kbk_fragment02.dds"
+    color="255 255 255"
+  />
+  <mbk_fence6
+    diffuse="kbk_fragment04.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k63
+    diffuse="kbk_tree_ms_02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mbk_maple
+    diffuse="kbk_maple.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="kururu_bunker.skl"
+/>
+<collision
+  file="kururu_bunker.col"
+/>
+</Scene.XML>

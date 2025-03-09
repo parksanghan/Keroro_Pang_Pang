@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <submarine_metal_013 file="submarine_metal_013.msh" />
+</Objects>
+<Materials version="2">
+  <msubmarine_metal_013
+    diffuse="submarine_metal_013.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="submarine_metal_013.col"
+/>
+</Scene.XML>

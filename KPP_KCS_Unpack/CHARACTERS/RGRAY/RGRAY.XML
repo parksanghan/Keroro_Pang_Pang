@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <rgray_000 file="rgray_000.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_1
+    diffuse="rgray_000.dds"
+    color="87 87 87"
+  />
+</Materials>
+<Skeleton
+  file="rgray_000.skl"
+/>
+<collision
+  file="rgray_000.col"
+/>
+</Scene.XML>

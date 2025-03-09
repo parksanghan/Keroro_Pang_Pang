@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <viperkid_head_001 file="viperkid_head_001.msh" />
+</Objects>
+<Materials version="2">
+  <mviperkid_head_001
+    diffuse="viperkid_head_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

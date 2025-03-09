@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kagege_body_168 file="kagege_body_168.msh" />
+</Objects>
+<Materials version="2">
+  <mkagege_body_168
+    diffuse="kagege_body_168.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

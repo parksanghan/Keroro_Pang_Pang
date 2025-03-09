@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <npc3_dororo_body file="npc3_dororo_body.msh" />
+ <npc3_dororo_face file="npc3_dororo_face.msh" />
+ <npc3_dororo_head file="npc3_dororo_head.msh" />
+ <npc3_whale file="npc3_whale.msh" />
+</Objects>
+<Materials version="2">
+  <mdororo_body_000
+    diffuse="sub_dororo_body.tga"
+    color="149 149 149"
+  />
+  <mnpc3_dororo_face
+    diffuse="sub_dororo_face.tga"
+    color="149 149 149"
+  />
+  <mnpc3_dororo_head
+    diffuse="sub_dororo_head.tga"
+    color="149 149 149"
+  />
+  <mnpc3_whale
+    diffuse="sub_whale.tga"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="sub_npc_fishing.skl"
+/>
+<BoneAnim
+  file="Anims\sub_npc_fishing.anm"
+/>
+<collision
+  file="sub_npc_fishing.col"
+/>
+</Scene.XML>

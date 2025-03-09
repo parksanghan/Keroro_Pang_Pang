@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <submarine_metal_007_2 file="submarine_metal_007_2.msh" />
+ <submarine_metal_box007_2 file="submarine_metal_box007_2.msh" />
+</Objects>
+<Materials version="2">
+  <msubmarine_metal_007_1
+    diffuse="submarine_metal_007_1.dds"
+    color="255 255 255"
+  />
+  <msmb_gundamboxfire_jm_b01
+    diffuse="smb_gundamboxfire_jm_b01.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="submarine_metal_007_2.skl"
+/>
+<BoneAnim
+  file="Anims\submarine_metal_007_2.anm"
+/>
+<collision
+  file="submarine_metal_007_2.col"
+/>
+</Scene.XML>

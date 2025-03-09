@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <rifle_special_001 file="rifle_special_001.msh" />
+</Objects>
+<Materials version="2">
+  <mrifle_special_001
+    diffuse="rifle_special_001.dds"
+    color="180 180 180"
+  />
+</Materials>
+<Skeleton
+  file="rifle_special_001.skl"
+/>
+<collision
+  file="rifle_special_001.col"
+/>
+</Scene.XML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <mcviperkid_face_000 file="mcviperkid_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mmcviperkid_face_000
+    diffuse="mcviperkid_face_000.dds"
+    color="149 149 149"
+  />  
+</Materials>
+<Skeleton
+  file="mcviperkid.skl"
+/>
+<collision
+  file="mcviperkid.col"
+/>
+</Scene.XML>

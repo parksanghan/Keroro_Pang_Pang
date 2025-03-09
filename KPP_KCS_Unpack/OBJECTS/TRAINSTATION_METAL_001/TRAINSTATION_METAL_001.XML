@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <ts_metal_001 file="ts_metal_001.msh" />
+</Objects>
+<Materials version="2">
+  <mts_metal_001
+    diffuse="ts_metal_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="trainstation_metal_001.col"
+/>
+</Scene.XML>

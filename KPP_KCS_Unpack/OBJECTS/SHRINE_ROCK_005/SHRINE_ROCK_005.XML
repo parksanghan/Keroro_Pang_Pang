@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <shrine_rock_005 file="shrine_rock_005.msh" />
+</Objects>
+<Materials version="2">
+  <mshrine_rock_005
+    diffuse="shrock_nyh005.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="shrine_rock_005.col"
+/>
+</Scene.XML>

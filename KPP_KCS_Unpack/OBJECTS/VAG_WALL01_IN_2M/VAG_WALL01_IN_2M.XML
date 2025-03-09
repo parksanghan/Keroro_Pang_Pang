@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Vag_wall01_in_2m file="Vag_wall01_in_2m.msh" />
+</Objects>
+<Materials version="2">
+  <mVag_wall01_id01
+    diffuse="Vag_wall01_id01.dds"
+    color="255 255 255"
+  />
+  <mVag_wall01_id02
+    diffuse="Vag_wall01_id02.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="Vag_wall01_in_2m.col"
+/>
+</Scene.XML>

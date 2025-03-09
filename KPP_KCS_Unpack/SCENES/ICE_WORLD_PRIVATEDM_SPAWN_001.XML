@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="0" posX="-28" posY="1" posZ="-28" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="1" posX="-28" posY="1" posZ="-9" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="2" posX="-28" posY="1" posZ="9" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="3" posX="-16" posY="1" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="4" posX="-7" posY="1" posZ="-29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="5" posX="16" posY="1" posZ="-29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="6" posX="29" posY="1" posZ="28" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="7" posX="29" posY="1" posZ="10" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="8" posX="29" posY="1" posZ="-9" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="9" posX="8" posY="1" posZ="29" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="10" posX="-14" posY="1" posZ="-15" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="11" posX="16" posY="1" posZ="15" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="12" posX="3" posY="1" posZ="-24" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="privateZone" engName="Keroro" code="18939905" teamId="0" spawnId="13" posX="-3" posY="1" posZ="24" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="itembox" engName="defense_3" code="153092099" teamId="0" spawnId="14" posX="0" posY="4.25" posZ="0" angleY="180" scale="1" radius="1" respawnTime="180" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="15" posX="-16.1331" posY="2.6699" posZ="19.3524" angleY="180" scale="1" radius="1" respawnTime="120" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_1" code="155189249" teamId="0" spawnId="16" posX="16.1143" posY="2.67425" posZ="-19.1277" angleY="180" scale="1" radius="1" respawnTime="120" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_2" code="155189250" teamId="0" spawnId="17" posX="-15.9601" posY="1.0006" posZ="-9.49152" angleY="180" scale="1" radius="1" respawnTime="90" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_2" code="155189250" teamId="0" spawnId="18" posX="15.7903" posY="1.00152" posZ="9.33718" angleY="180" scale="1" radius="1" respawnTime="90" msgId="npc0001"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="19" posX="-9.5" posY="4.25" posZ="0" angleY="180" scale="1" radius="1" respawnTime="120" msgId="npc0001"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673" teamId="0" spawnId="20" posX="9.5" posY="4.25" posZ="0" angleY="180" scale="1" radius="1" respawnTime="120" msgId="npc0001"/>
+	<spawn type="obj_LobbyNPC" engName="BabyBear" code="19922957" teamId="0" spawnId="21" posX="31" posY="0.874" posZ="33" angleY="215" scale="1" radius="1" respawnTime="1" msgId=""/>
+	<spawn type="obj_LobbyNPC" engName="MomBear" code="19922956" teamId="0" spawnId="22" posX="31" posY="0.874" posZ="33" angleY="215" scale="1" radius="1" respawnTime="1" msgId=""/>
+	<spawn type="obj_LobbyNPC" engName="BabyBear" code="19922957" teamId="0" spawnId="23" posX="-31" posY="0.874" posZ="-213" angleY="215" scale="1" radius="1" respawnTime="1" msgId=""/>
+	<spawn type="obj_LobbyNPC" engName="MomBear" code="19922956" teamId="0" spawnId="24" posX="-31" posY="0.874" posZ="-213" angleY="215" scale="1" radius="1" respawnTime="1" msgId=""/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="17" posX="-22" posY="2.5" posZ="-16" angleY="60" scale="1" jumpPower="200" force="120" durationTime="4.7" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="obj_JumpPad" engName="jump pad2" code="117637122" teamId="0" spawnId="18" posX="22" posY="2.53" posZ="16" angleY="230" scale="1" jumpPower="200" force="120" durationTime="4.7" radius="1" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

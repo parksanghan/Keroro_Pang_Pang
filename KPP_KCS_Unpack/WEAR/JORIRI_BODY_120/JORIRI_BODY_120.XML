@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <joriri_body_120 file="joriri_body_120.msh" />
+</Objects>
+<Materials version="2">
+  <mjoriri_body_120
+    diffuse="joriri_body_120.dds"
+    color="149 149 149"
+  />
+</Materials>
+</Scene.XML>

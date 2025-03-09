@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="3d_lobby\3d_lobby.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="shop event place" code="117506078" yLayer="0" posX="5" posY="1" posZ="39" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="shop balloon doll" code="117506079" yLayer="0" posX="-1.1" posY="1" posZ="38.9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="shop display stand" code="117506081" yLayer="0" posX="7" posY="1" posZ="37" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="shop all round cooker" code="117506080" yLayer="1" posX="0" posY="0.999718" posZ="0" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	</Object>
+	<Object engName="shop goods box" code="117506077" yLayer="0" posX="4" posY="1" posZ="40" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="shop goods box" code="117506077" yLayer="0" posX="5" posY="1" posZ="39" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="shop goods box" code="117506077" yLayer="1" posX="0" posY="0.674087" posZ="0" angleX="0" angleY="30" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="shop ad display" code="117506082" yLayer="0" posX="-12.08" posY="3.5" posZ="-41.42" angleX="0" angleY="15.8" angleZ="0" scale="1"/>
+	<Object engName="ranking display" code="117506083" yLayer="0" posX="30" posY="3.5" posZ="-21" angleX="0" angleY="-60" angleZ="0" scale="1"/>
+	<Object engName="ranking display" code="117506083" yLayer="0" posX="-34.1499" posY="3.5" posZ="0" angleX="0" angleY="99.9998" angleZ="0" scale="1"/>
+	<Object engName="lobby_metal_003" code="117506086" yLayer="0" posX="56.2894" posY="1" posZ="5" angleX="0" angleY="65" angleZ="0" scale="0.9"/>
+	<Object engName="lobby_metal_004" code="117506087" yLayer="0" posX="56.2994" posY="1" posZ="5.01" angleX="0" angleY="65" angleZ="0" scale="0.9"/>
+	<Object engName="lobby_metal_005" code="117506088" yLayer="0" posX="-54.9995" posY="1" posZ="-10" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="lobby_plastic_003" code="117506089" yLayer="0" posX="-52.3599" posY="1" posZ="-10" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+</ARRANGEMENT>

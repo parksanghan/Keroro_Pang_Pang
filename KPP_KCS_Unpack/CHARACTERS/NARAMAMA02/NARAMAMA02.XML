@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <naramama file="naramama.msh" />
+</Objects>
+<Materials version="2">
+  <mnaramama
+    diffuse="naramama.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="naramama02.skl"
+/>
+<collision
+  file="naramama02.col"
+/>
+</Scene.XML>

@@ -1,0 +1,518 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_nah_grassground_nyh001 file="notrans_nah_grassground_nyh001.msh" />
+ <notrans_nah_ground_nyh001 file="notrans_nah_ground_nyh001.msh" />
+ <notrans_nah_cliff_nyh001 file="notrans_nah_cliff_nyh001.msh" />
+ <nah_forsythia_01 file="nah_forsythia_01.msh" />
+ <nah_woodcin_01 file="nah_woodcin_01.msh" />
+ <notrans_nah_wall_nyh001 file="notrans_nah_wall_nyh001.msh" />
+ <notrans_nah_grassground_nyh002 file="notrans_nah_grassground_nyh002.msh" />
+ <nah_woodcin_02 file="nah_woodcin_02.msh" />
+ <nah_woodcin_03 file="nah_woodcin_03.msh" />
+ <nah_woodcin_04 file="nah_woodcin_04.msh" />
+ <nah_woodcin_05 file="nah_woodcin_05.msh" />
+ <nah_woodcin_06 file="nah_woodcin_06.msh" />
+ <nah_woodcin_07 file="nah_woodcin_07.msh" />
+ <nah_narahouse_nyh001_01 file="nah_narahouse_nyh001_01.msh" />
+ <notrans_nah_water_sm02 file="notrans_nah_water_sm02.msh" />
+ <notrans_nah_wood_bridge file="notrans_nah_wood_bridge.msh" />
+ <notrans_nah_nyh001 file="notrans_nah_nyh001.msh" />
+ <notrans_nah_rock_jm_01 file="notrans_nah_rock_jm_01.msh" />
+ <nah_forsythia_02 file="nah_forsythia_02.msh" />
+ <nah_forsythia_05 file="nah_forsythia_05.msh" />
+ <nah_forsythia_06 file="nah_forsythia_06.msh" />
+ <nah_forsythia_07 file="nah_forsythia_07.msh" />
+ <nah_forsythia_09 file="nah_forsythia_09.msh" />
+ <nah_forsythia_10 file="nah_forsythia_10.msh" />
+ <nah_forsythia_11 file="nah_forsythia_11.msh" />
+ <notrans_nah_pattern001_sm001 file="notrans_nah_pattern001_sm001.msh" />
+ <notrans_nah_stonetiles002_sm001 file="notrans_nah_stonetiles002_sm001.msh" />
+ <notrans_nah_stonetiles001_sm001 file="notrans_nah_stonetiles001_sm001.msh" />
+ <nah_irondoor001_sm001 file="nah_irondoor001_sm001.msh" />
+ <nah_irondoor001_sm002 file="nah_irondoor001_sm002.msh" />
+ <nah_irondoor002_sm002 file="nah_irondoor002_sm002.msh" />
+ <nah_irondoor002_sm001 file="nah_irondoor002_sm001.msh" />
+ <notrans_nah_woodbrige_sm001 file="notrans_nah_woodbrige_sm001.msh" />
+ <notrans_nah_tulip_kn001 file="notrans_nah_tulip_kn001.msh" />
+ <notrans_nah_heather_kn001 file="notrans_nah_heather_kn001.msh" />
+ <notrans_nah_flower_kn file="notrans_nah_flower_kn.msh" />
+ <notrans_nah_wall_jm file="notrans_nah_wall_jm.msh" />
+ <nah_forsythia_14 file="nah_forsythia_14.msh" />
+ <nah_forsythia_15 file="nah_forsythia_15.msh" />
+ <nah_forsythia_18 file="nah_forsythia_18.msh" />
+ <nah_forsythia_19 file="nah_forsythia_19.msh" />
+ <nah_forsythia_03 file="nah_forsythia_03.msh" />
+ <notrans_nah_airfieldlight_jm file="notrans_nah_airfieldlight_jm.msh" />
+ <notrans_nah_bari_jm_01 file="notrans_nah_bari_jm_01.msh" />
+ <notrans_nah_bari_jm_02 file="notrans_nah_bari_jm_02.msh" />
+ <notrans_nah_bari_jm_03 file="notrans_nah_bari_jm_03.msh" />
+ <notrans_nah_bari_jm_04 file="notrans_nah_bari_jm_04.msh" />
+ <notrans_nah_bari_jm_05 file="notrans_nah_bari_jm_05.msh" />
+ <notrans_nah_bari_jm_06 file="notrans_nah_bari_jm_06.msh" />
+ <nah_stonepillar_sm001 file="nah_stonepillar_sm001.msh" />
+ <nah_stonepillar_sm02 file="nah_stonepillar_sm02.msh" />
+ <notrans_nah_sign_nyh001_01 file="notrans_nah_sign_nyh001_01.msh" />
+ <notrans_nah_sign_nyh001_02 file="notrans_nah_sign_nyh001_02.msh" />
+ <notrans_nah_plant001_jm01 file="notrans_nah_plant001_jm01.msh" />
+ <notrans_nah_wall_sm001_01 file="notrans_nah_wall_sm001_01.msh" />
+ <notrans_nah_wall_sm001_04 file="notrans_nah_wall_sm001_04.msh" />
+ <notrans_nah_wall_sm001_03 file="notrans_nah_wall_sm001_03.msh" />
+ <notrans_nah_wall_sm001_02 file="notrans_nah_wall_sm001_02.msh" />
+ <notrans_nah_mmbriron_jm file="notrans_nah_mmbriron_jm.msh" />
+ <notrans_nah_mmbriron_jm01 file="notrans_nah_mmbriron_jm01.msh" />
+ <notrans_nah_nisitopwire_jm file="notrans_nah_nisitopwire_jm.msh" />
+ <notrans_nah_nisitop_jm file="notrans_nah_nisitop_jm.msh" />
+ <notrans_nah_mmbr_jm file="notrans_nah_mmbr_jm.msh" />
+ <notrans_nah_shadow_circle_nyh01 file="notrans_nah_shadow_circle_nyh01.msh" />
+ <nah_narahouse_nyh001_02 file="nah_narahouse_nyh001_02.msh" />
+ <nah_narahouse_nyh001_03 file="nah_narahouse_nyh001_03.msh" />
+ <notrans_nah_stonebridge_jm file="notrans_nah_stonebridge_jm.msh" />
+ <notrans_nah_around_nyh001 file="notrans_nah_around_nyh001.msh" />
+ <notrans_nah_mule_base file="notrans_nah_mule_base.msh" />
+ <notrans_nah_mule_fence file="notrans_nah_mule_fence.msh" />
+ <notrans_nah_drumcin file="notrans_nah_drumcin.msh" />
+ <nah_mule file="nah_mule.msh" />
+ <nah_school_cinb01 file="nah_school_cinb01.msh" />
+ <notrans_nah_school_track file="notrans_nah_school_track.msh" />
+ <notrans_nah_school_grcin file="notrans_nah_school_grcin.msh" />
+ <notrans_nah_metal_fence file="notrans_nah_metal_fence.msh" />
+ <notrans_nah_school_strcin file="notrans_nah_school_strcin.msh" />
+ <notrans_nah_school_gym01 file="notrans_nah_school_gym01.msh" />
+ <nah_school_cin file="nah_school_cin.msh" />
+ <notrans_nah_shadow_square_nyh001 file="notrans_nah_shadow_square_nyh001.msh" />
+ <notrans_nah_shadow_square_nyh002 file="notrans_nah_shadow_square_nyh002.msh" />
+ <notrans_nah_school_fence file="notrans_nah_school_fence.msh" />
+ <notrans_nah_schoolwall_jm10 file="notrans_nah_schoolwall_jm10.msh" />
+ <notrans_nah_outwall_ms01 file="notrans_nah_outwall_ms01.msh" />
+ <nah_sinkhole_jm file="nah_sinkhole_jm.msh" />
+ <notrans_nah_treeout_nyh001_01 file="notrans_nah_treeout_nyh001_01.msh" />
+ <notrans_nah_mountain_nyh001 file="notrans_nah_mountain_nyh001.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_nah_busstop_jm file="notrans_nah_busstop_jm.msh" />
+ <notrans_nah_shadow_nyh001 file="notrans_nah_shadow_nyh001.msh" />
+ <notrans_nah_sky_ms01 file="notrans_nah_sky_ms01.msh" />
+ <notrans_nah_edge_nyh001 file="notrans_nah_edge_nyh001.msh" />
+ <notrans_nah_airfield_nyh001 file="notrans_nah_airfield_nyh001.msh" />
+ <notrans_nah_line_nyh001 file="notrans_nah_line_nyh001.msh" />
+ <notrans_nah_helimark_nyh001 file="notrans_nah_helimark_nyh001.msh" />
+ <nah_tree002_sm04 file="nah_tree002_sm04.msh" />
+ <nah_tree002_sm14 file="nah_tree002_sm14.msh" />
+ <nah_tree002_sm13 file="nah_tree002_sm13.msh" />
+ <nah_tree002_sm15 file="nah_tree002_sm15.msh" />
+ <nah_tree002_sm16 file="nah_tree002_sm16.msh" />
+ <nah_tree002_sm10 file="nah_tree002_sm10.msh" />
+ <nah_tree002_sm12 file="nah_tree002_sm12.msh" />
+ <nah_tree002_sm09 file="nah_tree002_sm09.msh" />
+ <nah_tree002_sm08 file="nah_tree002_sm08.msh" />
+ <nah_tree002_sm11 file="nah_tree002_sm11.msh" />
+ <nah_tree002_sm07 file="nah_tree002_sm07.msh" />
+ <nah_tree002_sm06 file="nah_tree002_sm06.msh" />
+ <nah_tree002_sm05 file="nah_tree002_sm05.msh" />
+ <nah_tree002_sm01 file="nah_tree002_sm01.msh" />
+ <nah_tree002_sm02 file="nah_tree002_sm02.msh" />
+ <nah_tree002_sm03 file="nah_tree002_sm03.msh" />
+ <notrans_nah_river_cin002 file="notrans_nah_river_cin002.msh" />
+ <notrans_nah_river_cin001 file="notrans_nah_river_cin001.msh" />
+ <notrans_nah_flowercin01 file="notrans_nah_flowercin01.msh" />
+ <notrans_nah_clovercin01 file="notrans_nah_clovercin01.msh" />
+ <notrans_nah_flowerscdb01 file="notrans_nah_flowerscdb01.msh" />
+ <notrans_nah_fence_nyh001_01 file="notrans_nah_fence_nyh001_01.msh" />
+ <notrans_nah_treeout_nyh001_02 file="notrans_nah_treeout_nyh001_02.msh" />
+ <notrans_nah_treeout_nyh001_03 file="notrans_nah_treeout_nyh001_03.msh" />
+ <notrans_nah_treeout_nyh001_04 file="notrans_nah_treeout_nyh001_04.msh" />
+ <notrans_nah_treeout_nyh001_05 file="notrans_nah_treeout_nyh001_05.msh" />
+ <notrans_nah_treeout_nyh001_06 file="notrans_nah_treeout_nyh001_06.msh" />
+ <notrans_nah_treeout_nyh001_07 file="notrans_nah_treeout_nyh001_07.msh" />
+ <notrans_nah_treeout_nyh001_08 file="notrans_nah_treeout_nyh001_08.msh" />
+ <notrans_nah_treeout_nyh001_09 file="notrans_nah_treeout_nyh001_09.msh" />
+ <notrans_nah_treeout_nyh001_10 file="notrans_nah_treeout_nyh001_10.msh" />
+ <notrans_nah_treeout_nyh001_11 file="notrans_nah_treeout_nyh001_11.msh" />
+ <notrans_nah_treeout_nyh001_12 file="notrans_nah_treeout_nyh001_12.msh" />
+ <notrans_nah_treeout_nyh001_13 file="notrans_nah_treeout_nyh001_13.msh" />
+ <notrans_nah_treeout_nyh001_14 file="notrans_nah_treeout_nyh001_14.msh" />
+ <notrans_nah_treeout_nyh001_15 file="notrans_nah_treeout_nyh001_15.msh" />
+ <notrans_nah_treeout_nyh001_16 file="notrans_nah_treeout_nyh001_16.msh" />
+ <notrans_nah_treeout_nyh001_17 file="notrans_nah_treeout_nyh001_17.msh" />
+ <notrans_nah_treeout_nyh001_18 file="notrans_nah_treeout_nyh001_18.msh" />
+ <notrans_nah_treeout_nyh001_19 file="notrans_nah_treeout_nyh001_19.msh" />
+ <notrans_nah_treeout_nyh001_20 file="notrans_nah_treeout_nyh001_20.msh" />
+ <notrans_nah_treeout_nyh001_21 file="notrans_nah_treeout_nyh001_21.msh" />
+ <notrans_nah_outhouse_nyh001 file="notrans_nah_outhouse_nyh001.msh" />
+ <notrans_nah_treeout_nyh001_22 file="notrans_nah_treeout_nyh001_22.msh" />
+ <notrans_nah_treeout_nyh001_23 file="notrans_nah_treeout_nyh001_23.msh" />
+ <notrans_nah_treeout_nyh001_24 file="notrans_nah_treeout_nyh001_24.msh" />
+ <notrans_nah_treeout_nyh001_25 file="notrans_nah_treeout_nyh001_25.msh" />
+ <notrans_nah_treeout_nyh001_26 file="notrans_nah_treeout_nyh001_26.msh" />
+ <notrans_nah_treeout_nyh001_27 file="notrans_nah_treeout_nyh001_27.msh" />
+ <notrans_nah_treeout_nyh001_28 file="notrans_nah_treeout_nyh001_28.msh" />
+ <notrans_nah_treeout_nyh001_29 file="notrans_nah_treeout_nyh001_29.msh" />
+ <notrans_nah_treeout_nyh001_30 file="notrans_nah_treeout_nyh001_30.msh" />
+ <notrans_nah_treeout_nyh001_31 file="notrans_nah_treeout_nyh001_31.msh" />
+ <notrans_nah_treeout_nyh001_32 file="notrans_nah_treeout_nyh001_32.msh" />
+ <notrans_nah_grass_nyh001 file="notrans_nah_grass_nyh001.msh" />
+ <notrans_nah_rivercin file="notrans_nah_rivercin.msh" />
+ <notrans_nah_treeout_nyh001_33 file="notrans_nah_treeout_nyh001_33.msh" />
+ <notrans_nah_treeout_nyh001_34 file="notrans_nah_treeout_nyh001_34.msh" />
+ <notrans_nah_hangar_jm file="notrans_nah_hangar_jm.msh" />
+ <nah_tree001_sm01 file="nah_tree001_sm01.msh" />
+ <nah_tree001_sm02 file="nah_tree001_sm02.msh" />
+ <nah_tree001_sm03 file="nah_tree001_sm03.msh" />
+ <nah_tree001_sm04 file="nah_tree001_sm04.msh" />
+ <nah_tree001_sm05 file="nah_tree001_sm05.msh" />
+ <nah_school_cinb02 file="nah_school_cinb02.msh" />
+ <nah_schoolwall_jm01 file="nah_schoolwall_jm01.msh" />
+ <nah_schoolwall_jm02 file="nah_schoolwall_jm02.msh" />
+ <nah_schoolwall_jm03 file="nah_schoolwall_jm03.msh" />
+ <nah_schoolwall_jm04 file="nah_schoolwall_jm04.msh" />
+ <nah_schoolwall_jm06 file="nah_schoolwall_jm06.msh" />
+ <nah_schoolwall_jm07 file="nah_schoolwall_jm07.msh" />
+ <nah_schoolwall_jm08 file="nah_schoolwall_jm08.msh" />
+ <nah_schoolwall_jm09 file="nah_schoolwall_jm09.msh" />
+ <nah_school_gym02 file="nah_school_gym02.msh" />
+</Objects>
+<Materials version="2">
+  <mnah_grassground_nyh001
+    diffuse="nagrassground_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_ground_nyh001
+    diffuse="naground_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_cliff_nyh001
+    diffuse="nacliff_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_forsythia
+    diffuse="nah_forsythia.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_woodcin
+    diffuse="nah_woodcin.dds"
+    color="255 255 255"
+  />
+  <mnah_wall_nyh001
+    diffuse="nawall_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_grassground_nyh002
+    diffuse="nagrassground_nyh002.dds"
+    color="255 255 255"
+  />
+  <mnah_narahouse_nyh001_id01
+    diffuse="nhnarahouse_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mnah_narahouse_nyh001_id02
+    diffuse="nhnarahouse_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mnah_narahouse_nyh001_id03
+    diffuse="nhnarahouse_nyh001_id03.dds"
+    color="255 255 255"
+  />
+  <mnah_water_sm02
+    diffuse="nah_water_sm02.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="nah_water_sm02.uva"
+  />
+  <mnah_wood_bridge
+    diffuse="nah_wood_bridge.dds"
+    color="255 255 255"
+  />
+  <mnah_nyh001_id01
+    diffuse="nah_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mnah_nyh001_id02
+    diffuse="nah_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mnah_rock_jm
+    diffuse="nah_rock_jm.dds"
+    color="255 255 255"
+  />
+  <mnah_pattern001_sm001
+    diffuse="nah_pattern001_sm001.dds"
+    color="150 150 150"
+    opacity="1"
+  />
+  <mnah_stonetiles002_sm001_id01
+    diffuse="nah_stonetile002_sm001.dds"
+    color="255 255 255"
+  />
+  <mnah_stonetiles002_sm001_id02
+    diffuse="nah_stonetile003_sm001.dds"
+    color="255 255 255"
+  />
+  <mnah_stonetiles001_sm001
+    diffuse="nah_stonetile001_sm001.dds"
+    color="255 255 255"
+  />
+  <mnah_irondoor001_sm001
+    diffuse="nah_irondoor001_sm001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_irondoor002_sm001
+    diffuse="nah_irondoor002_sm001.dds"
+    color="255 255 255"
+  />
+  <mnah_woodbrige_sm001
+    diffuse="nah_woodbrige_sm001.dds"
+    color="255 255 255"
+  />
+  <mnah_tulip_kn01
+    diffuse="nah_tulip_kn01.dds"
+    color="255 255 255"
+  />
+  <mnah_heather_kn01
+    diffuse="nah_heather_kn01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_flower_kn01
+    diffuse="nah_flower_kn01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_wall_jm
+    diffuse="nah_wall_jm.dds"
+    color="255 255 255"
+  />
+  <mnah_airfieldlight_jm
+    diffuse="nah_airfieldlight_jm.dds"
+    color="255 255 255"
+  />
+  <mnah_bari_jm
+    diffuse="nah_bari_jm.dds"
+    color="255 255 255"
+  />
+  <mnah_stonepillar_sm001
+    diffuse="nah_stonepillar001_sm001_.dds"
+    color="255 255 255"
+  />
+  <mnah_sign_nyh001
+    diffuse="nasign_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_plant_jm
+    diffuse="nah_plant_jm.dds"
+    color="255 255 255"
+  />
+  <m24_-_Default
+    color="150 150 150"
+  />
+  <mnah_wall_sm001
+    diffuse="nah_wall_sm001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_mmbriron_jm
+    diffuse="nah_mmbriron_jm.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_mmbriron_jm01
+    diffuse="nah_mmbriron_jm01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_nisitopwire_jm
+    diffuse="nah_nisitopwire_jm.dds"
+    color="255 255 255"
+  />
+  <mnah_nisitop_jm
+    diffuse="nah_nisitop_jm.dds"
+    color="255 255 255"
+  />
+  <mnah_mmbr_jm
+    diffuse="nah_mmbr_jm.dds"
+    color="255 255 255"
+  />
+  <mnah_shadow_circle_nyh01
+    diffuse="nah_shadow_circle_ms.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_stonebridge_jm
+    diffuse="nah_stonebridge_jm.dds"
+    color="255 255 255"
+  />
+  <mnah_around_nyh001
+    diffuse="naaround_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_mule_base
+    diffuse="nah_mule_base.dds"
+    color="255 255 255"
+  />
+  <mnah_mule_fence
+    diffuse="nah_mule_fence.dds"
+    color="255 255 255"
+  />
+  <mnah_drumcin
+    diffuse="nah_drumcin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_mule
+    diffuse="nah_mule.dds"
+    color="255 255 255"
+  />
+  <mnah_school_cinb
+    diffuse="nah_school_cinb.dds"
+    color="255 255 255"
+  />
+  <mnah_school_track
+    diffuse="nah_school_track.dds"
+    color="255 255 255"
+  />
+  <mnah_school_grcin
+    diffuse="nah_school_grcin.dds"
+    color="255 255 255"
+  />
+  <mnah_metal_fence
+    diffuse="nah_metal_002_1.dds"
+    color="253 253 253"
+  />
+  <mnah_school_strcin
+    diffuse="nah_school_strcin.dds"
+    color="255 255 255"
+  />
+  <mnah_school_gym
+    diffuse="nah_school_gym.dds"
+    color="255 255 255"
+  />
+  <mnah_school_cin
+    diffuse="nah_school_cin.dds"
+    color="255 255 255"
+  />
+  <mnah_shadow_square_nyh001
+    diffuse="nah_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_shadow_square_nyh002
+    diffuse="nah_shadow_square3_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_school_fence
+    diffuse="nah_school_fence.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_schoolwall_jm
+    diffuse="nah_schoolwall_jm.dds"
+    color="255 255 255"
+  />
+  <mnah_outwall_ms01
+    diffuse="nah_outwall_ms01.dds"
+    color="255 255 255"
+  />
+  <mnah_sinkhole_jm
+    diffuse="nah_sinkhole_jm.dds"
+    color="255 255 255"
+  />
+  <mnah_treeout_nyh001
+    diffuse="natreeout_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_mountain_nyh001
+    diffuse="namountain_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_edge_nyh001
+    diffuse="naedge_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_shadow_nyh001
+    diffuse="nashadow_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_sky_ms01
+    diffuse="nah_sky_ms.dds"
+    color="255 255 255"
+  />
+  <mStandard_20
+    diffuse="naconground_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_line_nyh001
+    diffuse="naline_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_helimark_nyh001
+    diffuse="nahelimark_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_tree002
+    diffuse="nah_tree002_sm001_.dds"
+    color="255 255 255"
+  />
+  <mnah_river_cin002
+    diffuse="nariver_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+    uvAnimFile="nah_river_cin002.uva"
+  />
+  <mnah_river_cin001
+    diffuse="nah_water_ms001.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_flowercin
+    diffuse="nah_flowercin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_clovercin
+    diffuse="nah_clovercin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_flowerscd
+    diffuse="nah_flowerscd.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_fence_nyh001
+    diffuse="nafence_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_grass_jm
+    diffuse="nagrass_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnotrans_nah_rivercin
+    diffuse="notrans_nah_rivercin.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_hangar_jm
+    diffuse="nah_hangar_jm.dds"
+    color="255 255 255"
+  />
+  <mnah_tree001_sm01
+    diffuse="nah_tree001_sm001_.dds"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="nara_house.skl"
+/>
+<collision
+  file="nara_house.col"
+/>
+</Scene.XML>

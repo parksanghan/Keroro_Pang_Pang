@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="special_spacetime_sd\special_spacetime_sd.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="Square" code="122748929" yLayer="0" posX="-8.3" posY="1.53" posZ="7.74" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Square" code="122748929" yLayer="0" posX="8.3" posY="1.53" posZ="-7.74" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="9.8" posY="1.53" posZ="-7.74" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Rectangle" code="122748931" yLayer="0" posX="-9.8" posY="1.53" posZ="7.74" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="URectangle" code="122748933" yLayer="0" posX="19.88" posY="5.12" posZ="3.96" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="URectangle" code="122748933" yLayer="0" posX="-19.88" posY="5.12" posZ="-3.96" angleX="0" angleY="90" angleZ="0" scale="1.2"/>
+	<Object engName="ORectangle" code="122748934" yLayer="0" posX="13.7" posY="1.53" posZ="5.5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="ORectangle" code="122748934" yLayer="0" posX="-13.7" posY="1.53" posZ="-5.5" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="SpecialFigure1" code="122748936" yLayer="0" posX="-7.3" posY="1.53" posZ="-18.2" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="SpecialFigure1" code="122748936" yLayer="0" posX="7.3" posY="1.53" posZ="18.2" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="SpecialFigure2" code="122748938" yLayer="0" posX="7.8" posY="6.2" posZ="-20.55" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	<Object engName="SpecialFigure2" code="122748938" yLayer="0" posX="-7.8" posY="6.2" posZ="20.55" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="CrossRectangle" code="122748935" yLayer="0" posX="15.93" posY="4.2" posZ="-10" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="CrossRectangle" code="122748935" yLayer="0" posX="-15.93" posY="4.2" posZ="10" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	<Object engName="SpecialFigure3" code="122748940" yLayer="0" posX="32.32" posY="0.04" posZ="8.33" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="SpecialFigure3" code="122748940" yLayer="0" posX="-32.32" posY="0.04" posZ="-8.33" angleX="0" angleY="0" angleZ="0" scale="1.1"/>
+	<Object engName="Grass" code="122748942" yLayer="0" posX="35.35" posY="0.03" posZ="1" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Grass" code="122748942" yLayer="0" posX="35.35" posY="0.03" posZ="-1.01" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Grass" code="122748942" yLayer="0" posX="29.39" posY="0.03" posZ="-19.06" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Grass" code="122748942" yLayer="0" posX="27.37" posY="0.03" posZ="-19.06" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Grass" code="122748942" yLayer="0" posX="25.36" posY="0.03" posZ="-19.06" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Grass" code="122748942" yLayer="0" posX="-35.35" posY="0.03" posZ="-1" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Grass" code="122748942" yLayer="0" posX="-35.35" posY="0.03" posZ="1.01" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Grass" code="122748942" yLayer="0" posX="-29.39" posY="0.03" posZ="19.06" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Grass" code="122748942" yLayer="0" posX="-27.37" posY="0.03" posZ="19.06" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="Grass" code="122748942" yLayer="0" posX="-25.36" posY="0.03" posZ="19.06" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

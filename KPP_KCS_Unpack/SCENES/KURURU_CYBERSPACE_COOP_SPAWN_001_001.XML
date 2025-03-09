@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="monster_spawn" engName="pancakefx" code="20971521" teamId="0" spawnId="0" posX="-0.51" posY="0.5" posZ="45.6402" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="androhusky" code="20971522" teamId="0" spawnId="1" posX="54.0295" posY="0.5" posZ="24.1602" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="octopus" code="20971523" teamId="0" spawnId="2" posX="54.4596" posY="0.5" posZ="-24.4202" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="kerberos" code="20971524" teamId="0" spawnId="3" posX="-0.48" posY="0.5" posZ="-46.9104" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="yororo" code="20971525" teamId="0" spawnId="4" posX="-41.7502" posY="0.5" posZ="-26.4503" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="monster_spawn" engName="dangl" code="20971526" teamId="0" spawnId="5" posX="-41.2503" posY="0.5" posZ="23.0102" angleY="180" scale="1" radius="1" respawnTime="1" msgId="npc0001"/>
+	<spawn type="itembox" engName="defense_5" code="153092101" teamId="0" spawnId="6" posX="-15" posY="0.1" posZ="-3" angleY="180" scale="1" radius="3" respawnTime="45" msgId="npc0001"/>
+	<spawn type="itembox" engName="restoration_8" code="154140680" teamId="0" spawnId="7" posX="5" posY="0.1" posZ="-19.2099" angleY="180" scale="1" radius="1" respawnTime="45" msgId="npc0001"/>
+	<spawn type="itembox" engName="reinforce_8" code="155189256" teamId="0" spawnId="8" posX="5" posY="0.1" posZ="15.41" angleY="180" scale="1" radius="1" respawnTime="60" msgId="npc0001"/>
+	<spawn type="coopZone" engName="Keroro" code="18939905" teamId="0" spawnId="1" posX="0" posY="1.5" posZ="-1" angleY="180" scale="1" radius="5" respawnTime="1" msgId="npc0001"/>
+	
+	<spawn type="triggerPoint" engName="triggerPoint_dice" code="18939905" teamId="0" spawnId="9" posX="0" posY="1.5" posZ="-1" angleY="180" scale="1" radius="5" respawnTime="1" msgId="npc0001"/>
+</SPAWN.XML>

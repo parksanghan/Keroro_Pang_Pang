@@ -1,0 +1,839 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_set_mountain file="notrans_set_mountain.msh" />
+ <notrans_nah_sky_ms01 file="notrans_nah_sky_ms01.msh" />
+ <notrans_set_ground02_04 file="notrans_set_ground02_04.msh" />
+ <notrans_set_1Rloadedge file="notrans_set_1Rloadedge.msh" />
+ <set_5Rstonepillar_02 file="set_5Rstonepillar_02.msh" />
+ <set_5Rstonepillar_01 file="set_5Rstonepillar_01.msh" />
+ <notrans_nah_stonetiles01 file="notrans_nah_stonetiles01.msh" />
+ <notrans_set_pattern01 file="notrans_set_pattern01.msh" />
+ <notrans_sec_grassground01_01 file="notrans_sec_grassground01_01.msh" />
+ <notrans_sec_water file="notrans_sec_water.msh" />
+ <notrans_grass02 file="notrans_grass02.msh" />
+ <notrans_sec_shadow01_11 file="notrans_sec_shadow01_11.msh" />
+ <notrans_ground file="notrans_ground.msh" />
+ <notrans_grass01 file="notrans_grass01.msh" />
+ <notrans_ground01 file="notrans_ground01.msh" />
+ <sec_bridgelamp01_02 file="sec_bridgelamp01_02.msh" />
+ <notrans_sec_brige01_01 file="notrans_sec_brige01_01.msh" />
+ <sec_bridgelamp01_04 file="sec_bridgelamp01_04.msh" />
+ <sec_bridgelamp01_05 file="sec_bridgelamp01_05.msh" />
+ <sec_bridgelamp01_06 file="sec_bridgelamp01_06.msh" />
+ <notrans_sec_brige_ground01_02 file="notrans_sec_brige_ground01_02.msh" />
+ <notrans_sec_rock02_02 file="notrans_sec_rock02_02.msh" />
+ <sec_checkpoint02_02 file="sec_checkpoint02_02.msh" />
+ <sec_checkpoint01_002 file="sec_checkpoint01_002.msh" />
+ <sec_checkpoint01_003 file="sec_checkpoint01_003.msh" />
+ <notrans_river01_01 file="notrans_river01_01.msh" />
+ <sec_checkpoint02_01 file="sec_checkpoint02_01.msh" />
+ <notrans_ground02_02 file="notrans_ground02_02.msh" />
+ <notrans_ground02_01 file="notrans_ground02_01.msh" />
+ <notrans_sec_brige_ground01_03 file="notrans_sec_brige_ground01_03.msh" />
+ <notrans_sec_water01 file="notrans_sec_water01.msh" />
+ <notrans_sec_water04 file="notrans_sec_water04.msh" />
+ <notrans_sec_brige_ground01_05 file="notrans_sec_brige_ground01_05.msh" />
+ <notrans_bfe_tree_nyh003 file="notrans_bfe_tree_nyh003.msh" />
+ <notrans_bfe_shadow_nyh003 file="notrans_bfe_shadow_nyh003.msh" />
+ <notrans_nah_airfieldlight_jm file="notrans_nah_airfieldlight_jm.msh" />
+ <notrans_nah_airfield_nyh001 file="notrans_nah_airfield_nyh001.msh" />
+ <notrans_nah_line_nyh001 file="notrans_nah_line_nyh001.msh" />
+ <notrans_nah_helimark_nyh02 file="notrans_nah_helimark_nyh02.msh" />
+ <notrans_set_naedge file="notrans_set_naedge.msh" />
+ <notrans_set_5Rshadow05 file="notrans_set_5Rshadow05.msh" />
+ <notrans_nah_wall_sm001_01 file="notrans_nah_wall_sm001_01.msh" />
+ <notrans_set_guard02_02 file="notrans_set_guard02_02.msh" />
+ <notrans_set_guard02_01 file="notrans_set_guard02_01.msh" />
+ <notrans_set_guard02_03 file="notrans_set_guard02_03.msh" />
+ <notrans_set_guard02_04 file="notrans_set_guard02_04.msh" />
+ <notrans_spk_buildings_shape file="notrans_spk_buildings_shape.msh" />
+ <notrans_set_buildings file="notrans_set_buildings.msh" />
+ <set_mirror_ms01 file="set_mirror_ms01.msh" />
+ <set_signpost02_01 file="set_signpost02_01.msh" />
+ <notrans_kct_shadow_circle02 file="notrans_kct_shadow_circle02.msh" />
+ <notrans_set_nisitop file="notrans_set_nisitop.msh" />
+ <notrans_bfe_plant_nyh001 file="notrans_bfe_plant_nyh001.msh" />
+ <notrans_set_guardrail_006 file="notrans_set_guardrail_006.msh" />
+ <notrans_kct_obj01_002 file="notrans_kct_obj01_002.msh" />
+ <notrans_nah_heather_kn001 file="notrans_nah_heather_kn001.msh" />
+ <notrans_nah_plant001_jm01 file="notrans_nah_plant001_jm01.msh" />
+ <notrans_nah_flowercin01 file="notrans_nah_flowercin01.msh" />
+ <notrans_nah_clovercin01 file="notrans_nah_clovercin01.msh" />
+ <notrans_nah_flowerscdb01 file="notrans_nah_flowerscdb01.msh" />
+ <notrans_set_road06 file="notrans_set_road06.msh" />
+ <notrans_set_mule_base2 file="notrans_set_mule_base2.msh" />
+ <notrans_set_metal_003 file="notrans_set_metal_003.msh" />
+ <sec_dogH01_02 file="sec_dogH01_02.msh" />
+ <sec_bench01_001 file="sec_bench01_001.msh" />
+ <notrans_sec_ghb01_001 file="notrans_sec_ghb01_001.msh" />
+ <sec_truck02_03 file="sec_truck02_03.msh" />
+ <sec_truck02_04 file="sec_truck02_04.msh" />
+ <notrans_nah_sign_nyh001_01 file="notrans_nah_sign_nyh001_01.msh" />
+ <notrans_nah_shadow_square_nyh002 file="notrans_nah_shadow_square_nyh002.msh" />
+ <notrans_nah_hangar_jm file="notrans_nah_hangar_jm.msh" />
+ <notrans_kcg_fence_04 file="notrans_kcg_fence_04.msh" />
+ <notrans_kcg_fence_06 file="notrans_kcg_fence_06.msh" />
+ <notrans_kcg_road_a001 file="notrans_kcg_road_a001.msh" />
+ <notrans_set_fence_08 file="notrans_set_fence_08.msh" />
+ <notrans_set_fence_01 file="notrans_set_fence_01.msh" />
+ <notrans_set_fence_02 file="notrans_set_fence_02.msh" />
+ <notrans_set_fence_03 file="notrans_set_fence_03.msh" />
+ <notrans_set_fence_04 file="notrans_set_fence_04.msh" />
+ <notrans_set_fence_05 file="notrans_set_fence_05.msh" />
+ <notrans_set_fence_06 file="notrans_set_fence_06.msh" />
+ <notrans_set_fence_07 file="notrans_set_fence_07.msh" />
+ <notrans_set_1Rground01 file="notrans_set_1Rground01.msh" />
+ <notrans_set_1Rnaraload file="notrans_set_1Rnaraload.msh" />
+ <sec_truck02_06 file="sec_truck02_06.msh" />
+ <sec_bench01_02 file="sec_bench01_02.msh" />
+ <sec_bench01_03 file="sec_bench01_03.msh" />
+ <notrans_set_wall_nyh02 file="notrans_set_wall_nyh02.msh" />
+ <notrans_set_ground02_02 file="notrans_set_ground02_02.msh" />
+ <notrans_sec_water05 file="notrans_sec_water05.msh" />
+ <notrans_set_backtree_03 file="notrans_set_backtree_03.msh" />
+ <notrans_set_backtree_05 file="notrans_set_backtree_05.msh" />
+ <notrans_set_backtree_06 file="notrans_set_backtree_06.msh" />
+ <notrans_set_backtree_01 file="notrans_set_backtree_01.msh" />
+ <notrans_set_backtree_07 file="notrans_set_backtree_07.msh" />
+ <notrans_set_backtree_04 file="notrans_set_backtree_04.msh" />
+ <notrans_set_backtree_08 file="notrans_set_backtree_08.msh" />
+ <notrans_set_backtree_02 file="notrans_set_backtree_02.msh" />
+ <notrans_set_guardrail_001 file="notrans_set_guardrail_001.msh" />
+ <notrans_set_guardrail_002 file="notrans_set_guardrail_002.msh" />
+ <notrans_set_guardrail_004 file="notrans_set_guardrail_004.msh" />
+ <notrans_set_guardrail_005 file="notrans_set_guardrail_005.msh" />
+ <notrans_ground02_03 file="notrans_ground02_03.msh" />
+ <notrans_set_wall_nyh03 file="notrans_set_wall_nyh03.msh" />
+ <notrans_set_wall_nyh01 file="notrans_set_wall_nyh01.msh" />
+ <notrans_nah_wall_nyh04 file="notrans_nah_wall_nyh04.msh" />
+ <notrans_nah_wall_sm001_02 file="notrans_nah_wall_sm001_02.msh" />
+ <notrans_nah_wall_sm001_03 file="notrans_nah_wall_sm001_03.msh" />
+ <notrans_nah_wall_sm001_04 file="notrans_nah_wall_sm001_04.msh" />
+ <notrans_set_wall_nyh04 file="notrans_set_wall_nyh04.msh" />
+ <notrans_nah_wall_sm001_05 file="notrans_nah_wall_sm001_05.msh" />
+ <sec_truck02_001 file="sec_truck02_001.msh" />
+ <sec_drum01_06 file="sec_drum01_06.msh" />
+ <notrans_sec_shadow01_7 file="notrans_sec_shadow01_7.msh" />
+ <notrans_sec_hanger01_02 file="notrans_sec_hanger01_02.msh" />
+ <notrans_sec_shadow01_03 file="notrans_sec_shadow01_03.msh" />
+ <sec_drum01_05 file="sec_drum01_05.msh" />
+ <notrans_sec_hanger02_02 file="notrans_sec_hanger02_02.msh" />
+ <sec_drum01_04 file="sec_drum01_04.msh" />
+ <notrans_set_tank file="notrans_set_tank.msh" />
+ <sec_drum01_001 file="sec_drum01_001.msh" />
+ <notrans_sec_shadow01_01 file="notrans_sec_shadow01_01.msh" />
+ <sec_drum01_02 file="sec_drum01_02.msh" />
+ <notrans_sec_hanger01_01 file="notrans_sec_hanger01_01.msh" />
+ <notrans_sec_hanger02_01 file="notrans_sec_hanger02_01.msh" />
+ <sec_drum01_03 file="sec_drum01_03.msh" />
+ <notrans_kcg_fence_07 file="notrans_kcg_fence_07.msh" />
+ <notrans_set_ground02_01 file="notrans_set_ground02_01.msh" />
+ <notrans_set_streetlight_04 file="notrans_set_streetlight_04.msh" />
+ <notrans_set_shadow01_04 file="notrans_set_shadow01_04.msh" />
+ <notrans_set_5Rnaraload_01 file="notrans_set_5Rnaraload_01.msh" />
+ <set_signpost_002 file="set_signpost_002.msh" />
+ <notrans_set_shadows_002 file="notrans_set_shadows_002.msh" />
+ <set_signpost_004 file="set_signpost_004.msh" />
+ <notrans_set_shadows_001 file="notrans_set_shadows_001.msh" />
+ <set_signpost_003 file="set_signpost_003.msh" />
+ <notrans_set_shadows_004 file="notrans_set_shadows_004.msh" />
+ <set_signpost_001 file="set_signpost_001.msh" />
+ <notrans_set_shadows_003 file="notrans_set_shadows_003.msh" />
+ <set_signpost02_02 file="set_signpost02_02.msh" />
+ <set_signpost02_03 file="set_signpost02_03.msh" />
+ <set_signpost_05 file="set_signpost_05.msh" />
+ <set_signpost_06 file="set_signpost_06.msh" />
+ <notrans_set_shadows_05 file="notrans_set_shadows_05.msh" />
+ <notrans_set_shadows_06 file="notrans_set_shadows_06.msh" />
+ <set_signpost02_04 file="set_signpost02_04.msh" />
+ <set_signpost_07 file="set_signpost_07.msh" />
+ <set_signpost_08 file="set_signpost_08.msh" />
+ <notrans_set_shadows_07 file="notrans_set_shadows_07.msh" />
+ <notrans_set_shadows_08 file="notrans_set_shadows_08.msh" />
+ <set_signpost02_05 file="set_signpost02_05.msh" />
+ <set_signpost_09 file="set_signpost_09.msh" />
+ <set_signpost_10 file="set_signpost_10.msh" />
+ <notrans_set_shadows_09 file="notrans_set_shadows_09.msh" />
+ <notrans_set_shadows_10 file="notrans_set_shadows_10.msh" />
+ <notrans_sec_grassground01_02 file="notrans_sec_grassground01_02.msh" />
+ <notrans_set_shadow01_001 file="notrans_set_shadow01_001.msh" />
+ <notrans_set_streetlight_001 file="notrans_set_streetlight_001.msh" />
+ <notrans_set_shadow01_02 file="notrans_set_shadow01_02.msh" />
+ <notrans_set_streetlight_02 file="notrans_set_streetlight_02.msh" />
+ <notrans_set_shadow01_03 file="notrans_set_shadow01_03.msh" />
+ <notrans_set_streetlight_03 file="notrans_set_streetlight_03.msh" />
+ <notrans_set_streetlight_05 file="notrans_set_streetlight_05.msh" />
+ <notrans_set_shadow01_05 file="notrans_set_shadow01_05.msh" />
+ <set_5Rsafe_O05 file="set_5Rsafe_O05.msh" />
+ <notrans_5Rsafe_shadows_01 file="notrans_5Rsafe_shadows_01.msh" />
+ <set_5Rsafe_O04 file="set_5Rsafe_O04.msh" />
+ <notrans_5Rsafe_shadows_03 file="notrans_5Rsafe_shadows_03.msh" />
+ <set_5Rsafe_O06 file="set_5Rsafe_O06.msh" />
+ <notrans_5Rsafe_shadows_02 file="notrans_5Rsafe_shadows_02.msh" />
+ <set_5Rsafe_O01 file="set_5Rsafe_O01.msh" />
+ <notrans_5Rsafe_shadows_06 file="notrans_5Rsafe_shadows_06.msh" />
+ <set_5Rsafe_O02 file="set_5Rsafe_O02.msh" />
+ <notrans_5Rsafe_shadows_04 file="notrans_5Rsafe_shadows_04.msh" />
+ <set_5Rsafe_O03 file="set_5Rsafe_O03.msh" />
+ <notrans_5Rsafe_shadows_05 file="notrans_5Rsafe_shadows_05.msh" />
+ <set_woodcin_05 file="set_woodcin_05.msh" />
+ <set_woodcin_06 file="set_woodcin_06.msh" />
+ <set_woodcin_07 file="set_woodcin_07.msh" />
+ <set_woodcin_08 file="set_woodcin_08.msh" />
+ <set_momostatuewarter01 file="set_momostatuewarter01.msh" />
+ <notrans_set_cicle_cin file="notrans_set_cicle_cin.msh" />
+ <set_5Rmomostatue01 file="set_5Rmomostatue01.msh" />
+ <set_momostatue_nyh004_02 file="set_momostatue_nyh004_02.msh" />
+ <notrans_set_5Rbundle_grass file="notrans_set_5Rbundle_grass.msh" />
+ <set_5Rmomostatue_02 file="set_5Rmomostatue_02.msh" />
+ <set_woodcin_003 file="set_woodcin_003.msh" />
+ <set_woodcin_002 file="set_woodcin_002.msh" />
+ <set_woodcin_001 file="set_woodcin_001.msh" />
+ <set_woodcin_004 file="set_woodcin_004.msh" />
+ <Outer_set_5RnarahouseA file="Outer_set_5RnarahouseA.msh" />
+ <notrans_grass05 file="notrans_grass05.msh" />
+ <notrans_grass06 file="notrans_grass06.msh" />
+ <notrans_grass10 file="notrans_grass10.msh" />
+ <notrans_grass11 file="notrans_grass11.msh" />
+ <notrans_grass12 file="notrans_grass12.msh" />
+ <notrans_grass14 file="notrans_grass14.msh" />
+ <notrans_grass17 file="notrans_grass17.msh" />
+ <notrans_grass19 file="notrans_grass19.msh" />
+ <notrans_sec_shadow01_14 file="notrans_sec_shadow01_14.msh" />
+ <sec_dogH01_03 file="sec_dogH01_03.msh" />
+ <notrans_ground02_04 file="notrans_ground02_04.msh" />
+ <notrans_grass20 file="notrans_grass20.msh" />
+ <notrans_grass21 file="notrans_grass21.msh" />
+ <notrans_grass22 file="notrans_grass22.msh" />
+ <notrans_grass23 file="notrans_grass23.msh" />
+ <notrans_grass24 file="notrans_grass24.msh" />
+ <notrans_grass25 file="notrans_grass25.msh" />
+ <notrans_set_ground02_03 file="notrans_set_ground02_03.msh" />
+ <notrans_grass26 file="notrans_grass26.msh" />
+ <notrans_set_5Rshadow_square_03 file="notrans_set_5Rshadow_square_03.msh" />
+ <notrans_grass27 file="notrans_grass27.msh" />
+ <notrans_grass28 file="notrans_grass28.msh" />
+ <GAME_MovingMesh_04 file="GAME_MovingMesh_04.msh" />
+ <notrans_grass29 file="notrans_grass29.msh" />
+ <notrans_grass30 file="notrans_grass30.msh" />
+ <notrans_grass31 file="notrans_grass31.msh" />
+ <notrans_ground02_05 file="notrans_ground02_05.msh" />
+ <notrans_grass33 file="notrans_grass33.msh" />
+ <notrans_grass34 file="notrans_grass34.msh" />
+ <notrans_grass35 file="notrans_grass35.msh" />
+ <notrans_grass36 file="notrans_grass36.msh" />
+ <notrans_nah_clovercin02 file="notrans_nah_clovercin02.msh" />
+ <notrans_grass37 file="notrans_grass37.msh" />
+ <notrans_kcg_fence_08 file="notrans_kcg_fence_08.msh" />
+ <sec_streetlinght01_03 file="sec_streetlinght01_03.msh" />
+ <sec_streetlinght01_04 file="sec_streetlinght01_04.msh" />
+ <sec_streetlinght01_05 file="sec_streetlinght01_05.msh" />
+ <sec_streetlinght01_06 file="sec_streetlinght01_06.msh" />
+ <sec_streetlinght01_19 file="sec_streetlinght01_19.msh" />
+ <sec_streetlinght01_08 file="sec_streetlinght01_08.msh" />
+ <sec_streetlinght01_09 file="sec_streetlinght01_09.msh" />
+ <sec_streetlinght01_10 file="sec_streetlinght01_10.msh" />
+ <sec_streetlinght01_12 file="sec_streetlinght01_12.msh" />
+ <sec_streetlinght01_11 file="sec_streetlinght01_11.msh" />
+ <sec_streetlinght01_07 file="sec_streetlinght01_07.msh" />
+ <notrans_set_4rground01_01 file="notrans_set_4rground01_01.msh" />
+ <notrans_sec_4Rbarracks02_001 file="notrans_sec_4Rbarracks02_001.msh" />
+ <notrans_sec_4Rbarracks02_002 file="notrans_sec_4Rbarracks02_002.msh" />
+ <notrans_nah_pattern001_sm02 file="notrans_nah_pattern001_sm02.msh" />
+ <notrans_set_4rstair_01 file="notrans_set_4rstair_01.msh" />
+ <notrans_4Rgrass29 file="notrans_4Rgrass29.msh" />
+ <notrans_set_4rguide_03 file="notrans_set_4rguide_03.msh" />
+ <notrans_set_4rground03_01 file="notrans_set_4rground03_01.msh" />
+ <notrans_set_4rground03_02 file="notrans_set_4rground03_02.msh" />
+ <notrans_set_4rbottom01 file="notrans_set_4rbottom01.msh" />
+ <notrans_set_4ropendoor_03 file="notrans_set_4ropendoor_03.msh" />
+ <GAME_MonsterMoveBound file="GAME_MonsterMoveBound.msh" />
+ <GAME_MovingMesh file="GAME_MovingMesh.msh" />
+ <notrans_grass38 file="notrans_grass38.msh" />
+ <notrans_grass39 file="notrans_grass39.msh" />
+ <notrans_nah_clovercin03 file="notrans_nah_clovercin03.msh" />
+ <notrans_grass40 file="notrans_grass40.msh" />
+ <notrans_nah_wall_sm001_06 file="notrans_nah_wall_sm001_06.msh" />
+ <notrans_nah_wall_sm001_07 file="notrans_nah_wall_sm001_07.msh" />
+ <notrans_nah_wall_sm001_08 file="notrans_nah_wall_sm001_08.msh" />
+ <notrans_nah_wall_sm001_09 file="notrans_nah_wall_sm001_09.msh" />
+ <notrans_nah_wall_sm001_10 file="notrans_nah_wall_sm001_10.msh" />
+ <notrans_sec_4Rtrap file="notrans_sec_4Rtrap.msh" />
+ <set_metalgate_02 file="set_metalgate_02.msh" />
+ <notrans_ground02_07 file="notrans_ground02_07.msh" />
+ <notrans_ground02_08 file="notrans_ground02_08.msh" />
+ <notrans_set_4Relectrity file="notrans_set_4Relectrity.msh" />
+ <notrans_sec_1Rtruckshadow_01 file="notrans_sec_1Rtruckshadow_01.msh" />
+ <set_momowood_a_52 file="set_momowood_a_52.msh" />
+ <set_momowood_a_53 file="set_momowood_a_53.msh" />
+ <set_momowood_a_54 file="set_momowood_a_54.msh" />
+ <set_momowood_a_59 file="set_momowood_a_59.msh" />
+ <set_momowood_a_60 file="set_momowood_a_60.msh" />
+ <set_momowood_a_40 file="set_momowood_a_40.msh" />
+ <set_momowood_a_41 file="set_momowood_a_41.msh" />
+ <set_momowood_a_42 file="set_momowood_a_42.msh" />
+ <set_momowood_a_48 file="set_momowood_a_48.msh" />
+ <set_momowood_a_49 file="set_momowood_a_49.msh" />
+ <notrans_set_1Rtreeshadow file="notrans_set_1Rtreeshadow.msh" />
+ <sec_truck02_07 file="sec_truck02_07.msh" />
+ <notrans_set_5Rtreeshadow file="notrans_set_5Rtreeshadow.msh" />
+ <set_5Rnarastairs01 file="set_5Rnarastairs01.msh" />
+ <sec_metalblockD file="sec_metalblockD.msh" />
+ <sec_metalblockB file="sec_metalblockB.msh" />
+ <sec_metalblockC_01 file="sec_metalblockC_01.msh" />
+ <sec_metalblockD01 file="sec_metalblockD01.msh" />
+ <sec_metalblockB01 file="sec_metalblockB01.msh" />
+ <sec_metalblockC_02 file="sec_metalblockC_02.msh" />
+ <notrans_set_5Rshadow file="notrans_set_5Rshadow.msh" />
+ <notrans_set_5Rshadow06 file="notrans_set_5Rshadow06.msh" />
+ <set_5Rnaratower03 file="set_5Rnaratower03.msh" />
+ <set_5Rnaratower02 file="set_5Rnaratower02.msh" />
+ <set_5Rnaratower04 file="set_5Rnaratower04.msh" />
+ <set_5Rnaratower05 file="set_5Rnaratower05.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <GAME_MovingMesh_03 file="GAME_MovingMesh_03.msh" />
+ <notrans_set_5Rnarabottom file="notrans_set_5Rnarabottom.msh" />
+ <set_metalgate_19 file="set_metalgate_19.msh" />
+ <set_metalgate_20 file="set_metalgate_20.msh" />
+ <set_metalgate_21 file="set_metalgate_21.msh" />
+ <set_metalgate_22 file="set_metalgate_22.msh" />
+ <set_metalgate_23 file="set_metalgate_23.msh" />
+ <set_metalgate_24 file="set_metalgate_24.msh" />
+ <set_metalgate_25 file="set_metalgate_25.msh" />
+ <notrans_set_4Rloadedge file="notrans_set_4Rloadedge.msh" />
+ <notrans_set_4Rnaraload file="notrans_set_4Rnaraload.msh" />
+ <notrans_set_4Rground02 file="notrans_set_4Rground02.msh" />
+ <notrans_set_4Rshadow01 file="notrans_set_4Rshadow01.msh" />
+ <notrans_kct_shadow_circle03 file="notrans_kct_shadow_circle03.msh" />
+ <notrans_set_shadow_c_01 file="notrans_set_shadow_c_01.msh" />
+ <notrans_set_5Rloadedge file="notrans_set_5Rloadedge.msh" />
+ <set_woodcin02_05 file="set_woodcin02_05.msh" />
+ <set_woodcin02_06 file="set_woodcin02_06.msh" />
+ <set_woodcin02_07 file="set_woodcin02_07.msh" />
+ <set_woodcin02_08 file="set_woodcin02_08.msh" />
+ <Outer_set_5RnarahouseA_02 file="Outer_set_5RnarahouseA_02.msh" />
+ <Outer_set_5RnarahouseB_02 file="Outer_set_5RnarahouseB_02.msh" />
+ <Outer_set_5RnarahouseB_03 file="Outer_set_5RnarahouseB_03.msh" />
+ <Outer_set_5RnarahouseB file="Outer_set_5RnarahouseB.msh" />
+ <Outer_set_5RnarahouseB_04 file="Outer_set_5RnarahouseB_04.msh" />
+ <Outer_set_5RnarahouseB_05 file="Outer_set_5RnarahouseB_05.msh" />
+ <Outer_set_5RnarahouseB01 file="Outer_set_5RnarahouseB01.msh" />
+ <set_woodcin02_01 file="set_woodcin02_01.msh" />
+ <set_woodcin02_02 file="set_woodcin02_02.msh" />
+ <set_woodcin02_03 file="set_woodcin02_03.msh" />
+ <set_woodcin02_04 file="set_woodcin02_04.msh" />
+ <notrans_set_shadow_c_03 file="notrans_set_shadow_c_03.msh" />
+ <notrans_set_5Rloadedge_02 file="notrans_set_5Rloadedge_02.msh" />
+ <notrans_set_5Rloadedge_shadow file="notrans_set_5Rloadedge_shadow.msh" />
+ <notrans_set_woodcin02 file="notrans_set_woodcin02.msh" />
+ <notrans_sec_blockC_shadow file="notrans_sec_blockC_shadow.msh" />
+ <Outer_set_5Rnarainterior_05 file="Outer_set_5Rnarainterior_05.msh" />
+ <Outer_set_5Rnarainterior_01 file="Outer_set_5Rnarainterior_01.msh" />
+ <Outer_set_5Rnarainterior_06 file="Outer_set_5Rnarainterior_06.msh" />
+ <Outer_set_5Rnarainterior_03 file="Outer_set_5Rnarainterior_03.msh" />
+ <Outer_set_5Rnarainterior_04 file="Outer_set_5Rnarainterior_04.msh" />
+ <Outer_set_5Rnarainterior_02 file="Outer_set_5Rnarainterior_02.msh" />
+ <GAME_MovingMesh_05 file="GAME_MovingMesh_05.msh" />
+</Objects>
+<Materials version="2">
+  <mnah_edge_nyh001
+    diffuse="naedge_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_mountain_nyh001
+    diffuse="namountain_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_sky_ms01
+    diffuse="nah_sky_ms.dds"
+    color="255 255 255"
+  />
+  <mStandard_4
+    diffuse="set_ground04.dds"
+    color="255 255 255"
+  />
+  <mnah_stonetiles01
+    diffuse="nah_stonetile001_sm001.dds"
+    color="255 255 255"
+  />
+  <mnah_stonepillar_sm001
+    diffuse="nah_stonepillar001_sm001_.dds"
+    color="255 255 255"
+  />
+  <mEmptyMat
+  />
+  <mnah_stonetiles002_sm001_id02
+    diffuse="nah_stonetile003_sm001.dds"
+    color="255 255 255"
+  />
+  <mnah_pattern001_sm001
+    diffuse="nah_pattern001_sm001.dds"
+    color="150 150 150"
+    opacity="1"
+  />
+  <mMaterial_k186
+    diffuse="sec_grass01_id01.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k342
+    diffuse="set_water.dds"
+    color="35 64 80"
+    uvAnimFile="Material_k342.uva"
+  />
+  <msec_grass02
+    diffuse="sec_grass01_id02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msec_shadow01_01
+    diffuse="vil_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msec_bridgelamp01_001
+    diffuse="sec_bridgelamp01_001.dds"
+    color="255 255 255"
+  />
+  <msec_bridge02_id01
+    diffuse="sec_bridge02_id01.dds"
+    color="255 255 255"
+  />
+  <msec_bridge02_id02
+    diffuse="sec_bridge02_id02.dds"
+    color="255 255 255"
+  />
+  <msec_bridge02_id03
+    diffuse="sec_bridge02_id03.dds"
+    color="255 255 255"
+  />
+  <mStandard_aaaa
+    diffuse="set_brige_groud01.dds"
+    color="149 149 149"
+  />
+  <mlob_volzone_ceston_ms01
+    diffuse="lob_volzone_ceston_ms01.dds"
+    color="255 255 255"
+  />
+  <msec_checkpoint01
+    diffuse="set_checkpoint01.dds"
+    color="255 255 255"
+  />
+  <msec_checkpoint02
+    diffuse="set_checkpoint02.dds"
+    color="255 255 255"
+  />
+  <mnah_river_cin001
+    diffuse="nah_water_ms001.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mStandard_8
+    diffuse="set_ground04_01.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mbfe_tree_nyh003_id01
+    diffuse="bftree_nyh003_id01.dds"
+    color="255 255 255"
+  />
+  <mbfe_tree_nyh003_id02
+    diffuse="bftree_nyh003_id02.dds"
+    color="255 255 255"
+  />
+  <mbfe_shadow_nyh003
+    diffuse="bfshadow_nyh003.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_airfieldlight_jm
+    diffuse="nah_airfieldlight_jm.dds"
+    color="255 255 255"
+  />
+  <mStandard_20
+    diffuse="naconground_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_line_nyh001
+    diffuse="naline_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mMaterial_k369
+    diffuse="nahelimark_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_shadow_circle_nyh01
+    color="255 255 255"
+  />
+  <mnah_wall_sm001
+    diffuse="nah_wall_sm001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_playground_nyh001_id01
+    diffuse="viplayground_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mvil_playground_nyh001_id02
+    diffuse="viplayground_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mvil_playground_nyh001_id03
+    diffuse="viplayground_nyh001_id03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mpk_buildings_shape
+    diffuse="spk_buildings_shape.dds"
+    color="255 255 255"
+  />
+  <mgdm_mirror_ms01
+    diffuse="gdm_mirror_ms01.dds"
+    color="255 255 255"
+  />
+  <mkct_signpost_nyh
+    diffuse="kct_signpost_nyh001.dds"
+    color="255 255 255"
+  />
+  <mkct_shadow_circle
+    diffuse="kct_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_nisitop_jm
+    diffuse="lob_nisitop_jm.dds"
+    color="252 252 252"
+  />
+  <mbfe_plant_nyh001
+    diffuse="bfplant_nyh001.dds"
+    color="255 255 255"
+  />
+  <mgdm_guardrail_ms01
+    diffuse="gdm_guardrail_ms01.dds"
+    color="255 255 255"
+  />
+  <mkct_block_kn01
+    diffuse="kct_block_kn01.dds"
+    color="255 255 255"
+  />
+  <mnah_heather_kn01
+    diffuse="nah_heather_kn01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mnah_plant_jm
+    diffuse="nah_plant_jm.dds"
+    color="255 255 255"
+  />
+  <mlob_flowercin
+    diffuse="nah_flowercin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_clovercin
+    diffuse="nah_clovercin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_flowerscd
+    diffuse="nah_flowerscd.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_road_ms04
+    diffuse="vil_road_ms04.dds"
+    color="255 255 255"
+  />
+  <mvil_mule_base
+    diffuse="vil_mule_base.dds"
+    color="255 255 255"
+  />
+  <mspk_metal_003
+    diffuse="spk_metal_003.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k378
+    diffuse="sec_dogH01_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msec_bench01_001
+    diffuse="sec_bench01_001.dds"
+    color="255 255 255"
+  />
+  <msec_ghb01_001
+    diffuse="sec_ghb01_001.dds"
+    color="255 255 255"
+  />
+  <msec_ghbone01_001
+    diffuse="sec_ghbone01_001.dds"
+    color="255 255 255"
+  />
+  <msec_ghg01_001
+    diffuse="sec_ghg01_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <msec_tree01_001
+    diffuse="sec_tree01_001.dds"
+    color="255 255 255"
+  />
+  <msec_truck01
+    diffuse="sec_truck01.dds"
+    color="255 255 255"
+  />
+  <msec_truck02
+    diffuse="sec_truck02.dds"
+    color="255 255 255"
+  />
+  <mnah_sign_nyh001
+    diffuse="nasign_nyh001.dds"
+    color="255 255 255"
+  />
+  <mnah_hangar_jm
+    diffuse="nah_hangar_jm.dds"
+    color="255 255 255"
+  />
+  <mkct_road_a
+    diffuse="kct_road_a.dds"
+    color="255 255 255"
+  />
+  <mbk_fence1
+    diffuse="bk_fence1.dds"
+    color="255 255 255"
+  />
+  <m11
+    diffuse="bfground_nyh001.dds"
+    color="149 149 149"
+  />
+  <mnah_wall_nyh001
+    diffuse="nawall_nyh001.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k502
+    diffuse="sec_wood01.dds"
+    color="255 255 255"
+  />
+  <mStandard_2
+    diffuse="set_brige_groud01.dds"
+    color="255 255 255"
+  />
+  <msec_drum01_001
+    diffuse="sec_drum01_001.dds"
+    color="255 255 255"
+  />
+  <msec_hanger01_id01
+    diffuse="sec_hangar_id01.dds"
+    color="255 255 255"
+  />
+  <msec_hanger01_id02
+    diffuse="sec_hangar_id02.dds"
+    color="255 255 255"
+  />
+  <msec_hanger01_id03
+    diffuse="sec_hangar_id03.dds"
+    color="255 255 255"
+  />
+  <msec_hanger01_id04
+    diffuse="sec_hangar_id04.dds"
+    color="255 255 255"
+  />
+  <msec_hanger01_id05
+    diffuse="sec_hangar_id05.dds"
+    color="255 255 255"
+  />
+  <msec_hanger02
+    diffuse="sec_hangar02.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k341
+    diffuse="tank.dds"
+    color="255 255 255"
+  />
+  <mkct_streetlight
+    diffuse="kct_streetlight_001.dds"
+    color="255 255 255"
+  />
+  <mkct_shadow01
+    diffuse="kct_shadow01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_safe
+    diffuse="vil_safe.dds"
+    color="255 255 255"
+  />
+  <mnah_woodcin
+    diffuse="nah_woodcin.dds"
+    color="255 255 255"
+  />
+  <mspk_momostatuewarter
+    diffuse="spk_momostatuewarter_nyh001.ifl"
+    color="255 255 255"
+  />
+  <mspk_shadow_circle_cin
+    diffuse="spk_shadow_circle_cin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mspk_momostatue
+    diffuse="spk_momostatue.dds"
+    color="255 255 255"
+  />
+  <m01_-_Default
+    diffuse="lob_momostatuewarter_nyh001.ifl"
+    color="255 255 255"
+  />
+  <mlob_bundle_grass_01
+    diffuse="lob_bundle_grass_01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mlob_momostatue_nyh001_01
+    diffuse="lob_momostatue_nyh001.dds"
+    color="255 255 255"
+  />
+  <mStandard_13
+    diffuse="set_naraRoof.dds"
+    color="149 149 149"
+  />
+  <mStandard_11
+    diffuse="set_narawall01.dds"
+    color="149 149 149"
+  />
+  <mStandard_10
+    diffuse="set_narawall02.dds"
+    color="149 149 149"
+  />
+  <mwsd
+    diffuse="set_narawindow.dds"
+    color="149 149 149"
+  />
+  <mStandard_15
+    diffuse="set_naraRoofb.dds"
+    color="149 149 149"
+  />
+  <mStandard_19
+    diffuse="set_narawall03.dds"
+    color="149 149 149"
+  />
+  <mStandard_4fd
+    diffuse="spk_shadow_square_ms02.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <msec_streetlinght01_001
+    diffuse="sec_streetlinght01_001.dds"
+    color="255 255 255"
+  />
+  <mStandard_5
+    diffuse="sec_stairstep02.dds"
+    color="149 149 149"
+  />
+  <mStandard_17
+    diffuse="set_naragrass_b.dds"
+    color="149 149 149"
+  />
+  <msec_barracks02_001
+    diffuse="sec_barracks02_001.dds"
+    color="255 255 255"
+  />
+  <maa
+    diffuse="sec_groundguard.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k1605
+    diffuse="set_4rbottom02.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k1606
+    diffuse="set_4rbottom03.dds"
+    color="149 149 149"
+  />
+  <mnotrans_set_4rbottom01
+    diffuse="sec_ground02_03.dds"
+    color="255 255 255"
+  />
+  <mStandard_7
+    diffuse="sec_door.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k1546
+    diffuse="set_naragrass_b.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k1547
+    diffuse="set_trapwll.dds"
+    color="255 255 255"
+  />
+  <mStandard_1
+    diffuse="sec_metalgate01_01.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k213
+    diffuse="sec_grass01_id03.dds"
+    color="149 149 149"
+  />
+  <mStandard_63
+    diffuse="sec_metalbox.dds"
+    color="149 149 149"
+  />
+  <mMaterial_k1713
+    diffuse="wall.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mgrandmahouse_wood_005
+    diffuse="grandmahouse_wood_005.dds"
+    color="255 255 255"
+  />
+  <mgrandmahouse_wood_005a
+    diffuse="grandmahouse_wood_005a.dds"
+    color="253 253 253"
+    opacity="1"
+  />
+  <mStandard_9df
+    diffuse="set_naravestibule.dds"
+    color="149 149 149"
+  />
+  <mStandard_naratower
+    diffuse="set_naratop.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mStandard_12
+    diffuse="set_shadow_c.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mspk_woodcin
+    diffuse="spk_woodcin.dds"
+    color="255 255 255"
+  />
+  <mdfdf
+    diffuse="set_woodcin_shadows.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mdfaa
+    diffuse="sec_metalblockC.dds"
+    color="149 149 149"
+    opacity="1"
+  />
+  <mStandard_23
+    diffuse="set_5Rnarainterior.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="security_test_1.skl"
+/>
+<collision
+  file="security_test_1.col"
+/>
+</Scene.XML>

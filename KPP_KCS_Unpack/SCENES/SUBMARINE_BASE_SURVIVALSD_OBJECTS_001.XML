@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="submarine_base\submarine_base.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="container_3" code="120651783" yLayer="0" posX="19.81" posY="0" posZ="4" angleX="0" angleY="90" angleZ="0" scale="1.1">
+		<Object engName="container_3" code="120651783" yLayer="1" posX="0" posY="2.36012" posZ="0" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	</Object>
+	<Object engName="container_3" code="120651783" yLayer="0" posX="-21" posY="0" posZ="-4.98002" angleX="0" angleY="90" angleZ="0" scale="1.1">
+		<Object engName="container_3" code="120651783" yLayer="1" posX="0" posY="2.36012" posZ="0" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	</Object>
+	<Object engName="container_3" code="120651783" yLayer="0" posX="-15.19" posY="0" posZ="-5.05001" angleX="0" angleY="90" angleZ="0" scale="1.1">
+		<Object engName="container_3" code="120651783" yLayer="1" posX="0" posY="2.36012" posZ="0" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	</Object>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="1" posY="0" posZ="-3.03001" angleX="0" angleY="90" angleZ="0" scale="1">
+		<Object engName="container_1" code="120651781" yLayer="1" posX="0" posY="2.14557" posZ="0" angleX="0" angleY="45" angleZ="0" scale="1">
+			<Object engName="container_2" code="120651782" yLayer="2" posX="0" posY="2.14557" posZ="0" angleX="0" angleY="90" angleZ="0" scale="0.5"/>
+		</Object>
+	</Object>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="2.87" posY="0" posZ="3.74999" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="-1.1" posY="0" posZ="-6.75" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="ladder" code="123797514" yLayer="1" posX="-0.670003" posY="2.21557" posZ="-0.0299997" angleX="45" angleY="45" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="-13" posY="0" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="container_1" code="120651781" yLayer="1" posX="2.65999" posY="2.14557" posZ="-0.0499992" angleX="0" angleY="45" angleZ="0" scale="0.7"/>
+	</Object>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="-10.02" posY="0" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="-6" posY="0" posZ="7" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="11" posY="0" posZ="-8.8" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="16.1899" posY="0" posZ="-8.85" angleX="0" angleY="45" angleZ="0" scale="1">
+		<Object engName="container_1" code="120651781" yLayer="1" posX="-2.69998" posY="2.14557" posZ="0.0100002" angleX="0" angleY="90" angleZ="0" scale="0.8"/>
+	</Object>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="-8.14002" posY="0" posZ="-14.2601" angleX="0" angleY="45" angleZ="0" scale="1">
+		<Object engName="container_1" code="120651781" yLayer="1" posX="0.0100002" posY="2.14557" posZ="0.120008" angleX="0" angleY="90" angleZ="0" scale="0.7"/>
+	</Object>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="8.77002" posY="0" posZ="13" angleX="0" angleY="45" angleZ="0" scale="1">
+		<Object engName="container_1" code="120651781" yLayer="1" posX="-2.84996" posY="2.14557" posZ="-0.0200014" angleX="0" angleY="90" angleZ="0" scale="0.7"/>
+	</Object>
+	<Object engName="derrick" code="120651785" yLayer="0" posX="0" posY="0" posZ="0" angleX="0" angleY="90" angleZ="0" scale="0.8"/>
+	<Object engName="derrick" code="120651785" yLayer="0" posX="2" posY="0" posZ="-7" angleX="0" angleY="-90" angleZ="0" scale="0.8"/>
+	<Object engName="waste" code="120651777" yLayer="0" posX="3" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="ladder" code="123797514" yLayer="1" posX="0.369998" posY="2.66799" posZ="0.299998" angleX="-43" angleY="45" angleZ="0" scale="0.8"/>
+	</Object>
+	<Object engName="waste" code="120651777" yLayer="0" posX="-3" posY="0" posZ="10" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="-11.42" posY="0" posZ="-14" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="container_1" code="120651781" yLayer="0" posX="5.82002" posY="0" posZ="13.43" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="submarine mine" code="120651780" yLayer="0" posX="-8" posY="0" posZ="-4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="-5" posY="3" posZ="28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="-10" posY="3" posZ="28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="-15" posY="3" posZ="28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="5" posY="3" posZ="-28" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="10" posY="3" posZ="-28" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="17" posY="3" posZ="-28" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="7" posY="3" posZ="-34" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="16" posY="3" posZ="-31" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="-9.92996" posY="3" posZ="32.5199" angleX="0" angleY="-90" angleZ="0" scale="2"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="17.05" posY="3" posZ="31" angleX="0" angleY="-90" angleZ="0" scale="2"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="29" posY="3" posZ="-18" angleX="0" angleY="90" angleZ="0" scale="0.5"/>
+	<Object engName="army box" code="120651778" yLayer="0" posX="32" posY="3" posZ="-27" angleX="0" angleY="0" angleZ="0" scale="0.5"/>
+	<Object engName="guide line" code="120651789" yLayer="0" posX="-1" posY="3" posZ="28" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="guide line" code="120651789" yLayer="0" posX="-3" posY="3" posZ="28" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="guide line" code="120651789" yLayer="0" posX="-8" posY="3" posZ="28" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="guide line" code="120651789" yLayer="0" posX="-13" posY="3" posZ="28" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="guide line" code="120651789" yLayer="0" posX="-17" posY="3" posZ="28" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="guide line" code="120651789" yLayer="0" posX="-19" posY="3" posZ="28" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="32" posY="1.55" posZ="5" angleX="0" angleY="0" angleZ="0" scale="2"/>
+	<Object engName="radar" code="120651787" yLayer="0" posX="-32" posY="1.55" posZ="-5" angleX="0" angleY="180" angleZ="0" scale="2"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="11" posY="0" posZ="25" angleX="0" angleY="0" angleZ="0" scale="0.4"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="10.98" posY="0" posZ="28.8199" angleX="0" angleY="0" angleZ="0" scale="0.6"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="-11" posY="0" posZ="-26" angleX="0" angleY="0" angleZ="0" scale="0.4"/>
+	<Object engName="container_2" code="120651782" yLayer="0" posX="-11" posY="0" posZ="-29.37" angleX="0" angleY="0" angleZ="0" scale="0.6"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="8" posY="0" posZ="-10" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="12" posY="0" posZ="14" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="submarine mine" code="120651780" yLayer="0" posX="8" posY="0" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_ship_fuel" code="129040386" yLayer="0" posX="32" posY="3" posZ="-26" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="14" posY="0" posZ="-7" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="13" posY="0" posZ="-7" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="13" posY="0" posZ="-6" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-4" posY="0" posZ="9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-3" posY="0" posZ="-7" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-3" posY="0" posZ="-6" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="4.69" posY="0" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="1.5" posY="0" posZ="6.92" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="1" posY="0" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-14" posY="0" posZ="11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="0" posY="0" posZ="2" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="guide line" code="120651789" yLayer="0" posX="2" posY="3" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="guide line" code="120651789" yLayer="0" posX="7" posY="3" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="guide line" code="120651789" yLayer="0" posX="13" posY="3" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="guide line" code="120651789" yLayer="0" posX="15" posY="3" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="guide line" code="120651789" yLayer="0" posX="20" posY="3" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_ship_fuel" code="129040386" yLayer="0" posX="31" posY="3" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ladder" code="123797514" yLayer="0" posX="-1" posY="0" posZ="-11" angleX="45" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="ladder" code="123797514" yLayer="0" posX="3" posY="0" posZ="8" angleX="-37.2001" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="container_3" code="120651783" yLayer="0" posX="14.3" posY="0" posZ="4" angleX="0" angleY="90" angleZ="0" scale="1.1">
+		<Object engName="container_3" code="120651783" yLayer="1" posX="0" posY="2.36012" posZ="0" angleX="0" angleY="90" angleZ="0" scale="1.1"/>
+	</Object>
+	<Object engName="space_ship_fuel" code="129040386" yLayer="0" posX="30" posY="2" posZ="-4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-15" posY="0" posZ="10" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="24.98" posY="0" posZ="-35" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="25" posY="0" posZ="-29.0399" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="25" posY="-0.0100002" posZ="-38" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="25" posY="0" posZ="-23" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="25" posY="0" posZ="-17" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="25" posY="0" posZ="-11" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="25" posY="0" posZ="-5" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="25" posY="0" posZ="1" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="25" posY="0" posZ="7" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="25" posY="0" posZ="13" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="25" posY="0" posZ="19" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="25" posY="0" posZ="25" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="25" posY="0" posZ="31" angleX="0" angleY="90" angleZ="0" scale="2"/>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="25" posY="0" posZ="34" angleX="0" angleY="-90" angleZ="0" scale="2"/>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="-24" posY="0" posZ="27" angleX="0" angleY="-90" angleZ="0" scale="1.5"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="-24" posY="0" posZ="24" angleX="0" angleY="90" angleZ="0" scale="1.5"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="-24" posY="0" posZ="19.51" angleX="0" angleY="90" angleZ="0" scale="1.5"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="-24" posY="0" posZ="15.01" angleX="0" angleY="90" angleZ="0" scale="1.5"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="-24" posY="0" posZ="10.51" angleX="0" angleY="90" angleZ="0" scale="1.5"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="-24" posY="0" posZ="6.01" angleX="0" angleY="90" angleZ="0" scale="1.5"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="-24" posY="0" posZ="1.51" angleX="0" angleY="90" angleZ="0" scale="1.5"/>
+	<Object engName="default wall" code="118554636" yLayer="0" posX="-24" posY="0" posZ="-2.99" angleX="0" angleY="90" angleZ="0" scale="1.5"/>
+	<Object engName="pattern pillar" code="118554640" yLayer="0" posX="-24" posY="0" posZ="-6" angleX="0" angleY="90" angleZ="0" scale="1.5"/>
+</ARRANGEMENT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <cobra file="cobra.msh" />
+</Objects>
+<Materials version="2">
+  <mcobra
+    diffuse="cobra.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="cobra.skl"
+/>
+<collision
+  file="cobra.col"
+/>
+</Scene.XML>

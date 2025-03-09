@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<kagege_resource_list.xml>
+	<effects>
+		<effect name="fx_kagege_skill_001.prx" />
+		<effect name="fx_kagege_skill_002_bottom.prx" />
+		<effect name="fx_kagege_skill_002_range.prx" />
+		<effect name="fx_kagege_skill_002_influence.prx" />
+		<effect name="fx_kagege_skill_002_influence2.prx" />
+		<effect name="fx_kagege_skill_003_1.prx" />
+		<effect name="fx_kagege_skill_003_2.prx" />
+		<effect name="fx_kagege_skill_003_3.prx" />
+		<effect name="fx_kagege_skill_003_4.prx" />
+		<effect name="fx_kagege_skill_003_5.prx" />
+		<effect name="fx_skill_target_kagege.prx" />
+		<effect name="fx_kagege_skill_003_lockon.prx" />
+		<effect name="fx_kagege_skill_003_bullet.prx" />
+		<effect name="fx_kagege_skill_003_hit.prx" />
+	</effects>
+</kagege_resource_list.xml>

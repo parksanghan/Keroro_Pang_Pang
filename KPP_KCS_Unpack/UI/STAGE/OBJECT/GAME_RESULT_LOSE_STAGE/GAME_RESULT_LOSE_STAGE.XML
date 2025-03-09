@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Plane01 file="Plane01.msh" />
+ <Plane02 file="Plane02.msh" />
+ <Plane03 file="Plane03.msh" />
+ <sub_flash_01 file="sub_flash_01.msh" />
+ <sub_flash_02 file="sub_flash_02.msh" />
+ <sub_flash_03 file="sub_flash_03.msh" />
+</Objects>
+<Materials version="2">
+  <mStandard_24
+    diffuse="result_sky.dds"
+    color="149 149 149"
+  />
+  <mStandard_16
+    diffuse="result_road.dds"
+    color="149 149 149"
+  />
+  <mStandard_18
+    diffuse="result_sea.dds"
+    color="149 149 149"
+  />
+  <mStandard_17
+    diffuse="sub_flash_01.ifl"
+    color="149 149 149"
+    opacity="1"
+  />
+</Materials>
+<Skeleton
+  file="game_result_lose_stage.skl"
+/>
+<collision
+  file="game_result_lose_stage.col"
+/>
+</Scene.XML>

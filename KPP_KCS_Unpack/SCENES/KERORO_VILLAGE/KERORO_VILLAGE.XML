@@ -1,0 +1,551 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <notrans_vil_sky_01 file="notrans_vil_sky_01.msh" />
+ <notrans_vil_down_ms01 file="notrans_vil_down_ms01.msh" />
+ <notrans_vil_mt_all_ms file="notrans_vil_mt_all_ms.msh" />
+ <vil_sky_sun01 file="vil_sky_sun01.msh" />
+ <pk_sphere file="pk_sphere.msh" />
+ <notrans_vil_manhole_ms01 file="notrans_vil_manhole_ms01.msh" />
+ <notrans_vil_outwall_ms13 file="notrans_vil_outwall_ms13.msh" />
+ <notrans_vil_outwall_ms14 file="notrans_vil_outwall_ms14.msh" />
+ <notrans_vil_road02 file="notrans_vil_road02.msh" />
+ <notrans_vil_road03 file="notrans_vil_road03.msh" />
+ <notrans_vil_road01 file="notrans_vil_road01.msh" />
+ <notrans_vil_road05 file="notrans_vil_road05.msh" />
+ <notrans_vil_playground_nyh001 file="notrans_vil_playground_nyh001.msh" />
+ <notrans_vil_playground_nyh002 file="notrans_vil_playground_nyh002.msh" />
+ <notrans_vil_road04 file="notrans_vil_road04.msh" />
+ <notrans_vil_outwater_ms01 file="notrans_vil_outwater_ms01.msh" />
+ <notrans_vil_water_ani_ms01 file="notrans_vil_water_ani_ms01.msh" />
+ <vil_signpost_nyh_01 file="vil_signpost_nyh_01.msh" />
+ <notrans_vil_water2_ani_ms01 file="notrans_vil_water2_ani_ms01.msh" />
+ <notrans_vil_vil_mulecin_01 file="notrans_vil_vil_mulecin_01.msh" />
+ <vil_mule file="vil_mule.msh" />
+ <notrans_vil_house_nyh001_id05 file="notrans_vil_house_nyh001_id05.msh" />
+ <vil_streetlight_ms01 file="vil_streetlight_ms01.msh" />
+ <vil_signpost_nyh_02 file="vil_signpost_nyh_02.msh" />
+ <notrans_vil_grass03 file="notrans_vil_grass03.msh" />
+ <vil_house_cina_01 file="vil_house_cina_01.msh" />
+ <notrans_vil_house_roadcin file="notrans_vil_house_roadcin.msh" />
+ <vil_house_cin_01 file="vil_house_cin_01.msh" />
+ <notrans_vil_school_track file="notrans_vil_school_track.msh" />
+ <vil_school_signbord file="vil_school_signbord.msh" />
+ <notrans_vil_metal_fence file="notrans_vil_metal_fence.msh" />
+ <notrans_vil_school_strcin file="notrans_vil_school_strcin.msh" />
+ <vil_school_gym file="vil_school_gym.msh" />
+ <vil_school_cin_01 file="vil_school_cin_01.msh" />
+ <notrans_vil_school_grcina01 file="notrans_vil_school_grcina01.msh" />
+ <notrans_vil_school_fence file="notrans_vil_school_fence.msh" />
+ <notrans_vil_centerhouscolum_jm file="notrans_vil_centerhouscolum_jm.msh" />
+ <notrans_vil_gr_jm file="notrans_vil_gr_jm.msh" />
+ <notrans_vil_grass02 file="notrans_vil_grass02.msh" />
+ <notrans_vil_grass01 file="notrans_vil_grass01.msh" />
+ <notrans_vil_shadow_circle file="notrans_vil_shadow_circle.msh" />
+ <vil_c_01 file="vil_c_01.msh" />
+ <vil_c_02 file="vil_c_02.msh" />
+ <vil_streetlight_ms06 file="vil_streetlight_ms06.msh" />
+ <vil_streetlight_ms07 file="vil_streetlight_ms07.msh" />
+ <vil_streetlight_ms08 file="vil_streetlight_ms08.msh" />
+ <vil_streetlight_ms09 file="vil_streetlight_ms09.msh" />
+ <vil_streetlight_ms10 file="vil_streetlight_ms10.msh" />
+ <vil_streetlight_ms11 file="vil_streetlight_ms11.msh" />
+ <vil_streetlight_ms12 file="vil_streetlight_ms12.msh" />
+ <notrans_vil_school_fence01 file="notrans_vil_school_fence01.msh" />
+ <notrans_vil_mule_base2_ms01 file="notrans_vil_mule_base2_ms01.msh" />
+ <notrans_vil_shadow_telepole file="notrans_vil_shadow_telepole.msh" />
+ <notrans_vil_graffiti_nyh_01 file="notrans_vil_graffiti_nyh_01.msh" />
+ <notrans_vil_centerhousdoor_jmm09 file="notrans_vil_centerhousdoor_jmm09.msh" />
+ <vil_roof01_02 file="vil_roof01_02.msh" />
+ <vil_house_cina_02 file="vil_house_cina_02.msh" />
+ <vil_roof_jm01 file="vil_roof_jm01.msh" />
+ <vil_door_jm01 file="vil_door_jm01.msh" />
+ <vil_b_06 file="vil_b_06.msh" />
+ <vil_houseroof_jm06 file="vil_houseroof_jm06.msh" />
+ <vil_housewall_jm04 file="vil_housewall_jm04.msh" />
+ <notrans_vil_housedoor_jm05 file="notrans_vil_housedoor_jm05.msh" />
+ <vil_eaves_008 file="vil_eaves_008.msh" />
+ <vil_roof02_03 file="vil_roof02_03.msh" />
+ <vil_house_cin_02 file="vil_house_cin_02.msh" />
+ <notrans_vil_house file="notrans_vil_house.msh" />
+ <vil_house01_02 file="vil_house01_02.msh" />
+ <vil_eaves_002 file="vil_eaves_002.msh" />
+ <vil_houseroof_jm05 file="vil_houseroof_jm05.msh" />
+ <vil_obj_02 file="vil_obj_02.msh" />
+ <vil_b_05 file="vil_b_05.msh" />
+ <vil_door_jm04 file="vil_door_jm04.msh" />
+ <notrans_vil_house_cin file="notrans_vil_house_cin.msh" />
+ <vil_house01_01 file="vil_house01_01.msh" />
+ <vil_eaves_001 file="vil_eaves_001.msh" />
+ <vil_houseroof_jm01 file="vil_houseroof_jm01.msh" />
+ <vil_obj_01 file="vil_obj_01.msh" />
+ <vil_b_01 file="vil_b_01.msh" />
+ <vil_door_jm06 file="vil_door_jm06.msh" />
+ <vil_streetlight_ms16 file="vil_streetlight_ms16.msh" />
+ <vil_streetlight_ms15 file="vil_streetlight_ms15.msh" />
+ <vil_streetlight_ms14 file="vil_streetlight_ms14.msh" />
+ <notrans_vil_mule_fence01 file="notrans_vil_mule_fence01.msh" />
+ <vil_tree01_01 file="vil_tree01_01.msh" />
+ <vil_houseroof_jm07 file="vil_houseroof_jm07.msh" />
+ <vil_housewall_jm05 file="vil_housewall_jm05.msh" />
+ <vil_eaves_005 file="vil_eaves_005.msh" />
+ <vil_house_cina_03 file="vil_house_cina_03.msh" />
+ <vil_house01_04 file="vil_house01_04.msh" />
+ <vil_obj_03 file="vil_obj_03.msh" />
+ <vil_houseroof_jm08 file="vil_houseroof_jm08.msh" />
+ <vil_door_jm05 file="vil_door_jm05.msh" />
+ <vil_eaves_004 file="vil_eaves_004.msh" />
+ <vil_b_07 file="vil_b_07.msh" />
+ <vil_roof_jm03 file="vil_roof_jm03.msh" />
+ <vil_door_jm03 file="vil_door_jm03.msh" />
+ <vil_b_04 file="vil_b_04.msh" />
+ <vil_houseroof_jm09 file="vil_houseroof_jm09.msh" />
+ <vil_housewall_jm03 file="vil_housewall_jm03.msh" />
+ <vil_house_cina_04 file="vil_house_cina_04.msh" />
+ <vil_house_cin_04 file="vil_house_cin_04.msh" />
+ <vil_obj_04 file="vil_obj_04.msh" />
+ <vil_house01_03 file="vil_house01_03.msh" />
+ <vil_houseroof_jm04 file="vil_houseroof_jm04.msh" />
+ <vil_eaves_009 file="vil_eaves_009.msh" />
+ <vil_door_jm07 file="vil_door_jm07.msh" />
+ <vil_b_03 file="vil_b_03.msh" />
+ <vil_houseroof_jm03 file="vil_houseroof_jm03.msh" />
+ <vil_housewall_jm02 file="vil_housewall_jm02.msh" />
+ <vil_eaves_006 file="vil_eaves_006.msh" />
+ <vil_streetlight_ms13 file="vil_streetlight_ms13.msh" />
+ <vil_house_cin_03 file="vil_house_cin_03.msh" />
+ <vil_house_nyh001_04 file="vil_house_nyh001_04.msh" />
+ <vil_tree01_03 file="vil_tree01_03.msh" />
+ <notrans_vil_house_nyh001_id03 file="notrans_vil_house_nyh001_id03.msh" />
+ <vil_roof01_03 file="vil_roof01_03.msh" />
+ <vil_roof02_01 file="vil_roof02_01.msh" />
+ <vil_streetlight_ms05 file="vil_streetlight_ms05.msh" />
+ <vil_streetlight_ms04 file="vil_streetlight_ms04.msh" />
+ <notrans_vil_woodcinvil43 file="notrans_vil_woodcinvil43.msh" />
+ <vil_roof01_04 file="vil_roof01_04.msh" />
+ <notrans_vil_safe_001 file="notrans_vil_safe_001.msh" />
+ <notrans_vil_woodcinvil45 file="notrans_vil_woodcinvil45.msh" />
+ <vil_house_nyh001_05 file="vil_house_nyh001_05.msh" />
+ <vil_streetlight_ms03 file="vil_streetlight_ms03.msh" />
+ <vil_streetlight_ms02 file="vil_streetlight_ms02.msh" />
+ <vil_tree01_02 file="vil_tree01_02.msh" />
+ <notrans_vil_playground_nyh003 file="notrans_vil_playground_nyh003.msh" />
+ <vil_school_cin_02 file="vil_school_cin_02.msh" />
+ <vil_school_cin_03 file="vil_school_cin_03.msh" />
+ <vil_eaves_007 file="vil_eaves_007.msh" />
+ <vil_door_jm08 file="vil_door_jm08.msh" />
+ <vil_roof_jm04 file="vil_roof_jm04.msh" />
+ <vil_b_08 file="vil_b_08.msh" />
+ <notrans_vil_shadow_square01_01 file="notrans_vil_shadow_square01_01.msh" />
+ <vil_house01_09 file="vil_house01_09.msh" />
+ <notrans_vil_shadow_square01_02 file="notrans_vil_shadow_square01_02.msh" />
+ <notrans_vil_shadow_square02 file="notrans_vil_shadow_square02.msh" />
+ <notrans_b file="notrans_b.msh" />
+ <notrans_c file="notrans_c.msh" />
+ <notrans_d file="notrans_d.msh" />
+ <notrans_e file="notrans_e.msh" />
+ <notrans_f file="notrans_f.msh" />
+ <notrans_g file="notrans_g.msh" />
+ <notrans_a_01 file="notrans_a_01.msh" />
+ <notrans_i file="notrans_i.msh" />
+ <notrans_j file="notrans_j.msh" />
+ <notrans_vil_school_grcina04 file="notrans_vil_school_grcina04.msh" />
+ <notrans_aaa file="notrans_aaa.msh" />
+ <notrans_vil_vil_mulecin_03 file="notrans_vil_vil_mulecin_03.msh" />
+ <notrans_vil_playground_nyh05 file="notrans_vil_playground_nyh05.msh" />
+ <vil_housewall_jm01 file="vil_housewall_jm01.msh" />
+ <vil_houseroof_jm02 file="vil_houseroof_jm02.msh" />
+ <vil_eaves_003 file="vil_eaves_003.msh" />
+ <notrans_a file="notrans_a.msh" />
+ <vihinatahouse_nyh001_01 file="vihinatahouse_nyh001_01.msh" />
+ <vil_roof01_01 file="vil_roof01_01.msh" />
+ <vil_house_nyh001_02 file="vil_house_nyh001_02.msh" />
+ <vil_house_nyh001_06 file="vil_house_nyh001_06.msh" />
+ <notrans_vil_obj_01 file="notrans_vil_obj_01.msh" />
+ <notrans_vil_obj_02 file="notrans_vil_obj_02.msh" />
+ <notrans_vil_obj_03 file="notrans_vil_obj_03.msh" />
+ <notrans_vil_obj_04 file="notrans_vil_obj_04.msh" />
+ <notrans_vil_obj_05 file="notrans_vil_obj_05.msh" />
+ <notrans_b01 file="notrans_b01.msh" />
+ <vil_fence_01 file="vil_fence_01.msh" />
+ <vil_fence_02 file="vil_fence_02.msh" />
+ <vil_fence_03 file="vil_fence_03.msh" />
+ <vil_fence_04 file="vil_fence_04.msh" />
+ <vil_fence_05 file="vil_fence_05.msh" />
+ <vil_fence_06 file="vil_fence_06.msh" />
+ <vil_fence_07 file="vil_fence_07.msh" />
+ <vil_fence_08 file="vil_fence_08.msh" />
+ <vil_fence_09 file="vil_fence_09.msh" />
+ <vil_fence_10 file="vil_fence_10.msh" />
+ <vil_fence_11 file="vil_fence_11.msh" />
+ <notrans_vil_safe_003 file="notrans_vil_safe_003.msh" />
+ <vil_roof02_02 file="vil_roof02_02.msh" />
+ <notrans_vil_playground_nyh06 file="notrans_vil_playground_nyh06.msh" />
+ <notrans_vil_plank_001 file="notrans_vil_plank_001.msh" />
+ <notrans_vil_sewer_001 file="notrans_vil_sewer_001.msh" />
+ <notrans_vil_plant_001 file="notrans_vil_plant_001.msh" />
+ <notrans_vil_plant_002 file="notrans_vil_plant_002.msh" />
+ <notrans_vil_plant_003 file="notrans_vil_plant_003.msh" />
+ <notrans_vil_vil_mulecin_02 file="notrans_vil_vil_mulecin_02.msh" />
+ <notrans_vil_shadow_square01_03 file="notrans_vil_shadow_square01_03.msh" />
+ <notrans_vil_tire_001 file="notrans_vil_tire_001.msh" />
+ <notrans_vil_tire_02 file="notrans_vil_tire_02.msh" />
+ <notrans_vil_plank_002 file="notrans_vil_plank_002.msh" />
+ <notrans_vill_flower01_01 file="notrans_vill_flower01_01.msh" />
+ <notrans_vill_flower02_01 file="notrans_vill_flower02_01.msh" />
+ <notrans_vill_flower02_02 file="notrans_vill_flower02_02.msh" />
+ <notrans_vill_flower01_02 file="notrans_vill_flower01_02.msh" />
+ <notrans_vil_shadow_circle01 file="notrans_vil_shadow_circle01.msh" />
+ <vil_roof_jm02 file="vil_roof_jm02.msh" />
+ <vil_door_jm02 file="vil_door_jm02.msh" />
+ <vil_b_02 file="vil_b_02.msh" />
+ <vil_tree01_05 file="vil_tree01_05.msh" />
+ <vil_tree01_04 file="vil_tree01_04.msh" />
+ <vil_tree01_06 file="vil_tree01_06.msh" />
+ <vil_tree01_07 file="vil_tree01_07.msh" />
+ <Object26 file="Object26.msh" />
+ <notrans_vil_safe_04 file="notrans_vil_safe_04.msh" />
+ <GAME_MoveBound file="GAME_MoveBound.msh" />
+ <notrans_vil_shadow_circle02 file="notrans_vil_shadow_circle02.msh" />
+ <notrans_vil_junkcar_001 file="notrans_vil_junkcar_001.msh" />
+ <notrans_vil_vil_mulecin_04 file="notrans_vil_vil_mulecin_04.msh" />
+ <notrans_vil_vil_mulecin_05 file="notrans_vil_vil_mulecin_05.msh" />
+ <Object01 file="Object01.msh" />
+ <Object27 file="Object27.msh" />
+ <notrans_vil_sewer_02 file="notrans_vil_sewer_02.msh" />
+</Objects>
+<Materials version="2">
+  <mvil_sky_01
+    diffuse="vil_sky_01.dds"
+    color="255 255 255"
+  />
+  <mvil_around_ms02
+    diffuse="vil_around_ms02.dds"
+    color="255 255 255"
+  />
+  <mvil_mt_all_ms
+    diffuse="vil_mt_all_ms.dds"
+    color="255 255 255"
+  />
+  <mEmptyMat
+  />
+  <mvil_sky_sun
+    diffuse="vil_sky_sun.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mpk_sphere
+    diffuse="vil_shadow_circle.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_manhole_ms01
+    diffuse="vil_manhole_ms01.dds"
+    color="255 255 255"
+  />
+  <mvil_outwall_ms01
+    diffuse="vil_outwall_ms01.dds"
+    color="255 255 255"
+  />
+  <mvil_arstick_ms01
+    diffuse="vil_arstick_ms01.dds"
+    color="255 255 255"
+  />
+  <mvil_road_ms03
+    diffuse="vil_road_ms03.dds"
+    color="255 255 255"
+  />
+  <mvil_road_ms02
+    diffuse="vil_road_ms02.dds"
+    color="255 255 255"
+  />
+  <mvil_road_ms01
+    diffuse="vil_road_ms01.dds"
+    color="255 255 255"
+  />
+  <mvil_road_ms04
+    diffuse="vil_road_ms04.dds"
+    color="255 255 255"
+  />
+  <mvil_playground_nyh001_id01
+    diffuse="viplayground_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mvil_playground_nyh001_id02
+    diffuse="viplayground_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mvil_playground_nyh001_id03
+    diffuse="viplayground_nyh001_id03.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_playground_nyh002_id01
+    diffuse="viplayground_nyh002_id01.dds"
+    color="255 255 255"
+  />
+  <mvil_playground_nyh002_id02
+    diffuse="viplayground_nyh002_id02.dds"
+    color="255 255 255"
+  />
+  <mvil_road_ms02_1
+    diffuse="vil_road_ms02_1.dds"
+    color="255 255 255"
+  />
+  <mvil_water_sm01_01
+    diffuse="vil_water_sm01.dds"
+    color="255 255 255"
+    uvAnimFile="vil_water_sm01_01.uva"
+  />
+  <mvil_water_ms001_all
+    diffuse="vil_water_ms001_all.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_signpost_nyh001
+    diffuse="visignpost_nyh001.dds"
+    color="255 255 255"
+  />
+  <mvil_water_ms003_all
+    diffuse="vil_water_ms003_all.ifl"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_mule
+    diffuse="vil_mule.dds"
+    color="255 255 255"
+  />
+  <mvil_drumcin
+    diffuse="vil_drumcin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_house_nyh001_id05
+    diffuse="vil_house_nyh001_id05.dds"
+    color="255 255 255"
+  />
+  <mvil_streetlight_ms01
+    diffuse="vil_streetlight_ms01.dds"
+    color="255 255 255"
+  />
+  <mvil_grass2_domscin
+    diffuse="vil_grass2_domscin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_house_cina
+    diffuse="vil_house_cina.dds"
+    color="255 255 255"
+  />
+  <mvil_house_roadcin
+    diffuse="vil_house_roadcin.dds"
+    color="255 255 255"
+  />
+  <mvil_house_cin
+    diffuse="vil_house_cin.dds"
+    color="255 255 255"
+  />
+  <mvil_school_track
+    diffuse="vil_school_track.dds"
+    color="255 255 255"
+  />
+  <mvil_school_signbord
+    diffuse="vil_school_signbord.dds"
+    color="255 255 255"
+  />
+  <mvilrage_metal_002_1
+    diffuse="vilrage_metal_002_1.dds"
+    color="253 253 253"
+  />
+  <mvil_school_strcin
+    diffuse="vil_school_strcin.dds"
+    color="255 255 255"
+  />
+  <mvil_school_gym
+    diffuse="vil_school_gym.dds"
+    color="255 255 255"
+  />
+  <mStandard_1
+    diffuse="vil_school_cina.dds"
+    color="255 255 255"
+  />
+  <mMaterial_k64
+    diffuse="vil_school_cinb.dds"
+    color="255 255 255"
+  />
+  <mvil_school_grcina
+    diffuse="vil_school_grcina.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_school_fence
+    diffuse="vil_school_fence.dds"
+    color="255 255 255"
+  />
+  <mvil_centerhouscolum_jm
+    diffuse="vil_centerhouscolum_jm.dds"
+    color="255 255 255"
+  />
+  <mvil_school_grcin
+    diffuse="vil_school_grcin.dds"
+    color="255 255 255"
+  />
+  <mvil_grass2_doms02
+    diffuse="vil_grass2_doms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_grass_doms01
+    diffuse="vil_grass_doms01.dds"
+    color="255 255 255"
+  />
+  <mvil_centerhouseroofor_jm
+    diffuse="vil_centerhouseroofor_jm.dds"
+    color="255 255 255"
+  />
+  <mvil_mule_base
+    diffuse="vil_mule_base.dds"
+    color="255 255 255"
+  />
+  <mvil_shadow_telepole_ms01
+    diffuse="vil_shadow_telepole_ms01.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_graffiti_nyh001
+    diffuse="vigraffiti_nyh001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_centerhousdoor_jm
+    diffuse="vil_centerhousdoor_jm.dds"
+    color="255 255 255"
+  />
+  <mvihinatahouse_nyh001_id01
+    diffuse="vihinatahouse_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mvihinatahouse_nyh001_id02
+    diffuse="vihinatahouse_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mvihinatahouse_nyh001_id03
+    diffuse="vihinatahouse_nyh001_id03.dds"
+    color="255 255 255"
+  />
+  <mvihinatahouse_nyh001_id04
+    diffuse="vihinatahouse_nyh001_id04.dds"
+    color="255 255 255"
+  />
+  <mvil_centerhouseroof_jm
+    diffuse="vil_centerhouseroof_jm.dds"
+    color="255 255 255"
+  />
+  <mvil_centerhousewall_jm
+    diffuse="vil_centerhousewall_jm.dds"
+    color="255 255 255"
+  />
+  <mvil_houseroof_jm
+    diffuse="vil_houseroof_jm.dds"
+    color="255 255 255"
+  />
+  <mvil_housewall_jm
+    diffuse="vil_housewall_jm.dds"
+    color="255 255 255"
+  />
+  <mvil_housedoor_jm
+    diffuse="vil_housedoor_jm.dds"
+    color="255 255 255"
+  />
+  <mvil_mule_fence
+    diffuse="vil_mule_fence.dds"
+    color="255 255 255"
+  />
+  <mvil_wood_004
+    diffuse="vil_wood_003.dds"
+    color="255 255 255"
+  />
+  <mvil_wood_004a
+    diffuse="vil_wood_003a.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_house_nyh001_id01
+    diffuse="vihouse_nyh001_id01.dds"
+    color="255 255 255"
+  />
+  <mvil_house_nyh001_id02
+    diffuse="vihouse_nyh001_id02.dds"
+    color="255 255 255"
+  />
+  <mvil_house_nyh001_id03
+    diffuse="vihouse_nyh001_id03.dds"
+    color="255 255 255"
+  />
+  <mvil_treescd
+    diffuse="vil_treescd.dds"
+    color="252 252 252"
+    opacity="1"
+  />
+  <mvil_safe
+    diffuse="vil_safe.dds"
+    color="255 255 255"
+  />
+  <mvil_treescin
+    diffuse="vil_treescin.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_shadow_square01
+    diffuse="vil_shadow_square_ms02.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_obj
+    diffuse="vil_obj_01.dds"
+    color="255 255 255"
+  />
+  <mvil_fence
+    diffuse="vil_fence.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_plank_001
+    diffuse="vil_plank_001.dds"
+    color="255 255 255"
+  />
+  <mvil_sewer_001
+    diffuse="vil_sewer_001.dds"
+    color="255 255 255"
+  />
+  <mvillage_plant_001
+    diffuse="vill_plant_001.dds"
+    color="255 255 255"
+  />
+  <mvillage_plantalpha_001
+    diffuse="vill_plantalpha_001.dds"
+    color="255 255 255"
+    opacity="1"
+  />
+  <mvil_tire_001
+    diffuse="vil_tire_001.dds"
+    color="255 255 255"
+  />
+  <mvill_flower01
+    diffuse="vill_flower01.dds"
+    color="255 255 255"
+  />
+  <mvill_flower02
+    diffuse="vill_flower02.dds"
+    color="255 255 255"
+  />
+  <mvil_junkcar_001
+    diffuse="vil_junkcar_001.dds"
+    color="255 255 255"
+  />
+</Materials>
+<collision
+  file="keroro_village.col"
+/>
+</Scene.XML>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <kerobot_001 file="kerobot_001.msh" />
+ <kerobotsheld_001 file="kerobotsheld_001.msh" />
+ <kerobotbike_001 file="kerobotbike_001.msh" />
+</Objects>
+<Materials version="2">
+  <m01_-_Default
+    diffuse="kerobot_001.dds"
+    color="150 150 150"
+  />
+  <m03_-_Default
+    diffuse="kerobotshield_001.dds"
+    color="111 111 111"
+  />
+  <m02_-_Default
+    diffuse="kerobotbike_001.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="kerobot_001.skl"
+/>
+<BoneAnim
+  file="Anims\kerobot_001.anm"
+/>
+<collision
+  file="kerobot_001.col"
+/>
+</Scene.XML>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="../../MapEditor_trunk\data\map\space_station\space_station.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="-20.41" posY="4.56001" posZ="12.95" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="-33.4" posY="2" posZ="-3" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="-35.42" posY="2" posZ="-3" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="-37.43" posY="2" posZ="-3" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="7" posY="2" posZ="-3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="7" posY="2" posZ="-2" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="9" posY="2" posZ="-2" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="7" posY="2" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="7" posY="2" posZ="7" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-6" posY="2" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-5" posY="2" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-5" posY="2" posZ="4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-6" posY="2" posZ="4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-6" posY="2" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-17" posY="2" posZ="0" angleX="0" angleY="45" angleZ="0" scale="1">
+		<Object engName="small_container_2" code="120651791" yLayer="1" posX="0" posY="1.06381" posZ="0" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-16" posY="2" posZ="-2" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="18" posY="2" posZ="0" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="20" posY="2" posZ="1" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="small_container_2" code="120651791" yLayer="1" posX="0" posY="1.06381" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="14.3699" posY="4.53001" posZ="15.61" angleX="0" angleY="-45" angleZ="0" scale="1">
+		<Object engName="small_container_2" code="120651791" yLayer="1" posX="0" posY="1.06381" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="14.23" posY="4.53001" posZ="12.26" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-13" posY="4.53001" posZ="-12" angleX="0" angleY="90" angleZ="0" scale="1">
+		<Object engName="small_container_2" code="120651791" yLayer="1" posX="0" posY="1.06381" posZ="0" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-13" posY="4.53001" posZ="-14" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-20" posY="4.53001" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-22" posY="4.53001" posZ="-9" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="2" posY="2" posZ="20" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="2" posY="2" posZ="22" angleX="0" angleY="90" angleZ="0" scale="1">
+		<Object engName="small_container_2" code="120651791" yLayer="1" posX="0.00999999" posY="1.06381" posZ="-1.11007" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="4" posY="2" posZ="32" angleX="0" angleY="-30" angleZ="0" scale="1">
+		<Object engName="small_container_2" code="120651791" yLayer="1" posX="0" posY="1.06381" posZ="0" angleX="0" angleY="-30" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="2.48" posY="2" posZ="30" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-2" posY="2" posZ="-21.99" angleX="0" angleY="90" angleZ="0" scale="1">
+		<Object engName="small_container_2" code="120651791" yLayer="1" posX="0.200001" posY="1.06381" posZ="1.21007" angleX="0" angleY="-60" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-1" posY="2" posZ="-20" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-4" posY="2" posZ="-32" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-2.32" posY="2" posZ="-30.9101" angleX="0" angleY="90" angleZ="0" scale="1">
+		<Object engName="small_container_2" code="120651791" yLayer="1" posX="0" posY="1.06381" posZ="0" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="submarine_paper_1" code="120651793" yLayer="0" posX="24.7298" posY="4.45001" posZ="-13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="submarine_paper_1" code="120651793" yLayer="0" posX="11.14" posY="4.46001" posZ="-15.9398" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="submarine_paper_2" code="120651794" yLayer="0" posX="-9.18" posY="4.53001" posZ="15.35" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="submarine_paper_2" code="120651794" yLayer="0" posX="-24.6599" posY="4.41001" posZ="13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="18" posY="4.53001" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="32" posY="2" posZ="-4" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="-27" posY="2" posZ="-9" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="-29" posY="2" posZ="-9" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="-27" posY="2" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="-30" posY="2" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_flowerpot" code="129040385" yLayer="0" posX="-24" posY="2" posZ="4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_flowerpot" code="129040385" yLayer="0" posX="-24" posY="2" posZ="-5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_flowerpot" code="129040385" yLayer="0" posX="23" posY="2" posZ="-4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_flowerpot" code="129040385" yLayer="0" posX="15" posY="2" posZ="5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_ship_fuel" code="129040386" yLayer="0" posX="15" posY="4.53001" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_ship_fuel" code="129040386" yLayer="0" posX="16" posY="4.53001" posZ="8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_ship_fuel" code="129040386" yLayer="0" posX="-18" posY="4.53001" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_ship_fuel" code="129040386" yLayer="0" posX="-17" posY="4.53001" posZ="-8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="30" posY="2" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="29" posY="2" posZ="3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="30" posY="2" posZ="4" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-13" posY="5" posZ="-16" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-12" posY="4.53001" posZ="17.04" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="small_container_2" code="120651791" yLayer="1" posX="0" posY="1.06381" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="small_container_2" code="120651791" yLayer="0" posX="-13.72" posY="4.53001" posZ="15.7599" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-32" posY="2" posZ="-3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_gas" code="129040387" yLayer="0" posX="-31" posY="2" posZ="-3" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="28" posY="2" posZ="17" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="28" posY="2" posZ="14" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="26" posY="2" posZ="13" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="-26" posY="4.56001" posZ="-11" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="-26" posY="4.56001" posZ="-13" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="-26" posY="4.56001" posZ="-15" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="space_flowerpot" code="129040385" yLayer="0" posX="0" posY="2" posZ="-26" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_flowerpot" code="129040385" yLayer="0" posX="0" posY="2" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_flowerpot" code="129040385" yLayer="0" posX="0" posY="2" posZ="26" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_flowerpot" code="129040385" yLayer="0" posX="0" posY="2" posZ="34" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="submarine_paper_1" code="120651793" yLayer="0" posX="22.0999" posY="4.47001" posZ="-23.6099" angleX="0" angleY="90" angleZ="0" scale="0.6"/>
+	<Object engName="submarine_paper_1" code="120651793" yLayer="0" posX="16.45" posY="1.27" posZ="7.47999" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="submarine_paper_1" code="120651793" yLayer="0" posX="27.6" posY="1.94" posZ="-24.85" angleX="0" angleY="90" angleZ="0" scale="0.8"/>
+	<Object engName="submarine_paper_2" code="120651794" yLayer="0" posX="-27.55" posY="2" posZ="23.55" angleX="0" angleY="90" angleZ="0" scale="0.7"/>
+	<Object engName="submarine_paper_2" code="120651794" yLayer="0" posX="-18.1599" posY="1.35" posZ="-7.48999" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="21.19" posY="4.58001" posZ="-13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="19.25" posY="4.58" posZ="-13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_server" code="129040394" yLayer="0" posX="-23.22" posY="4.52001" posZ="25" angleX="0" angleY="90" angleZ="0" scale="0.6"/>
+	<Object engName="space_werehouse" code="129040393" yLayer="0" posX="-23.8" posY="3.62001" posZ="-25.39" angleX="0" angleY="90" angleZ="0" scale="0.9"/>
+	<Object engName="space_werehouse" code="129040393" yLayer="0" posX="34.65" posY="2.01" posZ="1.06" angleX="0" angleY="90" angleZ="0" scale="0.9"/>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="-31.65" posY="3.62001" posZ="-16.72" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="23.94" posY="4" posZ="12.82" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="26" posY="4" posZ="12.83" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="space_barricade" code="129040388" yLayer="0" posX="28" posY="4" posZ="12.86" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="30" posY="4.52001" posZ="-14" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="warning_post" code="125894657" yLayer="0" posX="-29" posY="4.52001" posZ="14" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="space_server" code="129040394" yLayer="0" posX="4" posY="2" posZ="11" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+	<Object engName="space_server" code="129040394" yLayer="0" posX="-3" posY="2" posZ="-11" angleX="0" angleY="0" angleZ="0" scale="0.7"/>
+</ARRANGEMENT>

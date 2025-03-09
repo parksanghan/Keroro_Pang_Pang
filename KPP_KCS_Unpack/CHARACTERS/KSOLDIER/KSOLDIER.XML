@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <Ksoldier file="Ksoldier.msh" />
+</Objects>
+<Materials version="2">
+  <mKsoldier
+    diffuse="Ksoldier.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Ksoldier.skl"
+/>
+<BoneAnim
+  file="Anims\Ksoldier.anm"
+/>
+<collision
+  file="Ksoldier.col"
+/>
+</Scene.XML>

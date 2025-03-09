@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <wtooth file="wtooth.msh" />
+ <wand file="wand.msh" />
+</Objects>
+<Materials version="2">
+  <mwtooth
+    diffuse="wtooth.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="Wtooth.skl"
+/>
+<BoneAnim
+  file="Anims\Wtooth.anm"
+/>
+<collision
+  file="Wtooth.col"
+/>
+</Scene.XML>

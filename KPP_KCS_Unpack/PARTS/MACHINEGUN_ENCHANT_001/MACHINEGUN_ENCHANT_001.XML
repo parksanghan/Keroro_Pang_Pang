@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <machinegun_enchant_001 file="machinegun_enchant_001.msh" />
+</Objects>
+<Materials version="2">
+  <mmachinegun_enchant_001
+    diffuse="machinegun_enchant_001.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="machinegun_enchant_001.skl"
+/>
+<BoneAnim
+  file="Anims\machinegun_enchant_001.anm"
+/>
+<collision
+  file="machinegun_enchant_001.col"
+/>
+</Scene.XML>

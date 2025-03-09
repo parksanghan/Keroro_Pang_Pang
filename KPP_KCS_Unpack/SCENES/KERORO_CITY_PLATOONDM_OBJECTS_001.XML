@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAP mesh="keroro_city\keroro_city.xml"/>
+<ARRANGEMENT version="2.0">
+	<Object engName="hydrant" code="120651779" yLayer="0" posX="11" posY="1.54" posZ="-28" angleX="0" angleY="90" angleZ="0" scale="0.6"/>
+	<Object engName="hydrant" code="120651779" yLayer="0" posX="-7.01002" posY="1.54" posZ="23.9501" angleX="0" angleY="90" angleZ="0" scale="0.6"/>
+	<Object engName="ventilation fan" code="120651784" yLayer="0" posX="-17" posY="8.46" posZ="-12.5" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="21" posY="1.54" posZ="-34" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-20" posY="1.54" posZ="33" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="metal_ladder" code="120651792" yLayer="0" posX="25.3" posY="1.54" posZ="-17" angleX="-30.5" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="metal_ladder" code="120651792" yLayer="0" posX="-27" posY="1.54" posZ="8" angleX="35.1" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="22" posY="1.54" posZ="-28" angleX="0" angleY="0" angleZ="0" scale="1.5"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="22" posY="1.54" posZ="-28.6" angleX="0" angleY="45" angleZ="0" scale="1.5"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="24.38" posY="1.54" posZ="-4.83" angleX="0" angleY="90" angleZ="0" scale="1.5"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="-19.47" posY="1.54" posZ="33" angleX="0" angleY="45" angleZ="0" scale="1.5"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="-20" posY="1.54" posZ="33.5454" angleX="0" angleY="-45" angleZ="0" scale="1.5"/>
+	<Object engName="waste_paper_bag" code="125894661" yLayer="0" posX="-7.15" posY="1.54" posZ="13.8699" angleX="0" angleY="75" angleZ="0" scale="1.5"/>
+	<Object engName="sandbag" code="125894664" yLayer="0" posX="24" posY="5.4" posZ="12" angleX="0" angleY="0" angleZ="0" scale="1.4">
+		<Object engName="sandbag" code="125894664" yLayer="1" posX="0" posY="0.247869" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1.4">
+			<Object engName="sandbag" code="125894664" yLayer="2" posX="0" posY="0.247868" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1.4"/>
+		</Object>
+	</Object>
+	<Object engName="sandbag" code="125894664" yLayer="0" posX="24.9685" posY="5.4" posZ="12" angleX="0" angleY="0" angleZ="0" scale="1.4">
+		<Object engName="sandbag" code="125894664" yLayer="1" posX="0" posY="0.247869" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1.4"/>
+	</Object>
+	<Object engName="sandbag" code="125894664" yLayer="0" posX="-24" posY="5.4" posZ="-12" angleX="0" angleY="0" angleZ="0" scale="1.4">
+		<Object engName="sandbag" code="125894664" yLayer="1" posX="0" posY="0.247869" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1.4">
+			<Object engName="sandbag" code="125894664" yLayer="2" posX="0" posY="0.247868" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1.4"/>
+		</Object>
+	</Object>
+	<Object engName="sandbag" code="125894664" yLayer="0" posX="-24.9785" posY="5.4" posZ="-12" angleX="0" angleY="0" angleZ="0" scale="1.4">
+		<Object engName="sandbag" code="125894664" yLayer="1" posX="0" posY="0.247869" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1.4"/>
+	</Object>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="-21" posY="1.54" posZ="32" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="18.78" posY="1.54" posZ="16.62" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="20.45" posY="1.54" posZ="-33.26" angleX="0" angleY="45" angleZ="0" scale="1"/>
+	<Object engName="BlossomsFestival_paper_002" code="131137539" yLayer="0" posX="-7" posY="1.54" posZ="-28" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="-7.14" posY="1.54" posZ="-11.16" angleX="0" angleY="0" angleZ="0" scale="0.9">
+		<Object engName="keroro_city_wood_001" code="133234695" yLayer="1" posX="2" posY="2.10677" posZ="0.509993" angleX="0" angleY="-21.6002" angleZ="-4.4" scale="0.8"/>
+	</Object>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="-3.41" posY="1.4" posZ="-10.18" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="6.47" posY="1.47" posZ="10.46" angleX="0" angleY="0" angleZ="2" scale="1"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="2.2" posY="1.4" posZ="11" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="-4.67001" posY="1.4" posZ="18.59" angleX="0" angleY="-17.6" angleZ="0" scale="0.8"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="-8.27001" posY="1.54" posZ="18.35" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="metal_ladder" code="120651792" yLayer="0" posX="-4.83" posY="1.4" posZ="21.15" angleX="-39" angleY="-17.6" angleZ="0" scale="0.8"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="8" posY="1.54" posZ="-18" angleX="0" angleY="0" angleZ="0" scale="0.8"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="4.45" posY="1.4" posZ="-18.17" angleX="0" angleY="-17.6" angleZ="0" scale="0.8"/>
+	<Object engName="metal_ladder" code="120651792" yLayer="0" posX="4.39999" posY="1.4" posZ="-20.8" angleX="38" angleY="-17.6" angleZ="0" scale="0.8"/>
+	<Object engName="keroro_city_metal_001" code="133234689" yLayer="0" posX="12.8" posY="1.54" posZ="0.94" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_001" code="133234689" yLayer="0" posX="-11.43" posY="1.54" posZ="9.54999" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_002" code="133234690" yLayer="0" posX="-6.85" posY="1.54" posZ="29.3" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_002" code="133234690" yLayer="0" posX="11.45" posY="1.54" posZ="-24.11" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_003" code="133234691" yLayer="0" posX="-2" posY="1.4" posZ="17" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_003" code="133234691" yLayer="0" posX="2" posY="1.4" posZ="-17" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_003" code="133234691" yLayer="0" posX="14" posY="1.54" posZ="-7" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_003" code="133234691" yLayer="0" posX="-15" posY="1.54" posZ="13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_paper_002" code="133234694" yLayer="0" posX="-11" posY="1.54" posZ="31" angleX="0" angleY="0" angleZ="0" scale="1">
+		<Object engName="keroro_city_paper_002" code="133234694" yLayer="1" posX="0" posY="0.674087" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="keroro_city_paper_001" code="133234693" yLayer="0" posX="-11" posY="1.54" posZ="31.682" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_paper_002" code="133234694" yLayer="0" posX="18" posY="1.54" posZ="35" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_paper_002" code="133234694" yLayer="0" posX="14" posY="1.54" posZ="-36" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_paper_001" code="133234693" yLayer="0" posX="14" posY="1.54" posZ="-36.682" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_paper_001" code="133234693" yLayer="0" posX="13.2968" posY="1.54" posZ="-36.682" angleX="0" angleY="90" angleZ="0" scale="1">
+		<Object engName="keroro_city_paper_002" code="133234694" yLayer="1" posX="0" posY="0.674087" posZ="0" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	</Object>
+	<Object engName="keroro_city_paper_001" code="133234693" yLayer="0" posX="-17.92" posY="1.54" posZ="-30" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_004" code="133234692" yLayer="0" posX="-24" posY="5.46" posZ="-25" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_004" code="133234692" yLayer="0" posX="-24" posY="5.46" posZ="-28" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_004" code="133234692" yLayer="0" posX="24" posY="5.46" posZ="28" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_004" code="133234692" yLayer="0" posX="24" posY="5.46" posZ="25" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="-25" posY="1.54" posZ="36" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="24" posY="1.54" posZ="-37" angleX="0" angleY="90" angleZ="0" scale="0.8"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="11" posY="1.54" posZ="18" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="garbage can" code="120651786" yLayer="0" posX="-10" posY="1.54" posZ="-25" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="-14.09" posY="1.4" posZ="-0.58" angleX="0" angleY="0" angleZ="0" scale="0.8">
+		<Object engName="keroro_city_metal_004" code="133234692" yLayer="1" posX="0" posY="1.85824" posZ="-0.460001" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	</Object>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="16.42" posY="1.54" posZ="0.49" angleX="0" angleY="0" angleZ="0" scale="0.8">
+		<Object engName="keroro_city_metal_004" code="133234692" yLayer="1" posX="0" posY="1.84824" posZ="0.48" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	</Object>
+	<Object engName="keroro_city_metal_004" code="133234692" yLayer="0" posX="25" posY="5.48" posZ="13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_metal_004" code="133234692" yLayer="0" posX="-25" posY="5.48" posZ="-13" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="-4" posY="1.4" posZ="-26" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	<Object engName="keroro_city_wood_001" code="133234695" yLayer="0" posX="4" posY="1.4" posZ="26" angleX="0" angleY="0" angleZ="0" scale="0.9"/>
+	<Object engName="keroro_city_house_003" code="133234699" yLayer="0" posX="-17.3602" posY="1.52" posZ="-21.28" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_003" code="133234699" yLayer="0" posX="15.758" posY="1.52" posZ="20.34" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_004" code="133234700" yLayer="0" posX="-15.33" posY="1.52" posZ="-14.33" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_004" code="133234700" yLayer="0" posX="19.81" posY="1.52" posZ="-8.2" angleX="0" angleY="-90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_005" code="133234701" yLayer="0" posX="-21.6" posY="1.52" posZ="6.16" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_006" code="133234702" yLayer="0" posX="-21.63" posY="1.52" posZ="11.88" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_006" code="133234702" yLayer="0" posX="15.155" posY="1.52" posZ="-29.59" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_007" code="133234703" yLayer="0" posX="-16.71" posY="1.53" posZ="21.21" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_007" code="133234703" yLayer="0" posX="18.72" posY="1.53" posZ="-17.94" angleX="0" angleY="90" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_008" code="133234704" yLayer="0" posX="-16.34" posY="1.52" posZ="27.17" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_008" code="133234704" yLayer="0" posX="16.24" posY="1.52" posZ="13.16" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_wood_002" code="133234696" yLayer="0" posX="-26.81" posY="1.52" posZ="11.87" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_wood_002" code="133234696" yLayer="0" posX="22.54" posY="1.52" posZ="-17.66" angleX="0" angleY="180" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_b01" code="133234709" yLayer="0" posX="16.59" posY="1.54" posZ="31.81" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_b02" code="133234710" yLayer="0" posX="13.15" posY="1.54" posZ="28.21" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_b03" code="133234711" yLayer="0" posX="9.75" posY="1.54" posZ="30.54" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_a02" code="133234706" yLayer="0" posX="-10.81" posY="1.75" posZ="-32.16" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_a04" code="133234708" yLayer="0" posX="-17.32" posY="1.75" posZ="-32.07" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_a03" code="133234707" yLayer="0" posX="-14.16" posY="1.75" posZ="-28.33" angleX="0" angleY="0" angleZ="0" scale="1"/>
+	<Object engName="keroro_city_house_a01" code="133234705" yLayer="0" posX="-13.74" posY="1.7" posZ="-35.8" angleX="0" angleY="0" angleZ="0" scale="1"/>
+</ARRANGEMENT>

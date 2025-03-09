@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <sirara_body_001 file="sirara_body_001.msh" />
+ <sirara_head_001 file="sirara_head_001.msh" />
+ <spear file="spear.msh" />
+ <shield file="shield.msh" />
+ <r_keromet file="r_keromet.msh" />
+ <l_keromet file="l_keromet.msh" />
+</Objects>
+<Materials version="2">
+  <msirara_body_001
+    diffuse="sirara_body_001.dds"
+    color="149 149 149"
+  />
+  <msirara_head_001
+    diffuse="sirara_head_001.dds"
+    color="149 149 149"
+  />
+  <msirara_skill_003_keromet
+    diffuse="sirara_skill_003_keromet.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="sirara_skill_003.skl"
+/>
+<BoneAnim
+  file="Anims\sirara_skill_003.anm"
+/>
+<collision
+  file="sirara_skill_003.col"
+/>
+</Scene.XML>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPAWN.XML>
+	<spawn type="privateZone" spawnId="0" posX="-25" posY="0.3" posZ="2" radius="1.5"/>
+	<spawn type="privateZone" spawnId="1" posX="-20" posY="0.3" posZ="10" radius="1.5"/>
+	<spawn type="privateZone" spawnId="2" posX="-12" posY="0.3" posZ="12" radius="1.5"/>
+	<spawn type="privateZone" spawnId="3" posX="4" posY="0.3" posZ="14" radius="1.5"/>
+	<spawn type="privateZone" spawnId="4" posX="18" posY="0.3" posZ="11" radius="1.5"/>
+	<spawn type="privateZone" spawnId="5" posX="27" posY="0.3" posZ="-0.5" radius="1.5"/>
+	<spawn type="privateZone" spawnId="6" posX="30" posY="0.3" posZ="-10" radius="1.5"/>
+	<spawn type="privateZone" spawnId="7" posX="16" posY="0.3" posZ="-22" radius="1.5"/>
+	<spawn type="privateZone" spawnId="8" posX="6" posY="0.3" posZ="-25" radius="1.5"/>
+	<spawn type="privateZone" spawnId="9" posX="-4" posY="0.3" posZ="-27" radius="1.5"/>
+	<spawn type="privateZone" spawnId="10" posX="-16" posY="0.3" posZ="-22" radius="1.5"/>
+	<spawn type="privateZone" spawnId="11" posX="-22" posY="0.3" posZ="-10" radius="1.5"/>
+	<!-- <spawn type="itembox" engName="restoration_1" code="154140673"  spawnId="6" posX="-20.9427" posY="0.363831" posZ="-14.7972" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673"  spawnId="7" posX="1.99548" posY="0.361377" posZ="-10.8235" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673"  spawnId="8" posX="25.946" posY="0.363641" posZ="-16.4437" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673"  spawnId="9" posX="-6.69844" posY="0.35816" posZ="12.5179" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673"  spawnId="10" posX="-3.4531" posY="0.356964" posZ="-0.0249451" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_1" code="154140673"  spawnId="11" posX="8.36713" posY="0.363422" posZ="-1.2546" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676"  spawnId="12" posX="-12.3154" posY="0" posZ="-3.66348" respawnTime="30"/>
+	<spawn type="itembox" engName="restoration_4" code="154140676"  spawnId="13" posX="17.7147" posY="-0.109747" posZ="-7.78584" respawnTime="30"/> -->
+	<spawn type="itembox" engName="reinforce_1"	code="155189249" spawnId="14" posX="-20.2703" posY="0.0229004" posZ="-3.52633" respawnTime="30"/>
+	<spawn type="itembox" engName="reinforce_4"	code="155189252" spawnId="15" posX="27.5256" posY="-1.2207e-005" posZ="-6.16501" respawnTime="30"/>
+	<spawn type="itembox" engName="reinforce_4"	code="155189252" spawnId="16" posX="-3.23777" posY="-6.10352e-006" posZ="-5.08423" respawnTime="30"/>
+	<spawn type="itembox" engName="reinforce_1"	code="155189249" spawnId="17" posX="10.1268" posY="-6.10352e-006" posZ="-7.12092" respawnTime="30"/>
+	<spawn type="itembox" engName="defense_3"	code="153092099" spawnId="18" posX="5.01226" posY="0.0199829" posZ="-5.02535" respawnTime="30"/>
+</SPAWN.XML>

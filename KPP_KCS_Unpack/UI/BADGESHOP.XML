@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by mazuki (darksiderg) -->
+<BadgeShop.XML>
+	<Achievement name="특수탄환 매그넘"	engName="GrizzlyPistol_reward"	code="35719146"	number="1"	limitmethod="2"	itemValue="100"	badgeCode="238026778"	price="55"	/>
+	<Achievement name="뉴크리스 기관소총"	engName="ChrisRifle_reward"	code="35784697"	number="2"	limitmethod="2"	itemValue="100"	badgeCode="238026778"	price="55"	/>
+	<Achievement name="레드드래곤 머신건"	engName="redDragonMachinegun_reward"	code="35850213"	number="3"	limitmethod="2"	itemValue="100"	badgeCode="238026778"	price="70"	/>
+	<Achievement name="컨버트 파이어트"	engName="PyottShotgun_reward"	code="35915759"	number="4"	limitmethod="2"	itemValue="100"	badgeCode="238026778"	price="55"	/>
+	<Achievement name="반자동 레드롱테일"	engName="redLongSniper_reward"	code="35981292"	number="5"	limitmethod="2"	itemValue="100"	badgeCode="238026778"	price="70"	/>
+	<Achievement name="강화포신 탄탄포"	engName="tanBazooka_reward"	code="36046860"	number="6"	limitmethod="2"	itemValue="100"	badgeCode="238026778"	price="70"	/>
+	<Achievement name="천사 의상"	engName="angel Look"	code="70451229"	number="7"	limitmethod="1"	itemValue="30"	badgeCode="238026778"	price="70"	/>
+	<Achievement name="악마 의상"	engName="devil Look"	code="70451230"	number="8"	limitmethod="1"	itemValue="30"	badgeCode="238026778"	price="70"	/>
+	<Achievement name="바이퍼 천사 의상"	engName="Viper angel Look"	code="72548365"	number="9"	limitmethod="1"	itemValue="30"	badgeCode="238026778"	price="70"	/>
+	<Achievement name="바이퍼 악마 의상"	engName="Viper devil Look"	code="72548366"	number="10"	limitmethod="1"	itemValue="30"	badgeCode="238026778"	price="70"	/>
+	<Achievement name="유니콘"	engName="Unicorn"	code="242221062"	number="11"	limitmethod="1"	itemValue="30"	badgeCode="238026778"	price="30"	/>
+	<Achievement name="판다"	engName="pet_panda"	code="246480910"	number="12"	limitmethod="8"	itemValue="0"	badgeCode="238026778"	price="80"	/>
+</BadgeShop.XML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <nah_npc_butterfly file="nah_npc_butterfly.msh" />
+ <nah_npc_butterfly01 file="nah_npc_butterfly01.msh" />
+ <nah_npc_butterfly02 file="nah_npc_butterfly02.msh" />
+</Objects>
+<Materials version="2">
+  <mnah_butterfly
+    diffuse="nah_butterfly.tga"
+    color="255 255 255"
+  />
+</Materials>
+<Skeleton
+  file="nah_npc_butterfly.skl"
+/>
+<BoneAnim
+  file="Anims\nah_npc_butterfly.anm"
+/>
+<collision
+  file="nah_npc_butterfly.col"
+/>
+</Scene.XML>

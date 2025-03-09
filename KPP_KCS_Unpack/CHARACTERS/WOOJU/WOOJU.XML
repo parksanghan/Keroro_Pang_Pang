@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <wooju_body_000 file="wooju_body_000.msh" />
+ <wooju_head_000 file="wooju_head_000.msh" />
+ <wooju_face_000 file="wooju_face_000.msh" />
+</Objects>
+<Materials version="2">
+  <mwooju_body_000
+    diffuse="wooju_body_000.dds"
+    color="149 149 149"
+  />
+  <mwooju_head_000
+    diffuse="wooju_head_000.dds"
+    color="149 149 149"
+  />
+  <mwooju_face_000
+    diffuse="wooju_face_000.dds"
+    color="149 149 149"
+  />
+</Materials>
+<Skeleton
+  file="wooju_T_Pose.skl"
+/>
+<collision
+  file="wooju_T_Pose.col"
+/>
+</Scene.XML>

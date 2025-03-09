@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Scene.XML>
+<!--r3d Scene-->
+<Objects>
+ <clown file="clown.msh" />
+</Objects>
+<Materials version="2">
+  <m01_-_Default
+    diffuse="clown.dds"
+    color="150 150 150"
+  />
+</Materials>
+<Skeleton
+  file="clown.skl"
+/>
+<BoneAnim
+  file="Anims\clown.anm"
+/>
+<collision
+  file="clown.col"
+/>
+</Scene.XML>
