@@ -1,0 +1,13 @@
+ï»¿--- Log started at Sat Feb 15 01:04:14 2025
+
+ï»¿--- Log started at Sat Feb 15 01:04:14 2025
+
+0.000 | sys: initializing timer
+0.000 |  proc_aff:65535, sys_aff:65535, cpu0
+0.000 |  inited in thread 0x684c (10.0 mhz)
+0.000 |  locked to CPU0
+0.000 | Program Version: 2.1.805
+0.000 | Build Time: 2012/04/24 10:55:09
+0.000 | OS: Windows Vista or high
+10.083| Package: 'packs\Kpp.kcp' opened, 30687 entries, 0 bytes
+10.083| NSPL: FATAL - [01:04:24]: CIWNFHK_KFPacker::ExtractFile_ToMem - packs\Kpp376.KCS ÆÄÀÏÀ» ¿­ ¼ö ¾ø½À´Ï´Ù(13)

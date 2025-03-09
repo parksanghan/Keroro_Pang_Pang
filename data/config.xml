@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<XML.Root>
+    <Display Width="1920" Height="1080" Windowed="1" AA="4" />
+    <Toon Enabled="1" Outline="1" />
+    <Shadow NPC="1" />
+    <Sound BGM="0.200000" FX="0.800000" Voice="0.800000" UseVoip="0" />
+    <Game UseHelp="1" UseMinimap="1" Type0RotationSensitivity="1.469656" Type1RotationSensitivity="0.001959" SnipingSensitivity="0.001000" TPSSensitivity="0.001469" SmoothRotation="0" MouseSensitivity="6" />
+</XML.Root>

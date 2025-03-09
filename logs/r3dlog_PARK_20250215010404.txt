@@ -1,0 +1,965 @@
+﻿--- Log started at Sat Feb 15 01:04:04 2025
+
+﻿--- Log started at Sat Feb 15 01:04:04 2025
+
+0.000 | sys: initializing timer
+0.000 |  proc_aff:65535, sys_aff:65535, cpu0
+0.000 |  inited in thread 0x2144 (10.0 mhz)
+0.000 |  locked to CPU0
+0.000 | Program Version: 2.1.805
+0.000 | Build Time: 2012/04/24 10:55:09
+0.000 | OS: Windows Vista or high
+11.301| Package: 'packs\Kpp.kcp' opened, 30687 entries, 0 bytes
+11.882| NSAL: EFX Extension supported.
+11.882| NSAL: Device supports 1 Aux Sends per Source.
+11.882| NSAL: Default device is 'Generic Software', but use Generic Software.
+11.883| d3d: Creating d3d9
+11.946|  Adapter: NVIDIA GeForce RTX 3080
+11.946|  Monitor: \\.\DISPLAY1 (1920x1080)
+11.977|  d3d: Input devices enabled: Mouse, Keyboard
+11.977| d3d: Setting mode: windowed 1920x1080x32 aa=4
+11.977|  res adjusted 1920x1080->1914x1051
+11.977|  mode 1914x1051 D3DFMT_X8R8G8B8
+11.981|  aa: 4 (asked 4)
+12.117|  Vertex Shader: 3.0
+12.117|   vertex shader limited to 2.0
+12.117|   registers: 256 (78 bones)
+12.117|  Pixel Shader:  3.0
+12.117|   pixel shader limited to 2.0
+12.126|  Shader 'VS_HW_SKIN_TOON' loaded as vs_2_0
+12.132|  Shader 'VS_HW_SKIN' loaded as vs_2_0
+12.133|  Shader 'VS_SW_SKIN' loaded as vs_2_0
+12.134|  Shader 'VS_SW_SKIN_TOON' loaded as vs_2_0
+12.137| sound<< Set Volume (Steam Volume : 0.200000, Static Volume : 0.800000)
+12.140| ScreenShot base directory: .\ScreenShot
+12.140| Loading loading screens
+12.146|  !!!warning!!! Texture 'data\loading_01.png' width (1024x768) is not power of 2
+12.226|  r3dFont: Creating 10
+12.226|  r3dFont: Creating 21
+12.226|  r3dFont: Creating Arial Narrow
+12.226|  r3dFont: Creating Arial Narrow 21pt(bold)(no glyphs)
+12.414| loading scene from UI/stage/object\uistage
+12.428| PhysX SDK version: 2.8.1
+12.428| PhysX driver version: 81013
+13.313| r3dFont: Creating 2
+13.313| r3dFont: Creating 18
+13.313| r3dFont: Creating Tahoma
+13.313| r3dFont: Creating Tahoma 18pt(bold)
+13.313|  r3dFont: Loading Tahoma 18pt
+13.327| r3dFont: Creating 2
+13.327| r3dFont: Creating 12
+13.327| r3dFont: Creating Tahoma
+13.327| r3dFont: Creating Tahoma 12pt(bold)
+13.327|  r3dFont: Loading Tahoma 12pt
+14.069|  !!!warning!!! : buff name:'respawnSp' have zero var:'0%'
+14.069|  !!!warning!!! : buff name:'hp' have zero var:'0'
+14.740| loading scene from Characters\Keroro
+14.867| face: loading from Characters\Keroro\Faces\Keroro_face_animation.xml
+14.926| textureMovie: loading Skills\Keroro3_Movie\frame_%02d.dds[20]
+15.105|  tex mem used: 3.3mb
+15.110| particle: loading xml data\particles\fx_keroro_skill_001.prx
+15.139| particle: loading xml data\particles\fx_keroro_skill_004.prx
+15.145| particle: loading xml data\particles\fx_keroro_skill_004_2.prx
+15.146| particle: loading xml data\particles\fx_keroro_skill_005.prx
+15.147| particle: loading xml data\particles\fx_keroro_skill_006.prx
+15.149| particle: loading xml data\particles\fx_keroro_skill_006_2.prx
+15.150| particle: loading xml data\particles\fx_keroro_skill_009.prx
+15.151| particle: loading xml data\particles\fx_keroro_skill_010.prx
+15.155| particle: loading xml data\particles\fx_keroro_skill_010_2.prx
+15.156| particle: loading xml data\particles\fx_keroro_skill_011.prx
+15.164| particle: loading xml data\particles\fx_keroro_skill_012.prx
+15.165| particle: loading xml data\particles\fx_keroro_skill_012_2.prx
+15.166| particle: loading xml data\particles\fx_keroro_skill_018.prx
+15.167| particle: loading xml data\particles\fx_keroro_skill_019.prx
+15.168| particle: loading xml data\particles\fx_keroro_skill_020.prx
+15.169| particle: loading xml data\particles\fx_keroro_skill_021.prx
+15.171| particle: loading xml data\particles\fx_keroro_skill_022.prx
+15.173| particle: loading xml data\particles\fx_keroro_skill_023.prx
+15.175|  loading scene from Wear\keroro_head_000
+15.181| Profiling: Keroro Basic Head, 0.006000 secs
+15.181|  loading scene from Wear\keroro_body_000
+15.184| Profiling: Keroro Basic Body, 0.004000 secs
+15.184| Profiling: Keroro, 0.444000 secs
+15.184| loading scene from Characters\Tamama
+15.295| face: loading from Characters\Tamama\Faces\Tamama_face_animation.xml
+15.349| textureMovie: loading Skills\Tamama3_Movie\frame_%02d.dds[29]
+15.604|  tex mem used: 4.8mb
+15.605| particle: loading xml data\particles\fx_tamama_skill_001.prx
+15.655| particle: loading xml data\particles\fx_tamama_skill_002.prx
+15.656| particle: loading xml data\particles\fx_tamama_skill_003.prx
+15.657| particle: loading xml data\particles\fx_tamama_skill_004.prx
+15.658| particle: loading xml data\particles\fx_tamama_skill_005.prx
+15.660| particle: loading xml data\particles\fx_tamama_skill_006.prx
+15.663| particle: loading xml data\particles\fx_tamama_skill_008.prx
+15.665| particle: loading xml data\particles\fx_tamama_skill_009.prx
+15.669| particle: loading xml data\particles\fx_tamama_skill_010.prx
+15.670| particle: loading xml data\particles\fx_tamama_skill_010_2.prx
+15.671| particle: loading xml data\particles\fx_tamama_skill_013.prx
+15.672| particle: loading xml data\particles\fx_tamama_skill_014.prx
+15.674| particle: loading xml data\particles\fx_tamama_skill_015.prx
+15.675| particle: loading xml data\particles\fx_tamama_skill_021.prx
+15.676|  loading scene from Wear\tamama_head_000
+15.904| Profiling: Tamama Basic Head, 0.227000 secs
+15.904|  loading scene from Wear\tamama_body_000
+15.912| Profiling: Tamama Basic Body, 0.008000 secs
+15.912| Profiling: Tamama, 0.727000 secs
+15.912| loading scene from Characters\Giroro
+15.920| face: loading from Characters\Giroro\Faces\Giroro_face_animation.xml
+15.979| textureMovie: loading Skills\Giroro3_Movie\frame_%02d.dds[29]
+16.325|  tex mem used: 4.8mb
+16.326| particle: loading xml data\particles\fx_giroro_skill_001.prx
+16.328| particle: loading xml data\particles\fx_giroro_skill_002_1.prx
+16.329| particle: loading xml data\particles\fx_giroro_skill_002_2.prx
+16.330| particle: loading xml data\particles\fx_giroro_skill_002_3.prx
+16.331| particle: loading xml data\particles\fx_giroro_skill_003_1.prx
+16.333| particle: loading xml data\particles\fx_giroro_skill_003_2.prx
+16.334| particle: loading xml data\particles\fx_giroro_skill_003_3.prx
+16.335| particle: loading xml data\particles\fx_giroro_skill_004_1.prx
+16.337| particle: loading xml data\particles\fx_giroro_skill_004_2.prx
+16.338| particle: loading xml data\particles\fx_giroro_skill_004_3.prx
+16.339| particle: loading xml data\particles\fx_giroro_skill_005_1.prx
+16.340| particle: loading xml data\particles\fx_giroro_skill_005_2.prx
+16.341| particle: loading xml data\particles\fx_giroro_skill_005_3.prx
+16.342| particle: loading xml data\particles\fx_giroro_skill_006_1a.prx
+16.343| particle: loading xml data\particles\fx_giroro_skill_006_1b.prx
+16.344| particle: loading xml data\particles\fx_giroro_skill_006_2a.prx
+16.344| particle: loading xml data\particles\fx_giroro_skill_006_2b.prx
+16.345| particle: loading xml data\particles\fx_giroro_skill_006_3a.prx
+16.347| particle: loading xml data\particles\fx_giroro_skill_006_3b.prx
+16.348| particle: loading xml data\particles\fx_giroro_skill_010.prx
+16.350| particle: loading xml data\particles\fx_giroro_skill_015.prx
+16.352| particle: loading xml data\particles\fx_giroro_skill_016.prx
+16.353| particle: loading xml data\particles\fx_giroro_skill_017.prx
+16.355| particle: loading xml data\particles\fx_giroro_skill_018.prx
+16.356| particle: loading xml data\particles\fx_giroro_skill_019.prx
+16.357|  loading scene from Wear\giroro_head_000
+16.364| Profiling: Giroro Basic Head, 0.007000 secs
+16.364|  loading scene from Wear\giroro_body_000
+16.371| Profiling: Giroro Basic Body, 0.007000 secs
+16.371| Profiling: Giroro, 0.460000 secs
+16.372| loading scene from Characters\Kururu
+16.375| face: loading from Characters\Kururu\Faces\Kururu_face_animation.xml
+16.419| textureMovie: loading Skills\Kururu3_Movie\frame_%02d.dds[1]
+16.454|  tex mem used: 0.7mb
+16.456| particle: loading xml data\particles\fx_kururu_skill_001.prx
+16.459| particle: loading xml data\particles\fx_kururu_skill_002.prx
+16.461| particle: loading xml data\particles\fx_kururu_skill_003.prx
+16.463| particle: loading xml data\particles\fx_kururu_skill_004.prx
+16.465| particle: loading xml data\particles\fx_kururu_skill_005.prx
+16.467| particle: loading xml data\particles\fx_kururu_skill_006.prx
+16.469| particle: loading xml data\particles\fx_kururu_skill_008.prx
+16.473| particle: loading xml data\particles\fx_kururu_skill_009.prx
+16.474| particle: loading xml data\particles\fx_kururu_skill_010.prx
+16.475| particle: loading xml data\particles\fx_kururu_skill_012.prx
+16.477| particle: loading xml data\particles\fx_kururu_skill_013.prx
+16.479| particle: loading xml data\particles\fx_kururu_skill_014.prx
+16.480|  loading scene from Wear\kururu_head_000
+16.489| Profiling: Kururu Basic Head, 0.008000 secs
+16.489|  loading scene from Wear\kururu_body_000
+16.496| Profiling: Kururu Basic Body, 0.008000 secs
+16.496| Profiling: Kururu, 0.125000 secs
+16.496| loading scene from Characters\Dororo
+16.500| face: loading from Characters\Dororo\Faces\Dororo_face_animation.xml
+16.542| textureMovie: loading Skills\Dororo3_Movie\frame_%02d.dds[1]
+16.581|  tex mem used: 0.7mb
+16.582| particle: loading xml data\particles\fx_dororo_skill_001.prx
+16.585| particle: loading xml data\particles\fx_dororo_skill_002.prx
+16.587| particle: loading xml data\particles\fx_dororo_skill_003.prx
+16.588| particle: loading xml data\particles\fx_dororo_skill_004.prx
+16.590| particle: loading xml data\particles\fx_dororo_skill_005_1step.prx
+16.592| particle: loading xml data\particles\fx_dororo_skill_005_2step.prx
+16.595| particle: loading xml data\particles\fx_dororo_skill_005_3step.prx
+16.597| particle: loading xml data\particles\fx_dororo_skill_005_4step.prx
+16.598| particle: loading xml data\particles\fx_dororo_skill_005_5step.prx
+16.599| particle: loading xml data\particles\fx_dororo_skill_005_6step.prx
+16.601| particle: loading xml data\particles\fx_dororo_skill_006_1step.prx
+16.603| particle: loading xml data\particles\fx_dororo_skill_006_1step_2.prx
+16.604| particle: loading xml data\particles\fx_dororo_skill_006_2step.prx
+16.606| particle: loading xml data\particles\fx_dororo_skill_006_2step_2.prx
+16.607| particle: loading xml data\particles\fx_dororo_skill_006_3step.prx
+16.609| particle: loading xml data\particles\fx_dororo_skill_006_3step_2.prx
+16.610| particle: loading xml data\particles\fx_dororo_skill_006_4step.prx
+16.612| particle: loading xml data\particles\fx_dororo_skill_006_4step_2.prx
+16.614| particle: loading xml data\particles\fx_dororo_skill_006_5step.prx
+16.616| particle: loading xml data\particles\fx_dororo_skill_006_5step_2.prx
+16.617| particle: loading xml data\particles\fx_dororo_skill_006_6step.prx
+16.619| particle: loading xml data\particles\fx_dororo_skill_006_6step_2.prx
+16.620| particle: loading xml data\particles\fx_dororo_skill_009.prx
+16.623| particle: loading xml data\particles\fx_dororo_skill_014.prx
+16.625| particle: loading xml data\particles\fx_dororo_skill_015.prx
+16.627| particle: loading xml data\particles\fx_dororo_skill_016.prx
+16.628| particle: loading xml data\particles\fx_dororo_skill_017.prx
+16.631| particle: loading xml data\particles\fx_dororo_skill_018.prx
+16.633|  loading scene from Wear\dororo_head_000
+16.640| Profiling: Dororo Basic Head, 0.007000 secs
+16.640|  loading scene from Wear\dororo_body_000
+16.643| Profiling: Dororo Basic Body, 0.002000 secs
+16.643| Profiling: Dororo, 0.145000 secs
+16.643| loading scene from Characters\Garuru
+16.646| face: loading from Characters\Garuru\Faces\Garuru_face_animation.xml
+16.678| textureMovie: loading Skills\Garuru3_Movie\frame_%02d.dds[19]
+16.863|  tex mem used: 3.2mb
+16.864| particle: loading xml data\particles\fx_garuru_skill_001_1.prx
+16.868| particle: loading xml data\particles\fx_garuru_skill_001_2.prx
+16.869| particle: loading xml data\particles\fx_garuru_skill_001_3.prx
+16.870| particle: loading xml data\particles\fx_garuru_skill_002_1.prx
+16.872| particle: loading xml data\particles\fx_garuru_skill_002_2.prx
+16.875| particle: loading xml data\particles\fx_garuru_skill_002_3.prx
+16.876| particle: loading xml data\particles\fx_garuru_skill_002_4.prx
+16.878| particle: loading xml data\particles\fx_garuru_skill_002_5.prx
+16.880| particle: loading xml data\particles\fx_garuru_skill_002_6.prx
+16.881| particle: loading xml data\particles\fx_garuru_skill_003_1.prx
+16.883| particle: loading xml data\particles\fx_garuru_skill_003_2.prx
+16.884| particle: loading xml data\particles\fx_garuru_skill_003_3.prx
+16.887| particle: loading xml data\particles\fx_garuru_skill_003_4.prx
+16.888| particle: loading xml data\particles\fx_garuru_skill_003_5.prx
+16.890| particle: loading xml data\particles\fx_garuru_skill_003_6.prx
+16.893| particle: loading xml data\particles\fx_garuru_skill_003_7.prx
+16.894| particle: loading xml data\particles\fx_garuru_skill_003_8.prx
+16.896| particle: loading xml data\particles\fx_garuru_skill_003_9.prx
+16.898|  loading scene from Wear\Garuru_head_000
+16.900| Profiling: Garuru Basic Head, 0.002000 secs
+16.900|  loading scene from Wear\Garuru_body_000
+16.903| Profiling: Garuru Basic Body, 0.003000 secs
+16.903| Profiling: Garuru, 0.261000 secs
+16.903| loading scene from Characters\Pururu
+16.912| face: loading from Characters\Pururu\Faces\Pururu_face_animation.xml
+16.969| textureMovie: loading Skills\Pururu3_Movie\frame_%02d.dds[1]
+16.979|  tex mem used: 0.2mb
+16.981| particle: loading xml data\particles\fx_pururu_skill_001_1.prx
+16.982| particle: loading xml data\particles\fx_pururu_skill_001_2.prx
+16.983| particle: loading xml data\particles\fx_pururu_skill_001_3.prx
+16.984| particle: loading xml data\particles\fx_pururu_skill_001_4.prx
+16.986| particle: loading xml data\particles\fx_pururu_skill_002_1.prx
+16.987| particle: loading xml data\particles\fx_pururu_skill_002_2.prx
+16.989| particle: loading xml data\particles\fx_pururu_skill_002_3.prx
+16.990| particle: loading xml data\particles\fx_pururu_skill_002_4.prx
+16.991| particle: loading xml data\particles\fx_pururu_skill_002_5.prx
+16.993| particle: loading xml data\particles\fx_pururu_skill_002_6.prx
+16.995| particle: loading xml data\particles\fx_pururu_skill_002_7.prx
+16.995| particle: loading xml data\particles\fx_pururu_skill_003_1.prx
+16.997| particle: loading xml data\particles\fx_pururu_skill_003_2.prx
+16.998| particle: loading xml data\particles\fx_pururu_skill_003_3.prx
+17.000| particle: loading xml data\particles\fx_pururu_skill_003_4.prx
+17.001| particle: loading xml data\particles\fx_pururu_skill_003_5.prx
+17.004| particle: loading xml data\particles\fx_pururu_skill_003_6.prx
+17.006| particle: loading xml data\particles\fx_pururu_skill_003_7.prx
+17.008|  loading scene from Wear\pururu_head_000
+17.014| Profiling: pururu Basic Head, 0.006000 secs
+17.014|  loading scene from Wear\pururu_body_000
+17.017| Profiling: pururu Basic Body, 0.003000 secs
+17.017| Profiling: Pururu, 0.114000 secs
+17.017| loading scene from Characters\Taruru
+17.021| face: loading from Characters\Taruru\Faces\Taruru_face_animation.xml
+17.069| textureMovie: loading Skills\Taruru3_Movie\frame_%02d.dds[19]
+17.252|  tex mem used: 3.2mb
+17.253| particle: loading xml data\particles\fx_taruru_skill_001.prx
+17.254| particle: loading xml data\particles\fx_taruru_skill_001_2.prx
+17.256| particle: loading xml data\particles\fx_taruru_skill_002.prx
+17.258| particle: loading xml data\particles\fx_taruru_skill_003.prx
+17.259| particle: loading xml data\particles\fx_taruru_skill_004.prx
+17.261| particle: loading xml data\particles\fx_taruru_skill_004_2.prx
+17.262| particle: loading xml data\particles\fx_taruru_skill_005.prx
+17.263| particle: loading xml data\particles\fx_taruru_skill_005_2.prx
+17.264| particle: loading xml data\particles\fx_taruru_skill_006.prx
+17.265| particle: loading xml data\particles\fx_taruru_skill_007.prx
+17.268| particle: loading xml data\particles\fx_taruru_skill_008.prx
+17.269| particle: loading xml data\particles\fx_taruru_skill_009.prx
+17.270| particle: loading xml data\particles\fx_taruru_skill_010.prx
+17.271| particle: loading xml data\particles\fx_taruru_skill_011.prx
+17.274| particle: loading xml data\particles\fx_taruru_skill_012.prx
+17.275| particle: loading xml data\particles\fx_taruru_skill_013.prx
+17.277| particle: loading xml data\particles\fx_taruru_skill_014.prx
+17.278| particle: loading xml data\particles\fx_taruru_skill_015_1.prx
+17.279| particle: loading xml data\particles\fx_taruru_skill_015_2.prx
+17.280| particle: loading xml data\particles\fx_taruru_skill_015_3.prx
+17.282| particle: loading xml data\particles\fx_taruru_skill_015_4.prx
+17.283| particle: loading xml data\particles\fx_taruru_skill_016.prx
+17.284|  loading scene from Wear\taruru_head_000
+17.291| Profiling: Taruru Basic Head, 0.007000 secs
+17.291|  loading scene from Wear\taruru_body_000
+17.294| Profiling: Taruru Basic Body, 0.003000 secs
+17.294| Profiling: Taruru, 0.277000 secs
+17.294| loading scene from Characters\Tororo
+17.303| face: loading from Characters\Tororo\Faces\Tororo_face_animation.xml
+17.341| textureMovie: loading Skills\Tororo3_Movie\frame_%02d.dds[29]
+17.594|  tex mem used: 4.8mb
+17.595| particle: loading xml data\particles\fx_tororo_skill_001.prx
+17.597| particle: loading xml data\particles\fx_tororo_skill_002.prx
+17.599| particle: loading xml data\particles\fx_tororo_skill_002_2.prx
+17.601| particle: loading xml data\particles\fx_tororo_skill_003.prx
+17.602| particle: loading xml data\particles\fx_tororo_skill_004.prx
+17.603| particle: loading xml data\particles\fx_tororo_skill_005.prx
+17.604| particle: loading xml data\particles\fx_tororo_skill_006.prx
+17.605| particle: loading xml data\particles\fx_tororo_skill_007.prx
+17.606| particle: loading xml data\particles\fx_tororo_skill_008.prx
+17.607| particle: loading xml data\particles\fx_tororo_skill_009.prx
+17.609| particle: loading xml data\particles\fx_tororo_skill_010.prx
+17.610| particle: loading xml data\particles\fx_tororo_skill_011.prx
+17.613| particle: loading xml data\particles\fx_tororo_skill_012.prx
+17.616| particle: loading xml data\particles\fx_spaceship_left.prx
+17.617| particle: loading xml data\particles\fx_spaceship_right.prx
+17.618| particle: loading xml data\particles\fx_spaceship_back01.prx
+17.619| particle: loading xml data\particles\fx_spaceship_back02.prx
+17.619| particle: loading xml data\particles\fx_spaceship_smoke.prx
+17.621|  loading scene from Wear\Tororo_head_000
+17.629| Profiling: Tororo Basic Head, 0.009000 secs
+17.629|  loading scene from Wear\Tororo_body_000
+17.631| Profiling: Tororo Basic Body, 0.002000 secs
+17.631| Profiling: Tororo, 0.337000 secs
+17.631| loading scene from Characters\Zoruru
+17.635| face: loading from Characters\Zoruru\Faces\Zoruru_face_animation.xml
+17.669| textureMovie: loading Skills\Zoruru3_Movie\frame_%02d.dds[1]
+17.673|  tex mem used: 1.3mb
+17.673| particle: loading xml data\particles\fx_zoruru_skill_001_1.prx
+17.675| particle: loading xml data\particles\fx_zoruru_skill_001_2.prx
+17.676| particle: loading xml data\particles\fx_zoruru_skill_001_3.prx
+17.678| particle: loading xml data\particles\fx_zoruru_skill_002_1.prx
+17.679| particle: loading xml data\particles\fx_zoruru_skill_002_2.prx
+17.681| particle: loading xml data\particles\fx_zoruru_skill_002_3.prx
+17.682| particle: loading xml data\particles\fx_zoruru_skill_002_4.prx
+17.684| particle: loading xml data\particles\fx_zoruru_skill_002_5.prx
+17.685| particle: loading xml data\particles\fx_zoruru_skill_003_fog.prx
+17.687| particle: loading xml data\particles\fx_zoruru_skill_003_tornado.prx
+17.688| particle: loading xml data\particles\fx_zoruru_skill_003_slash.prx
+17.689| particle: loading xml data\particles\fx_zoruru_skill_003_eye.prx
+17.690| particle: loading xml data\particles\fx_zoruru_skill_003_wall.prx
+17.692| particle: loading xml data\particles\fx_zoruru_skill_003_srtike_1.prx
+17.694| particle: loading xml data\particles\fx_zoruru_skill_003_srtike_2.prx
+17.695| particle: loading xml data\particles\fx_zoruru_skill_003_srtike_3.prx
+17.696| particle: loading xml data\particles\fx_zoruru_skill_003_srtike_4.prx
+17.698| particle: loading xml data\particles\fx_zoruru_skill_003_srtike_5.prx
+17.699| particle: loading xml data\particles\fx_zoruru_skill_003_srtike_6.prx
+17.700| particle: loading xml data\particles\fx_zoruru_skill_003_spark_1.prx
+17.701| particle: loading xml data\particles\fx_zoruru_skill_003_spark_2.prx
+17.702| particle: loading xml data\particles\fx_zoruru_skill_003_spark_3.prx
+17.703| particle: loading xml data\particles\fx_zoruru_skill_003_spark_4.prx
+17.704| particle: loading xml data\particles\fx_zoruru_skill_003_spark_5.prx
+17.705| particle: loading xml data\particles\fx_zoruru_skill_003_spark_6.prx
+17.706| particle: loading xml data\particles\fx_zoruru_skill_003_impact_1.prx
+17.707| particle: loading xml data\particles\fx_zoruru_skill_003_impact_2.prx
+17.709| particle: loading xml data\particles\fx_zoruru_skill_003_impact_3.prx
+17.710| particle: loading xml data\particles\fx_zoruru_skill_003_impact_4.prx
+17.712| particle: loading xml data\particles\fx_zoruru_skill_003_impact_5.prx
+17.713| particle: loading xml data\particles\fx_zoruru_skill_003_impact_6.prx
+17.715| particle: loading xml data\particles\fx_zoruru_skill_003_shock.prx
+17.716| particle: loading xml data\particles\fx_zoruru_skill_003_shock_2.prx
+17.717|  loading scene from Wear\zoruru_head_000
+17.757| Profiling: zoruru_Basic Head, 0.039000 secs
+17.757|  loading scene from Wear\zoruru_body_000
+17.761| Profiling: zoruru Basic Body, 0.004000 secs
+17.761| Profiling: Zoruru, 0.129000 secs
+17.761| loading scene from Characters\Sirara
+17.765| face: loading from Characters\Sirara\Faces\Sirara_face_animation.xml
+17.810| textureMovie: loading Skills\Sirara3_Movie\frame_%02d.dds[1]
+17.810|  tex mem used: 0.0mb
+17.811| particle: loading xml data\particles\fx_sirara_skill_001_1.prx
+17.812| particle: loading xml data\particles\fx_sirara_skill_001_2.prx
+17.814| particle: loading xml data\particles\fx_sirara_skill_001_3.prx
+17.815| particle: loading xml data\particles\fx_sirara_skill_002_1.prx
+17.817| particle: loading xml data\particles\fx_sirara_skill_002_2.prx
+17.818| particle: loading xml data\particles\fx_sirara_skill_003_1.prx
+17.821| particle: loading xml data\particles\fx_sirara_skill_003_2.prx
+17.821| particle: loading xml data\particles\fx_sirara_skill_003_3.prx
+17.823| particle: loading xml data\particles\fx_sirara_skill_003_cannon_muzzle.prx
+17.824| particle: loading xml data\particles\fx_sirara_skill_003_cannon_muzzle2.prx
+17.825| particle: loading xml data\particles\fx_sirara_skill_003_cannon_muzzle3.prx
+17.826| particle: loading xml data\particles\fx_sirara_skill_003_cannon_bullet.prx
+17.827| particle: loading xml data\particles\fx_sirara_skill_003_cannon_bullet2.prx
+17.828| particle: loading xml data\particles\fx_sirara_skill_003_cannon_bullet3.prx
+17.829| particle: loading xml data\particles\fx_sirara_skill_003_cannon_hit.prx
+17.830| particle: loading xml data\particles\fx_sirara_skill_003_cannon_hit2.prx
+17.831| particle: loading xml data\particles\fx_sirara_skill_003_cannon_hit3.prx
+17.832| particle: loading xml data\particles\fx_sirara_skill_003_vulcan_muzzle.prx
+17.832| particle: loading xml data\particles\fx_sirara_skill_003_vulcan_bullet.prx
+17.833| particle: loading xml data\particles\fx_sirara_skill_003_vulcan_hit.prx
+17.834|  loading scene from Wear\sirara_head_000
+17.836| Profiling: sirara_Basic Head, 0.002000 secs
+17.836|  loading scene from Wear\sirara_body_000
+17.839| Profiling: sirara Basic Body, 0.003000 secs
+17.839| Profiling: Sirara, 0.078000 secs
+17.839| loading scene from Characters\Joriri
+17.846| face: loading from Characters\Joriri\Faces\Joriri_face_animation.xml
+17.909| textureMovie: loading Skills\Joriri3_Movie\frame_%02d.dds[1]
+17.918|  tex mem used: 0.2mb
+17.919| particle: loading xml data\particles\fx_joriri_skill_001_1.prx
+17.920| particle: loading xml data\particles\fx_joriri_skill_001_2.prx
+17.922| particle: loading xml data\particles\fx_joriri_skill_002_1.prx
+17.923| particle: loading xml data\particles\fx_joriri_skill_002_2.prx
+17.925| particle: loading xml data\particles\fx_joriri_skill_003_1.prx
+17.925| particle: loading xml data\particles\fx_joriri_skill_003_2.prx
+17.926| particle: loading xml data\particles\fx_joriri_skill_003_3.prx
+17.928| particle: loading xml data\particles\fx_joriri_skill_003_4.prx
+17.929|  loading scene from Wear\joriri_head_000
+17.937| Profiling: joriri_Basic Head, 0.008000 secs
+17.937|  loading scene from Wear\joriri_body_000
+17.940| Profiling: joriri Basic Body, 0.004000 secs
+17.940| Profiling: Joriri, 0.102000 secs
+17.940| loading scene from Characters\Kagege
+17.942| face: loading from Characters\Kagege\Faces\Kagege_face_animation.xml
+17.960| textureMovie: loading Skills\Kagege3_Movie\frame_%02d.dds[1]
+17.964|  tex mem used: 1.3mb
+17.964| particle: loading xml data\particles\fx_kagege_skill_001.prx
+17.967| particle: loading xml data\particles\fx_kagege_skill_002_bottom.prx
+17.969| particle: loading xml data\particles\fx_kagege_skill_002_range.prx
+17.970| particle: loading xml data\particles\fx_kagege_skill_002_influence.prx
+17.971| particle: loading xml data\particles\fx_kagege_skill_002_influence2.prx
+17.972| particle: loading xml data\particles\fx_kagege_skill_003_1.prx
+17.973| particle: loading xml data\particles\fx_kagege_skill_003_2.prx
+17.976| particle: loading xml data\particles\fx_kagege_skill_003_3.prx
+17.978| particle: loading xml data\particles\fx_kagege_skill_003_4.prx
+17.980| particle: loading xml data\particles\fx_kagege_skill_003_5.prx
+17.981| particle: loading xml data\particles\fx_skill_target_kagege.prx
+17.982| particle: loading xml data\particles\fx_kagege_skill_003_lockon.prx
+17.983| particle: loading xml data\particles\fx_kagege_skill_003_bullet.prx
+17.984| particle: loading xml data\particles\fx_kagege_skill_003_hit.prx
+17.986|  loading scene from Wear\kagege_head_000
+17.988| Profiling: Kagege Basic Head, 0.001000 secs
+17.988|  loading scene from Wear\kagege_body_000
+17.989| Profiling: Kagege Basic Body, 0.002000 secs
+17.989| Profiling: Kagege, 0.049000 secs
+17.989| loading scene from Characters\Putata
+17.994| face: loading from Characters\Putata\Faces\Putata_face_animation.xml
+18.027| textureMovie: loading Skills\Putata3_Movie\frame_%02d.dds[1]
+18.031|  tex mem used: 1.3mb
+18.031| particle: loading xml data\particles\fx_putata_skill_001_1.prx
+18.033| particle: loading xml data\particles\fx_putata_skill_001_2.prx
+18.035| particle: loading xml data\particles\fx_putata_skill_001_3.prx
+18.036| particle: loading xml data\particles\fx_putata_skill_002_1.prx
+18.037| particle: loading xml data\particles\fx_putata_skill_002_2.prx
+18.038| particle: loading xml data\particles\fx_putata_skill_002_3.prx
+18.039| particle: loading xml data\particles\fx_putata_skill_002_4.prx
+18.042| particle: loading xml data\particles\fx_putata_skill_002_5.prx
+18.044| particle: loading xml data\particles\fx_putata_skill_002_6.prx
+18.046| particle: loading xml data\particles\fx_putata_skill_003_1.prx
+18.047| particle: loading xml data\particles\fx_putata_skill_003_2.prx
+18.048| particle: loading xml data\particles\fx_putata_skill_003_3.prx
+18.049| particle: loading xml data\particles\fx_putata_skill_003_4.prx
+18.050| particle: loading xml data\particles\fx_putata_skill_003_5.prx
+18.051| particle: loading xml data\particles\fx_putata_skill_003_6.prx
+18.053| particle: loading xml data\particles\fx_putata_skill_003_7.prx
+18.054| particle: loading xml data\particles\fx_putata_skill_003_8.prx
+18.062|  loading scene from Wear\putata_head_000
+18.064| Profiling: Putata Basic Head, 0.002000 secs
+18.064|  loading scene from Wear\putata_body_000
+18.067| Profiling: Putata Basic Body, 0.003000 secs
+18.067| Profiling: Putata, 0.078000 secs
+18.067| loading scene from Characters\Robobo
+18.071| face: loading from Characters\Robobo\Faces\Robobo_face_animation.xml
+18.096| textureMovie: loading Skills\Robobo3_Movie\frame_%02d.dds[1]
+18.096|  tex mem used: 0.0mb
+18.097| particle: loading xml data\particles\fx_robobo_skill_001_1.prx
+18.098| particle: loading xml data\particles\fx_robobo_skill_001_2.prx
+18.100| particle: loading xml data\particles\fx_robobo_skill_001_3.prx
+18.101| particle: loading xml data\particles\fx_robobo_skill_002_1.prx
+18.102| particle: loading xml data\particles\fx_robobo_skill_002_2.prx
+18.104| particle: loading xml data\particles\fx_robobo_skill_002_3.prx
+18.106| particle: loading xml data\particles\fx_robobo_skill_002_4.prx
+18.107| particle: loading xml data\particles\fx_robobo_skill_002_5.prx
+18.109| particle: loading xml data\particles\fx_robobo_skill_002_5_2.prx
+18.110| particle: loading xml data\particles\fx_robobo_skill_003_1.prx
+18.112| particle: loading xml data\particles\fx_robobo_skill_003_2.prx
+18.113| particle: loading xml data\particles\fx_robobo_skill_003_3.prx
+18.114| particle: loading xml data\particles\fx_robobo_skill_003_4.prx
+18.118| particle: loading xml data\particles\fx_robobo_skill_003_5.prx
+18.119| particle: loading xml data\particles\fx_robobo_skill_003_6.prx
+18.121| particle: loading xml data\particles\fx_robobo_skill_003_6_2.prx
+18.122| particle: loading xml data\particles\fx_robobo_skill_003_7.prx
+18.124| particle: loading xml data\particles\fx_robobo_skill_003_7_2.prx
+18.125| particle: loading xml data\particles\fx_robobo_skill_003_8.prx
+18.126| particle: loading xml data\particles\fx_robobo_skill_003_9.prx
+18.127| particle: loading xml data\particles\fx_robobo_skill_003_9_2.prx
+18.128| particle: loading xml data\particles\fx_robobo_skill_003_10.prx
+18.129|  loading scene from Wear\robobo_head_000
+18.133| Profiling: Robobo Basic Head, 0.002000 secs
+18.133|  loading scene from Wear\robobo_body_000
+18.136| Profiling: Robobo Basic Body, 0.004000 secs
+18.136| Profiling: Robobo, 0.069000 secs
+18.136| loading scene from Characters\Zirara
+18.142| face: loading from Characters\Zirara\Faces\Zirara_face_animation.xml
+18.161| textureMovie: loading Skills\Zirara3_Movie\frame_%02d.dds[1]
+18.165|  tex mem used: 1.3mb
+18.166| particle: loading xml data\particles\fx_zirara_skill_001_1.prx
+18.168| particle: loading xml data\particles\fx_zirara_skill_001_2.prx
+18.169| particle: loading xml data\particles\fx_zirara_skill_002_1.prx
+18.170| particle: loading xml data\particles\fx_zirara_skill_002_2.prx
+18.171| particle: loading xml data\particles\fx_zirara_skill_002_3.prx
+18.173| particle: loading xml data\particles\fx_zirara_skill_002_4.prx
+18.175| particle: loading xml data\particles\fx_zirara_skill_003_1.prx
+18.176| particle: loading xml data\particles\fx_zirara_skill_003_2.prx
+18.178| particle: loading xml data\particles\fx_zirara_skill_003_3.prx
+18.179| particle: loading xml data\particles\fx_zirara_skill_003_4.prx
+18.180| particle: loading xml data\particles\fx_zirara_skill_003_5.prx
+18.182| particle: loading xml data\particles\fx_zirara_skill_003_6.prx
+18.183| particle: loading xml data\particles\fx_zirara_skill_003_7.prx
+18.184| particle: loading xml data\particles\fx_zirara_skill_003_7_1.prx
+18.186| particle: loading xml data\particles\fx_zirara_skill_003_7_2.prx
+18.187| particle: loading xml data\particles\fx_zirara_skill_003_7_3.prx
+18.188| particle: loading xml data\particles\fx_zirara_skill_003_7_4.prx
+18.190| particle: loading xml data\particles\fx_zirara_skill_003_7_5.prx
+18.191| particle: loading xml data\particles\fx_zirara_skill_003_7_6.prx
+18.192|  loading scene from Wear\zirara_head_000
+18.197| Profiling: Zirara Basic Head, 0.006000 secs
+18.197|  loading scene from Wear\zirara_body_000
+18.199| Profiling: Zirara Basic Body, 0.001000 secs
+18.199| Profiling: Zirara, 0.063000 secs
+18.199| loading scene from Characters\Kiruru
+18.203| face: loading from Characters\Kiruru\Faces\Kiruru_face_animation.xml
+18.247| textureMovie: loading Skills\Kiruru3_Movie\frame_%02d.dds[1]
+18.248|  tex mem used: 0.0mb
+18.249| particle: loading xml data\particles\fx_kiruru_skill_001_1.prx
+18.251| particle: loading xml data\particles\fx_kiruru_skill_001_2.prx
+18.252| particle: loading xml data\particles\fx_kiruru_skill_001_3.prx
+18.253| particle: loading xml data\particles\fx_kiruru_skill_002_1.prx
+18.255| particle: loading xml data\particles\fx_kiruru_skill_002_2.prx
+18.257| particle: loading xml data\particles\fx_kiruru_skill_002_3.prx
+18.258| particle: loading xml data\particles\fx_kiruru_skill_003_1.prx
+18.259| particle: loading xml data\particles\fx_kiruru_skill_003_2.prx
+18.260| particle: loading xml data\particles\fx_kiruru_skill_003_3.prx
+18.262| particle: loading xml data\particles\fx_kiruru_skill_003_4.prx
+18.263| particle: loading xml data\particles\fx_kiruru_skill_003_5_1.prx
+18.263| particle: loading xml data\particles\fx_kiruru_skill_003_5_2.prx
+18.264| particle: loading xml data\particles\fx_kiruru_skill_003_5_3.prx
+18.265| particle: loading xml data\particles\fx_kiruru_skill_003_6.prx
+18.266| particle: loading xml data\particles\fx_kiruru_skill_003_7.prx
+18.267|  loading scene from Wear\kiruru_head_000
+18.269| Profiling: Kiruru Basic Head, 0.002000 secs
+18.269|  loading scene from Wear\kiruru_body_000
+18.271| Profiling: Kiruru Basic Body, 0.002000 secs
+18.271| Profiling: Kiruru, 0.071000 secs
+18.271| loading scene from Characters\DarkKiruru
+18.280| face: loading from Characters\DarkKiruru\Faces\DarkKiruru_face_animation.xml
+18.298| textureMovie: loading Skills\DarkKiruru3_Movie\frame_%02d.dds[1]
+18.299|  tex mem used: 0.0mb
+18.299| particle: loading xml data\particles\fx_darkkiruru_skill_001_1.prx
+18.302| particle: loading xml data\particles\fx_darkkiruru_skill_001_2.prx
+18.303| particle: loading xml data\particles\fx_darkkiruru_skill_001_3.prx
+18.304| particle: loading xml data\particles\fx_darkkiruru_skill_001_4.prx
+18.305| particle: loading xml data\particles\fx_darkkiruru_skill_002_1.prx
+18.307| particle: loading xml data\particles\fx_darkkiruru_skill_002_2.prx
+18.308| particle: loading xml data\particles\fx_darkkiruru_skill_002_3.prx
+18.309| particle: loading xml data\particles\fx_darkkiruru_skill_002_4.prx
+18.311| particle: loading xml data\particles\fx_darkkiruru_skill_003_1.prx
+18.312| particle: loading xml data\particles\fx_darkkiruru_skill_003_2.prx
+18.313| particle: loading xml data\particles\fx_darkkiruru_skill_003_3.prx
+18.314| particle: loading xml data\particles\fx_darkkiruru_skill_003_4.prx
+18.315| particle: loading xml data\particles\fx_darkkiruru_skill_003_5.prx
+18.316| particle: loading xml data\particles\fx_darkkiruru_skill_003_6.prx
+18.317| particle: loading xml data\particles\fx_darkkiruru_skill_003_7.prx
+18.318| particle: loading xml data\particles\fx_darkkiruru_skill_003_8.prx
+18.320| particle: loading xml data\particles\fx_darkkiruru_skill_003_9.prx
+18.321| particle: loading xml data\particles\fx_darkkiruru_skill_003_10.prx
+18.323| particle: loading xml data\particles\fx_darkkiruru_skill_003_11.prx
+18.324| particle: loading xml data\particles\fx_darkkiruru_skill_003_star_1.prx
+18.325| particle: loading xml data\particles\fx_darkkiruru_skill_003_star_2.prx
+18.325| particle: loading xml data\particles\fx_darkkiruru_skill_003_star_3.prx
+18.326| particle: loading xml data\particles\fx_darkkiruru_skill_003_star_4.prx
+18.327| particle: loading xml data\particles\fx_darkkiruru_skill_003_star_5.prx
+18.328| particle: loading xml data\particles\fx_darkkiruru_skill_003_star_6.prx
+18.328|  loading scene from Wear\darkkiruru_head_000
+18.329| Profiling: Darkkiruru Basic Head, 0.000000 secs
+18.329|  loading scene from Wear\darkkiruru_body_000
+18.332| Profiling: darkkiruru Basic Body, 0.002000 secs
+18.332| Profiling: DarkKiruru, 0.062000 secs
+18.332| loading scene from Characters\Mekeke
+18.340| face: loading from Characters\Mekeke\Faces\Mekeke_face_animation.xml
+18.365| textureMovie: loading Skills\Mekeke3_Movie\frame_%02d.dds[1]
+18.366|  tex mem used: 0.0mb
+18.366| particle: loading xml data\particles\fx_mekeke_skill_001_1.prx
+18.369| particle: loading xml data\particles\fx_mekeke_skill_001_2.prx
+18.371| particle: loading xml data\particles\fx_mekeke_skill_002_1.prx
+18.372| particle: loading xml data\particles\fx_mekeke_skill_002_2.prx
+18.374| particle: loading xml data\particles\fx_mekeke_skill_002_3.prx
+18.375| particle: loading xml data\particles\fx_mekeke_skill_002_4.prx
+18.376| particle: loading xml data\particles\fx_mekeke_skill_002_5.prx
+18.377| particle: loading xml data\particles\fx_mekeke_skill_002_6.prx
+18.378| particle: loading xml data\particles\fx_mekeke_skill_002_7.prx
+18.378| particle: loading xml data\particles\fx_mekeke_skill_003_1.prx
+18.380| particle: loading xml data\particles\fx_mekeke_skill_003_2.prx
+18.381| particle: loading xml data\particles\fx_mekeke_skill_003_3.prx
+18.382| particle: loading xml data\particles\fx_mekeke_skill_003_4.prx
+18.383| particle: loading xml data\particles\fx_mekeke_skill_003_5.prx
+18.384| particle: loading xml data\particles\fx_mekeke_skill_003_6.prx
+18.385| particle: loading xml data\particles\fx_mekeke_skill_003_7.prx
+18.386| particle: loading xml data\particles\fx_mekeke_skill_003_8.prx
+18.387| particle: loading xml data\particles\fx_mekeke_skill_003_9.prx
+18.389|  loading scene from Wear\mekeke_head_000
+18.394| Profiling: Mekeke Basic Head, 0.005000 secs
+18.394|  loading scene from Wear\mekeke_body_000
+18.396| Profiling: Mekeke Basic Body, 0.002000 secs
+18.396| Profiling: Mekeke, 0.064000 secs
+18.396| loading scene from Characters\Sumomo
+18.397| face: loading from Characters\Sumomo\Faces\Sumomo_face_animation.xml
+18.417| textureMovie: loading Skills\Sumomo3_Movie\frame_%02d.dds[1]
+18.418|  tex mem used: 0.0mb
+18.418| particle: loading xml data\particles\fx_sumomo_skill_001_1.prx
+18.419| particle: loading xml data\particles\fx_sumomo_skill_001_2.prx
+18.421| particle: loading xml data\particles\fx_sumomo_skill_001_3.prx
+18.422| particle: loading xml data\particles\fx_sumomo_skill_002_1.prx
+18.425| particle: loading xml data\particles\fx_sumomo_skill_002_2.prx
+18.426| particle: loading xml data\particles\fx_sumomo_skill_003_1.prx
+18.427| particle: loading xml data\particles\fx_sumomo_skill_003_2.prx
+18.428| particle: loading xml data\particles\fx_sumomo_skill_003_3.prx
+18.429| particle: loading xml data\particles\fx_sumomo_skill_003_4.prx
+18.430| particle: loading xml data\particles\fx_sumomo_skill_003_5.prx
+18.431| particle: loading xml data\particles\fx_sumomo_skill_003_6.prx
+18.433| particle: loading xml data\particles\fx_sumomo_skill_003_7.prx
+18.435| particle: loading xml data\particles\fx_sumomo_skill_003_8.prx
+18.437| particle: loading xml data\particles\fx_sumomo_skill_003_9.prx
+18.439| particle: loading xml data\particles\fx_sumomo_skill_003_10.prx
+18.440| particle: loading xml data\particles\fx_sumomo_skill_003_11.prx
+18.442| particle: loading xml data\particles\fx_sumomo_skill_003_12.prx
+18.445|  loading scene from Wear\sumomo_head_000
+18.446| Profiling: Sumomo Basic Head, 0.001000 secs
+18.446|  loading scene from Wear\sumomo_body_000
+18.447| Profiling: Sumomo Basic Body, 0.002000 secs
+18.447| Profiling: Sumomo, 0.051000 secs
+18.447| loading scene from Characters\Nunwawa
+18.456| face: loading from Characters\Nunwawa\Faces\Nunwawa_face_animation.xml
+18.493| textureMovie: loading Skills\Nunwawa3_Movie\frame_%02d.dds[1]
+18.493|  tex mem used: 0.0mb
+18.494| particle: loading xml data\particles\fx_nunwawa_skill_001_1.prx
+18.496| particle: loading xml data\particles\fx_nunwawa_skill_001_2.prx
+18.498| particle: loading xml data\particles\fx_nunwawa_skill_001_3.prx
+18.501| particle: loading xml data\particles\fx_nunwawa_skill_002_1.prx
+18.504| particle: loading xml data\particles\fx_nunwawa_skill_002_2.prx
+18.505| particle: loading xml data\particles\fx_nunwawa_skill_002_3.prx
+18.507| particle: loading xml data\particles\fx_nunwawa_skill_003_1.prx
+18.508| particle: loading xml data\particles\fx_nunwawa_skill_003_2.prx
+18.509| particle: loading xml data\particles\fx_nunwawa_skill_003_3.prx
+18.511| particle: loading xml data\particles\fx_nunwawa_skill_003_4.prx
+18.512| particle: loading xml data\particles\fx_nunwawa_skill_003_5.prx
+18.513| particle: loading xml data\particles\fx_nunwawa_skill_003_6.prx
+18.515|  loading scene from Wear\nunwawa_head_000
+18.519| Profiling: Nunwawa Basic Head, 0.003000 secs
+18.519|  loading scene from Wear\nunwawa_body_000
+18.522| Profiling: Nunwawa Basic Body, 0.004000 secs
+18.522| Profiling: Nunwawa, 0.075000 secs
+18.522| loading scene from Characters\Kikaka
+18.523| face: loading from Characters\Kikaka\Faces\Kikaka_face_animation.xml
+18.547| textureMovie: loading Skills\Kikaka3_Movie\frame_%02d.dds[1]
+18.547|  tex mem used: 0.0mb
+18.548| particle: loading xml data\particles\fx_kikaka_skill_001_1.prx
+18.550| particle: loading xml data\particles\fx_kikaka_skill_001_2.prx
+18.551| particle: loading xml data\particles\fx_kikaka_skill_002_1.prx
+18.552| particle: loading xml data\particles\fx_kikaka_skill_002_2.prx
+18.553| particle: loading xml data\particles\fx_kikaka_skill_002_3.prx
+18.554| particle: loading xml data\particles\fx_kikaka_skill_003_1.prx
+18.556| particle: loading xml data\particles\fx_kikaka_skill_003_2.prx
+18.558| particle: loading xml data\particles\fx_kikaka_skill_003_3.prx
+18.559| particle: loading xml data\particles\fx_kikaka_skill_003_4.prx
+18.561| particle: loading xml data\particles\fx_kikaka_skill_003_5.prx
+18.563| particle: loading xml data\particles\fx_kikaka_skill_003_6.prx
+18.566| particle: loading xml data\particles\fx_kikaka_skill_003_7.prx
+18.568| particle: loading xml data\particles\fx_kikaka_skill_003_8.prx
+18.569| particle: loading xml data\particles\fx_kikaka_skill_003_9.prx
+18.572| particle: loading xml data\particles\fx_kikaka_skill_003_10.prx
+18.573|  loading scene from Wear\Kikaka_head_000
+18.574| Profiling: Kikaka Basic Head, 0.001000 secs
+18.574|  loading scene from Wear\Kikaka_body_000
+18.576| Profiling: Kikaka Basic Body, 0.001000 secs
+18.576| Profiling: Kikaka, 0.054000 secs
+18.576| loading scene from Characters\Kyororo
+18.578| face: loading from Characters\Kyororo\Faces\Kyororo_face_animation.xml
+18.602| textureMovie: loading Skills\Kyororo3_Movie\frame_%02d.dds[1]
+18.603|  tex mem used: 0.0mb
+18.603| particle: loading xml data\particles\fx_kyororo_skill_001_1.prx
+18.605| particle: loading xml data\particles\fx_kyororo_skill_001_2.prx
+18.606| particle: loading xml data\particles\fx_kyororo_skill_002_1.prx
+18.608| particle: loading xml data\particles\fx_kyororo_skill_002_2.prx
+18.609| particle: loading xml data\particles\fx_kyororo_skill_002_3.prx
+18.612| particle: loading xml data\particles\fx_kyororo_skill_002_4.prx
+18.613| particle: loading xml data\particles\fx_kyororo_skill_002_5.prx
+18.614| particle: loading xml data\particles\fx_kyororo_skill_003_1.prx
+18.617| particle: loading xml data\particles\fx_kyororo_skill_003_2.prx
+18.620| particle: loading xml data\particles\fx_kyororo_skill_003_3.prx
+18.621| particle: loading xml data\particles\fx_kyororo_skill_003_4.prx
+18.623| particle: loading xml data\particles\fx_kyororo_skill_003_5.prx
+18.625| particle: loading xml data\particles\fx_kyororo_skill_003_5_2.prx
+18.626| particle: loading xml data\particles\fx_kyororo_skill_003_6.prx
+18.628|  loading scene from Wear\Kyororo_head_000
+18.629| Profiling: Kyororo Basic Head, 0.001000 secs
+18.629|  loading scene from Wear\Kyororo_body_000
+18.631| Profiling: Kyororo Basic Body, 0.002000 secs
+18.631| Profiling: Kyororo, 0.055000 secs
+18.631| loading scene from Characters\Urere
+18.633| face: loading from Characters\Urere\Faces\Urere_face_animation.xml
+18.657| textureMovie: loading Skills\Urere3_Movie\frame_%02d.dds[1]
+18.657|  tex mem used: 0.0mb
+18.658| particle: loading xml data\particles\fx_urere_skill_001_1.prx
+18.659| particle: loading xml data\particles\fx_urere_skill_001_2.prx
+18.660| particle: loading xml data\particles\fx_urere_skill_002_1.prx
+18.662| particle: loading xml data\particles\fx_urere_skill_002_2.prx
+18.663| particle: loading xml data\particles\fx_urere_skill_003_1.prx
+18.665| particle: loading xml data\particles\fx_urere_skill_003_2.prx
+18.666| particle: loading xml data\particles\fx_urere_skill_003_5.prx
+18.667| particle: loading xml data\particles\fx_urere_skill_003_6.prx
+18.668| particle: loading xml data\particles\fx_urere_skill_003_7.prx
+18.669| particle: loading xml data\particles\fx_train_001.prx
+18.670| particle: loading xml data\particles\fx_train_002.prx
+18.671| particle: loading xml data\particles\fx_train_003.prx
+18.672| particle: loading xml data\particles\fx_train_004.prx
+18.673| particle: loading xml data\particles\fx_train_005.prx
+18.674|  loading scene from Wear\Urere_head_000
+18.675| Profiling: Urere Basic Head, 0.002000 secs
+18.675|  loading scene from Wear\Urere_body_000
+18.677| Profiling: Urere Basic Body, 0.001000 secs
+18.677| Profiling: Urere, 0.045000 secs
+18.677| loading scene from Characters\Ckururu
+18.679| face: loading from Characters\Ckururu\Faces\Ckururu_face_animation.xml
+18.696| textureMovie: loading Skills\Ckururu3_Movie\frame_%02d.dds[1]
+18.696|  tex mem used: 0.0mb
+18.697| particle: loading xml data\particles\fx_ckururu_skill_001_1.prx
+18.698| particle: loading xml data\particles\fx_ckururu_skill_001_2.prx
+18.699| particle: loading xml data\particles\fx_ckururu_skill_002_1.prx
+18.700| particle: loading xml data\particles\fx_ckururu_skill_002_2.prx
+18.701| particle: loading xml data\particles\fx_ckururu_skill_002_3.prx
+18.703| particle: loading xml data\particles\fx_ckururu_skill_002_4.prx
+18.704| particle: loading xml data\particles\fx_ckururu_skill_003_1.prx
+18.705| particle: loading xml data\particles\fx_ckururu_skill_003_tail1.prx
+18.706| particle: loading xml data\particles\fx_ckururu_skill_003_tail2.prx
+18.707| particle: loading xml data\particles\fx_ckururu_skill_003_hit1.prx
+18.709| particle: loading xml data\particles\fx_ckururu_skill_003_hit2.prx
+18.711| particle: loading xml data\particles\fx_ckururu_skill_003_alarm.prx
+18.712|  loading scene from Wear\ckururu_head_000
+18.718| Profiling: Ckururu Basic Head, 0.007000 secs
+18.718|  loading scene from Wear\ckururu_body_000
+18.720| Profiling: Ckururu Basic Body, 0.002000 secs
+18.720| Profiling: Ckururu, 0.044000 secs
+18.720| loading scene from Characters\Nobibi
+18.725| face: loading from Characters\Nobibi\Faces\Nobibi_face_animation.xml
+18.748| textureMovie: loading Skills\Nobibi3_Movie\frame_%02d.dds[1]
+18.755|  tex mem used: 0.0mb
+18.757| particle: loading xml data\particles\fx_Nobibi_skill_001_1.prx
+18.758| !!!warning: can't open data\particles\fx_Nobibi_skill_001_2.prx
+18.758| particle: loading xml data\particles\default.prx
+18.759| particle: loading xml data\particles\fx_Nobibi_skill_002_1.prx
+18.760| particle: loading xml data\particles\fx_Nobibi_skill_002_2.prx
+18.761| !!!warning: can't open data\particles\fx_Nobibi_skill_002_3.prx
+18.762| !!!warning: can't open data\particles\fx_Nobibi_skill_002_4.prx
+18.762| !!!warning: can't open data\particles\fx_Nobibi_skill_002_5.prx
+18.762| particle: loading xml data\particles\fx_Nobibi_skill_003_1.prx
+18.764| particle: loading xml data\particles\fx_Nobibi_skill_003_2.prx
+18.765| !!!warning: can't open data\particles\fx_Nobibi_skill_003_3.prx
+18.765| !!!warning: can't open data\particles\fx_Nobibi_skill_003_4.prx
+18.765| !!!warning: can't open data\particles\fx_Nobibi_skill_003_5.prx
+18.765| !!!warning: can't open data\particles\fx_Nobibi_skill_003_5_2.prx
+18.766| !!!warning: can't open data\particles\fx_Nobibi_skill_003_6.prx
+18.766|  loading scene from Wear\nobibi_head_000
+18.767| Profiling: Nobibi Basic Head, 0.001000 secs
+18.767|  loading scene from Wear\nobibi_body_000
+18.768| Profiling: Nobibi Basic Body, 0.001000 secs
+18.768| Profiling: Nobibi, 0.047000 secs
+18.768| loading scene from Characters\Viperkid
+18.772| face: loading from Characters\Viperkid\Faces\Viperkid_face_animation.xml
+18.790| textureMovie: loading Skills\Viperkid3_Movie\frame_%02d.dds[1]
+18.791|  tex mem used: 0.0mb
+18.791| particle: loading xml data\particles\fx_viperkid_skill_001_1.prx
+18.793| particle: loading xml data\particles\fx_viperkid_skill_001_2.prx
+18.794| particle: loading xml data\particles\fx_viperkid_skill_002_start.prx
+18.795| particle: loading xml data\particles\fx_viperkid_skill_002_tail.prx
+18.796| particle: loading xml data\particles\fx_viperkid_skill_002_shot.prx
+18.796| particle: loading xml data\particles\fx_viperkid_skill_002_icon.prx
+18.797| particle: loading xml data\particles\fx_viperkid_skill_003_landing.prx
+18.800| particle: loading xml data\particles\fx_viperkid_skill_003_cut_1.prx
+18.801| particle: loading xml data\particles\fx_viperkid_skill_003_cut_2.prx
+18.802| particle: loading xml data\particles\fx_viperkid_skill_003_cut_3.prx
+18.802| particle: loading xml data\particles\fx_viperkid_skill_003_fire.prx
+18.804|  loading scene from Wear\viperkid_head_000
+18.805| Profiling: viperkid Basic Head, 0.001000 secs
+18.805|  loading scene from Wear\viperkid_body_000
+18.807| Profiling: viperkid Basic Body, 0.001000 secs
+18.807| Profiling: Viperkid, 0.040000 secs
+18.807| loading scene from Characters\Mcviperkid
+18.811| face: loading from Characters\Mcviperkid\Faces\Mcviperkid_face_animation.xml
+18.854| textureMovie: loading Skills\Mcviperkid3_Movie\frame_%02d.dds[1]
+18.854|  tex mem used: 0.0mb
+18.855| particle: loading xml data\particles\fx_mcviperkid_skill_001_1.prx
+18.857| particle: loading xml data\particles\fx_mcviperkid_skill_001_2.prx
+18.859| particle: loading xml data\particles\fx_mcviperkid_skill_002_1.prx
+18.861| particle: loading xml data\particles\fx_mcviperkid_skill_002_2.prx
+18.862| particle: loading xml data\particles\fx_mcviperkid_skill_002_3.prx
+18.863| particle: loading xml data\particles\fx_mcviperkid_skill_002_4.prx
+18.865| particle: loading xml data\particles\fx_mcviperkid_skill_003_1.prx
+18.866| particle: loading xml data\particles\fx_mcviperkid_skill_003_2.prx
+18.868| particle: loading xml data\particles\fx_mcviperkid_skill_003_3.prx
+18.870| particle: loading xml data\particles\fx_mcviperkid_skill_003_4.prx
+18.871| particle: loading xml data\particles\fx_mcviperkid_skill_003_5.prx
+18.874| particle: loading xml data\particles\fx_mcviperkid_skill_003_6.prx
+18.876| particle: loading xml data\particles\fx_mcviperkid_skill_003_7.prx
+18.879| particle: loading xml data\particles\fx_mcviperkid_skill_003_8.prx
+18.881| particle: loading xml data\particles\fx_mcviperkid_skill_003_9.prx
+18.883| particle: loading xml data\particles\fx_mcviperkid_skill_003_beam_1.prx
+18.884| particle: loading xml data\particles\fx_mcviperkid_skill_003_beam_2.prx
+18.885| particle: loading xml data\particles\fx_mcviperkid_skill_003_beam_3.prx
+18.886| particle: loading xml data\particles\fx_mcviperkid_skill_003_beam_4.prx
+18.886| particle: loading xml data\particles\fx_mcviperkid_skill_003_beam_5.prx
+18.887|  loading scene from Wear\mcviperkid_head_000
+18.888| Profiling: Mcviperkid Basic Head, 0.001000 secs
+18.888|  loading scene from Wear\mcviperkid_body_000
+18.893| Profiling: Mcviperkid Basic Body, 0.004000 secs
+18.893| Profiling: Mcviperkid, 0.086000 secs
+18.893| sound<< Loading sounds from Sounds\sounds.preload
+18.903| NSAL: Buffer created. total = 1(68340).
+18.904| particle: loading xml data\particles\fx_skill_target.prx
+18.906| particle: loading xml data\particles\fx_skill_target_garuru.prx
+18.908| loading scene from UI/stage/object\character_creating_in
+18.925| loading scene from UI/stage/object\channel_selecting_alpha_out
+18.928| loading scene from UI/stage/object\grenade_damage_002
+18.930| loading scene from UI/stage/object\pistol_event_005
+18.933| loading scene from UI/stage/object\rifle_event_001
+18.936| loading scene from UI/stage/object\rifle_event_002
+18.939| loading scene from UI/stage/object\rocket_event_001
+18.942| loading scene from UI/stage/object\sniper_damage_001
+18.945| loading scene from UI/stage/object\star_idle
+18.948| loading scene from UI/stage/object\in_gameroom_out
+18.949| loading scene from UI/stage/object\in_gameroom_seat
+18.952| loading scene from UI/stage/object\in_gameroom_seat
+18.952| loading scene from UI/stage/object\in_gameroom_seat
+18.953| loading scene from UI/stage/object\in_gameroom_seat
+18.953| loading scene from UI/stage/object\in_gameroom_seat
+18.954| loading scene from UI/stage/object\in_gameroom_seat
+18.955| loading scene from UI/stage/object\in_gameroom_seat
+18.955| loading scene from UI/stage/object\in_gameroom_seat
+18.955| loading scene from UI/stage/object\in_gameroom_seat
+18.956| loading scene from UI/stage/object\in_gameroom_seat
+18.957| loading scene from UI/stage/object\in_gameroom_mode_broad
+18.960| loading scene from UI/stage/object\in_gameroom_deco
+18.961| loading scene from UI/stage/object\in_gameroom_spaceship
+18.989| loading scene from UI/stage/object\in_gameroom_team
+18.994| loading scene from UI/stage/object\in_gameroom_sphere
+19.018| loading scene from UI/stage/object\game_result
+19.020| loading scene from UI/stage/object\result_win_stage
+19.023| loading scene from UI/stage/object\result_win_stage_alpha
+19.023| loading scene from UI/stage/object\result_win_ani_in
+19.024| loading scene from UI/stage/object\result_win_action
+19.025| loading scene from UI/stage/object\game_result_lose_stage
+19.035| loading scene from UI/stage/object\game_result_lose_action
+19.042| loading scene from weapons\scouter_000
+19.046| particle: loading xml data\particles\fx_hit_critical.prx
+19.047| particle: loading xml data\particles\fx_hit_normal.prx
+19.050| Shader 'PS_PLR_DEATH' loaded as ps_2_0
+19.050| Character Slot Information
+----------------------------------------------------
+19.050| --Costume--
+19.050| --Weapon--
+19.050|  loading scene from Weapons\grenade_3drobby_001
+19.051| Profiling: RobbyGrenade, 0.000000 secs
+19.051| --Item--
+19.051| --Premiums--
+19.051| --pet--
+19.051|  loading scene from Characters\pet_husky_001
+19.059|  loading scene from Characters\pet_husky_001
+19.060| Profiling: pet_husky_001, 0.010000 secs
+19.060| : SwitchToCharacter(0)
+19.064| Profiling: OperationOrder, 0.000000 secs
+19.064| Profiling: SummontheMoa, 0.000000 secs
+19.064| Profiling: KinKinKeronpa, 0.001000 secs
+19.064| [*] obj_TestPlayer::UpdateAnimationIds() of [#0]
+19.065|  - Weapon Type: 8
+19.068| Character Slot Information
+----------------------------------------------------
+19.068| --Costume--
+19.068| --Weapon--
+19.068| --Item--
+19.068| --Premiums--
+19.068| --pet--
+19.069| : SwitchToCharacter(0)
+19.069| Profiling: Warrior'sSpirit, 0.000000 secs
+19.069| Profiling: Warrior'sTemptation, 0.000000 secs
+19.069| Profiling: WildShot, 0.000000 secs
+19.069| [*] obj_TestPlayer::UpdateAnimationIds() of [#0]
+19.069|  - Weapon Type: 8
+19.072| Character Slot Information
+----------------------------------------------------
+19.072| --Costume--
+19.072| --Weapon--
+19.072| --Item--
+19.072| --Premiums--
+19.072| --pet--
+19.072| : SwitchToCharacter(0)
+19.072| Profiling: SupplyFood, 0.000000 secs
+19.072| Profiling: AirPollution, 0.000000 secs
+19.072| Profiling: TamamaImpact, 0.000000 secs
+19.072| [*] obj_TestPlayer::UpdateAnimationIds() of [#0]
+19.073|  - Weapon Type: 8
+19.076| Character Slot Information
+----------------------------------------------------
+19.076| --Costume--
+19.076| --Weapon--
+19.076| --Item--
+19.076| --Premiums--
+19.076| --pet--
+19.076| : SwitchToCharacter(0)
+19.076| Profiling: InformationGathering, 0.000000 secs
+19.076| Profiling: Hacking, 0.000000 secs
+19.076| Profiling: SummontheSatellite, 0.000000 secs
+19.076| [*] obj_TestPlayer::UpdateAnimationIds() of [#0]
+19.077|  - Weapon Type: 8
+19.080| Character Slot Information
+----------------------------------------------------
+19.080| --Costume--
+19.080| --Weapon--
+19.080| --Item--
+19.080| --Premiums--
+19.080| --pet--
+19.080| : SwitchToCharacter(0)
+19.080| Profiling: Invisible, 0.000000 secs
+19.080| Profiling: Sealing, 0.000000 secs
+19.080| Profiling: MeteorCrossKnife, 0.000000 secs
+19.080| [*] obj_TestPlayer::UpdateAnimationIds() of [#0]
+19.081|  - Weapon Type: 8
+19.097| !!!warning!!! Texture 'UI/stage/texture/map_1.dds' width (500x244) is not power of 2
+19.102| particle: loading xml data\particles\fx_spaceship_start.prx
+19.104| particle: loading xml data\particles\fx_lose_tire_left.prx
+19.104| particle: loading xml data\particles\fx_lose_tire_right.prx
+19.105| particle: loading xml data\particles\fx_lose_trunk.prx
+19.105| particle: loading xml data\particles\fx_ui_burner_02.prx
+19.106| particle: loading xml data\particles\fx_ui_burner_03.prx
+19.107| particle: loading xml data\particles\fx_ui_stars.prx
+19.108| particle: loading xml data\particles\fx_ui_keroro_shot.prx
+19.109| particle: loading xml data\particles\fx_ui_tamama_kick.prx
+19.110| particle: loading xml data\particles\fx_ui_tamama_shot01.prx
+19.111| particle: loading xml data\particles\fx_ui_giroro_shot.prx
+19.112| particle: loading xml data\particles\fx_ui_kururu_bomb.prx
+19.113| particle: loading xml data\particles\fx_ui_dororo_move01.prx
+19.114| particle: loading xml data\particles\fx_ui_dororo_move02.prx
+19.115| particle: loading xml data\particles\fx_ui_dororo_shot.prx
+19.116| particle: loading xml data\particles\fx_lobby_keroro_rifle_003.prx
+19.117| particle: loading xml data\particles\fx_ui_result_earthglow.prx
+19.117| particle: loading xml data\particles\fx_ui_result_paper.prx
+19.718| Profiling: dialog, 0.597000 secs
+19.721| Profiling: messenger, 0.002000 secs
+20.671| Profiling: corporation, 0.949000 secs
+20.678| Profiling: logo, 0.006000 secs
+20.684| Profiling: urgent_notice, 0.005000 secs
+20.685| Profiling: cursor, 0.001000 secs
+20.685| UI State transited(->logo)
+21.019| r3dFile: can't open 'Shockwaves\Shockwaves\IME.swf'
+21.020| r3dFile: can't open 'Shockwaves\Shockwaves\IME.swf'
+21.878| NSAL: Buffer created. total = 2(98076).
+21.878| NSAL: Source created. total = 1.
+24.114| UI State transited(logo->)
+24.175| Profiling: login, 0.059000 secs
+24.181| NSAL: Buffer created. total = 3.
+24.181| NSAL: Buffer created. total = 4.
+24.181| NSAL: Buffer created. total = 5.
+24.181| NSAL: Buffer created. total = 6.
+24.183| NSAL: Source created. total = 2.
+24.184| UI State transited(logo->login_from_goorm)
+24.236| r3dFile: can't open 'Shockwaves\Shockwaves\IME.swf'
+29.146| ErrorHandler: 오류 - 서버에 접속하지 못하였습니다.
+잠시 후 다시 시도해 주시기 바랍니다.
+29.155| NSAL: 1 Source recycled(0,1)
+34.134| UI State transited(login_from_goorm->)
+34.178| NSAL: Buffer destroyed. total = 5.
+34.179| NSAL: Buffer destroyed. total = 4.
+34.179| NSAL: Buffer destroyed. total = 3.
+34.179| NSAL: Buffer destroyed. total = 2.
+34.179| NSAL: Source destroyed. total = 1.
+34.179| NSAL: Source destroyed. total = 0.
+34.179| NSAL: Buffer destroyed. total = 1.
+34.179| NSAL: Buffer destroyed. total = 0.
+34.184| 
+34.186| WARNING: pd3ddev have 225 reference counts
+34.186| WARNING: d3d have 1 reference counts
